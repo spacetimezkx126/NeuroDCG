@@ -1,0 +1,48 @@
+{
+    "2020-01-08": [
+        [
+            {
+                "time": "",
+                "original_text": "A股平均股价9.68元39股股价不足2元",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "平均股价",
+                        "低价股"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-01-08",
+                "original_text": "1月8日早盘主力巨资出逃四大板块(附股)",
+                "features": {
+                    "keywords": [
+                        "主力资金",
+                        "出逃",
+                        "四大板块"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "未明确提及"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

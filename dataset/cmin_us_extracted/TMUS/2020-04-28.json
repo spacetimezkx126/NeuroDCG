@@ -1,0 +1,72 @@
+{
+    "2020-04-28": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Best Buy will let you back in some of its stores, by appointment only",
+                "features": {
+                    "keywords": [
+                        "Best Buy",
+                        "stores",
+                        "appointment"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Comtech Boosts Text Messaging Solutions Amid Coronavirus Woes",
+                "features": {
+                    "keywords": [
+                        "Comtech",
+                        "Text Messaging",
+                        "Coronavirus"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "communications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Big banks to sell last of debt from T-Mobile’s Sprint takeover",
+                "features": {
+                    "keywords": [
+                        "Big banks",
+                        "T-Mobile",
+                        "Sprint",
+                        "debt"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

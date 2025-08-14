@@ -1,0 +1,70 @@
+{
+    "2018-09-18": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "NYSE trader: If the Saudi's want $80/bbl crude oil, they'll probably get it",
+                "features": {
+                    "keywords": [
+                        "Saudi",
+                        "crude oil",
+                        "oil price"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-07-10",
+                "original_text": "Canadian Stocks Are Up Despite Trade War Escalation - Canadian Commentary",
+                "features": {
+                    "keywords": [
+                        "Canadian Stocks",
+                        "Trade War",
+                        "Escalation"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-05-22",
+                "original_text": "[$$] Is Tesla or Exxon More Sustainable? It Depends Whom You Ask",
+                "features": {
+                    "keywords": [
+                        "Tesla",
+                        "Exxon",
+                        "Sustainable"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automotive",
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2020-09-13": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Better Buy: Boeing vs. Airbus",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "Airbus",
+                        "Better Buy"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "aerospace",
+                        "defense"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Boeing execs defend safety decisions on 737 MAX development",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "execs",
+                        "safety",
+                        "737 MAX"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace",
+                        "defense"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

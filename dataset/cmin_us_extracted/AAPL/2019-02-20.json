@@ -1,0 +1,147 @@
+{
+    "2019-02-20": [
+        [
+            {
+                "time": "2019-02-20",
+                "original_text": "[['[$$]', 'Samsung', 'Offers', 'Foldable-Screen', 'Smartphone'], ['Apple’s', 'Biggest', 'Manufacturer', 'Becomes', 'Its', 'Top', 'Rival', 'in', 'Japan']]",
+                "features": {
+                    "keywords": [
+                        "Samsung",
+                        "Foldable-Screen",
+                        "Smartphone",
+                        "Apple",
+                        "Manufacturer",
+                        "Rival",
+                        "Japan"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "consumer electronics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-02-20",
+                "original_text": "[['Samsung', 'is', 'making', 'the', 'same', 'mistakes', 'as', 'Apple', 'did', 'with', 'its', 'new', 'phones']]",
+                "features": {
+                    "keywords": [
+                        "Samsung",
+                        "Apple",
+                        "mistakes",
+                        "phones"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "consumer electronics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-02-20",
+                "original_text": "[['3', 'Winners', 'from', 'Samsung’s', 'Galaxy', 'S10', 'Launch', 'Event']]",
+                "features": {
+                    "keywords": [
+                        "Samsung",
+                        "Galaxy",
+                        "S10",
+                        "Launch",
+                        "Winners"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "consumer electronics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-02-20",
+                "original_text": "[['Dow', 'Jones', 'Takes', 'Lead', 'As', '2', 'Of', 'Its', 'Stocks', 'Rally;', 'Can', 'Apple', 'Regain', 'Its', 'Mojo?']]",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Apple",
+                        "Rally",
+                        "Mojo"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-02-20",
+                "original_text": "[['Economist', 'Warns', 'of', 'a', 'Possible', 'Recession', 'by', '2020']]",
+                "features": {
+                    "keywords": [
+                        "Economist",
+                        "Recession",
+                        "2020"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-02-20",
+                "original_text": "[['Netflix', 'is', 'the', 'only', '&apos;FAANG&apos;', 'stock', 'above', 'its', '200-DMA,', 'others', 'are', 'still', 'in', 'technical', 'limbo']]",
+                "features": {
+                    "keywords": [
+                        "Netflix",
+                        "FAANG",
+                        "200-DMA",
+                        "technical limbo"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

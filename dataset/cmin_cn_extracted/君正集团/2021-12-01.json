@@ -1,0 +1,75 @@
+{
+    "2021-12-01": [
+        [
+            {
+                "time": "",
+                "original_text": "君正集团：公司化工产品主要以国内销售为主，仅有极少量产品出口",
+                "features": {
+                    "keywords": [
+                        "君正集团",
+                        "化工产品",
+                        "国内销售",
+                        "出口"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "君正集团：截至目前，公司及全资子公司君正化工向安达天平合计转让持有的华泰保险7.05%股份事项正在有序推进中",
+                "features": {
+                    "keywords": [
+                        "君正集团",
+                        "君正化工",
+                        "华泰保险",
+                        "股权转让",
+                        "安达天平"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "保险",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "快讯：煤炭概念持续拉升 君正集团等多股大涨",
+                "features": {
+                    "keywords": [
+                        "煤炭概念",
+                        "拉升",
+                        "君正集团",
+                        "多股大涨"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "煤炭",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

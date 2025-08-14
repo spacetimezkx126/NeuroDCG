@@ -1,0 +1,53 @@
+{
+    "2019-04-16": [
+        [
+            {
+                "time": "",
+                "original_text": "西 南 证 券 ： 中 小 创 同 比 皆 下 滑  创 业 板 初 现 业 绩 底",
+                "features": {
+                    "keywords": [
+                        "中小创",
+                        "下滑",
+                        "创业板",
+                        "业绩底"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "创业板",
+                        "中小创"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "1 4 8 4 家 公 司 披 露 一 季 报 业 绩 预 告   逾 5 成 预 喜 股 扎 堆 银 行 等 四 行 业",
+                "features": {
+                    "keywords": [
+                        "一季报",
+                        "业绩预告",
+                        "预喜",
+                        "银行",
+                        "四行业"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "银行",
+                        "其他行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

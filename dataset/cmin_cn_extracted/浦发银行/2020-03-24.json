@@ -1,0 +1,71 @@
+{
+    "2020-03-24": [
+        [
+            {
+                "time": "",
+                "original_text": "M,S,C,I,A,股,E,T,F,暂,停,申,购,赎,回，3,月,来,已,累,计,赎,回,6,0,0,万,份",
+                "features": {
+                    "keywords": [
+                        "MSCI A股ETF",
+                        "暂停申购赎回",
+                        "累计赎回600万份"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "房,企,1.,4,6,亿,债,务,到,期，今,年,以,来,已,有,近,百,家,房,企,破,产 , 减,资,破,产",
+                "features": {
+                    "keywords": [
+                        "房企债务到期",
+                        "1.46亿债务",
+                        "破产减资"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "利,率,期,权,业,务,正,式,推,出，多,家,机,构,首,日,完,成,交,易",
+                "features": {
+                    "keywords": [
+                        "利率期权业务",
+                        "正式推出",
+                        "多家机构完成交易"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "衍生品市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

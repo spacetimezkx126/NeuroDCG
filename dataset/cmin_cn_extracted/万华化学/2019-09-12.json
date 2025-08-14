@@ -1,0 +1,50 @@
+{
+    "2019-09-12": [
+        [
+            {
+                "time": "2019-09-12",
+                "original_text": "万华化学出现异动 大幅拉升2.07% 股价创近2个月新高",
+                "features": {
+                    "keywords": [
+                        "万华化学",
+                        "异动",
+                        "大幅拉升",
+                        "股价新高"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-09-12",
+                "original_text": "【晨观方正】交运/化工20190912",
+                "features": {
+                    "keywords": [
+                        "晨观方正",
+                        "交运",
+                        "化工"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "交通运输",
+                        "化工"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

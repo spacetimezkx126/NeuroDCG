@@ -1,0 +1,57 @@
+{
+    "2021-12-01": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Bennet pushing plan that could raise taxes on some of the largest companies in Colorado",
+                "features": {
+                    "keywords": [
+                        "Bennet",
+                        "plan",
+                        "raise taxes",
+                        "largest companies",
+                        "Colorado"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general business"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "The Zacks Analyst Blog Highlights: Mastercard, Pfizer, Nike, Lockheed Martin and Micron Tech",
+                "features": {
+                    "keywords": [
+                        "Zacks Analyst Blog",
+                        "Mastercard",
+                        "Pfizer",
+                        "Nike",
+                        "Lockheed Martin",
+                        "Micron Tech"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "healthcare",
+                        "consumer goods",
+                        "defense",
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

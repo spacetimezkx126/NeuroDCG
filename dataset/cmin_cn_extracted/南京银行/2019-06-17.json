@@ -1,0 +1,54 @@
+{
+    "2019-06-17": [
+        [
+            {
+                "time": "",
+                "original_text": "炒股亏损、人造肉、跨界投资白酒……豆奶大王题材一箩筐！",
+                "features": {
+                    "keywords": [
+                        "炒股亏损",
+                        "人造肉",
+                        "跨界投资",
+                        "白酒",
+                        "豆奶大王"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料",
+                        "生物科技",
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "多渠道火力全开，银行补充资本融资在加速推进！",
+                "features": {
+                    "keywords": [
+                        "多渠道",
+                        "银行",
+                        "补充资本",
+                        "融资",
+                        "加速推进"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

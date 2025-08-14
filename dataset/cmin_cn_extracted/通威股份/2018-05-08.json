@@ -1,0 +1,54 @@
+{
+    "2018-05-08": [
+        [
+            {
+                "time": "",
+                "original_text": "多家公司发增持公告：复星医药孚日股份银江股份等获力捧",
+                "features": {
+                    "keywords": [
+                        "增持",
+                        "复星医药",
+                        "孚日股份",
+                        "银江股份"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "纺织",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "[看好评级]电力设备行业周报：国家能源局发布一季度风电并网运行情况",
+                "features": {
+                    "keywords": [
+                        "电力设备",
+                        "国家能源局",
+                        "风电",
+                        "并网运行",
+                        "一季度"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "电力设备"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

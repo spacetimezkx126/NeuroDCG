@@ -1,0 +1,70 @@
+{
+    "2019-08-29": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "The Most-Bought Chinese Stocks of Investment Gurus",
+                "features": {
+                    "keywords": [
+                        "Chinese Stocks",
+                        "Investment Gurus",
+                        "Most-Bought"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "international"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "When to Buy Global Markets?",
+                "features": {
+                    "keywords": [
+                        "Global Markets",
+                        "Buy"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "global"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Draghi Says Goodbye. Should You Care?",
+                "features": {
+                    "keywords": [
+                        "Draghi",
+                        "Goodbye",
+                        "Care"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economics",
+                        "policy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "2019-10-05": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Dow Jones Ends Second Consecutive Week in Red",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "Jones",
+                        "Ends",
+                        "Consecutive",
+                        "Week",
+                        "Red"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-10-05",
+                "original_text": "Sales at Taiwan's Apple supplier Hon Hai flat in September",
+                "features": {
+                    "keywords": [
+                        "Sales",
+                        "Taiwan",
+                        "Apple",
+                        "supplier",
+                        "Hon",
+                        "Hai",
+                        "flat",
+                        "September"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "manufacturing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-11-20",
+                "original_text": "Apple rolls out free repair for iPhone 6S devices that do not turn on",
+                "features": {
+                    "keywords": [
+                        "Apple",
+                        "rolls",
+                        "out",
+                        "free",
+                        "repair",
+                        "iPhone",
+                        "6S",
+                        "devices",
+                        "turn",
+                        "on"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "consumer electronics"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

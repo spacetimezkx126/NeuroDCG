@@ -1,0 +1,50 @@
+{
+    "2018-07-11": [
+        [
+            {
+                "time": "",
+                "original_text": "天津上市公司员工均薪竟然赢了北上广深",
+                "features": {
+                    "keywords": [
+                        "天津",
+                        "上市公司",
+                        "员工均薪"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "化工行业日报：化学原料和制品制造业出厂价格同比上涨8.3%",
+                "features": {
+                    "keywords": [
+                        "化工行业",
+                        "化学原料",
+                        "制品制造业",
+                        "出厂价格",
+                        "同比上涨"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

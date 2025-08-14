@@ -1,0 +1,54 @@
+{
+    "2019-08-09": [
+        [
+            {
+                "time": "2019-07-01",
+                "original_text": "7月猪肉价格上涨27%，养猪股投资进入下半场，业绩是推动股价上涨的关键",
+                "features": {
+                    "keywords": [
+                        "猪肉价格",
+                        "上涨",
+                        "养猪股",
+                        "投资",
+                        "业绩",
+                        "股价"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "食品加工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-07-01",
+                "original_text": "报告 | 2019年7月河南省A股上市公司市值TOP50",
+                "features": {
+                    "keywords": [
+                        "报告",
+                        "2019年7月",
+                        "河南省",
+                        "A股",
+                        "上市公司",
+                        "市值",
+                        "TOP50"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

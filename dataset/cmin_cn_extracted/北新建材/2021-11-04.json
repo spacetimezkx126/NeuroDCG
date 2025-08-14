@@ -1,0 +1,55 @@
+{
+    "2021-11-04": [
+        [
+            {
+                "time": "",
+                "original_text": "北新建材：公司石膏板产品主要原材料为工业副产石膏和护面纸，其在成本中占比随原材料价格波动而有所不同",
+                "features": {
+                    "keywords": [
+                        "北新建材",
+                        "石膏板",
+                        "原材料",
+                        "工业副产石膏",
+                        "护面纸",
+                        "成本",
+                        "价格波动"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "建筑材料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中信证券：基础设施和现代服务，优质供给的扩张机遇",
+                "features": {
+                    "keywords": [
+                        "中信证券",
+                        "基础设施",
+                        "现代服务",
+                        "优质供给",
+                        "扩张机遇"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基础设施",
+                        "现代服务"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

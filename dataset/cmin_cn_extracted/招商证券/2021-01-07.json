@@ -1,0 +1,97 @@
+{
+    "2021-01-07": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "券商跳槽大观：研究所离职人数最多的是这家",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "跳槽",
+                        "研究所",
+                        "离职"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-12-31",
+                "original_text": "2020年共145家企业登陆科创板 119家选择标准一",
+                "features": {
+                    "keywords": [
+                        "科创板",
+                        "上市",
+                        "企业",
+                        "标准一"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "创新"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-12-31",
+                "original_text": "2020年59家券商分232亿保荐承销费 中信建投中信领先",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "保荐承销费",
+                        "中信建投",
+                        "中信"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2008-01-01",
+                "original_text": "2008年的大宗商品超级牛市回来了！",
+                "features": {
+                    "keywords": [
+                        "大宗商品",
+                        "牛市",
+                        "超级"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "商品",
+                        "资源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

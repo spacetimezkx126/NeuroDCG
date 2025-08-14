@@ -1,0 +1,52 @@
+{
+    "2019-07-08": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Monday's ETF Movers: ILF, FBT",
+                "features": {
+                    "keywords": [
+                        "ETF",
+                        "Movers",
+                        "ILF",
+                        "FBT"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "ETFs"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "China's Price Probe Drags Iron Ore Down From 5-Year High",
+                "features": {
+                    "keywords": [
+                        "China",
+                        "Price Probe",
+                        "Iron Ore",
+                        "5-Year High"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "commodities",
+                        "mining"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

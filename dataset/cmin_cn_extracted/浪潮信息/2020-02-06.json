@@ -1,0 +1,51 @@
+{
+    "2020-02-06": [
+        [
+            {
+                "time": "",
+                "original_text": "A股龙虎榜揭秘：机构净买入个股7只，净卖出个股7只",
+                "features": {
+                    "keywords": [
+                        "龙虎榜",
+                        "机构",
+                        "净买入",
+                        "净卖出"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "浪潮信息放量涨停，机构频繁参与",
+                "features": {
+                    "keywords": [
+                        "浪潮信息",
+                        "放量",
+                        "涨停",
+                        "机构"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "信息技术"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

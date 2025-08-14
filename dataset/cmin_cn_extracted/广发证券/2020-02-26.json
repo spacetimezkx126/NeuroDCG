@@ -1,0 +1,90 @@
+{
+    "2020-02-26": [
+        [
+            {
+                "time": "",
+                "original_text": "国内债市盘前：银保监会称房地产金融政策未变",
+                "features": {
+                    "keywords": [
+                        "债市",
+                        "银保监会",
+                        "房地产金融政策"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "两日净流出逾130亿元，北向资金在逢高抛售？",
+                "features": {
+                    "keywords": [
+                        "净流出",
+                        "北向资金",
+                        "逢高抛售"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "第37家上市券商今日登陆A股，21家券商‘打中’中银证券5.99万股",
+                "features": {
+                    "keywords": [
+                        "上市券商",
+                        "中银证券",
+                        "新股"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "券商纷纷放开新三板权限线上入口，迎增量业务",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "新三板",
+                        "增量业务"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "证券",
+                        "新三板"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

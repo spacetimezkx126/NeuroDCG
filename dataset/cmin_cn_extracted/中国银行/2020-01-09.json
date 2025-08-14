@@ -1,0 +1,50 @@
+{
+    "2020-01-09": [
+        [
+            {
+                "time": "",
+                "original_text": "大家保险集团成立，安邦集团风险处置有条不紊",
+                "features": {
+                    "keywords": [
+                        "大家保险集团",
+                        "安邦集团",
+                        "风险处置"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "保险",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国银行股票行情：今日收平",
+                "features": {
+                    "keywords": [
+                        "中国银行",
+                        "股票行情",
+                        "收平"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "银行",
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

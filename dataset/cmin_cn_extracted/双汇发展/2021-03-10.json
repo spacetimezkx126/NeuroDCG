@@ -1,0 +1,51 @@
+{
+    "2021-03-10": [
+        [
+            {
+                "time": "",
+                "original_text": "猪、肉板块、鸡产业板块走软，双汇发展、新希望、温氏股份齐跌",
+                "features": {
+                    "keywords": [
+                        "猪肉板块",
+                        "鸡产业板块",
+                        "双汇发展",
+                        "新希望",
+                        "温氏股份"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "食品加工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "八大券商主题策略：谁在卖？什么价格值得买？白酒板块最新思考",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "主题策略",
+                        "白酒板块"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

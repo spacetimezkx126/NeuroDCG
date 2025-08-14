@@ -1,0 +1,79 @@
+{
+    "2020-06-08": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Friday Health Plans Enters into Multi-Year Reinsurance Agreement with AXA",
+                "features": {
+                    "keywords": [
+                        "Health",
+                        "Reinsurance",
+                        "AXA"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "insurance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Is GE Stock A Buy As Airlines, Aerospace Industry Rally?",
+                "features": {
+                    "keywords": [
+                        "GE",
+                        "Stock",
+                        "Airlines",
+                        "Aerospace",
+                        "Rally"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "aerospace",
+                        "transportation"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "3M Sues Seller on Amazon Who Charged Grossly Inflated Prices for Fake, Defective and Damaged N95 Respirators Falsely Advertised Under 3M Brand",
+                "features": {
+                    "keywords": [
+                        "3M",
+                        "Amazon",
+                        "Inflated",
+                        "Prices",
+                        "Fake",
+                        "Defective",
+                        "N95",
+                        "Respirators"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

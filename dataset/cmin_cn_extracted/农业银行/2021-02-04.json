@@ -1,0 +1,114 @@
+{
+    "2021-02-04": [
+        [
+            {
+                "time": "2021-unknown",
+                "original_text": "2021年银行存款利息上调，手里有30万这样存，到手利息相当一份工资",
+                "features": {
+                    "keywords": [
+                        "银行",
+                        "存款利息",
+                        "上调",
+                        "30万"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "unknown",
+                "original_text": "总量团队联席解读：节前还需要关注什么？",
+                "features": {
+                    "keywords": [
+                        "总量团队",
+                        "联席解读",
+                        "节前",
+                        "关注"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "unknown",
+                "original_text": "农行海南分行和海南贸促会签署战略合作协议",
+                "features": {
+                    "keywords": [
+                        "农行",
+                        "海南分行",
+                        "贸促会",
+                        "战略合作协议"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "贸易"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-02-03",
+                "original_text": "A股融资融券日报：两融余额减少13.1亿元（2月3日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "减少"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "股市"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "unknown",
+                "original_text": "银行理财周报：理财收益率环比上升",
+                "features": {
+                    "keywords": [
+                        "银行理财",
+                        "收益率",
+                        "环比上升"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

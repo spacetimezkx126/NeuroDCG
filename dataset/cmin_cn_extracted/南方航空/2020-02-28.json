@@ -1,0 +1,52 @@
+{
+    "2020-02-28": [
+        [
+            {
+                "time": "",
+                "original_text": "一 二 三 航 空 预 计 9 月 通 航 ， 国 产 民 机 商 业 化 是 否 受 疫 情 影 响 ？",
+                "features": {
+                    "keywords": [
+                        "三航空",
+                        "9月通航",
+                        "国产民机",
+                        "商业化",
+                        "疫情"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "廉 价 机 票 潮 杀 到 ， 2 0 0 块 能 飞 半 个 中 国",
+                "features": {
+                    "keywords": [
+                        "廉价机票",
+                        "200块",
+                        "飞半个中国"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "旅游"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

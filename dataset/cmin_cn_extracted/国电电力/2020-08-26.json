@@ -1,0 +1,55 @@
+{
+    "2020-08-26": [
+        [
+            {
+                "time": "",
+                "original_text": "中信证券：火电公司上半年业绩整体高增 推荐华电国际等",
+                "features": {
+                    "keywords": [
+                        "中信证券",
+                        "火电公司",
+                        "上半年",
+                        "业绩高增",
+                        "华电国际"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电力",
+                        "火电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "电力｜用电需求小幅回落，历史级汛期水增火降：7月电力统计数据点评",
+                "features": {
+                    "keywords": [
+                        "用电需求",
+                        "回落",
+                        "汛期",
+                        "水增火降",
+                        "7月电力统计数据"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电力",
+                        "水电",
+                        "火电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

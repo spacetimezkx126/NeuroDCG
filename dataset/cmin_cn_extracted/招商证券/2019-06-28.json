@@ -1,0 +1,50 @@
+{
+    "2019-06-28": [
+        [
+            {
+                "time": "",
+                "original_text": "招 商 证 券 ( 0 6 0 9 9 . H K ) 将 于 8 月 2 7 日 派 末 期 息 每 1 0 股 2 . 6 4 元",
+                "features": {
+                    "keywords": [
+                        "招商证券",
+                        "派息",
+                        "末期息",
+                        "8月27日"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "东 海 证 券 因 管 控 不 到 位 吃 监 管 函  资 管 计 划 也 出 问 题",
+                "features": {
+                    "keywords": [
+                        "东海证券",
+                        "监管函",
+                        "资管计划",
+                        "问题"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2018-03-12": [
+        [
+            {
+                "time": "2018-03-01",
+                "original_text": "Top 4 Coal-Mining Stocks as of March 2018",
+                "features": {
+                    "keywords": [
+                        "Coal-Mining",
+                        "Stocks",
+                        "March 2018"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "mining"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-03-01",
+                "original_text": "Miners Fight to Protect Commodity Gains From Rising Costs",
+                "features": {
+                    "keywords": [
+                        "Miners",
+                        "Commodity Gains",
+                        "Rising Costs"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "mining"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "2020-05-11": [
+        [
+            {
+                "time": "",
+                "original_text": "伊利股份现1笔大宗交易 ，共成交1,143.30万元",
+                "features": {
+                    "keywords": [
+                        "伊利股份",
+                        "大宗交易",
+                        "成交金额"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "内外资再现分歧，北上持续加仓，主抓消费+科技",
+                "features": {
+                    "keywords": [
+                        "内外资分歧",
+                        "北上资金",
+                        "消费",
+                        "科技"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "消费",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【多地进一步下调疫情等级，餐饮复苏带动白酒动销恢复—方正食品饮料200510】 投资评级恶化",
+                "features": {
+                    "keywords": [
+                        "疫情等级",
+                        "餐饮复苏",
+                        "白酒动销",
+                        "投资评级恶化"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料",
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

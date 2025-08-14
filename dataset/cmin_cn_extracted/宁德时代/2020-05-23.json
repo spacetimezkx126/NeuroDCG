@@ -1,0 +1,77 @@
+{
+    "2020-05-23": [
+        [
+            {
+                "time": "2023-10-04",
+                "original_text": "长安汽车向股东发购车福利，拟处置所持宁德时代等A股",
+                "features": {
+                    "keywords": [
+                        "长安汽车",
+                        "股东福利",
+                        "购车",
+                        "宁德时代",
+                        "A股"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "汽车",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-04",
+                "original_text": "宁德时代进行针刺实验：结果钢针断了",
+                "features": {
+                    "keywords": [
+                        "宁德时代",
+                        "针刺实验",
+                        "钢针断了"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "电池技术"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-04",
+                "original_text": "全国政协委员、宁德时代董事长曾毓群：加快工程机械和重卡电动化",
+                "features": {
+                    "keywords": [
+                        "宁德时代",
+                        "曾毓群",
+                        "电动化",
+                        "工程机械",
+                        "重卡"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "工业机械",
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

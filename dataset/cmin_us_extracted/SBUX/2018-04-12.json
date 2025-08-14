@@ -1,0 +1,73 @@
+{
+    "2018-04-12": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "Fast-Food Roundup: Taco Bell tests new items… Chick-fil-A, Starbucks are teens' favorite",
+                "features": {
+                    "keywords": [
+                        "Taco Bell",
+                        "Chick-fil-A",
+                        "Starbucks",
+                        "favorite"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food and beverage",
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Trade tensions with China could hurt U.S. brands there, a...",
+                "features": {
+                    "keywords": [
+                        "trade tensions",
+                        "China",
+                        "U.S. brands"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "international trade",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "McDonald's Expands Further Into Nordic Countries",
+                "features": {
+                    "keywords": [
+                        "McDonald's",
+                        "expansion",
+                        "Nordic Countries"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food and beverage",
+                        "international expansion"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

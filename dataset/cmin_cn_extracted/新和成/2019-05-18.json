@@ -1,0 +1,53 @@
+{
+    "2019-05-18": [
+        [
+            {
+                "time": "",
+                "original_text": "维生素A一个暴涨四成，生产正常供应紧张，谁在“作妖”？",
+                "features": {
+                    "keywords": [
+                        "维生素A",
+                        "暴涨",
+                        "供应紧张"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工",
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "社保基金连续3个季度加仓19潜力股 扎堆两大行业",
+                "features": {
+                    "keywords": [
+                        "社保基金",
+                        "加仓",
+                        "潜力股",
+                        "扎堆",
+                        "行业"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "消费",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

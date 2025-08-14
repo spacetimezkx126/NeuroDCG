@@ -1,0 +1,48 @@
+{
+    "2018-05-14": [
+        [
+            {
+                "time": "",
+                "original_text": "[增, 持, 评, 级]非, 银, 金, 融, 业, 周, 报, 数, 据, 库：资, 管, 新, 规, 下, A, M, C, 行, 业, 有, 望, 迎, 来, 发, 展, 机, 遇",
+                "features": {
+                    "keywords": [
+                        "资管新规",
+                        "AMC行业",
+                        "发展机遇"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "非银金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "[中, 性, 评, 级]计, 算, 机, 行, 业, 周, 报：「, 银, 税, 互, 动, 」, 持, 续, 深, 化, 普, 惠, 金, 融, 逐, 步, 加, 码",
+                "features": {
+                    "keywords": [
+                        "银税互动",
+                        "普惠金融",
+                        "持续深化"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "计算机"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

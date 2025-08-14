@@ -1,0 +1,71 @@
+{
+    "2018-07-02": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Hong Kong Shares Poised To Open In The Red",
+                "features": {
+                    "keywords": [
+                        "Hong Kong Shares",
+                        "Poised",
+                        "Open",
+                        "Red"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Bargain Hunting Likely To Lift China Stock Market",
+                "features": {
+                    "keywords": [
+                        "Bargain Hunting",
+                        "Lift",
+                        "China Stock Market"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Hess (HES) to Divest Interest in Utica Shale Play for $400M",
+                "features": {
+                    "keywords": [
+                        "Hess",
+                        "Divest",
+                        "Utica Shale",
+                        "$400M"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

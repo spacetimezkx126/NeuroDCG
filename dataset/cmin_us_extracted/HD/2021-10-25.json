@@ -1,0 +1,74 @@
+{
+    "2021-10-25": [
+        [
+            {
+                "time": "2023-11-01",
+                "original_text": "Got $5,000? Buy These 2 Stocks and Hold Until Retirement",
+                "features": {
+                    "keywords": [
+                        "investment",
+                        "stocks",
+                        "hold",
+                        "retirement"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-11-01",
+                "original_text": "Amazon Touts Drivers, Warehouses as Salve to Supply-Chain Woes",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "drivers",
+                        "warehouses",
+                        "supply-chain"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "logistics",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-11-01",
+                "original_text": "Shoppers Find Discounts Are in Short Supply This Holiday Season",
+                "features": {
+                    "keywords": [
+                        "shoppers",
+                        "discounts",
+                        "short supply",
+                        "holiday season"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2018-10-09": [
+        [
+            {
+                "time": "2018-05-16",
+                "original_text": "Thai Stock Market May Extend Tuesday's Gains",
+                "features": {
+                    "keywords": [
+                        "Thai Stock Market",
+                        "Extend",
+                        "Tuesday's Gains"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-16",
+                "original_text": "Proxy adviser PIRC tells shareholders to oppose BHP Billiton's remuneration report",
+                "features": {
+                    "keywords": [
+                        "Proxy adviser",
+                        "PIRC",
+                        "shareholders",
+                        "oppose",
+                        "BHP Billiton",
+                        "remuneration report"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

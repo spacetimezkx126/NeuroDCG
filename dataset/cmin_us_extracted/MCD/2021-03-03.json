@@ -1,0 +1,56 @@
+{
+    "2021-03-03": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Alexandria Ocasio-Cortez points out that McDonald’s workers in Denmark make $22 an hour",
+                "features": {
+                    "keywords": [
+                        "Ocasio-Cortez",
+                        "McDonald's",
+                        "workers",
+                        "Denmark",
+                        "$22",
+                        "hour"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Beyond Meat, Peet's Coffee, Eat Just team up on plant-based sandwich",
+                "features": {
+                    "keywords": [
+                        "Beyond Meat",
+                        "Peet's Coffee",
+                        "Eat Just",
+                        "plant-based",
+                        "sandwich"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food",
+                        "health",
+                        "sustainability"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

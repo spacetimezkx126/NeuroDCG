@@ -1,0 +1,52 @@
+{
+    "2021-03-05": [
+        [
+            {
+                "time": "",
+                "original_text": "南京证券现1笔大宗交易 ，共成交303.80万元",
+                "features": {
+                    "keywords": [
+                        "南京证券",
+                        "大宗交易",
+                        "成交"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【牛人重仓】南京证券:放量上涨，量比大于3，今日资金流入1853.06万元，北向资金持股3483.82万股，融资余额126369.13万元；前3个交易日，北向资金增持91.1万股，融资额增加-670.21万元，主力资金净流入-1348.18万元",
+                "features": {
+                    "keywords": [
+                        "南京证券",
+                        "放量上涨",
+                        "量比",
+                        "资金流入",
+                        "北向资金",
+                        "融资余额",
+                        "主力资金"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

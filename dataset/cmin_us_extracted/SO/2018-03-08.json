@@ -1,0 +1,50 @@
+{
+    "2018-03-08": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Atlanta's first Smart Neighborhood™ features latest smart-home technologies",
+                "features": {
+                    "keywords": [
+                        "Smart Neighborhood",
+                        "smart-home",
+                        "technologies"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Documents reveal immense outreach on Atlantic Coast Pipeline",
+                "features": {
+                    "keywords": [
+                        "Atlantic Coast Pipeline",
+                        "outreach",
+                        "documents"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "infrastructure"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

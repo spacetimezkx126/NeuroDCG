@@ -1,0 +1,67 @@
+{
+    "2018-08-14": [
+        [
+            {
+                "time": "",
+                "original_text": "机会是跌出来的 大机会是大跌出来的",
+                "features": {
+                    "keywords": [
+                        "机会",
+                        "大跌"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "机构解析：周二热点板块及个股探秘",
+                "features": {
+                    "keywords": [
+                        "机构解析",
+                        "热点板块",
+                        "个股"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "汽车行业周报:油价再次上调,看好新能源汽车产业链",
+                "features": {
+                    "keywords": [
+                        "汽车行业",
+                        "油价",
+                        "上调",
+                        "新能源汽车",
+                        "产业链"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "汽车行业",
+                        "新能源汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

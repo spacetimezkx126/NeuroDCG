@@ -1,0 +1,53 @@
+{
+    "2021-06-24": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "American Water Employees Raise More Than $200,000 for Water For People in Fundraising Campaign",
+                "features": {
+                    "keywords": [
+                        "American Water",
+                        "Employees",
+                        "Raise",
+                        "$200,000",
+                        "Water For People",
+                        "Fundraising Campaign"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities",
+                        "water"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Aging Water Infrastructure Warrants Funds: 3 Stocks in Focus",
+                "features": {
+                    "keywords": [
+                        "Aging Water Infrastructure",
+                        "Warrants Funds",
+                        "Stocks in Focus"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities",
+                        "infrastructure"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

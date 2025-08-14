@@ -1,0 +1,74 @@
+{
+    "2019-02-11": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Monday Sector Laggards: Utilities, Services",
+                "features": {
+                    "keywords": [
+                        "laggards",
+                        "utilities",
+                        "services"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities",
+                        "services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "Well Fargo Downgrades Edison International On Liability Legislation Pessimism",
+                "features": {
+                    "keywords": [
+                        "downgrades",
+                        "edison international",
+                        "liability",
+                        "legislation",
+                        "pessimism"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "SoCalGas Unveils 'Natural Gas is Clean, Renewable and Affordable' Display at World Agricultural Expo in Tulare",
+                "features": {
+                    "keywords": [
+                        "socalgas",
+                        "natural gas",
+                        "clean",
+                        "renewable",
+                        "affordable"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

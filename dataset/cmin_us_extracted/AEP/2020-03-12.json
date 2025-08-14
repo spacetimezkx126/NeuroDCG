@@ -1,0 +1,52 @@
+{
+    "2020-03-12": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "American Electric Power Company (AEP): Are Hedge Funds Right About This Stock?",
+                "features": {
+                    "keywords": [
+                        "American Electric Power",
+                        "Hedge Funds",
+                        "Stock"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Infrastructure and Energy Alternatives, Inc. Secures 20 MW Solar Construction Project Award in Indiana",
+                "features": {
+                    "keywords": [
+                        "Infrastructure",
+                        "Energy Alternatives",
+                        "Solar",
+                        "Construction",
+                        "Project Award"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "renewable energy",
+                        "construction"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

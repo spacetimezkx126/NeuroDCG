@@ -1,0 +1,81 @@
+{
+    "2020-01-27": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Whirlpool beats Q4 profit estimates, CEO says consumers will buy appliances",
+                "features": {
+                    "keywords": [
+                        "Whirlpool",
+                        "Q4",
+                        "profit",
+                        "beats",
+                        "consumers",
+                        "appliances"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-03",
+                "original_text": "IBD Stock Of The Day Offers Broad Exposure To Booming Builders, Home Depot",
+                "features": {
+                    "keywords": [
+                        "IBD",
+                        "Stock",
+                        "Day",
+                        "Builders",
+                        "Home Depot",
+                        "Booming"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "construction",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "Should You Invest in the Fidelity MSCI Consumer Discretionary Index ETF (FDIS)?",
+                "features": {
+                    "keywords": [
+                        "Invest",
+                        "Fidelity",
+                        "MSCI",
+                        "Consumer",
+                        "Discretionary",
+                        "Index",
+                        "ETF",
+                        "FDIS"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer discretionary"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

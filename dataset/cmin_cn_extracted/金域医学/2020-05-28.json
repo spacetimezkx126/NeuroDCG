@@ -1,0 +1,57 @@
+{
+    "2020-05-28": [
+        [
+            {
+                "time": "",
+                "original_text": "外资买爆队伍扩容，交易所一天同时预警4股，爆买575亿",
+                "features": {
+                    "keywords": [
+                        "外资",
+                        "买爆",
+                        "队伍扩容",
+                        "交易所",
+                        "预警",
+                        "爆买",
+                        "575亿"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "行业龙头迪安诊断\"难安\" 旗下公司被爆行贿1770万 其他违规处罚",
+                "features": {
+                    "keywords": [
+                        "行业龙头",
+                        "迪安诊断",
+                        "旗下公司",
+                        "行贿",
+                        "1770万",
+                        "违规处罚"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医疗",
+                        "诊断"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

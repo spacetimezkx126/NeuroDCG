@@ -1,0 +1,50 @@
+{
+    "2018-01-28": [
+        [
+            {
+                "time": "",
+                "original_text": "金 融 ： 资 金 利 率 陡 峭 化  荐 4 股",
+                "features": {
+                    "keywords": [
+                        "资金利率",
+                        "陡峭化",
+                        "荐股"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "金 融 ： 七 部 委 联 合 发 文 加 快 市 场 化 债 转 股 落 实  荐 3 股",
+                "features": {
+                    "keywords": [
+                        "七部委",
+                        "联合发文",
+                        "市场化债转股",
+                        "落实",
+                        "荐股"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

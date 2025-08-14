@@ -1,0 +1,69 @@
+{
+    "2019-12-05": [
+        [
+            {
+                "time": "2021-12-05",
+                "original_text": "A股共发生86宗大宗交易成交19.51亿元（12月5日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "大宗交易",
+                        "成交额"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-11-30",
+                "original_text": "长江证券：1-11月实现净利润20.37亿元",
+                "features": {
+                    "keywords": [
+                        "长江证券",
+                        "净利润",
+                        "业绩"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-12-05",
+                "original_text": "长江证券今日大宗交易成交751.55万股，成交价6.25元折价0.95%",
+                "features": {
+                    "keywords": [
+                        "长江证券",
+                        "大宗交易",
+                        "折价"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

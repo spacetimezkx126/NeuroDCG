@@ -1,0 +1,50 @@
+{
+    "2020-07-23": [
+        [
+            {
+                "time": "",
+                "original_text": "涨，停，潮！疫苗连传好消息，下半年医改重点任务已敲定",
+                "features": {
+                    "keywords": [
+                        "涨停潮",
+                        "疫苗",
+                        "医改",
+                        "下半年"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药",
+                        "生物科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-07-23",
+                "original_text": "A股共发生130宗大宗交易成交49.23亿元（7月23日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "大宗交易",
+                        "成交量"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

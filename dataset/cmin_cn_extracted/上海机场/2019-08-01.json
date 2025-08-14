@@ -1,0 +1,75 @@
+{
+    "2019-08-01": [
+        [
+            {
+                "time": "2019-08-01",
+                "original_text": "上海证券市场大宗交易公开信息(2019-08-01)",
+                "features": {
+                    "keywords": [
+                        "上海证券市场",
+                        "大宗交易",
+                        "公开信息"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-07-01",
+                "original_text": "7月北向资金净流入120亿元：平安、茅台净流出超20亿元",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "净流入",
+                        "平安",
+                        "茅台",
+                        "净流出"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-08-01",
+                "original_text": "中国国旅:中报业绩符合预期,国内消费潜力及海外回流贡献免税增量",
+                "features": {
+                    "keywords": [
+                        "中国国旅",
+                        "中报业绩",
+                        "国内消费",
+                        "海外回流",
+                        "免税增量"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "消费",
+                        "旅游"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

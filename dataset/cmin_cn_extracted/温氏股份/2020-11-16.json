@@ -1,0 +1,55 @@
+{
+    "2020-11-16": [
+        [
+            {
+                "time": "",
+                "original_text": "农林牧渔行业：白鸡价格连续回升 10月猪料销售继续改善",
+                "features": {
+                    "keywords": [
+                        "白鸡价格",
+                        "回升",
+                        "猪料销售",
+                        "改善"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "畜牧业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "农林牧渔行业周报：圣农10月报超预期 全球玉米大豆库消比再降",
+                "features": {
+                    "keywords": [
+                        "圣农",
+                        "10月报",
+                        "超预期",
+                        "玉米",
+                        "大豆",
+                        "库消比",
+                        "下降"
+                    ],
+                    "sentiment_score": 0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "食品加工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

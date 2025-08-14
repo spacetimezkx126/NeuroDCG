@@ -1,0 +1,97 @@
+{
+    "2021-11-03": [
+        [
+            {
+                "time": "2021-11-03",
+                "original_text": "新城控股前10个月合同销售额1929.11亿元，同比增长1.08%。",
+                "features": {
+                    "keywords": [
+                        "新城控股",
+                        "合同销售额",
+                        "同比增长"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-11-03",
+                "original_text": "新城控股10月实现合同销售金额约221亿元，同比下降20.50%，盈利能力下降。",
+                "features": {
+                    "keywords": [
+                        "新城控股",
+                        "合同销售金额",
+                        "同比下降",
+                        "盈利能力下降"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-11-03",
+                "original_text": "新城控股取消召开“18新控05”2021年第一次债券持有人会议。",
+                "features": {
+                    "keywords": [
+                        "新城控股",
+                        "债券持有人会议",
+                        "取消召开"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-11-03",
+                "original_text": "A股收盘综述：‘光伏茅’放量迫近跌停恫吓热门赛道，煤炭、地产、防疫板块逆势上扬。",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "光伏茅",
+                        "煤炭",
+                        "地产",
+                        "防疫板块",
+                        "逆势上扬"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产",
+                        "能源",
+                        "医疗"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

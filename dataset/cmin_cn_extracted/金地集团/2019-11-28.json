@@ -1,0 +1,55 @@
+{
+    "2019-11-28": [
+        [
+            {
+                "time": "",
+                "original_text": "家A股上市房企三季报出街，巨头增收又增利，中小房企利润缩水 盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "房企",
+                        "三季报",
+                        "增收",
+                        "增利",
+                        "利润缩水",
+                        "盈利能力下降"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "周期与科技并起 杉杉股份融资盘小幅流入",
+                "features": {
+                    "keywords": [
+                        "周期",
+                        "科技",
+                        "杉杉股份",
+                        "融资盘",
+                        "小幅流入"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "周期性行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

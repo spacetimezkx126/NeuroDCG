@@ -1,0 +1,73 @@
+{
+    "2020-04-17": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Toyota North America Announces Executive Changes",
+                "features": {
+                    "keywords": [
+                        "Toyota",
+                        "North America",
+                        "Executive Changes"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Dayton community's largest employer furloughs more than 540 workers",
+                "features": {
+                    "keywords": [
+                        "Dayton",
+                        "largest employer",
+                        "furloughs",
+                        "540 workers"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "manufacturing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Toyota-backed Pony.ai to offer autonomous delivery service in California",
+                "features": {
+                    "keywords": [
+                        "Toyota-backed",
+                        "Pony.ai",
+                        "autonomous",
+                        "delivery service",
+                        "California"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

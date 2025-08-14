@@ -1,0 +1,49 @@
+{
+    "2021-06-09": [
+        [
+            {
+                "time": "",
+                "original_text": "今日新股东航物流(601156)上市 东航物流价值分析",
+                "features": {
+                    "keywords": [
+                        "东航物流",
+                        "新股上市",
+                        "价值分析"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "物流",
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2022-06-16",
+                "original_text": "驻法大使馆提醒：6月16日、23日国航CA934航班被取消",
+                "features": {
+                    "keywords": [
+                        "驻法大使馆",
+                        "航班取消",
+                        "国航CA934"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

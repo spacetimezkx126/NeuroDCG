@@ -1,0 +1,53 @@
+{
+    "2020-08-10": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Visa Beats Google’s Record Low Yield in Debut Green Bond Sale",
+                "features": {
+                    "keywords": [
+                        "Visa",
+                        "Beats",
+                        "Google",
+                        "Record Low Yield",
+                        "Green Bond Sale"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "environmental"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Short Sellers Pocketed Over $50 Billion in Profits in 7 Days",
+                "features": {
+                    "keywords": [
+                        "Short Sellers",
+                        "Pocketed",
+                        "$50 Billion",
+                        "Profits",
+                        "7 Days"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

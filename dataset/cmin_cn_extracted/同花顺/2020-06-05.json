@@ -1,0 +1,55 @@
+{
+    "2020-06-05": [
+        [
+            {
+                "time": "",
+                "original_text": "深交所和中证指数公司自6月15日调整深证基本面指数和深证产业链指数系列样本股",
+                "features": {
+                    "keywords": [
+                        "深交所",
+                        "中证指数公司",
+                        "6月15日",
+                        "深证基本面指数",
+                        "深证产业链指数",
+                        "样本股调整"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "指数编制"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "证券及其他：投资回落拖累业绩环比下滑；同比受益于低基数仍维持增长 盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "证券",
+                        "投资回落",
+                        "业绩环比下滑",
+                        "低基数",
+                        "盈利能力下降"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

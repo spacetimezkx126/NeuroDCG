@@ -1,0 +1,50 @@
+{
+    "2021-04-04": [
+        [
+            {
+                "time": "",
+                "original_text": "银 行 薪 酬 大 曝 光 ！ 3 家 银 行 人 均 年 薪 超 50 万 元 ， 这 家 人 均 降 薪 15 %",
+                "features": {
+                    "keywords": [
+                        "银行",
+                        "薪酬",
+                        "曝光",
+                        "人均年薪",
+                        "降薪"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【 浙 商 | 银 行 梁 凤 洁 / 邱 冠 华 】 政 策 稳 定 ， 精 准 滴 灌",
+                "features": {
+                    "keywords": [
+                        "浙商银行",
+                        "政策稳定",
+                        "精准滴灌"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

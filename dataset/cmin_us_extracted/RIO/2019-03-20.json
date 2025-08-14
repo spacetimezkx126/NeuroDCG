@@ -1,0 +1,54 @@
+{
+    "2019-03-20": [
+        [
+            {
+                "time": "2019-03-21",
+                "original_text": "AngloGold Ashanti Limited (AU) Ex-Dividend Date Scheduled for March 21, 2019",
+                "features": {
+                    "keywords": [
+                        "AngloGold",
+                        "Ashanti",
+                        "Ex-Dividend",
+                        "Scheduled"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining",
+                        "gold"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-03-21",
+                "original_text": "Cyclone Lurks Off West Australia as Storm Hits Major Mine",
+                "features": {
+                    "keywords": [
+                        "Cyclone",
+                        "West",
+                        "Australia",
+                        "Storm",
+                        "Major",
+                        "Mine"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "mining",
+                        "resources"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

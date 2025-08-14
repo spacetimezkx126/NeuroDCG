@@ -1,0 +1,51 @@
+{
+    "2021-01-17": [
+        [
+            {
+                "time": "",
+                "original_text": "券商吵翻了，7000亿新基建仓能否继续抱团？",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "7000亿",
+                        "新基建",
+                        "抱团"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "基建"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "几分钟充满电，车子能跑1000公里？中科院院士：骗子",
+                "features": {
+                    "keywords": [
+                        "充电技术",
+                        "1000公里",
+                        "中科院院士",
+                        "骗子"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

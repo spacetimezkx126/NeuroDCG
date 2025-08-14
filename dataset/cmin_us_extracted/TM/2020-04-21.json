@@ -1,0 +1,53 @@
+{
+    "2020-04-21": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "SA, mayor, county judge unveil economic transition team",
+                "features": {
+                    "keywords": [
+                        "economic",
+                        "transition",
+                        "team"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "government"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Combating the coronavirus: Automakers, fashion companies, others make ventilators and medical supplies",
+                "features": {
+                    "keywords": [
+                        "coronavirus",
+                        "automakers",
+                        "fashion",
+                        "ventilators",
+                        "medical",
+                        "supplies"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "manufacturing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

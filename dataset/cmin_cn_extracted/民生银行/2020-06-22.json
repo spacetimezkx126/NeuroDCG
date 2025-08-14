@@ -1,0 +1,52 @@
+{
+    "2020-06-22": [
+        [
+            {
+                "time": "",
+                "original_text": "主承销商：「16中油金鸿MTN001」违约后续 未按时兑付本息",
+                "features": {
+                    "keywords": [
+                        "16中油金鸿MTN001",
+                        "违约",
+                        "未按时兑付",
+                        "本息"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "债券",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-06-19",
+                "original_text": "A股融资融券日报：两融余额增加0.17亿元（6月19日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "股票市场",
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

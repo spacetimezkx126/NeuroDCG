@@ -1,0 +1,51 @@
+{
+    "2021-09-17": [
+        [
+            {
+                "time": "",
+                "original_text": "可转债正股百科系列二：生猪养殖转债 下个路口见",
+                "features": {
+                    "keywords": [
+                        "可转债",
+                        "正股",
+                        "生猪养殖"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "养殖业"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "温氏股份：公司7月份自产猪苗养殖完全成本下降至10元/斤左右",
+                "features": {
+                    "keywords": [
+                        "温氏股份",
+                        "猪苗",
+                        "养殖成本",
+                        "下降"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "养殖业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

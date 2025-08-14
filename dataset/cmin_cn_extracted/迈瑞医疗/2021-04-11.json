@@ -1,0 +1,53 @@
+{
+    "2021-04-11": [
+        [
+            {
+                "time": "",
+                "original_text": "西,南,证,券,维,持,迈,瑞,医,疗,买,入,评,级,：,“,迈,”,向,全,球,，,“,瑞,”,不,可,当",
+                "features": {
+                    "keywords": [
+                        "西南证券",
+                        "迈瑞医疗",
+                        "买入评级",
+                        "全球市场",
+                        "不可阻挡"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医疗",
+                        "生物科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "不,走,套,路,！,科,创,主,题,基,金,竟,买,成,“,债,基,”,，,股,票,仓,位,仅,1,0,%",
+                "features": {
+                    "keywords": [
+                        "科创板",
+                        "主题基金",
+                        "债券基金",
+                        "股票仓位低"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "创新"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

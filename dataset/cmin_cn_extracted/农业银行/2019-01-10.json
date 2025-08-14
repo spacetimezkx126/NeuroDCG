@@ -1,0 +1,74 @@
+{
+    "2019-01-10": [
+        [
+            {
+                "time": "",
+                "original_text": "银保监会同意农业银行开办存托凭证试点存托业务",
+                "features": {
+                    "keywords": [
+                        "银保监会",
+                        "农业银行",
+                        "存托凭证",
+                        "试点",
+                        "存托业务"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "收益不高门槛高 看跌型理财销售遇冷？",
+                "features": {
+                    "keywords": [
+                        "收益",
+                        "门槛",
+                        "看跌型理财",
+                        "销售遇冷"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "理财"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-01",
+                "original_text": "2019年1月银行业投资策略:景气度下行预期充分,维持超配评级",
+                "features": {
+                    "keywords": [
+                        "银行业",
+                        "投资策略",
+                        "景气度下行",
+                        "超配评级"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "银行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

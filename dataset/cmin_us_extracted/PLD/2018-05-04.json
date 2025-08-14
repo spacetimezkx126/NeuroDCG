@@ -1,0 +1,53 @@
+{
+    "2018-05-04": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Stiles buys site in Miami-Dade business park to build retail center",
+                "features": {
+                    "keywords": [
+                        "Stiles",
+                        "Miami-Dade",
+                        "business park",
+                        "retail center"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "real estate",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "Top Stock Reports for BP, Gilead, Enterprise Products & Colgate",
+                "features": {
+                    "keywords": [
+                        "BP",
+                        "Gilead",
+                        "Enterprise Products",
+                        "Colgate"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "pharmaceuticals",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

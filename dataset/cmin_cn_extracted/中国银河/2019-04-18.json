@@ -1,0 +1,51 @@
+{
+    "2019-04-18": [
+        [
+            {
+                "time": "",
+                "original_text": "中国银河年内第三起告两融客户违约，索赔6456.76万元",
+                "features": {
+                    "keywords": [
+                        "中国银河",
+                        "两融客户",
+                        "违约",
+                        "索赔"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "年报披露73只券商重仓股 海通证券押中工业富联",
+                "features": {
+                    "keywords": [
+                        "年报",
+                        "券商重仓股",
+                        "海通证券",
+                        "工业富联"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

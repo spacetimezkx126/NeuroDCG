@@ -1,0 +1,50 @@
+{
+    "2021-11-26": [
+        [
+            {
+                "time": "",
+                "original_text": "航空股走弱，春秋航空、中国国航、吉祥航空、南方航空跌幅明显",
+                "features": {
+                    "keywords": [
+                        "航空股",
+                        "春秋航空",
+                        "中国国航",
+                        "吉祥航空",
+                        "南方航空",
+                        "跌幅"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-11-25",
+                "original_text": "A股融资融券日报：两融余额增加16.32亿元（11月25日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

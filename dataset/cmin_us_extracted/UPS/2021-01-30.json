@@ -1,0 +1,54 @@
+{
+    "2021-01-30": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Forget GameStop: Buy These Red-Hot Dividend Stocks Instead",
+                "features": {
+                    "keywords": [
+                        "GameStop",
+                        "Buy",
+                        "Red-Hot",
+                        "Dividend Stocks"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Is UPS Stock A Buy Amid Coronavirus E-Commerce Boom?",
+                "features": {
+                    "keywords": [
+                        "UPS",
+                        "Stock",
+                        "Buy",
+                        "Coronavirus",
+                        "E-Commerce",
+                        "Boom"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "logistics",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

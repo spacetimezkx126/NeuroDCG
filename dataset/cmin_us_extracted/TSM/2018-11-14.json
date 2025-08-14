@@ -1,0 +1,53 @@
+{
+    "2018-11-14": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "Taiwan Shares Figures To Remain Rangebound",
+                "features": {
+                    "keywords": [
+                        "Taiwan",
+                        "Shares",
+                        "Figures",
+                        "Rangebound"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "SOXX, XLNX, ADI, TSM: ETF Outflow Alert",
+                "features": {
+                    "keywords": [
+                        "SOXX",
+                        "XLNX",
+                        "ADI",
+                        "TSM",
+                        "ETF",
+                        "Outflow"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "semiconductors",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

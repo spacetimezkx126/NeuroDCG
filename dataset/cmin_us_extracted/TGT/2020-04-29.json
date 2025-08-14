@@ -1,0 +1,50 @@
+{
+    "2020-04-29": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "As health concerns grow, Amazon and Target workers plan a strike",
+                "features": {
+                    "keywords": [
+                        "health concerns",
+                        "Amazon",
+                        "Target",
+                        "strike"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Should You Panic About Target’s Next Earnings Report?",
+                "features": {
+                    "keywords": [
+                        "panic",
+                        "Target",
+                        "earnings report"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "2018-03-18": [
+        [
+            {
+                "time": "",
+                "original_text": "顺 丰 的 下 一 步 往 哪 里 走  都 在 这 说 明 了",
+                "features": {
+                    "keywords": [
+                        "顺丰",
+                        "下一步",
+                        "说明"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-03-18",
+                "original_text": "【 天 风 交 运 姜 明 团 队 】 周 报 （ 3 . 12 - 3 . 18 ） ： 1 - 2 月 快 递 量 增 长 31 . 2 % ， 继 续 强 调 航 空 、 铁 路 板 块 机 会",
+                "features": {
+                    "keywords": [
+                        "天风交运",
+                        "快递量",
+                        "增长",
+                        "航空",
+                        "铁路"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "物流",
+                        "航空",
+                        "铁路"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "[ 审 慎 增 持 评 级 ] 顺 丰 控 股 ( 002352 ) 年 报 点 评 ： 业 绩 高 增 长   龙 头 地 位 巩 固",
+                "features": {
+                    "keywords": [
+                        "审慎增持",
+                        "顺丰控股",
+                        "年报",
+                        "业绩高增长",
+                        "龙头地位"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "物流"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

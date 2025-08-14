@@ -1,0 +1,52 @@
+{
+    "2018-04-13": [
+        [
+            {
+                "time": "2018-04-13",
+                "original_text": "Energy Sector Update for 04/13/2018: BHGE, XOM, CVX, RDS.A, RDS.B, BP, E, COP, TOT, PBR, PBR.A, EC, SLB, HAL, NOV, SPN",
+                "features": {
+                    "keywords": [
+                        "Energy",
+                        "Sector",
+                        "BHGE",
+                        "XOM",
+                        "CVX",
+                        "RDS.A",
+                        "BP"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-13",
+                "original_text": "Royal Dutch Shell Subsidiary Lowers Stake in Indian Gas Company",
+                "features": {
+                    "keywords": [
+                        "Royal Dutch Shell",
+                        "Lowers Stake",
+                        "Indian Gas Company"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

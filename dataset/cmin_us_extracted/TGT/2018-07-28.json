@@ -1,0 +1,51 @@
+{
+    "2018-07-28": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "See what the IHS Markit Score report has to say about Target Corp.",
+                "features": {
+                    "keywords": [
+                        "IHS Markit Score",
+                        "report",
+                        "Target Corp"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Amazon and Retailers Challenge Google and Facebook for Online Ad Revenue",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "Retailers",
+                        "Google",
+                        "Facebook",
+                        "Online Ad Revenue"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

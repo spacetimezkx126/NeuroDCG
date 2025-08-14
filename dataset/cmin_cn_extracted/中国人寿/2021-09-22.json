@@ -1,0 +1,114 @@
+{
+    "2021-09-22": [
+        [
+            {
+                "time": "2021-09-22",
+                "original_text": "金融街下午茶2021年9月22日星期三",
+                "features": {
+                    "keywords": [
+                        "金融街",
+                        "下午茶"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-09-22",
+                "original_text": "A股收盘综述：电力股批量封板、神华兖煤涨停，一线地产股柳暗花明",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "电力股",
+                        "神华",
+                        "兖煤",
+                        "涨停",
+                        "地产股"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电力",
+                        "地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-09-22",
+                "original_text": "2000亿地产龙头大涨，万亿招行却大跌，发生了什么",
+                "features": {
+                    "keywords": [
+                        "地产",
+                        "龙头",
+                        "招行",
+                        "大涨",
+                        "大跌"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "地产",
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-09-21",
+                "original_text": "港股21日涨0.51% 收报24221.54点",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "涨",
+                        "0.51%"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-09-22",
+                "original_text": "定增“淘金”收益颇丰，基金参与热情高涨",
+                "features": {
+                    "keywords": [
+                        "定增",
+                        "基金",
+                        "收益",
+                        "淘金"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

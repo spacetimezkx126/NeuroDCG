@@ -1,0 +1,51 @@
+{
+    "2019-04-03": [
+        [
+            {
+                "time": "",
+                "original_text": "浙商证券董事会会议审议通过修改公司章程议案",
+                "features": {
+                    "keywords": [
+                        "浙商证券",
+                        "董事会",
+                        "修改公司章程"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "券商股午后拉升，东吴证券率先涨停",
+                "features": {
+                    "keywords": [
+                        "券商股",
+                        "午后拉升",
+                        "东吴证券",
+                        "涨停"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

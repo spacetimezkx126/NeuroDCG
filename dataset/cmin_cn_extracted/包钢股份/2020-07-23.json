@@ -1,0 +1,70 @@
+{
+    "2020-07-23": [
+        [
+            {
+                "time": "",
+                "original_text": "A股平均股价11.54元100股股价不足2元",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "平均股价",
+                        "低价股"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "整体市场"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-07-23",
+                "original_text": "7月23日早盘两市机构大单抢筹40股(名单)",
+                "features": {
+                    "keywords": [
+                        "机构抢筹",
+                        "大单",
+                        "两市"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "多行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "兴业银行：“20和信包钢ABN001”受托人新时代信托被接管 经营问题",
+                "features": {
+                    "keywords": [
+                        "兴业银行",
+                        "新时代信托",
+                        "被接管",
+                        "经营问题"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

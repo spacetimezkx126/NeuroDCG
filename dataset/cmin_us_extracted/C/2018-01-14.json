@@ -1,0 +1,71 @@
+{
+    "2018-01-14": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Bank earnings will be ‘mixed’ and ‘messy’ — but there’s some good news",
+                "features": {
+                    "keywords": [
+                        "bank",
+                        "earnings",
+                        "mixed",
+                        "messy",
+                        "good news"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Could President Trump Cause Oil Prices to Top $80 a Barrel?",
+                "features": {
+                    "keywords": [
+                        "President Trump",
+                        "oil prices",
+                        "$80",
+                        "barrel"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-07",
+                "original_text": "Economic Calendar - Top 5 Things to Watch This Week",
+                "features": {
+                    "keywords": [
+                        "economic calendar",
+                        "top 5",
+                        "watch",
+                        "week"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

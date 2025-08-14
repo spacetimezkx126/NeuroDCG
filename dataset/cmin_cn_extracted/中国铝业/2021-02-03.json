@@ -1,0 +1,76 @@
+{
+    "2021-02-03": [
+        [
+            {
+                "time": "",
+                "original_text": "八 大 券 商 主 题 策 略 ： “ 从 量 变 到 质 变 ” 的 稀 土 ！ 基 金 大 幅 增 持 有 色   重 点 加 仓 这 些 标 的",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "主题策略",
+                        "稀土",
+                        "基金增持",
+                        "有色金属"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "有色金属",
+                        "稀土"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "有 色 铝 崛 起 ， 明 泰 铝 业 、 南 山 铝 业 先 后 封 板",
+                "features": {
+                    "keywords": [
+                        "有色金属",
+                        "铝",
+                        "明泰铝业",
+                        "南山铝业",
+                        "封板"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "有色金属",
+                        "铝业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中 国 铝 业 ： 公 司 未 直 接 从 事 稀 土 的 生 产 与 销 售",
+                "features": {
+                    "keywords": [
+                        "中国铝业",
+                        "稀土",
+                        "生产",
+                        "销售"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "铝业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

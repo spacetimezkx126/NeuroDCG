@@ -1,0 +1,53 @@
+{
+    "2019-10-07": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "16 companies interested in taking JEA private",
+                "features": {
+                    "keywords": [
+                        "companies",
+                        "interested",
+                        "JEA",
+                        "private"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Dominion (D) Explores Renewable Options to Meet Emission Goal",
+                "features": {
+                    "keywords": [
+                        "Dominion",
+                        "Renewable",
+                        "Options",
+                        "Emission",
+                        "Goal"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "renewables"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

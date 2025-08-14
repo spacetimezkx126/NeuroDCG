@@ -1,0 +1,53 @@
+{
+    "2020-02-20": [
+        [
+            {
+                "time": "2023-10-10",
+                "original_text": "Santa Clara County says it's had 95% success in preventing homelessness at $4,000 per household",
+                "features": {
+                    "keywords": [
+                        "Santa Clara County",
+                        "homelessness prevention",
+                        "success rate",
+                        "cost per household"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "public sector",
+                        "social services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "Cisco Innovates Cellular IoT Connectivity Management with 5G Readiness and Machine Learning",
+                "features": {
+                    "keywords": [
+                        "Cisco",
+                        "IoT",
+                        "5G readiness",
+                        "machine learning",
+                        "innovation"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

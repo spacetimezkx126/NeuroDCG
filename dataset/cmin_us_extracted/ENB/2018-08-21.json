@@ -1,0 +1,49 @@
+{
+    "2018-08-21": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Canadian Stocks Are Rising On Energy Strength - Canadian Commentary",
+                "features": {
+                    "keywords": [
+                        "Canadian Stocks",
+                        "Rising",
+                        "Energy Strength"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Federal officials pledge readiness for pipeline spills",
+                "features": {
+                    "keywords": [
+                        "Federal officials",
+                        "pledge",
+                        "readiness",
+                        "pipeline spills"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

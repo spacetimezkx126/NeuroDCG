@@ -1,0 +1,50 @@
+{
+    "2020-02-24": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Dan Loeb’s $48 Billion Target Has Some Testy Investors",
+                "features": {
+                    "keywords": [
+                        "Dan Loeb",
+                        "$48 Billion",
+                        "Target",
+                        "Testy Investors"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "investing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "WD-40 Company: The High Return Behind the Blue and Yellow Can",
+                "features": {
+                    "keywords": [
+                        "WD-40",
+                        "High Return",
+                        "Blue and Yellow Can"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

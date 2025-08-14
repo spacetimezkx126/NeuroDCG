@@ -1,0 +1,348 @@
+{
+    "2019-06-06": [
+        [
+            {
+                "time": "2019-06-06",
+                "original_text": "['AT&T', 'Stock', 'Could', 'Finally', 'Break', 'Through', 'Resistance', 'and', 'Rally']",
+                "features": {
+                    "keywords": [
+                        "AT&T",
+                        "Stock",
+                        "Break",
+                        "Resistance",
+                        "Rally"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['Three', 'states', 'join', 'AG', 'group', 'probing', 'planned', 'merger', 'of', 'Sprint', 'and', 'T-Mobile']",
+                "features": {
+                    "keywords": [
+                        "states",
+                        "AG",
+                        "merger",
+                        "Sprint",
+                        "T-Mobile"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['Daily', 'Dividend', 'Report:', 'VZ,', 'CSCO,', 'SBR,', 'ROK,', 'NUE']",
+                "features": {
+                    "keywords": [
+                        "Dividend",
+                        "VZ",
+                        "CSCO",
+                        "SBR",
+                        "ROK",
+                        "NUE"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "dividend_stocks"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['Phone', 'companies', 'must', 'adopt', 'robocall-blocking', 'tech', 'by', 'year', 'end:', 'FCC']",
+                "features": {
+                    "keywords": [
+                        "Phone",
+                        "companies",
+                        "robocall-blocking",
+                        "tech",
+                        "FCC"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['Amazon', 'Is', 'No', 'Threat', 'to', 'AT&T', 'Stock,', 'so', 'Buy', 'This', 'Dip']",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "AT&T",
+                        "Stock",
+                        "Buy",
+                        "Dip"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['The', 'FCC', 'Just', 'Voted', 'to', 'Stop', 'the', '‘Scourge’', 'of', 'Robocalls.', 'Will', 'It', 'Work?']",
+                "features": {
+                    "keywords": [
+                        "FCC",
+                        "Voted",
+                        "Robocalls"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['Vanguard', 'S&P', '500', 'ETF', 'Experiences', 'Big', 'Inflow']",
+                "features": {
+                    "keywords": [
+                        "Vanguard",
+                        "S&P",
+                        "500",
+                        "ETF",
+                        "Inflow"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "ETFs"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['UPDATE', '1-U.S.', 'FCC', 'makes', 'it', 'easier', 'for', 'phone', 'companies', 'to', 'block', \"'robocalls'\"]",
+                "features": {
+                    "keywords": [
+                        "FCC",
+                        "phone",
+                        "companies",
+                        "block",
+                        "robocalls"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['FCC', 'votes', 'to', 'give', 'carriers', 'new', 'powers', 'to', 'block', \"'robocalls'\"]",
+                "features": {
+                    "keywords": [
+                        "FCC",
+                        "votes",
+                        "carriers",
+                        "block",
+                        "robocalls"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['6/6/19:', 'Verizon', 'declares', 'quarterly', 'dividend']",
+                "features": {
+                    "keywords": [
+                        "Verizon",
+                        "quarterly",
+                        "dividend"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['Dividend', 'Stocks', 'in', 'Play', 'as', 'Recession', 'Fears', 'Grow']",
+                "features": {
+                    "keywords": [
+                        "Dividend",
+                        "Stocks",
+                        "Recession",
+                        "Fears"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "dividend_stocks"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['UPDATE', '1-Google', 'to', 'buy', 'data', 'analytics', 'firm', 'Looker', 'for', '$2.6', 'bln']",
+                "features": {
+                    "keywords": [
+                        "Google",
+                        "data",
+                        "analytics",
+                        "Looker",
+                        "bln"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['TELUS', 'Corporation', '(TU)', 'Ex-Dividend', 'Date', 'Scheduled', 'for', 'June', '07,', '2019']",
+                "features": {
+                    "keywords": [
+                        "TELUS",
+                        "Corporation",
+                        "Ex-Dividend",
+                        "Date",
+                        "Scheduled"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['Daniel', 'Lubetzky', 'joins', 'Influencers', 'with', 'Andy', 'Serwer']",
+                "features": {
+                    "keywords": [
+                        "Daniel",
+                        "Lubetzky",
+                        "Influencers",
+                        "Andy",
+                        "Serwer"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general_news"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-06-06",
+                "original_text": "['Verizon', 'Communications', '(VZ)', 'Outpaces', 'Stock', 'Market', 'Gains:', 'What', 'You', 'Should', 'Know']",
+                "features": {
+                    "keywords": [
+                        "Verizon",
+                        "Communications",
+                        "Outpaces",
+                        "Stock",
+                        "Market",
+                        "Gains"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

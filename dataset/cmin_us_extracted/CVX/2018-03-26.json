@@ -1,0 +1,53 @@
+{
+    "2018-03-26": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Deepwater Oil Starting to Hold Its Own With Shale, Chevron Says",
+                "features": {
+                    "keywords": [
+                        "Deepwater",
+                        "Oil",
+                        "Hold",
+                        "Shale",
+                        "Chevron"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Agree To Buy Chevron Corporation At $60, Earn 1.8% Using Options",
+                "features": {
+                    "keywords": [
+                        "Buy",
+                        "Chevron",
+                        "Corporation",
+                        "$60",
+                        "Earn",
+                        "Options"
+                    ],
+                    "sentiment_score": 0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

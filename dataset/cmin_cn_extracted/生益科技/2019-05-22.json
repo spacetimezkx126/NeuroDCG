@@ -1,0 +1,52 @@
+{
+    "2019-05-22": [
+        [
+            {
+                "time": "2018-05-22",
+                "original_text": "沪港通十大成交活跃股排名（5月22日）",
+                "features": {
+                    "keywords": [
+                        "沪港通",
+                        "十大成交活跃股",
+                        "排名"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-05-22",
+                "original_text": "陆股通今日净流出A股45亿元：海康威视、美的抛售额超10亿，五粮液获净买入",
+                "features": {
+                    "keywords": [
+                        "陆股通",
+                        "净流出",
+                        "海康威视",
+                        "美的",
+                        "五粮液"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电子",
+                        "家电",
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

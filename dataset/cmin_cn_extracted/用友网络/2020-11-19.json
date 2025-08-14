@@ -1,0 +1,68 @@
+{
+    "2020-11-19": [
+        [
+            {
+                "time": "2020-11-19",
+                "original_text": "【信达看盘】",
+                "features": {
+                    "keywords": [
+                        "信达看盘"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-11-19",
+                "original_text": "【宏观早评】长债再破3.3%，盘中几无抵抗",
+                "features": {
+                    "keywords": [
+                        "长债",
+                        "3.3%",
+                        "盘中几无抵抗"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "债券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-11-19",
+                "original_text": "东北证券【点石1号股市正阳】 风格背离的逆向思路兼谈融资融券结构新变化",
+                "features": {
+                    "keywords": [
+                        "东北证券",
+                        "点石1号",
+                        "风格背离",
+                        "逆向思路",
+                        "融资融券",
+                        "结构新变化"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

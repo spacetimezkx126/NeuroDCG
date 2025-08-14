@@ -1,0 +1,50 @@
+{
+    "2018-11-28": [
+        [
+            {
+                "time": "2018-01-28",
+                "original_text": "上市公司晚间公告速递",
+                "features": {
+                    "keywords": [
+                        "上市公司",
+                        "公告",
+                        "晚间"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-28",
+                "original_text": "上海银行：稳股价措施实施完成 股东合计增持额超8亿元",
+                "features": {
+                    "keywords": [
+                        "上海银行",
+                        "稳股价",
+                        "措施",
+                        "实施完成",
+                        "股东",
+                        "增持",
+                        "8亿元"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

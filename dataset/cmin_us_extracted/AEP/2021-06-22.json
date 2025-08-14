@@ -1,0 +1,51 @@
+{
+    "2021-06-22": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "AEP Seeks Bids For Fuel Oil",
+                "features": {
+                    "keywords": [
+                        "AEP",
+                        "Seeks",
+                        "Bids",
+                        "Fuel",
+                        "Oil"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "AEP Announces Leadership Changes",
+                "features": {
+                    "keywords": [
+                        "AEP",
+                        "Announces",
+                        "Leadership",
+                        "Changes"
+                    ],
+                    "sentiment_score": -0.1,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "2021-10-09": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Morgan Stanley is still calling for a 10%-20% crash — protect yourself this way",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "crash",
+                        "protect"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Indra Nooyi Pushes Employers for the Flexible Work Arrangements She Didn’t Have",
+                "features": {
+                    "keywords": [
+                        "Indra Nooyi",
+                        "Flexible Work",
+                        "Employers"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "human resources",
+                        "business"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

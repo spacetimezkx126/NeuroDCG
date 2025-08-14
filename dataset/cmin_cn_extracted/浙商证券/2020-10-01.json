@@ -1,0 +1,56 @@
+{
+    "2020-10-01": [
+        [
+            {
+                "time": "",
+                "original_text": "浙商证券责令员工将三年前发的中秋福利退回，退休员工也要退",
+                "features": {
+                    "keywords": [
+                        "浙商证券",
+                        "责令",
+                        "员工",
+                        "中秋福利",
+                        "退回",
+                        "退休员工"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "11家上市券商拟定增超千亿，密集“补血”投向何处？谁买单？",
+                "features": {
+                    "keywords": [
+                        "上市券商",
+                        "定增",
+                        "千亿",
+                        "补血",
+                        "投向",
+                        "买单"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

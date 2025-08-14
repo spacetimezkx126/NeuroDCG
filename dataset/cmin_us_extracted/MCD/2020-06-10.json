@@ -1,0 +1,51 @@
+{
+    "2020-06-10": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Starbucks acknowledges a harsh reality about life after COVID-19",
+                "features": {
+                    "keywords": [
+                        "Starbucks",
+                        "harsh reality",
+                        "COVID-19"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "hospitality"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Outside Tech, U.S. Companies Now Issue More Stocks Than They Buy. What That Means For the Market.",
+                "features": {
+                    "keywords": [
+                        "U.S. Companies",
+                        "issue stocks",
+                        "buy stocks",
+                        "market impact"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

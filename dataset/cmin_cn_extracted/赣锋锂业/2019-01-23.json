@@ -1,0 +1,49 @@
+{
+    "2019-01-23": [
+        [
+            {
+                "time": "2023-01-23",
+                "original_text": "A股共发生23宗大宗交易成交9.57亿元（1月23日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "大宗交易",
+                        "成交额"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-01-23",
+                "original_text": "赣锋锂业今日大宗交易成交9.30万股，成交价22.76元折价0.0%",
+                "features": {
+                    "keywords": [
+                        "赣锋锂业",
+                        "大宗交易",
+                        "成交价",
+                        "折价率"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

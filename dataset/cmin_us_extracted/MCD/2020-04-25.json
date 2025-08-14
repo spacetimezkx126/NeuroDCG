@@ -1,0 +1,46 @@
+{
+    "2020-04-25": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Were Hedge Funds Right About McDonald’s Corporation (MCD)?",
+                "features": {
+                    "keywords": [
+                        "Hedge Funds",
+                        "McDonald's",
+                        "Right"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "food_service"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "In a Stock Market Like This, Anything Could Cause the Next Panic. Here’s What to Watch.",
+                "features": {
+                    "keywords": [
+                        "Stock Market",
+                        "Panic",
+                        "Watch"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

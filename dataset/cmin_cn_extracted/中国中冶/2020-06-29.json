@@ -1,0 +1,49 @@
+{
+    "2020-06-29": [
+        [
+            {
+                "time": "",
+                "original_text": "生兴控股现价升近14% 年度纯利增17%",
+                "features": {
+                    "keywords": [
+                        "生兴控股",
+                        "现价升",
+                        "年度纯利",
+                        "14%",
+                        "17%"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "控股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-06-29",
+                "original_text": "6月29日沪深两市最新交易提示",
+                "features": {
+                    "keywords": [
+                        "沪深两市",
+                        "交易提示"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "市场整体"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

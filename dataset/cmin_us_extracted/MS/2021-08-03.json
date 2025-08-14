@@ -1,0 +1,69 @@
+{
+    "2021-08-03": [
+        [
+            {
+                "time": "2021-09-15",
+                "original_text": "Reaching Back to Help the Next Generation",
+                "features": {
+                    "keywords": [
+                        "help",
+                        "next generation"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-09-15",
+                "original_text": "Morgan Stanley Investment Management Raises $1.6 billion for North Haven Credit Partners III",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "Investment Management",
+                        "Raises",
+                        "$1.6 billion",
+                        "North Haven Credit Partners III"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-09-15",
+                "original_text": "Australia Sticks With Taper Plan Even as Virus Dents Economy",
+                "features": {
+                    "keywords": [
+                        "Australia",
+                        "Taper Plan",
+                        "Virus",
+                        "Dents Economy"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

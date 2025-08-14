@@ -1,0 +1,100 @@
+{
+    "2018-05-06": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Asian Markets Mostly Higher",
+                "features": {
+                    "keywords": [
+                        "Asian",
+                        "Markets",
+                        "Higher"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general_market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Japanese Market Drifts Lower",
+                "features": {
+                    "keywords": [
+                        "Japanese",
+                        "Market",
+                        "Drifts",
+                        "Lower"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general_market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Auto Makers at Odds Over 'Talking' Car Standards",
+                "features": {
+                    "keywords": [
+                        "Auto",
+                        "Makers",
+                        "Odds",
+                        "Talking",
+                        "Car",
+                        "Standards"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automobile"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "F1's Fernando Alonso wins his World Endurance Championship debut race",
+                "features": {
+                    "keywords": [
+                        "F1",
+                        "Fernando",
+                        "Alonso",
+                        "wins",
+                        "World",
+                        "Endurance",
+                        "Championship",
+                        "debut",
+                        "race"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "sports"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

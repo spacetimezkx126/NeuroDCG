@@ -1,0 +1,53 @@
+{
+    "2019-03-01": [
+        [
+            {
+                "time": "",
+                "original_text": "京东方8.5代线获批三星绿色建筑",
+                "features": {
+                    "keywords": [
+                        "京东方",
+                        "8.5代线",
+                        "获批",
+                        "三星",
+                        "绿色建筑"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电子",
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "华为折叠屏手机要看韩国人脸色？我们有一个好消息和一个坏消息",
+                "features": {
+                    "keywords": [
+                        "华为",
+                        "折叠屏手机",
+                        "韩国",
+                        "技术依赖"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "智能手机"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2021-07-08": [
+        [
+            {
+                "time": "",
+                "original_text": "中国广核：风电、光伏的增加对公司影响较小",
+                "features": {
+                    "keywords": [
+                        "中国广核",
+                        "风电",
+                        "光伏",
+                        "影响较小"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国广核：没有经营和运行太阳能和风能项目",
+                "features": {
+                    "keywords": [
+                        "中国广核",
+                        "太阳能",
+                        "风能",
+                        "没有经营",
+                        "运行"
+                    ],
+                    "sentiment_score": -0.1,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

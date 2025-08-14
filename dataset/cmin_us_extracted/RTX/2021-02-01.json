@@ -1,0 +1,50 @@
+{
+    "2021-02-01": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Otis Elevator Had a Strong Quarter. Its CEO Is Bullish, Saying the Office Will Come Back.",
+                "features": {
+                    "keywords": [
+                        "Strong Quarter",
+                        "Bullish",
+                        "Office Will Come Back"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Willis Lease Purchases 25 GTF™ Engines from Pratt & Whitney",
+                "features": {
+                    "keywords": [
+                        "Purchases",
+                        "GTF™ Engines",
+                        "Pratt & Whitney"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aviation",
+                        "manufacturing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

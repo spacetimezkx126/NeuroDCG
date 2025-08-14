@@ -1,0 +1,51 @@
+{
+    "2020-06-20": [
+        [
+            {
+                "time": "2018-11-06",
+                "original_text": "Trump fires U.S. attorney in New York who investigated his associates",
+                "features": {
+                    "keywords": [
+                        "Trump",
+                        "firing",
+                        "U.S. attorney",
+                        "investigation"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "politics",
+                        "legal"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-03-15",
+                "original_text": "Why the Widening Wealth Gap Is Bad News for Everyone",
+                "features": {
+                    "keywords": [
+                        "wealth gap",
+                        "economic inequality",
+                        "bad news"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "society"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

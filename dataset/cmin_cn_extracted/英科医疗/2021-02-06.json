@@ -1,0 +1,42 @@
+{
+    "2021-02-06": [
+        [
+            {
+                "time": "2021-02-06",
+                "original_text": "上市公司正面新闻：公司利润环比连增81家步入绩优股行列",
+                "features": {
+                    "keywords": [
+                        "公司利润",
+                        "环比连增",
+                        "绩优股"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-02-06",
+                "original_text": "上市公司负面新闻：无",
+                "features": {
+                    "keywords": [],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

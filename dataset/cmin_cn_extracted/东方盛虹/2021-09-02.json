@@ -1,0 +1,68 @@
+{
+    "2021-09-02": [
+        [
+            {
+                "time": "2023-09-02",
+                "original_text": "涨，停，板，解，密，：，市，场，火，爆，，，三，大，板，块，个，股，现，涨，停，潮，！，（，9，月，2，日，）",
+                "features": {
+                    "keywords": [
+                        "涨停潮",
+                        "市场火爆",
+                        "三大板块"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "未明确提及"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-09-02",
+                "original_text": "东，方，盛，虹，(，0，0，0，3，0，1，.，S，Z，)，触，及，涨，停，再，创，历，史，新，高",
+                "features": {
+                    "keywords": [
+                        "东方盛虹",
+                        "涨停",
+                        "历史新高"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工/纺织"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-09-02",
+                "original_text": "东，方，盛，虹，首，板",
+                "features": {
+                    "keywords": [
+                        "东方盛虹",
+                        "首板"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工/纺织"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

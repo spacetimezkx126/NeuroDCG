@@ -1,0 +1,116 @@
+{
+    "2020-07-17": [
+        [
+            {
+                "time": "2020-03-15",
+                "original_text": "央视3·15晚会曝光精装修房屋质量问题，万科、招商纷纷回应，也有A股公司被误伤。",
+                "features": {
+                    "keywords": [
+                        "315晚会",
+                        "精装修",
+                        "质量问题",
+                        "万科",
+                        "招商"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-03-16",
+                "original_text": "多家上市公司被315晚会曝光！A股开盘涨跌不一，万科A跌逾1%。",
+                "features": {
+                    "keywords": [
+                        "315晚会",
+                        "上市公司",
+                        "万科A",
+                        "股价下跌"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-07-17",
+                "original_text": "市场暴跌的诱因和内因，牛市下半场格局被强化。",
+                "features": {
+                    "keywords": [
+                        "市场暴跌",
+                        "牛市",
+                        "格局强化"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "整体市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-07-15",
+                "original_text": "深交所向招商蛇口发出重组问询函，涉及土地评估、交易价格等问题。",
+                "features": {
+                    "keywords": [
+                        "深交所",
+                        "招商蛇口",
+                        "重组问询",
+                        "土地评估"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-07-17",
+                "original_text": "深圳出台最严限购政策落实“房住不炒”。",
+                "features": {
+                    "keywords": [
+                        "深圳",
+                        "限购政策",
+                        "房住不炒"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

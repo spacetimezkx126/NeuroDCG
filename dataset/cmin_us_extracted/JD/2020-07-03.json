@@ -1,0 +1,77 @@
+{
+    "2020-07-03": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "China Beverage Firm Wahaha Said to Mull IPO Above $1 Billion",
+                "features": {
+                    "keywords": [
+                        "Wahaha",
+                        "IPO",
+                        "Beverage",
+                        "China"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "beverage",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Display Maker Royole Said to Mull China IPO as U.S. Plans Stall",
+                "features": {
+                    "keywords": [
+                        "Royole",
+                        "IPO",
+                        "Display",
+                        "China",
+                        "U.S."
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "electronics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "His Wealth Surged by $25 Billion. Then Jack Ma’s Rival Quit",
+                "features": {
+                    "keywords": [
+                        "Wealth",
+                        "Surged",
+                        "Jack Ma",
+                        "Rival",
+                        "Quit"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "business"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "2021-12-02": [
+        [
+            {
+                "time": "",
+                "original_text": "国家发改委：做好化肥生产用煤用电用气保障工作",
+                "features": {
+                    "keywords": [
+                        "国家发改委",
+                        "化肥",
+                        "生产",
+                        "用煤",
+                        "用电",
+                        "用气",
+                        "保障"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2021-12-01",
+                "original_text": "国电电力三河公司在京津唐区域12月份市场集中交易中获得0.36亿千瓦时交易电量",
+                "features": {
+                    "keywords": [
+                        "国电电力",
+                        "三河公司",
+                        "京津唐",
+                        "市场集中交易",
+                        "交易电量"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-12-01",
+                "original_text": "A股融资融券日报：两融余额增加5.37亿元（12月1日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

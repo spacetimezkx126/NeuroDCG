@@ -1,0 +1,74 @@
+{
+    "2021-05-03": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "The Smead Value Fund Cuts Target, Discovery",
+                "features": {
+                    "keywords": [
+                        "Smead Value Fund",
+                        "Cuts",
+                        "Target",
+                        "Discovery"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "30 Cheap Products Under $20 on Amazon",
+                "features": {
+                    "keywords": [
+                        "Cheap Products",
+                        "Amazon"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Kroger begins delivery of baby wipes and s'mores via drones",
+                "features": {
+                    "keywords": [
+                        "Kroger",
+                        "delivery",
+                        "drones",
+                        "baby wipes",
+                        "s'mores"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "logistics",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "2021-04-09": [
+        [
+            {
+                "time": "",
+                "original_text": "刘永好：解决农村现代化的困难，要增加农民的收入",
+                "features": {
+                    "keywords": [
+                        "刘永好",
+                        "农村现代化",
+                        "农民收入"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国可转债策略周报：转债“反指”大筛查",
+                "features": {
+                    "keywords": [
+                        "可转债",
+                        "策略周报",
+                        "反指"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03",
+                "original_text": "新希望3月生猪销售收入同比增111.34% 未来或将旗下冷链物流业务单独上市",
+                "features": {
+                    "keywords": [
+                        "新希望",
+                        "生猪销售",
+                        "冷链物流",
+                        "单独上市"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "物流"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

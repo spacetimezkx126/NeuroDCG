@@ -1,0 +1,75 @@
+{
+    "2019-04-12": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Big Stock Charts for Friday: ConocoPhillips, Caterpillar and Morgan Stanley",
+                "features": {
+                    "keywords": [
+                        "ConocoPhillips",
+                        "Caterpillar",
+                        "Morgan Stanley"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "industrial",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-03-16",
+                "original_text": "SPYV, CAT, ANTM, MDLZ: Large Inflows Detected at ETF",
+                "features": {
+                    "keywords": [
+                        "SPYV",
+                        "CAT",
+                        "ANTM",
+                        "MDLZ",
+                        "Large Inflows"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "ETFs",
+                        "industrial",
+                        "healthcare",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-03-17",
+                "original_text": "Caterpillar Announces Officer Changes",
+                "features": {
+                    "keywords": [
+                        "Caterpillar",
+                        "Officer Changes"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2018-03-01": [
+        [
+            {
+                "time": "",
+                "original_text": "风向真变了！蓝筹折价甩卖增多，溢价成交名单请珍藏",
+                "features": {
+                    "keywords": [
+                        "风向",
+                        "蓝筹",
+                        "折价甩卖",
+                        "溢价成交"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "蓝筹股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "扬杰科技去年净利润增长30.43%，酷派股票将于11月底复牌",
+                "features": {
+                    "keywords": [
+                        "扬杰科技",
+                        "净利润增长",
+                        "酷派股票",
+                        "复牌"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

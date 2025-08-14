@@ -1,0 +1,52 @@
+{
+    "2021-05-08": [
+        [
+            {
+                "time": "",
+                "original_text": "原油周报：印度日本疫情持续恶化 国际油价先扬后抑",
+                "features": {
+                    "keywords": [
+                        "印度",
+                        "日本",
+                        "疫情",
+                        "国际油价",
+                        "先扬后抑"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "石油"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中海油服(601808)：工作量下降利润减少 预计Q2环比改善",
+                "features": {
+                    "keywords": [
+                        "中海油服",
+                        "工作量下降",
+                        "利润减少",
+                        "Q2环比改善"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源服务"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

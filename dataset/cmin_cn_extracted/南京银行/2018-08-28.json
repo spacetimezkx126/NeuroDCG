@@ -1,0 +1,53 @@
+{
+    "2018-08-28": [
+        [
+            {
+                "time": "",
+                "original_text": "南京银行：优先股股息方案为每股发放现金股息3.90元",
+                "features": {
+                    "keywords": [
+                        "南京银行",
+                        "优先股",
+                        "股息",
+                        "现金"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中证报头版：青睐制造业、偏爱大蓝筹，机构二季度布局路径隐现",
+                "features": {
+                    "keywords": [
+                        "中证报",
+                        "制造业",
+                        "大蓝筹",
+                        "机构",
+                        "二季度",
+                        "布局"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "制造业",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

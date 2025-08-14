@@ -1,0 +1,71 @@
+{
+    "2018-03-18": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Does BP pl.c.’s (NYSE:BP) PE Ratio Signal A Selling Opportunity?",
+                "features": {
+                    "keywords": [
+                        "BP",
+                        "PE Ratio",
+                        "Selling Opportunity"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Alaska LNG Is Finally Clear For Takeoff",
+                "features": {
+                    "keywords": [
+                        "Alaska LNG",
+                        "Clear",
+                        "Takeoff"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "infrastructure"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "5 Costly Mistakes Drivers Make At The Gas Pump",
+                "features": {
+                    "keywords": [
+                        "Costly Mistakes",
+                        "Drivers",
+                        "Gas Pump"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods",
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

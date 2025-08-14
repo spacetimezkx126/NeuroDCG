@@ -1,0 +1,45 @@
+{
+    "2018-04-12": [
+        [
+            {
+                "time": "2018-04-12",
+                "original_text": "上海证券交易所2018年04月12日交易信息",
+                "features": {
+                    "keywords": [
+                        "上海证券交易所",
+                        "交易信息"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-12",
+                "original_text": "南京证券：王者之风的风险提示公告",
+                "features": {
+                    "keywords": [
+                        "南京证券",
+                        "风险提示",
+                        "公告"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

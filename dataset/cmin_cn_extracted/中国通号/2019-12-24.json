@@ -1,0 +1,51 @@
+{
+    "2019-12-24": [
+        [
+            {
+                "time": "",
+                "original_text": "科创业主题基金收益颇丰，现在是“上车”好时机吗？",
+                "features": {
+                    "keywords": [
+                        "科创业",
+                        "主题基金",
+                        "收益",
+                        "上车"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "创新"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-12-23",
+                "original_text": "科创板股融资融券余额每日变动（12月23日）",
+                "features": {
+                    "keywords": [
+                        "科创板",
+                        "融资融券",
+                        "余额",
+                        "每日变动"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

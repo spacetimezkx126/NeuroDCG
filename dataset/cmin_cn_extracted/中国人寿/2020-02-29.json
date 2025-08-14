@@ -1,0 +1,54 @@
+{
+    "2020-02-29": [
+        [
+            {
+                "time": "",
+                "original_text": "中国人寿理赔148件新冠疫情相关案件，给付金额1541.96万元",
+                "features": {
+                    "keywords": [
+                        "中国人寿",
+                        "理赔",
+                        "新冠疫情",
+                        "案件",
+                        "给付金额"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "太保携4家子公司在港扫货，赣锋锂业H股被举牌",
+                "features": {
+                    "keywords": [
+                        "太保",
+                        "子公司",
+                        "扫货",
+                        "赣锋锂业",
+                        "H股",
+                        "举牌"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "锂电池"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

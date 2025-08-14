@@ -1,0 +1,64 @@
+{
+    "2020-02-06": [
+        [
+            {
+                "time": "",
+                "original_text": "A股平均股价9.22元79股股价不足2元",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "平均股价",
+                        "低价股"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-02-06",
+                "original_text": "2月6日早盘两市机构大单抛盘40股(名单)",
+                "features": {
+                    "keywords": [
+                        "机构",
+                        "大单抛盘",
+                        "早盘"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "北向资金单日净流出3.08亿！加仓这些板块",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "净流出",
+                        "加仓",
+                        "板块"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "2018-11-01": [
+        [
+            {
+                "time": "",
+                "original_text": "汇川技术股东汇川投资质押660万股，占其所持股份的2.13%",
+                "features": {
+                    "keywords": [
+                        "汇川技术",
+                        "股东",
+                        "质押",
+                        "660万股",
+                        "2.13%"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "制造业",
+                        "技术"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "读懂新能源的第一篇雄文！钴锂、电芯、三元……产业链上下游都梳理好了！",
+                "features": {
+                    "keywords": [
+                        "新能源",
+                        "钴锂",
+                        "电芯",
+                        "三元",
+                        "产业链"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "材料",
+                        "电池"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "创业板：让资本活水灌溉双创企业未来",
+                "features": {
+                    "keywords": [
+                        "创业板",
+                        "资本",
+                        "双创企业",
+                        "未来"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "创业",
+                        "创新"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

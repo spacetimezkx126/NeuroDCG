@@ -1,0 +1,80 @@
+{
+    "2019-11-05": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Speculators Scooping Up Wynn Resorts Shares",
+                "features": {
+                    "keywords": [
+                        "Speculators",
+                        "Scooping",
+                        "Wynn Resorts",
+                        "Shares"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "gaming",
+                        "hospitality"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "The Zacks Analyst Blog Highlights: Bank of America, Fannie Mae, JPMorgan, Citigroup and Wells Fargo",
+                "features": {
+                    "keywords": [
+                        "Zacks",
+                        "Analyst",
+                        "Blog",
+                        "Bank of America",
+                        "Fannie Mae",
+                        "JPMorgan",
+                        "Citigroup",
+                        "Wells Fargo"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "banking"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-11-20",
+                "original_text": "Wells Fargo Survey: Business Owners Highlight Priority Issues for 2020 Campaign",
+                "features": {
+                    "keywords": [
+                        "Wells Fargo",
+                        "Survey",
+                        "Business Owners",
+                        "Priority Issues",
+                        "2020 Campaign"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "business",
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

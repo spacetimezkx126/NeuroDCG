@@ -1,0 +1,54 @@
+{
+    "2021-01-16": [
+        [
+            {
+                "time": "2020-07-15",
+                "original_text": "中国制造业企业信用100强发布：华为、中国建筑、美的列前三",
+                "features": {
+                    "keywords": [
+                        "中国制造业",
+                        "企业信用",
+                        "华为",
+                        "中国建筑",
+                        "美的"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "制造业",
+                        "建筑业",
+                        "家电行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-01-12",
+                "original_text": "特斯拉降价促销 鲶鱼效应不可忽视",
+                "features": {
+                    "keywords": [
+                        "特斯拉",
+                        "降价",
+                        "促销",
+                        "鲶鱼效应"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "汽车行业",
+                        "新能源汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

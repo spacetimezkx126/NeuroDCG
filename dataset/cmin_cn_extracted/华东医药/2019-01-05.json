@@ -1,0 +1,55 @@
+{
+    "2019-01-05": [
+        [
+            {
+                "time": "",
+                "original_text": "A股熔断3周年仍有翻倍收益个股，茅台、榨菜夺魁",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "熔断",
+                        "翻倍收益",
+                        "茅台",
+                        "榨菜"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "消费",
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "A股先抑后扬：游资热炒券商板块，机构抛售医药概念",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "先抑后扬",
+                        "游资",
+                        "券商板块",
+                        "机构",
+                        "医药概念"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

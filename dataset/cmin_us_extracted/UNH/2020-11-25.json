@@ -1,0 +1,72 @@
+{
+    "2020-11-25": [
+        [
+            {
+                "time": "2023-10-10",
+                "original_text": "Dow Jones Today Dips, Nasdaq Climbs As Jobless Claims Jump; Nikola Worries, China Investigation Hammers E-Auto Stocks",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Nasdaq",
+                        "Jobless Claims",
+                        "Nikola",
+                        "China Investigation",
+                        "E-Auto Stocks"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "automobiles"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "9 Stocks Seen Propelling Dow To 31,662",
+                "features": {
+                    "keywords": [
+                        "Stocks",
+                        "Dow",
+                        "Propelling"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "UnitedHealth Group to Host 2020 Investor Conference",
+                "features": {
+                    "keywords": [
+                        "UnitedHealth Group",
+                        "Investor Conference"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

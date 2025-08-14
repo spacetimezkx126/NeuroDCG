@@ -1,0 +1,73 @@
+{
+    "2020-04-10": [
+        [
+            {
+                "time": "2019-04-10",
+                "original_text": "A股龙虎榜揭秘，机构抛售11股",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "龙虎榜",
+                        "机构抛售"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-12-31",
+                "original_text": "上交所披露2019年度十佳期权经纪商和优秀期权做市商",
+                "features": {
+                    "keywords": [
+                        "上交所",
+                        "期权",
+                        "十佳",
+                        "做市商"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-03-31",
+                "original_text": "一季度券商业绩“过山车”，3月行业营收净利润环比普降 盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "业绩",
+                        "过山车",
+                        "营收",
+                        "净利润",
+                        "盈利能力"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

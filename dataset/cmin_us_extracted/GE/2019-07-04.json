@@ -1,0 +1,53 @@
+{
+    "2019-07-04": [
+        [
+            {
+                "time": "2018-06-30",
+                "original_text": "Why General Electric Stock Jumped 11% in June",
+                "features": {
+                    "keywords": [
+                        "General Electric",
+                        "Stock Jumped",
+                        "11%",
+                        "June"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-12-20",
+                "original_text": "US Senate Extends Offshore Wind Tax Credits: Stocks in Focus",
+                "features": {
+                    "keywords": [
+                        "US Senate",
+                        "Extends",
+                        "Offshore Wind",
+                        "Tax Credits",
+                        "Stocks in Focus"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "renewable energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

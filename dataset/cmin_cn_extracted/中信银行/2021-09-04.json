@@ -1,0 +1,51 @@
+{
+    "2021-09-04": [
+        [
+            {
+                "time": "",
+                "original_text": "联合融资规模增长112.7%，中信银行协同战略奋进",
+                "features": {
+                    "keywords": [
+                        "联合融资",
+                        "规模增长",
+                        "中信银行",
+                        "协同战略"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中信银行南京分行发挥金融力量，全力支持扬州打赢疫情防控歼灭战",
+                "features": {
+                    "keywords": [
+                        "中信银行",
+                        "南京分行",
+                        "金融力量",
+                        "疫情防控"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "公共卫生"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

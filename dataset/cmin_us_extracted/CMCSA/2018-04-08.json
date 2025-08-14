@@ -1,0 +1,51 @@
+{
+    "2018-04-08": [
+        [
+            {
+                "time": "2018-04-06",
+                "original_text": "Box Office: 'Blockers' Opens With A Promising $21 Million Weekend",
+                "features": {
+                    "keywords": [
+                        "Blockers",
+                        "Opens",
+                        "Promising",
+                        "$21 Million",
+                        "Weekend"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment",
+                        "media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-06",
+                "original_text": "Can you be fired for being depressed?",
+                "features": {
+                    "keywords": [
+                        "fired",
+                        "depressed"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "human resources",
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2021-10-16": [
+        [
+            {
+                "time": "",
+                "original_text": "宝钢拿下丰田重磅订单，日本制铁突然发难",
+                "features": {
+                    "keywords": [
+                        "宝钢",
+                        "丰田",
+                        "订单",
+                        "日本制铁",
+                        "竞争"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "钢铁",
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "铁矿石研究手册（四）：四大矿山篇之FMG",
+                "features": {
+                    "keywords": [
+                        "铁矿石",
+                        "研究",
+                        "FMG",
+                        "四大矿山"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "矿业",
+                        "原材料"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

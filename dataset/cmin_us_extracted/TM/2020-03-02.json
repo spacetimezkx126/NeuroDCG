@@ -1,0 +1,55 @@
+{
+    "2020-03-02": [
+        [
+            {
+                "time": "2023-10-16",
+                "original_text": "Toyota (TM) to Build a $1.22B Electric Vehicle Plant in China",
+                "features": {
+                    "keywords": [
+                        "Toyota",
+                        "Electric Vehicle",
+                        "Plant",
+                        "China",
+                        "Investment"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automobile",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-16",
+                "original_text": "Zoom Video, Target, Kroger Report Earnings This Week",
+                "features": {
+                    "keywords": [
+                        "Zoom Video",
+                        "Target",
+                        "Kroger",
+                        "Earnings",
+                        "Report"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "retail",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

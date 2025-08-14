@@ -1,0 +1,53 @@
+{
+    "2020-01-15": [
+        [
+            {
+                "time": "",
+                "original_text": "用益-信托市场简报：光大信托净利润增83%",
+                "features": {
+                    "keywords": [
+                        "光大信托",
+                        "净利润",
+                        "增长",
+                        "83%"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "信托"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "银保监会再出手 三银行被罚超400万 金融监管处罚",
+                "features": {
+                    "keywords": [
+                        "银保监会",
+                        "处罚",
+                        "银行",
+                        "400万",
+                        "金融监管"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

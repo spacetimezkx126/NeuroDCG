@@ -1,0 +1,53 @@
+{
+    "2019-03-01": [
+        [
+            {
+                "time": "",
+                "original_text": "钴价疯狂后一路暴跌 全球增产热潮后钴市命运如何？",
+                "features": {
+                    "keywords": [
+                        "钴",
+                        "价格",
+                        "暴跌",
+                        "全球",
+                        "增产",
+                        "市场"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "原材料",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-01",
+                "original_text": "操盘必读：3月1日证券市场要闻",
+                "features": {
+                    "keywords": [
+                        "操盘",
+                        "证券",
+                        "市场",
+                        "要闻"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

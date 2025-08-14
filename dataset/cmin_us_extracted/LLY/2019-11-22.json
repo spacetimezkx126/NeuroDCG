@@ -1,0 +1,50 @@
+{
+    "2019-11-22": [
+        [
+            {
+                "time": "2019-07-15",
+                "original_text": "NewsBreak: Trump Looks to Let Florida, Others Import Prescription Drugs",
+                "features": {
+                    "keywords": [
+                        "Trump",
+                        "Florida",
+                        "Prescription Drugs",
+                        "Import"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-08-05",
+                "original_text": "Lilly (LLY) Up 6.4% Since Last Earnings Report: Can It Continue?",
+                "features": {
+                    "keywords": [
+                        "Lilly",
+                        "LLY",
+                        "Earnings Report",
+                        "Up 6.4%"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

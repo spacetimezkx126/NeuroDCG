@@ -1,0 +1,76 @@
+{
+    "2020-02-05": [
+        [
+            {
+                "time": "",
+                "original_text": "解密主力资金出逃股连续5日净流出1052股",
+                "features": {
+                    "keywords": [
+                        "主力资金",
+                        "出逃",
+                        "净流出",
+                        "1052股"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "驰援武汉 半导体及相关产业链企业的后方战场",
+                "features": {
+                    "keywords": [
+                        "驰援武汉",
+                        "半导体",
+                        "产业链",
+                        "后方战场"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "半导体",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "国金证券发布二月金股组合 普洛药业、芒果超媒、游族网络等上榜",
+                "features": {
+                    "keywords": [
+                        "国金证券",
+                        "二月金股",
+                        "普洛药业",
+                        "芒果超媒",
+                        "游族网络"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "传媒",
+                        "游戏"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

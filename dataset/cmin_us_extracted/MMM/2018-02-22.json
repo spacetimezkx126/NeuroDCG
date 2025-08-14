@@ -1,0 +1,49 @@
+{
+    "2018-02-22": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Wall Street has NOT shifted from a 'buy the dip' to a 'sell the rally' mentality: NYSE trader",
+                "features": {
+                    "keywords": [
+                        "Wall Street",
+                        "buy the dip",
+                        "sell the rally",
+                        "NYSE trader"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "These 3 Dividend Aristocrats Already Extended Their Streaks in 2018",
+                "features": {
+                    "keywords": [
+                        "Dividend Aristocrats",
+                        "Extended Streaks",
+                        "2018"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

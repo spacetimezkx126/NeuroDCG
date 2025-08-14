@@ -1,0 +1,93 @@
+{
+    "2018-10-19": [
+        [
+            {
+                "time": "2018-11-26",
+                "original_text": "Morgan Stanley Sweetens Deal for Top Advisors",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "Sweetens Deal",
+                        "Top Advisors"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-11-26",
+                "original_text": "It was a wild week on Wall Street, here are the moves the...",
+                "features": {
+                    "keywords": [
+                        "wild week",
+                        "Wall Street",
+                        "moves"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-11-26",
+                "original_text": "Trump hardens tone on Saudi stance on murdered journalist",
+                "features": {
+                    "keywords": [
+                        "Trump",
+                        "hardens tone",
+                        "Saudi",
+                        "murdered journalist"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "politics",
+                        "international relations"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-11-26",
+                "original_text": "Mega Millions jackpot rises to $1 billion",
+                "features": {
+                    "keywords": [
+                        "Mega Millions",
+                        "jackpot",
+                        "$1 billion"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "lottery",
+                        "entertainment"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

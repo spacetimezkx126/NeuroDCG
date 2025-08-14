@@ -1,0 +1,71 @@
+{
+    "2021-03-12": [
+        [
+            {
+                "time": "",
+                "original_text": "北新建材：贾同春有台“提款机”",
+                "features": {
+                    "keywords": [
+                        "北新建材",
+                        "贾同春",
+                        "提款机"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "建筑材料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "开好局起好步！中国建材集团捷报频传",
+                "features": {
+                    "keywords": [
+                        "中国建材集团",
+                        "捷报频传",
+                        "开好局"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "建筑材料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "20XX-03-12",
+                "original_text": "晨报0312 | 白酒专题、装配式装修专题、江苏银行（600919）",
+                "features": {
+                    "keywords": [
+                        "白酒",
+                        "装配式装修",
+                        "江苏银行"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "白酒",
+                        "建筑装修",
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

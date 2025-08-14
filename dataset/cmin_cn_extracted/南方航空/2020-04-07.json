@@ -1,0 +1,54 @@
+{
+    "2020-04-07": [
+        [
+            {
+                "time": "",
+                "original_text": "南航(01055-HK)收到非公开发行A股申请发审委会议准备工作函",
+                "features": {
+                    "keywords": [
+                        "南航",
+                        "非公开发行",
+                        "A股",
+                        "发审委",
+                        "会议准备"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "航空",
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "三大航2019合赚122亿 南航净利垫底",
+                "features": {
+                    "keywords": [
+                        "三大航",
+                        "2019",
+                        "净利润",
+                        "南航",
+                        "垫底"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

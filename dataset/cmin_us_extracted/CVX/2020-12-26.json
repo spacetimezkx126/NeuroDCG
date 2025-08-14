@@ -1,0 +1,65 @@
+{
+    "2020-12-26": [
+        [
+            {
+                "time": "2021-01-01",
+                "original_text": "Best Fictional Companies in the World",
+                "features": {
+                    "keywords": [
+                        "fictional",
+                        "companies"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-01-01",
+                "original_text": "Biggest Natural Gas Companies in the World",
+                "features": {
+                    "keywords": [
+                        "natural gas",
+                        "companies"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-01-01",
+                "original_text": "Will Big Oil Stocks Bounce Back in 2021?",
+                "features": {
+                    "keywords": [
+                        "big oil",
+                        "stocks",
+                        "bounce back"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

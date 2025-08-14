@@ -1,0 +1,53 @@
+{
+    "2018-12-19": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "American Municipal Power, Inc. - Solar Electricity Prepayment Project -- Moody's assigns A2 to American Municipal Power Solar Electricity Prepayment Project Revenue Bonds; outlook stable",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "A2 rating",
+                        "Solar Electricity",
+                        "Prepayment Project",
+                        "Revenue Bonds",
+                        "outlook stable"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "renewable energy",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "PPL Named A Top Socially Responsible Dividend Stock",
+                "features": {
+                    "keywords": [
+                        "PPL",
+                        "Socially Responsible",
+                        "Dividend Stock"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities",
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

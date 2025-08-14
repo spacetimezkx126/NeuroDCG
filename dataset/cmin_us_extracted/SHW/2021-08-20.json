@@ -1,0 +1,51 @@
+{
+    "2021-08-20": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Morgan Stanley Raises Price Target On Sherwin-Williams, Sees 12% Upside",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "Price Target",
+                        "Sherwin-Williams",
+                        "12% Upside"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Sherwin-Williams (SHW) to Buy Sika's Industrial Coatings Business",
+                "features": {
+                    "keywords": [
+                        "Sherwin-Williams",
+                        "Sika",
+                        "Industrial Coatings",
+                        "Acquisition"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

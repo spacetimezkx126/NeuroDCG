@@ -1,0 +1,73 @@
+{
+    "2020-11-16": [
+        [
+            {
+                "time": "2021-01-05",
+                "original_text": "Edward Jones Keeps the Offices Open",
+                "features": {
+                    "keywords": [
+                        "Edward Jones",
+                        "Offices Open"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-01-05",
+                "original_text": "Morgan Stanley sees ‘resilient, and self-sustaining’ recovery in 2021",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "resilient",
+                        "self-sustaining",
+                        "recovery",
+                        "2021"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-01-05",
+                "original_text": "Morgan Stanley Announces $1.3 Million Grant to Columbia University Department of Psychiatry",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "Grant",
+                        "Columbia University",
+                        "Psychiatry"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "education",
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

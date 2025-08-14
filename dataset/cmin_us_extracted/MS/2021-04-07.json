@@ -1,0 +1,76 @@
+{
+    "2021-04-07": [
+        [
+            {
+                "time": "2021-04-01",
+                "original_text": "Credit Suisse faces battle to win back trust after Archegos and Greensill",
+                "features": {
+                    "keywords": [
+                        "Credit Suisse",
+                        "Archegos",
+                        "Greensill",
+                        "trust"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "banking"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-08-12",
+                "original_text": "Hon Hai Revenue Jumps 44% on Stay-at-Home Demand for Gadgets",
+                "features": {
+                    "keywords": [
+                        "Hon Hai",
+                        "revenue",
+                        "jump",
+                        "stay-at-home",
+                        "gadgets"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "manufacturing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-03-26",
+                "original_text": "Morgan Stanley Sold Part of Archegos Holdings Before Most Rivals",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "Archegos",
+                        "sold",
+                        "holdings"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "banking"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

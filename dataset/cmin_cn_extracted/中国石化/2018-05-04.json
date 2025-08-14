@@ -1,0 +1,49 @@
+{
+    "2018-05-04": [
+        [
+            {
+                "time": "",
+                "original_text": "25只个股社保基金持仓占流通股比例在5%以上",
+                "features": {
+                    "keywords": [
+                        "社保基金",
+                        "持仓",
+                        "流通股",
+                        "比例"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "国海证券：中国石化买入评级",
+                "features": {
+                    "keywords": [
+                        "国海证券",
+                        "中国石化",
+                        "买入评级"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

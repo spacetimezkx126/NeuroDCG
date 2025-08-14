@@ -1,0 +1,74 @@
+{
+    "2018-03-30": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Walmart may make a major splash in the health care industry",
+                "features": {
+                    "keywords": [
+                        "Walmart",
+                        "health care",
+                        "major splash"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Smoking Is Just One Way To Use Marijuana: An Introduction To Vaporizers, Edibles, Oils, Tinctures, Dabs And Other Cannabis Products",
+                "features": {
+                    "keywords": [
+                        "marijuana",
+                        "vaporizers",
+                        "edibles",
+                        "cannabis products"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "cannabis",
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "Geron Corp. Skyrocketed and AbbVie Inc. Crashed -- Are These Stocks Buys?",
+                "features": {
+                    "keywords": [
+                        "Geron Corp.",
+                        "AbbVie Inc.",
+                        "skyrocketed",
+                        "crashed"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "biotechnology",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

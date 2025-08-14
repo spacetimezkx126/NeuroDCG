@@ -1,0 +1,52 @@
+{
+    "2020-10-19": [
+        [
+            {
+                "time": "",
+                "original_text": "上海临港完成发行10亿超短期融资券 票面利率2.4%",
+                "features": {
+                    "keywords": [
+                        "上海临港",
+                        "超短期融资券",
+                        "票面利率",
+                        "2.4%"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-10-19",
+                "original_text": "A股10月19日房企股涨幅榜：上海临港涨2.90%位居首位",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "房企股",
+                        "上海临港",
+                        "涨幅",
+                        "2.90%"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

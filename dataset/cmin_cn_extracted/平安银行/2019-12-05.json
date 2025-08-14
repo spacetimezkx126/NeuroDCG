@@ -1,0 +1,54 @@
+{
+    "2019-12-05": [
+        [
+            {
+                "time": "",
+                "original_text": "保本理财清理进行时，商业银行理财收入普降",
+                "features": {
+                    "keywords": [
+                        "保本理财",
+                        "清理",
+                        "商业银行",
+                        "理财收入",
+                        "普降"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "信用卡规模高速增长 消费交易额股份行组队赶超国有行",
+                "features": {
+                    "keywords": [
+                        "信用卡",
+                        "规模",
+                        "高速增长",
+                        "消费交易额",
+                        "股份行",
+                        "国有行"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "银行",
+                        "消费金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

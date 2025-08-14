@@ -1,0 +1,51 @@
+{
+    "2018-11-05": [
+        [
+            {
+                "time": "",
+                "original_text": "紧抱广州大腿的佛山，能独立崛起吗？",
+                "features": {
+                    "keywords": [
+                        "佛山",
+                        "广州",
+                        "独立崛起"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "区域经济"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "房地产行业点评: 盈利改善、业绩高增、现金充沛、杠杆可控",
+                "features": {
+                    "keywords": [
+                        "房地产",
+                        "盈利改善",
+                        "业绩高增",
+                        "现金充沛",
+                        "杠杆可控"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

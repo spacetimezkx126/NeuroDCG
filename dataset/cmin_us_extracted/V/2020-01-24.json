@@ -1,0 +1,70 @@
+{
+    "2020-01-24": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Four-comma club: Predicting the next company to join trillion-dollar value elite",
+                "features": {
+                    "keywords": [
+                        "trillion-dollar",
+                        "value",
+                        "elite"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Cryptocurrency News: Another Company Ditches the Libra Association",
+                "features": {
+                    "keywords": [
+                        "cryptocurrency",
+                        "Libra",
+                        "ditches"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "cryptocurrency"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Expect Square to Remain Stuck in Neutral",
+                "features": {
+                    "keywords": [
+                        "Square",
+                        "neutral"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

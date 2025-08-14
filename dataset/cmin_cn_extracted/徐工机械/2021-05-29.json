@@ -1,0 +1,52 @@
+{
+    "2021-05-29": [
+        [
+            {
+                "time": "",
+                "original_text": "谁在炒作钢价？5月暴涨暴跌，有的销量猛降40％，疑似黑手浮现 盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "钢价",
+                        "暴涨暴跌",
+                        "销量猛降",
+                        "黑手",
+                        "盈利能力下降"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "钢铁"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "创新高！北向资金全周净流入超468亿元，重点加仓酿酒板块，贵州茅台占一半",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "净流入",
+                        "酿酒板块",
+                        "贵州茅台",
+                        "创新高"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "酿酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

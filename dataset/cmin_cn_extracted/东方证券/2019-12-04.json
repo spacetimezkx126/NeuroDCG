@@ -1,0 +1,54 @@
+{
+    "2019-12-04": [
+        [
+            {
+                "time": "",
+                "orginal_text": "股 权 转 让 落 定 ！ 东 方 证 券 将 全 资 控 股 东 方 花 旗 ， 花 旗 欲 另 起 炉 灶  减 持 股 份",
+                "features": {
+                    "keywords": [
+                        "股权转让",
+                        "东方证券",
+                        "东方花旗",
+                        "全资控股",
+                        "减持股份"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "orginal_text": "东 方 证 券 ( 0 3 9 5 8 - H K ) 受 让 花 旗 亚 洲 所 持 东 方 花 旗 3 3 . 3 % 股 权 沪 监 管 局 原 则 上 无 异 议",
+                "features": {
+                    "keywords": [
+                        "东方证券",
+                        "花旗亚洲",
+                        "东方花旗",
+                        "股权转让",
+                        "沪监管局"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

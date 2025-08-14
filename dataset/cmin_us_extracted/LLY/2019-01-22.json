@@ -1,0 +1,93 @@
+{
+    "2019-01-22": [
+        [
+            {
+                "time": "2016-01-01",
+                "original_text": "U.S. insulin costs per patient nearly doubled from 2012 to 2016 - study",
+                "features": {
+                    "keywords": [
+                        "insulin",
+                        "costs",
+                        "doubled",
+                        "study"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-01-22",
+                "original_text": "J&J's (JNJ) Q4 Earnings Beat, 2019 Sales Forecast Soft",
+                "features": {
+                    "keywords": [
+                        "J&J",
+                        "Q4",
+                        "Earnings",
+                        "Beat",
+                        "Sales",
+                        "Forecast",
+                        "Soft"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-01-22",
+                "original_text": "Company News For Jan 22, 2019",
+                "features": {
+                    "keywords": [],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-01-22",
+                "original_text": "See what the IHS Markit Score report has to say about Eli Lilly and Co.",
+                "features": {
+                    "keywords": [
+                        "IHS",
+                        "Markit",
+                        "Score",
+                        "report",
+                        "Eli",
+                        "Lilly",
+                        "Co."
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

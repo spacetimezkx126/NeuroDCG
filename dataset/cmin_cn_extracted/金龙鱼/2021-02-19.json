@@ -1,0 +1,68 @@
+{
+    "2021-02-19": [
+        [
+            {
+                "time": "",
+                "original_text": "大 涨 3 5 1 % ， 业 绩 增 速 仅 有 5 % ， 6 2 8 8 亿 的 金 龙 鱼 高 估 了 吗 ？",
+                "features": {
+                    "keywords": [
+                        "金龙鱼",
+                        "高估",
+                        "业绩增速",
+                        "大涨"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "一 号 文 件 迎 “ 窗 口 期 ” ， 农 业 板 块 闻 风 起 舞",
+                "features": {
+                    "keywords": [
+                        "一号文件",
+                        "窗口期",
+                        "农业板块"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-02-18",
+                "original_text": "A 股 融 资 融 券 日 报 ： 两 融 余 额 增 加 2 5 0 . 8 6 亿 元 （ 2 月 1 8 日 ）",
+                "features": {
+                    "keywords": [
+                        "两融余额",
+                        "增加",
+                        "融资融券"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "2021-04-06": [
+        [
+            {
+                "time": "2021-04-15",
+                "original_text": "Walmart’s Flipkart Aims for IPO in Fourth Quarter, Sources Say",
+                "features": {
+                    "keywords": [
+                        "Walmart",
+                        "Flipkart",
+                        "IPO",
+                        "Fourth Quarter"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-04-15",
+                "original_text": "JP Morgan touts institutional bitcoin backing as volatility falls",
+                "features": {
+                    "keywords": [
+                        "JP Morgan",
+                        "bitcoin",
+                        "institutional backing",
+                        "volatility"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "cryptocurrency"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-04-15",
+                "original_text": "Credit Suisse warns Archegos Capital blowup will cost it £3.4bn",
+                "features": {
+                    "keywords": [
+                        "Credit Suisse",
+                        "Archegos Capital",
+                        "blowup",
+                        "cost"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "banking"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

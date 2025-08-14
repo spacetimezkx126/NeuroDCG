@@ -1,0 +1,78 @@
+{
+    "2018-12-06": [
+        [
+            {
+                "time": "",
+                "original_text": "国投资本：子公司安信证券11月净利1.42亿元",
+                "features": {
+                    "keywords": [
+                        "国投资本",
+                        "安信证券",
+                        "净利润",
+                        "11月"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "巨丰收评：蓝筹题材齐跌 沪指回踩2600点",
+                "features": {
+                    "keywords": [
+                        "巨丰收评",
+                        "蓝筹",
+                        "题材股",
+                        "下跌",
+                        "沪指",
+                        "2600点"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "大盘",
+                        "蓝筹股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "券商股尾盘异动，中信建投等三股拉升翻红",
+                "features": {
+                    "keywords": [
+                        "券商股",
+                        "尾盘",
+                        "异动",
+                        "中信建投",
+                        "拉升翻红"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "券商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

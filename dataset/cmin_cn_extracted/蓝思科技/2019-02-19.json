@@ -1,0 +1,46 @@
+{
+    "2019-02-19": [
+        [
+            {
+                "time": "2019-02-19",
+                "original_text": "山，西，证，券，：，晨，会，纪，要，（，2，0，1，9，.，2，.，1，9，）",
+                "features": {
+                    "keywords": [
+                        "山西证券",
+                        "晨会纪要"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-02-18",
+                "original_text": "【，证，券，研，究，报，告，】，量，价，齐，飞，，趋，势，形，成，—，—，山，证，策，略，每，日，A，股，点，评，（，2，0，1，9，0，2，1，8，）",
+                "features": {
+                    "keywords": [
+                        "量价齐飞",
+                        "趋势形成",
+                        "山西策略",
+                        "每日A股点评"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

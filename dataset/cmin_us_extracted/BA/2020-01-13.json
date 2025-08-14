@@ -1,0 +1,121 @@
+{
+    "2020-01-13": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "US Indexes Close Higher Monday",
+                "features": {
+                    "keywords": [
+                        "Indexes",
+                        "Close",
+                        "Higher"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-12-23",
+                "original_text": "Boeing's debt on review for downgrade by Moody's",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "debt",
+                        "downgrade",
+                        "Moody's"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-01-13",
+                "original_text": "Mnuchin says Boeing’s woes will slow U.S. growth in 2020",
+                "features": {
+                    "keywords": [
+                        "Mnuchin",
+                        "Boeing",
+                        "woes",
+                        "slow",
+                        "growth"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-01-14",
+                "original_text": "Wall Street Pushes Higher Amid Deal Flurry",
+                "features": {
+                    "keywords": [
+                        "Wall Street",
+                        "Pushes",
+                        "Higher",
+                        "Deal Flurry"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-01-15",
+                "original_text": "Boeing Suppliers Woodward and Hexcel Combine in $6.4 Billion Defense Deal",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "Suppliers",
+                        "Woodward",
+                        "Hexcel",
+                        "Combine",
+                        "Defense Deal"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "aerospace",
+                        "defense"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

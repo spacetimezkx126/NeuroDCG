@@ -1,0 +1,54 @@
+{
+    "2021-12-04": [
+        [
+            {
+                "time": "",
+                "original_text": "A股市场领涨全球，监管同意开展账户管理功能优化试点工作的消息可能对市场情绪产生积极影响。",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "领涨",
+                        "全球",
+                        "监管",
+                        "账户管理",
+                        "试点"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "北上资金年度净买入刷新历史纪录，表明外资持续流入A股市场，可能推动股价上涨。",
+                "features": {
+                    "keywords": [
+                        "北上资金",
+                        "净买入",
+                        "刷新",
+                        "历史纪录"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "外资",
+                        "资本市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

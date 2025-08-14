@@ -1,0 +1,48 @@
+{
+    "2021-11-11": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Wall Street Is Offering 8-Figure Pay Packages to Woo Top Talent",
+                "features": {
+                    "keywords": [
+                        "Wall Street",
+                        "8-figure pay",
+                        "top talent"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "The Veteran Jobs Mission Welcomes Ten New Member Companies",
+                "features": {
+                    "keywords": [
+                        "Veteran Jobs Mission",
+                        "new member companies"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "employment",
+                        "veterans"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

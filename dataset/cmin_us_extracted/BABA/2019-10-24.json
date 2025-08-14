@@ -1,0 +1,53 @@
+{
+    "2019-10-24": [
+        [
+            {
+                "time": "2019-06-18",
+                "original_text": "Why Facebook's Libra has a friend in GOP Senator Mike Rounds",
+                "features": {
+                    "keywords": [
+                        "Facebook",
+                        "Libra",
+                        "GOP",
+                        "Senator",
+                        "Mike Rounds"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-10-01",
+                "original_text": "SoftBank Slides to 10-Month Low After Unveiling WeWork Bailout",
+                "features": {
+                    "keywords": [
+                        "SoftBank",
+                        "WeWork",
+                        "bailout",
+                        "10-Month Low"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "venture capital"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

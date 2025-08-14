@@ -1,0 +1,76 @@
+{
+    "2020-07-03": [
+        [
+            {
+                "time": "2023-08-15",
+                "original_text": "Drive-in movies will screen at Walmart parking lots nationwide in August",
+                "features": {
+                    "keywords": [
+                        "Drive-in",
+                        "movies",
+                        "Walmart",
+                        "parking lots",
+                        "nationwide"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "entertainment"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-08-15",
+                "original_text": "Stop selling products that use monkey labour - UK PM's fiancee tells retailers",
+                "features": {
+                    "keywords": [
+                        "monkey labour",
+                        "UK PM",
+                        "retailers"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "ethics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-08-15",
+                "original_text": "GLOBAL MARKETS-Asian shares hit 4-month high as U.S., China recoveries gather pace",
+                "features": {
+                    "keywords": [
+                        "Asian shares",
+                        "4-month high",
+                        "U.S.",
+                        "China",
+                        "recoveries"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "global markets",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

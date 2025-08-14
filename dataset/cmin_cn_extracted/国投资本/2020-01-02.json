@@ -1,0 +1,51 @@
+{
+    "2020-01-02": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "券商股高开低走，国投资本、天风证券相继翻绿",
+                "features": {
+                    "keywords": [
+                        "券商股",
+                        "高开低走",
+                        "国投资本",
+                        "天风证券",
+                        "翻绿"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "券商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "国投资本(600061)：股票交易异常波动",
+                "features": {
+                    "keywords": [
+                        "国投资本",
+                        "股票交易",
+                        "异常波动"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

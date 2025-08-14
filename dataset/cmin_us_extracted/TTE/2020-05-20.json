@@ -1,0 +1,49 @@
+{
+    "2020-05-20": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Is TOTAL S.A.'s (EPA:FP) CEO Salary Justified?",
+                "features": {
+                    "keywords": [
+                        "TOTAL S.A.",
+                        "CEO Salary",
+                        "Justified"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Total Confirms the Sale of UK Assets to NEO Energy",
+                "features": {
+                    "keywords": [
+                        "Total",
+                        "Sale",
+                        "UK Assets",
+                        "NEO Energy"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

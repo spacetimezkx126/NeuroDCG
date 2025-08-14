@@ -1,0 +1,53 @@
+{
+    "2019-07-01": [
+        [
+            {
+                "time": "",
+                "original_text": "科创业金融开上快车道，这家银行去年为科技企业贷款增速达38%",
+                "features": {
+                    "keywords": [
+                        "科创",
+                        "金融",
+                        "科技企业",
+                        "贷款增速"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "4家银行触发股价稳定警报 股价低迷无碍中小行上市“补血”",
+                "features": {
+                    "keywords": [
+                        "银行",
+                        "股价稳定",
+                        "警报",
+                        "低迷",
+                        "上市",
+                        "补血"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

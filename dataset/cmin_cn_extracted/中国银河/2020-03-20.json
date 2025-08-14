@@ -1,0 +1,49 @@
+{
+    "2020-03-20": [
+        [
+            {
+                "time": "2023-03-20",
+                "original_text": "A股龙虎榜揭秘，机构抢筹8股",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "龙虎榜",
+                        "机构抢筹"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-20",
+                "original_text": "央行祭出100亿利器，LPR为何不降？",
+                "features": {
+                    "keywords": [
+                        "央行",
+                        "100亿",
+                        "LPR",
+                        "不降"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

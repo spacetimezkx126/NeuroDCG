@@ -1,0 +1,47 @@
+{
+    "2021-01-01": [
+        [
+            {
+                "time": "2021-01-01",
+                "original_text": "上市公司正面负面新闻2021年1月1日星期五",
+                "features": {
+                    "keywords": [
+                        "上市公司",
+                        "正面负面新闻"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-12-31",
+                "original_text": "2020年险资举牌达20次！二级市场公司涉及A、H股",
+                "features": {
+                    "keywords": [
+                        "险资举牌",
+                        "二级市场",
+                        "A股",
+                        "H股"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "保险",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

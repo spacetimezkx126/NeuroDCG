@@ -1,0 +1,51 @@
+{
+    "2021-06-30": [
+        [
+            {
+                "time": "",
+                "original_text": "温氏股份：公司乳业目前主要在华南地区",
+                "features": {
+                    "keywords": [
+                        "温氏股份",
+                        "乳业",
+                        "华南地区"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "食品饮料",
+                        "农业"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "猪企行业座次再生变：从“双子星”到“一超多强”",
+                "features": {
+                    "keywords": [
+                        "猪企",
+                        "行业座次",
+                        "双子星",
+                        "一超多强"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "养殖业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

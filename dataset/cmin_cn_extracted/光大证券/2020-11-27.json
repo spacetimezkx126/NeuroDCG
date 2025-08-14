@@ -1,0 +1,53 @@
+{
+    "2020-11-27": [
+        [
+            {
+                "time": "",
+                "original_text": "光大证券：铝价一路上行，电解铝行业盈利有望持续改善",
+                "features": {
+                    "keywords": [
+                        "铝价",
+                        "电解铝",
+                        "盈利",
+                        "改善"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "有色金属",
+                        "铝业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "央行发布《2020年第三季度中国货币政策执行报告》：把好货币供应总闸门，推动融资成本明显下降",
+                "features": {
+                    "keywords": [
+                        "央行",
+                        "货币政策",
+                        "货币供应",
+                        "融资成本",
+                        "下降"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "宏观经济"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

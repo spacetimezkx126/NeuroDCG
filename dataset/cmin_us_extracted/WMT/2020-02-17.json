@@ -1,0 +1,80 @@
+{
+    "2020-02-17": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "Dow Jones Futures: Walmart Earnings Due, 3 IPOs Near Buys; Warren Buffett Stock Set To Break Out",
+                "features": {
+                    "keywords": [
+                        "Walmart",
+                        "Earnings",
+                        "IPOs",
+                        "Warren Buffett",
+                        "Stock",
+                        "Break Out"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Pier 1 files for Chapter 11 bankruptcy protection",
+                "features": {
+                    "keywords": [
+                        "Pier 1",
+                        "Chapter 11",
+                        "bankruptcy",
+                        "protection"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Tennessee’s Treasury Sold GE, GM, and Verizon Stock. Here’s What It Bought.",
+                "features": {
+                    "keywords": [
+                        "Tennessee",
+                        "Treasury",
+                        "Sold",
+                        "GE",
+                        "GM",
+                        "Verizon",
+                        "Stock"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial",
+                        "automotive",
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "2019-08-16": [
+        [
+            {
+                "time": "",
+                "original_text": "北京大兴机场举行第三次演练 新增两大科目",
+                "features": {
+                    "keywords": [
+                        "北京大兴机场",
+                        "第三次演练",
+                        "新增科目"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "基建",
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2019-07",
+                "original_text": "7月 国航旅客周转量上升6.4% 货运投入上升3%",
+                "features": {
+                    "keywords": [
+                        "国航",
+                        "旅客周转量",
+                        "货运投入",
+                        "上升"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "恒指低开0.04%报25484点 中国平安绩后高开逾1%",
+                "features": {
+                    "keywords": [
+                        "恒指",
+                        "低开",
+                        "中国平安",
+                        "绩后高开"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

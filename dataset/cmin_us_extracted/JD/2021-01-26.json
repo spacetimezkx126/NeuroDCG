@@ -1,0 +1,74 @@
+{
+    "2021-01-26": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Is JD.com Stock a Buy?",
+                "features": {
+                    "keywords": [
+                        "JD.com",
+                        "Stock",
+                        "Buy"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Here’s What’s Happening With Returns At JD.com (NASDAQ:JD)",
+                "features": {
+                    "keywords": [
+                        "Returns",
+                        "JD.com",
+                        "NASDAQ:JD"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "Tencent Shares Drop After Approaching $1 Trillion Valuation",
+                "features": {
+                    "keywords": [
+                        "Tencent",
+                        "Shares",
+                        "Drop",
+                        "$1 Trillion",
+                        "Valuation"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "entertainment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

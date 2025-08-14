@@ -1,0 +1,49 @@
+{
+    "2021-07-27": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "红塔证券股票的投资者注意了 这件事忽略最惨将吃一个跌停板！",
+                "features": {
+                    "keywords": [
+                        "红塔证券",
+                        "投资者",
+                        "跌停板"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "每日提醒：ST加加停牌1天",
+                "features": {
+                    "keywords": [
+                        "ST加加",
+                        "停牌"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "消费",
+                        "食品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

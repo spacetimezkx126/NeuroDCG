@@ -1,0 +1,71 @@
+{
+    "2020-07-02": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Diversity is a $1.5 trillion economic opportunity in the US: former Unilever CEO",
+                "features": {
+                    "keywords": [
+                        "diversity",
+                        "economic opportunity",
+                        "Unilever"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "More people see ‘value’ and ‘quality’ in a brand’s politics — not products — as Facebook and other companies are finding out fast",
+                "features": {
+                    "keywords": [
+                        "brand politics",
+                        "Facebook",
+                        "value",
+                        "quality"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "7 International Stocks to Buy as the World Economy Restarts",
+                "features": {
+                    "keywords": [
+                        "international stocks",
+                        "buy",
+                        "world economy"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "global markets"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

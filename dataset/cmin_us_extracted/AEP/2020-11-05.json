@@ -1,0 +1,50 @@
+{
+    "2020-11-05": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "AEP, CCR, And, ELG, Compliance Plans Will Remove Additional 1,633 MW Of Coal-fueled Generation From Company Fleet",
+                "features": {
+                    "keywords": [
+                        "Compliance Plans",
+                        "Remove",
+                        "Coal-fueled Generation",
+                        "MW"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-11-07",
+                "original_text": "Ameren (AEE) Q3 Earnings Top Estimates, Revenues Drop Y/Y",
+                "features": {
+                    "keywords": [
+                        "Q3 Earnings",
+                        "Top Estimates",
+                        "Revenues Drop",
+                        "Y/Y"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

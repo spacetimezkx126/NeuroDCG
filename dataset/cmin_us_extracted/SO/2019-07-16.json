@@ -1,0 +1,99 @@
+{
+    "2019-07-16": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Daily Dividend Report: UNM, SO, BAX, PEG, OMC",
+                "features": {
+                    "keywords": [
+                        "Dividend",
+                        "UNM",
+                        "SO",
+                        "BAX",
+                        "PEG",
+                        "OMC"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "Georgia Power gets OK for battery energy storage investment, environmental compliance strategy",
+                "features": {
+                    "keywords": [
+                        "Georgia Power",
+                        "battery energy storage",
+                        "investment",
+                        "environmental compliance"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities",
+                        "renewable energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-20",
+                "original_text": "Southern Company’s Dividend Profile Compared to Its Peers",
+                "features": {
+                    "keywords": [
+                        "Southern Company",
+                        "Dividend",
+                        "Profile",
+                        "Peers"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities",
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-06-05",
+                "original_text": "Peter P. Sena III Named Southern Nuclear Chief Nuclear Officer",
+                "features": {
+                    "keywords": [
+                        "Peter P. Sena III",
+                        "Southern Nuclear",
+                        "Chief Nuclear Officer"
+                    ],
+                    "sentiment_score": 0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities",
+                        "nuclear energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

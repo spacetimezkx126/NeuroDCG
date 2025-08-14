@@ -1,0 +1,73 @@
+{
+    "2021-03-17": [
+        [
+            {
+                "time": "",
+                "original_text": "每周医药看点（2.8~2.21）",
+                "features": {
+                    "keywords": [
+                        "医药",
+                        "周报",
+                        "看点"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "药企回应救命药一年涨8倍：一年仅卖3000支，“长期处于严重亏损状态” 亏损",
+                "features": {
+                    "keywords": [
+                        "药企",
+                        "救命药",
+                        "涨价",
+                        "亏损"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "九州通虚胖式高增长：融资成本高企 定增资金被套",
+                "features": {
+                    "keywords": [
+                        "九州通",
+                        "高增长",
+                        "融资成本",
+                        "定增",
+                        "被套"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "商业流通"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

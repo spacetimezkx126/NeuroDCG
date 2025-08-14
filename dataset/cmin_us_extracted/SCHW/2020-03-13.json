@@ -1,0 +1,73 @@
+{
+    "2020-03-13": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "US STOCKS-Stimulus hopes bolster Wall Street after worst session since 1987",
+                "features": {
+                    "keywords": [
+                        "stimulus",
+                        "hopes",
+                        "bolster",
+                        "Wall Street",
+                        "worst session",
+                        "1987"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "stocks"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Charles Schwab reports strongest start to year as coronavirus fears grow",
+                "features": {
+                    "keywords": [
+                        "Charles Schwab",
+                        "strongest start",
+                        "coronavirus fears"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Schwab Reports Monthly Activity Highlights",
+                "features": {
+                    "keywords": [
+                        "Schwab",
+                        "Monthly Activity",
+                        "Highlights"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

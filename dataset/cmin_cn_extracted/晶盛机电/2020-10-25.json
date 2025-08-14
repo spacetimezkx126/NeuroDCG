@@ -1,0 +1,48 @@
+{
+    "2020-10-25": [
+        [
+            {
+                "time": "",
+                "original_text": "下,周,操,盘,攻,略,：,监,管,出,手,止,乱,，,价,值,将,回,归",
+                "features": {
+                    "keywords": [
+                        "监管出手",
+                        "止乱",
+                        "价值回归"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "晶,盛,机,电,：,公,司,已,经,研,发,了,第,三,代,半,导,体,材,料,S,i,C,单,晶,炉,并,实,现,销,售",
+                "features": {
+                    "keywords": [
+                        "晶盛机电",
+                        "第三代半导体材料",
+                        "SiC单晶炉",
+                        "研发销售"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "半导体",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

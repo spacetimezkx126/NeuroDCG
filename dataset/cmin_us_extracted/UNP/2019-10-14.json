@@ -1,0 +1,52 @@
+{
+    "2019-10-14": [
+        [
+            {
+                "time": "2020-01-15",
+                "original_text": "Goldman Sachs Cuts 2020 Transports Earnings Estimates On Industrial Weakness",
+                "features": {
+                    "keywords": [
+                        "Goldman Sachs",
+                        "Cuts",
+                        "Transports",
+                        "Earnings Estimates",
+                        "Industrial Weakness"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "transportation",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-09-20",
+                "original_text": "Will Weak Shipments Mar Union Pacific's (UNP) Q3 Earnings?",
+                "features": {
+                    "keywords": [
+                        "Weak Shipments",
+                        "Union Pacific",
+                        "Q3 Earnings"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "railroad",
+                        "transportation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

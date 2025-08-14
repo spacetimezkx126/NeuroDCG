@@ -1,0 +1,74 @@
+{
+    "2020-07-07": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Schwab Announces Its Summer Business Update",
+                "features": {
+                    "keywords": [
+                        "Schwab",
+                        "Summer",
+                        "Business",
+                        "Update"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Schwab Announces Action on Google Integration",
+                "features": {
+                    "keywords": [
+                        "Schwab",
+                        "Google",
+                        "Integration"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Palihapitiya: Skip government bailouts, put more money 'into the hands of consumers'",
+                "features": {
+                    "keywords": [
+                        "Palihapitiya",
+                        "government",
+                        "bailouts",
+                        "money",
+                        "consumers"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

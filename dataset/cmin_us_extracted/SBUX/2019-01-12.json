@@ -1,0 +1,97 @@
+{
+    "2019-01-12": [
+        [
+            {
+                "time": "2018-12-31",
+                "original_text": "Goldman On Restaurants: Buy Texas Roadhouse, Sell Yum, Hold Starbucks",
+                "features": {
+                    "keywords": [
+                        "Goldman",
+                        "restaurants",
+                        "Texas Roadhouse",
+                        "Yum",
+                        "Starbucks"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "restaurants"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-12-31",
+                "original_text": "Starbucks Opens One-of-a-Kind Coffee Sanctuary in Bali, Indonesia",
+                "features": {
+                    "keywords": [
+                        "Starbucks",
+                        "Coffee",
+                        "Sanctuary",
+                        "Bali",
+                        "Indonesia"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "coffee"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-12-31",
+                "original_text": "Why Starbucks Stock Beat the Market in 2018, Rising 12%",
+                "features": {
+                    "keywords": [
+                        "Starbucks",
+                        "Stock",
+                        "Beat",
+                        "Market",
+                        "Rising"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "stocks"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-12-31",
+                "original_text": "Starbucks lower after Goldman Sachs downgrade",
+                "features": {
+                    "keywords": [
+                        "Starbucks",
+                        "lower",
+                        "Goldman Sachs",
+                        "downgrade"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "stocks"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

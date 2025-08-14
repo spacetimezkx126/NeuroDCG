@@ -1,0 +1,49 @@
+{
+    "2018-07-12": [
+        [
+            {
+                "time": "2023-07-11",
+                "original_text": "动力煤684.00元/吨 60天上涨13.62%",
+                "features": {
+                    "keywords": [
+                        "动力煤",
+                        "价格上涨",
+                        "煤炭市场"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-01-01",
+                "original_text": "今年以来799家上市公司遭重要股东减持，其中14家被减持超1亿股",
+                "features": {
+                    "keywords": [
+                        "上市公司",
+                        "股东减持",
+                        "股票抛售"
+                    ],
+                    "sentiment_score": -0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

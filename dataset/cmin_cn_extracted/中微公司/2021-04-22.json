@@ -1,0 +1,53 @@
+{
+    "2021-04-22": [
+        [
+            {
+                "time": "2022-04-22",
+                "original_text": "A股资金流向（4月22日）：科技龙头获抢筹，中国平安连续被抛售",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "资金流向",
+                        "科技龙头",
+                        "中国平安",
+                        "抢筹",
+                        "抛售"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2022-04-22",
+                "original_text": "半导体板块逆势拉高，士兰微冲击涨停",
+                "features": {
+                    "keywords": [
+                        "半导体",
+                        "逆势拉高",
+                        "士兰微",
+                        "涨停"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

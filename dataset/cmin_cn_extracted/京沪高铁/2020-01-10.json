@@ -1,0 +1,50 @@
+{
+    "2020-01-10": [
+        [
+            {
+                "time": "",
+                "original_text": "铁、路、资、产、上、市、潮、涌、京、沪、高、铁、后、还、有、谁",
+                "features": {
+                    "keywords": [
+                        "铁路资产",
+                        "上市",
+                        "京沪高铁"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "交通运输",
+                        "铁路"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "北、京、西、站、今、起、铁、路、地、铁、安、检、互、认",
+                "features": {
+                    "keywords": [
+                        "北京西站",
+                        "铁路地铁安检互认"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "交通运输",
+                        "铁路",
+                        "地铁"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "2020-07-22": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Visa Inc. Declares Quarterly Dividend",
+                "features": {
+                    "keywords": [
+                        "Visa",
+                        "Quarterly Dividend",
+                        "Dividend Declaration"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "4 Stocks That Can Hit a $1 Trillion Valuation Next",
+                "features": {
+                    "keywords": [
+                        "Stocks",
+                        "Trillion Valuation",
+                        "Market Capitalization"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "2019-12-12": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "FDA Approves XELJANZ® XR (tofacitinib) Extended-Release Tablets for the Treatment of Ulcerative Colitis",
+                "features": {
+                    "keywords": [
+                        "FDA",
+                        "Approves",
+                        "XELJANZ",
+                        "tofacitinib",
+                        "Ulcerative Colitis"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-03",
+                "original_text": "Iterum Down as Sulopenem Antibiotic Fails in Phase III Study",
+                "features": {
+                    "keywords": [
+                        "Iterum",
+                        "Sulopenem",
+                        "Antibiotic",
+                        "Phase III",
+                        "Fails"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "Big Pharma’s Coming Back in 2020. Don’t Hold Your Breath for Generic Drug Stocks",
+                "features": {
+                    "keywords": [
+                        "Big Pharma",
+                        "Generic Drug Stocks",
+                        "2020"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2019-02-18": [
+        [
+            {
+                "time": "",
+                "original_text": "煤炭石油：港口价格小幅走高 荐5股",
+                "features": {
+                    "keywords": [
+                        "煤炭",
+                        "石油",
+                        "港口价格",
+                        "走高"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "煤炭",
+                        "石油"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "盘前有料｜三全食品封存疑似非洲猪瘟批次产品 今日重要消息有这些",
+                "features": {
+                    "keywords": [
+                        "三全食品",
+                        "封存",
+                        "非洲猪瘟",
+                        "批次产品"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "食品",
+                        "农业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

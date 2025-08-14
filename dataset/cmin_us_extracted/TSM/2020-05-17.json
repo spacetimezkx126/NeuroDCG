@@ -1,0 +1,52 @@
+{
+    "2020-05-17": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "Taiwan Semiconductor Is Expanding Manufacturing in the U.S.",
+                "features": {
+                    "keywords": [
+                        "Taiwan Semiconductor",
+                        "Expanding",
+                        "Manufacturing",
+                        "U.S."
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "semiconductors"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Taiwan Semi Has Not Received Any Assurance On US License For Huawei Tech Sale",
+                "features": {
+                    "keywords": [
+                        "Taiwan Semi",
+                        "US License",
+                        "Huawei",
+                        "Tech Sale"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "semiconductors"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

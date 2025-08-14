@@ -1,0 +1,50 @@
+{
+    "2020-04-03": [
+        [
+            {
+                "time": "2023-04-03",
+                "original_text": "A股龙虎榜揭秘，机构抛售9股",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "龙虎榜",
+                        "机构",
+                        "抛售"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-04-03",
+                "original_text": "长江证券APP月活大增七成",
+                "features": {
+                    "keywords": [
+                        "长江证券",
+                        "APP",
+                        "月活",
+                        "大增"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "券商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

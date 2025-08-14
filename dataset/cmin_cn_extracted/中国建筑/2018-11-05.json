@@ -1,0 +1,51 @@
+{
+    "2018-11-05": [
+        [
+            {
+                "time": "",
+                "original_text": "种下“四叶草”、再造茎脉线，进博会的展览场地这样建成",
+                "features": {
+                    "keywords": [
+                        "四叶草",
+                        "进博会",
+                        "展览场地"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "建筑",
+                        "会展"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国建筑2018年三季报点评:主业稳健,基建业务助力估值提升",
+                "features": {
+                    "keywords": [
+                        "中国建筑",
+                        "三季报",
+                        "基建业务",
+                        "估值提升"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "建筑",
+                        "基建"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

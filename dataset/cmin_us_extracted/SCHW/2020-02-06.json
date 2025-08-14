@@ -1,0 +1,51 @@
+{
+    "2020-02-06": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "Charles Schwab Relative Strength Climbs As It Builds A Flat Base",
+                "features": {
+                    "keywords": [
+                        "Charles Schwab",
+                        "Relative Strength",
+                        "Climbs",
+                        "Flat Base"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Hackers are ramping up attacks on retirement accounts — how to keep yourself safe",
+                "features": {
+                    "keywords": [
+                        "Hackers",
+                        "ramping up",
+                        "attacks",
+                        "retirement accounts"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2021-11-26": [
+        [
+            {
+                "time": "2020-11-27",
+                "original_text": "People are grumpy amid pandemic, 2020 election fallout, inflation, vaccines debate: Columbia Business School professor",
+                "features": {
+                    "keywords": [
+                        "pandemic",
+                        "election fallout",
+                        "inflation",
+                        "vaccines debate"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-11-27",
+                "original_text": "This isn’t Black Friday going by mall crowd sizes, strategist says",
+                "features": {
+                    "keywords": [
+                        "Black Friday",
+                        "mall crowd sizes"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

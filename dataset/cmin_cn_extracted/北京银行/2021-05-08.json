@@ -1,0 +1,56 @@
+{
+    "2021-05-08": [
+        [
+            {
+                "time": "",
+                "original_text": "北京银行总资产破3万亿，系城商行首家！盈利能力持续增强，股息率超6％！",
+                "features": {
+                    "keywords": [
+                        "北京银行",
+                        "总资产",
+                        "3万亿",
+                        "城商行",
+                        "盈利能力",
+                        "股息率",
+                        "6%"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "耶伦加息言论引市场巨震 银行股再获机构青睐",
+                "features": {
+                    "keywords": [
+                        "耶伦",
+                        "加息",
+                        "市场",
+                        "巨震",
+                        "银行股",
+                        "机构",
+                        "青睐"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

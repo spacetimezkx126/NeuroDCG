@@ -1,0 +1,49 @@
+{
+    "2021-11-23": [
+        [
+            {
+                "time": "",
+                "original_text": "上海莱士今日大宗交易成交500万股，成交价6.4元折价1.54%",
+                "features": {
+                    "keywords": [
+                        "上海莱士",
+                        "大宗交易",
+                        "成交",
+                        "折价"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "医药生物行业双周报：医保谈判落地 行业迎来配置机会",
+                "features": {
+                    "keywords": [
+                        "医药生物",
+                        "医保谈判",
+                        "配置机会"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

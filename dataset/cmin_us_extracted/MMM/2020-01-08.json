@@ -1,0 +1,74 @@
+{
+    "2020-01-08": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Dow climbs 265 points on gains in shares of UnitedHealth, McDonald's",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "climbs",
+                        "gains",
+                        "UnitedHealth",
+                        "McDonald's"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "Top Industrial Stocks for January 2020",
+                "features": {
+                    "keywords": [
+                        "Industrial",
+                        "Stocks",
+                        "January 2020"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrials"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-01-15",
+                "original_text": "3M: We Lowered 2020 Expectations as We Wait for Guidance in Late January",
+                "features": {
+                    "keywords": [
+                        "3M",
+                        "Lowered",
+                        "Expectations",
+                        "Guidance",
+                        "January"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

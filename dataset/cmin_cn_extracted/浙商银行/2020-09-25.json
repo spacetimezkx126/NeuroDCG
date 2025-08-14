@@ -1,0 +1,50 @@
+{
+    "2020-09-25": [
+        [
+            {
+                "time": "",
+                "original_text": "浙商银行(601916.SH)董事会通过关于理财存量资产整改计划的议案",
+                "features": {
+                    "keywords": [
+                        "浙商银行",
+                        "董事会",
+                        "理财存量资产",
+                        "整改计划"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "港股盘前必读：目前多只追踪恒生科技指数的ETF正在筹备上市",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "恒生科技指数",
+                        "ETF",
+                        "筹备上市"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

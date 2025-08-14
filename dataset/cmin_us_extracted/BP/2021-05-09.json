@@ -1,0 +1,72 @@
+{
+    "2021-05-09": [
+        [
+            {
+                "time": "2022-01-05",
+                "original_text": "Big Oil Eyes Wave Of Buybacks After Blowout Earnings",
+                "features": {
+                    "keywords": [
+                        "Big Oil",
+                        "buybacks",
+                        "blowout earnings"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-05-09",
+                "original_text": "Dogecoin plunges after Elon Musk mention on SNL",
+                "features": {
+                    "keywords": [
+                        "Dogecoin",
+                        "plunges",
+                        "Elon Musk",
+                        "SNL"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "cryptocurrency"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-06-10",
+                "original_text": "Calpers under fire over opposition to BP climate vote",
+                "features": {
+                    "keywords": [
+                        "Calpers",
+                        "opposition",
+                        "BP",
+                        "climate vote"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "environmental policy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

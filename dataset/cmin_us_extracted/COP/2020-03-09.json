@@ -1,0 +1,106 @@
+{
+    "2020-03-09": [
+        [
+            {
+                "time": "2018-02-09",
+                "original_text": "Market Recap: Monday, February 9",
+                "features": {
+                    "keywords": [
+                        "market recap",
+                        "monday"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-30",
+                "original_text": "ConocoPhillips to Hold First-Quarter Earnings Conference Call on Thursday, April 30",
+                "features": {
+                    "keywords": [
+                        "conocophillips",
+                        "earnings call"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-02-09",
+                "original_text": "2 CEOs Make Million-Dollar Buys",
+                "features": {
+                    "keywords": [
+                        "ceos",
+                        "million-dollar buys"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-02-09",
+                "original_text": "Dow futures fall maximum amount allowed, poised to plunge 1,300 points at the open as oil prices deliver a punishing blow to Wall Street",
+                "features": {
+                    "keywords": [
+                        "dow futures",
+                        "fall",
+                        "oil prices",
+                        "punishing blow"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-02-09",
+                "original_text": "Oil stocks tumble across the board amid Saudi/Russia price war, energy ETF down 16%",
+                "features": {
+                    "keywords": [
+                        "oil stocks",
+                        "tumble",
+                        "saudi/russia price war",
+                        "energy etf"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

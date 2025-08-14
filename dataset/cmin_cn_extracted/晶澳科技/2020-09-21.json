@@ -1,0 +1,52 @@
+{
+    "2020-09-21": [
+        [
+            {
+                "time": "",
+                "original_text": "硅料企业想涨价，硅片企业摆手：对不起，我承受不了 。硅片企业想压价，硅料企业摇头：对不起，我没有货了",
+                "features": {
+                    "keywords": [
+                        "硅料",
+                        "硅片",
+                        "涨价",
+                        "压价"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "半导体",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-09",
+                "original_text": "2020年电新行业周报9月第3期：新能源汽车景气向上 光伏持续保持高景气",
+                "features": {
+                    "keywords": [
+                        "新能源汽车",
+                        "光伏",
+                        "景气向上",
+                        "高景气"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源汽车",
+                        "光伏"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

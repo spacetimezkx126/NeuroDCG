@@ -1,0 +1,48 @@
+{
+    "2020-07-30": [
+        [
+            {
+                "time": "2020-08-01",
+                "original_text": "家电行业政策专题：最严能效标准实施 空调产业结构优化加速",
+                "features": {
+                    "keywords": [
+                        "家电行业",
+                        "能效标准",
+                        "空调产业",
+                        "产业结构优化"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家电",
+                        "空调"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-08-01",
+                "original_text": "2020年8月份上海证券研究所投资组合报告",
+                "features": {
+                    "keywords": [
+                        "投资组合",
+                        "上海证券研究所",
+                        "2020年8月"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

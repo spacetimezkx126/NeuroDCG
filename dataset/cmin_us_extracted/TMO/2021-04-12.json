@@ -1,0 +1,53 @@
+{
+    "2021-04-12": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Top Analyst Reports for Berkshire Hathaway, Thermo Fisher & T-Mobile",
+                "features": {
+                    "keywords": [
+                        "Berkshire Hathaway",
+                        "Thermo Fisher",
+                        "T-Mobile",
+                        "analyst reports"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "healthcare",
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "FDA Authorizes New High-Throughput, Automated System for Leading COVID-19 Test",
+                "features": {
+                    "keywords": [
+                        "FDA",
+                        "authorization",
+                        "high-throughput",
+                        "automated system",
+                        "COVID-19 test"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

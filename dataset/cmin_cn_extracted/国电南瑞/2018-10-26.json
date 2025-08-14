@@ -1,0 +1,52 @@
+{
+    "2018-10-26": [
+        [
+            {
+                "time": "",
+                "original_text": "充电桩数量猛增14倍利用率却不足15%",
+                "features": {
+                    "keywords": [
+                        "充电桩",
+                        "数量猛增",
+                        "利用率不足",
+                        "15%"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "汽车行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "重大项目获批 电网行业再迎利好",
+                "features": {
+                    "keywords": [
+                        "重大项目",
+                        "获批",
+                        "电网行业",
+                        "利好"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电力行业",
+                        "基础设施"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

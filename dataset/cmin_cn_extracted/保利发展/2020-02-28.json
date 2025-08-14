@@ -1,0 +1,80 @@
+{
+    "2020-02-28": [
+        [
+            {
+                "time": "",
+                "original_text": "地产股尾盘异动，保利地产直线拉升近4%",
+                "features": {
+                    "keywords": [
+                        "地产股",
+                        "尾盘",
+                        "异动",
+                        "保利地产",
+                        "拉升"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-02-28",
+                "original_text": "2月28日午盘沪指跌超3% 阳光城保利地产金地集团涨超1%",
+                "features": {
+                    "keywords": [
+                        "2月28日",
+                        "午盘",
+                        "沪指",
+                        "跌超3%",
+                        "阳光城",
+                        "保利地产",
+                        "金地集团",
+                        "涨超1%"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "[麒麟研报]券商:房地产板块估值在低位 龙头优势凸显",
+                "features": {
+                    "keywords": [
+                        "麒麟研报",
+                        "券商",
+                        "房地产",
+                        "板块估值",
+                        "低位",
+                        "龙头",
+                        "优势"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

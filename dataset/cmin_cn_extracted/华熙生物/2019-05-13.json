@@ -1,0 +1,53 @@
+{
+    "2019-05-13": [
+        [
+            {
+                "time": "",
+                "original_text": "上交所受理复旦张江科创板上市申请，拟融资6.5亿元",
+                "features": {
+                    "keywords": [
+                        "上交所",
+                        "复旦张江",
+                        "科创板",
+                        "上市申请",
+                        "融资"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "25家医药企业“闯关”科创板，微芯生物以研发占比“拔头筹”",
+                "features": {
+                    "keywords": [
+                        "医药企业",
+                        "科创板",
+                        "微芯生物",
+                        "研发占比"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "2020-11-06": [
+        [
+            {
+                "time": "",
+                "original_text": "资金困难，*ST刚泰暂无法兑付“17刚股01”债券利息 未按时兑付利息",
+                "features": {
+                    "keywords": [
+                        "资金困难",
+                        "ST刚泰",
+                        "债券利息",
+                        "兑付"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "潜逃21年，国泰君安证券前员工因挪用客户资金144万被判决 资金问题",
+                "features": {
+                    "keywords": [
+                        "潜逃",
+                        "国泰君安",
+                        "挪用资金",
+                        "判刑"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "美联储“按兵不动”！还在等一个答案",
+                "features": {
+                    "keywords": [
+                        "美联储",
+                        "按兵不动"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "宏观经济"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "房企三季度如何降杠杆：增回款、少拿地、卖股权",
+                "features": {
+                    "keywords": [
+                        "房企",
+                        "降杠杆",
+                        "增回款",
+                        "少拿地",
+                        "卖股权"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2020-09-10": [
+        [
+            {
+                "time": "",
+                "original_text": "广东上市公司上半年净利润3千亿，平安赚6百亿，南航亏81亿 亏损",
+                "features": {
+                    "keywords": [
+                        "广东上市公司",
+                        "净利润",
+                        "平安",
+                        "南航",
+                        "亏损"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "苹果2H20新品前瞻：IPHONE 12可能成为6年来最受欢迎的IPHONE",
+                "features": {
+                    "keywords": [
+                        "苹果",
+                        "IPHONE 12",
+                        "新品",
+                        "受欢迎"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

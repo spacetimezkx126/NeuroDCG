@@ -1,0 +1,53 @@
+{
+    "2020-08-06": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "宝博会今开幕：兆威荣获宝安区“增加值标杆企业”称号",
+                "features": {
+                    "keywords": [
+                        "宝博会",
+                        "兆威",
+                        "宝安区",
+                        "增加值标杆企业"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "制造业",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "霍尼韦尔等10余批次口罩不合格 2020口罩价格变化趋势 2020口罩市场分析与预测 产品问题",
+                "features": {
+                    "keywords": [
+                        "霍尼韦尔",
+                        "口罩",
+                        "不合格",
+                        "价格变化趋势",
+                        "市场分析"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医疗",
+                        "消费品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

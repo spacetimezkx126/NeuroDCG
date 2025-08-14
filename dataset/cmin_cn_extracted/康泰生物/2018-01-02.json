@@ -1,0 +1,53 @@
+{
+    "2018-01-02": [
+        [
+            {
+                "time": "2017-unknown",
+                "orginal_text": "2017全年企业上市总费用195亿募集资金总额为2105亿",
+                "features": {
+                    "keywords": [
+                        "2017全年",
+                        "企业上市",
+                        "总费用",
+                        "募集资金"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-01",
+                "orginal_text": "【医药】江琦：医药生物行业2018年1月月报：2018是政策落地大年，看好创新药、高品质仿制药、医疗服务三大方向-增持-0101",
+                "features": {
+                    "keywords": [
+                        "医药生物",
+                        "2018年",
+                        "政策落地",
+                        "创新药",
+                        "高品质仿制药",
+                        "医疗服务"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "生物"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

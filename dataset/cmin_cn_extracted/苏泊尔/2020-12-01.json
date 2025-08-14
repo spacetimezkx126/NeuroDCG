@@ -1,0 +1,51 @@
+{
+    "2020-12-01": [
+        [
+            {
+                "time": "",
+                "original_text": "2分种读财报|苏泊尔股价大幅跑输行业 产品老化难抗激烈竞争？",
+                "features": {
+                    "keywords": [
+                        "苏泊尔",
+                        "股价",
+                        "跑输行业",
+                        "产品老化",
+                        "激烈竞争"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家用电器"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "家用电器行业周报：变革可期 布局龙头",
+                "features": {
+                    "keywords": [
+                        "家用电器",
+                        "行业周报",
+                        "变革",
+                        "布局龙头"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "家用电器"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

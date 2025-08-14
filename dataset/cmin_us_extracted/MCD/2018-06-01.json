@@ -1,0 +1,148 @@
+{
+    "2018-06-01": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Market Close Report: NASDAQ Composite index closes at 7,554.33 up 112.21 points",
+                "features": {
+                    "keywords": [
+                        "NASDAQ",
+                        "Composite",
+                        "closes",
+                        "up"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "GrubHub Inc Is in a Food Delivery Bubble",
+                "features": {
+                    "keywords": [
+                        "GrubHub",
+                        "Food",
+                        "Delivery",
+                        "Bubble"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "food delivery",
+                        "consumer services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Dow Movers: UNH, INTC",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "Movers",
+                        "UNH",
+                        "INTC"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "A Justice Department Probe Only Further Endangers Bitcoin Futures",
+                "features": {
+                    "keywords": [
+                        "Justice",
+                        "Department",
+                        "Probe",
+                        "Bitcoin",
+                        "Futures"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "cryptocurrency",
+                        "financial regulation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Quick-Service Restaurants Are Raising Their Minimum Wages As They Shift Focus To Labor And Retention",
+                "features": {
+                    "keywords": [
+                        "Quick-Service",
+                        "Restaurants",
+                        "Raising",
+                        "Minimum",
+                        "Wages",
+                        "Labor",
+                        "Retention"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food service",
+                        "labor economics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Should You Buy Zoe’s Kitchen Stock at Its All-Time Lows?",
+                "features": {
+                    "keywords": [
+                        "Zoe’s",
+                        "Kitchen",
+                        "Stock",
+                        "All-Time",
+                        "Lows"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "restaurant",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

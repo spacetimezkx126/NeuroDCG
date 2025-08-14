@@ -1,0 +1,72 @@
+{
+    "2019-10-21": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Automotive Minute: Luxury brands win big at U.S.’s longest off-road rally",
+                "features": {
+                    "keywords": [
+                        "luxury brands",
+                        "win big",
+                        "off-road rally"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automotive",
+                        "luxury goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "GM Ramping Up EV Competition with Trucks and SUVs?",
+                "features": {
+                    "keywords": [
+                        "GM",
+                        "EV",
+                        "competition",
+                        "trucks",
+                        "SUVs"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automotive",
+                        "electric vehicles"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Wherefore art thou, minivan of yore?",
+                "features": {
+                    "keywords": [
+                        "minivan",
+                        "decline"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automotive"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

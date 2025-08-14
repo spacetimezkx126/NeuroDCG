@@ -1,0 +1,95 @@
+{
+    "2020-09-09": [
+        [
+            {
+                "time": "2023-09-09",
+                "original_text": "A股共发生107宗大宗交易成交26.98亿元（9月9日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "大宗交易",
+                        "成交额"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-09-09",
+                "original_text": "国投电力今日大宗交易成交1392.84万股，成交价9.22元溢价0.0%",
+                "features": {
+                    "keywords": [
+                        "国投电力",
+                        "大宗交易",
+                        "成交价",
+                        "溢价"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-09-09",
+                "original_text": "主要水电上市公司发布半年报：水“枯”影响业绩 整体发展稳健",
+                "features": {
+                    "keywords": [
+                        "水电",
+                        "半年报",
+                        "业绩",
+                        "发展稳健"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "水电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-09-09",
+                "original_text": "半年报：火电受益燃料不贵，水电受枯水拖累",
+                "features": {
+                    "keywords": [
+                        "火电",
+                        "水电",
+                        "半年报",
+                        "燃料成本",
+                        "枯水"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "火电",
+                        "水电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

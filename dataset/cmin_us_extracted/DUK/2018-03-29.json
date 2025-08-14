@@ -1,0 +1,79 @@
+{
+    "2018-03-29": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "How one conservative activist is boxing out liberal groups' shareholder proposals at Duke Energy, General Electric meetings",
+                "features": {
+                    "keywords": [
+                        "conservative activist",
+                        "boxing out",
+                        "liberal groups",
+                        "shareholder proposals",
+                        "Duke Energy",
+                        "General Electric"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Duke Energy: Goldman Sachs Turns Bearish On Valuation, Capital, EPS Worries",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "Goldman Sachs",
+                        "Bearish",
+                        "Valuation",
+                        "Capital",
+                        "EPS Worries"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Duke Energy using North Carolina-based renewable natural gas in first-of-its-kind project",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "North Carolina-based",
+                        "renewable natural gas",
+                        "first-of-its-kind",
+                        "project"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "renewables"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

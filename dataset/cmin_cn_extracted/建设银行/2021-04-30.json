@@ -1,0 +1,113 @@
+{
+    "2021-04-30": [
+        [
+            {
+                "time": "2023-04-15",
+                "original_text": "每 天 净 赚 3 6 . 8 7 亿 元 ， 6 家 国 有 大 行 一 季 度 加 起 来 赚 了 3 3 1 8 亿 ！ 北 上 资 金 只 管 来 买 、 买 、 买 ！",
+                "features": {
+                    "keywords": [
+                        "国有大行",
+                        "净利润",
+                        "北上资金"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-04-16",
+                "original_text": "上 海 银 保 监 局 一 口 气 开 1 7 张 罚 单 ， 建 行 、 农 行 等 银 行 栽 了 ， 金 融 监 管 处 罚",
+                "features": {
+                    "keywords": [
+                        "上海银保监局",
+                        "罚单",
+                        "建行",
+                        "农行"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-04-17",
+                "original_text": "6 家 银 行 财 报 发 布 后 股 价 出 现 大 跌 ， 建 行 罕 见 跌 3 %",
+                "features": {
+                    "keywords": [
+                        "银行财报",
+                        "股价下跌",
+                        "建设银行"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-04-18",
+                "original_text": "国 家 绿 色 发 展 基 金 4 家 大 行 股 东 资 格 获 批 ， 8 8 5 亿 规 模 基 金 实 体 化 运 作 何 时 启 动 ？",
+                "features": {
+                    "keywords": [
+                        "绿色发展基金",
+                        "股东资格",
+                        "实体化运作"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "绿色经济"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-04-19",
+                "original_text": "建 行 一 季 度 实 现 净 利 润 8 3 0 . 2 0 亿 元 ， 同 比 增 长 2 . 5 2 %",
+                "features": {
+                    "keywords": [
+                        "建设银行",
+                        "净利润",
+                        "同比增长"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

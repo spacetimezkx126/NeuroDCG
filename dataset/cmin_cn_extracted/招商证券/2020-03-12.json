@@ -1,0 +1,72 @@
+{
+    "2020-03-12": [
+        [
+            {
+                "time": "",
+                "original_text": "招 商 证 券 二 次 援 鄂 两 轮 捐 赠 总 值 1 1 1 6 . 2 万 元",
+                "features": {
+                    "keywords": [
+                        "招商证券",
+                        "援鄂",
+                        "捐赠",
+                        "1116.2万元"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "招 商 宏 观 ： 公 共 卫 生 建 设 也 是 新 基 建",
+                "features": {
+                    "keywords": [
+                        "招商宏观",
+                        "公共卫生",
+                        "新基建"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医疗",
+                        "基建"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "华 安 转 债 今 日 打 新 ， 为 年 内 首 只 由 券 商 发 行 的 可 转 债",
+                "features": {
+                    "keywords": [
+                        "华安转债",
+                        "打新",
+                        "券商",
+                        "可转债"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

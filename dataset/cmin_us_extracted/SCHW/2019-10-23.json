@@ -1,0 +1,50 @@
+{
+    "2019-10-23": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "CORRECTING and REPLACING Schwab Declares Common Stock Dividend and Declares Preferred Stock Dividends",
+                "features": {
+                    "keywords": [
+                        "Schwab",
+                        "Common Stock Dividend",
+                        "Preferred Stock Dividends"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Why Facebook’s Libra coin could become a big pain in your wallet",
+                "features": {
+                    "keywords": [
+                        "Facebook",
+                        "Libra coin",
+                        "pain",
+                        "wallet"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

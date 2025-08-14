@@ -1,0 +1,54 @@
+{
+    "2021-05-06": [
+        [
+            {
+                "time": "",
+                "original_text": "这是危险信号！TOP50上市房企利润迷失丨财报①",
+                "features": {
+                    "keywords": [
+                        "危险信号",
+                        "TOP50",
+                        "上市房企",
+                        "利润迷失",
+                        "财报"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "东北证券给予绿地控股买入评级：多元业务协同并进，三年计划降档有望",
+                "features": {
+                    "keywords": [
+                        "东北证券",
+                        "绿地控股",
+                        "买入评级",
+                        "多元业务",
+                        "协同并进",
+                        "三年计划",
+                        "降档有望"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

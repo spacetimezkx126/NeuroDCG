@@ -1,0 +1,51 @@
+{
+    "2018-11-28": [
+        [
+            {
+                "time": "",
+                "original_text": "山 发 布 1 0 8 个 国 企 混 改 项 目 引 民 资  涉 及 资 金 3 4 0 亿",
+                "features": {
+                    "keywords": [
+                        "国企混改",
+                        "民资",
+                        "资金",
+                        "山西"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "国有企业",
+                        "混合所有制改革"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2018-11-19至2018-11-25",
+                "original_text": "【 山 证 食 品 】 食 品 饮 料 行 业 周 报 （ 2 0 1 8 1 1 1 9 - 2 0 1 8 1 1 2 5 ） ： 五 粮 液 召 开 经 销 商 大 会 ，  公 布 2 0 1 9 市 场 营 销 政 策",
+                "features": {
+                    "keywords": [
+                        "五粮液",
+                        "经销商大会",
+                        "市场营销政策",
+                        "食品饮料行业"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

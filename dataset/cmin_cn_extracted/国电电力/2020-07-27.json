@@ -1,0 +1,51 @@
+{
+    "2020-07-27": [
+        [
+            {
+                "time": "2020-08-10",
+                "original_text": "2020年《财富》中国500强新鲜出炉，19家能源企业杀入前100！",
+                "features": {
+                    "keywords": [
+                        "财富",
+                        "中国500强",
+                        "能源企业",
+                        "排名"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-08-10",
+                "original_text": "2020年《财富》中国500强61家电力相关企业排名：谁升了？谁降了？谁最赚钱？",
+                "features": {
+                    "keywords": [
+                        "财富",
+                        "中国500强",
+                        "电力企业",
+                        "排名",
+                        "盈利能力"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电力"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

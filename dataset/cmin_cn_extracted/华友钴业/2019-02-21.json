@@ -1,0 +1,78 @@
+{
+    "2019-02-21": [
+        [
+            {
+                "time": "",
+                "original_text": "上投摩根7年老将投资失利，所管3只基金皆亏损",
+                "features": {
+                    "keywords": [
+                        "上投摩根",
+                        "老将",
+                        "投资失利",
+                        "基金",
+                        "亏损"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-01-01",
+                "original_text": "2019年新能源汽车产销靓丽开局 逾10亿大单涌入10股",
+                "features": {
+                    "keywords": [
+                        "2019年",
+                        "新能源汽车",
+                        "产销",
+                        "靓丽开局",
+                        "大单",
+                        "10股"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "社融数据改善有色金属需求预期 5股放量涨停吸金过亿",
+                "features": {
+                    "keywords": [
+                        "社融数据",
+                        "改善",
+                        "有色金属",
+                        "需求预期",
+                        "5股",
+                        "放量涨停",
+                        "吸金过亿"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "有色金属"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

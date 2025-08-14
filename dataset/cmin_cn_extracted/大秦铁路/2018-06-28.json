@@ -1,0 +1,52 @@
+{
+    "2018-06-28": [
+        [
+            {
+                "time": "",
+                "original_text": "A股MSCI成分股更抗跌，北上资金逆势增持146股",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "MSCI成分股",
+                        "抗跌",
+                        "北上资金",
+                        "逆势增持"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "A股",
+                        "MSCI成分股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-06-28",
+                "original_text": "6月28日早评：两市股指双双低开 石油板块逆势走强",
+                "features": {
+                    "keywords": [
+                        "两市股指",
+                        "低开",
+                        "石油板块",
+                        "逆势走强"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "石油板块"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

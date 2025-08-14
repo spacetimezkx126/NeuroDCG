@@ -1,0 +1,56 @@
+{
+    "2018-11-02": [
+        [
+            {
+                "time": "2018-11-02",
+                "original_text": "After Hours Most Active for Nov 2, 2018: F, ACA, V, GE, MFGP, KS",
+                "features": {
+                    "keywords": [
+                        "Most Active",
+                        "After Hours",
+                        "F",
+                        "ACA",
+                        "V",
+                        "GE",
+                        "MFGP",
+                        "KS"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "various"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-11-02",
+                "original_text": "Notable ETF Inflow Detected - ACWI, V, WFC, VZ",
+                "features": {
+                    "keywords": [
+                        "ETF Inflow",
+                        "ACWI",
+                        "V",
+                        "WFC",
+                        "VZ"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "global markets"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

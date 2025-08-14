@@ -1,0 +1,53 @@
+{
+    "2020-04-10": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "Time to Hit ‘Buy It Now’ Button on eBay Stock",
+                "features": {
+                    "keywords": [
+                        "eBay",
+                        "Buy It Now",
+                        "Button",
+                        "Stock"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Starbucks’ U.S. declines are deeper than some analysts expected; others fear customers won’t spend the way they used to",
+                "features": {
+                    "keywords": [
+                        "Starbucks",
+                        "U.S.",
+                        "declines",
+                        "analysts",
+                        "customers",
+                        "spend"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "food and beverage"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

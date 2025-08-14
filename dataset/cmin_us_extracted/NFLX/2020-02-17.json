@@ -1,0 +1,50 @@
+{
+    "2020-02-17": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Meet the new IRS tax form specially designed for people 65 and older",
+                "features": {
+                    "keywords": [
+                        "IRS",
+                        "tax form",
+                        "people 65 and older"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "government",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Lee Ainslie Buys Crown Holdings, Monster Beverage",
+                "features": {
+                    "keywords": [
+                        "Lee Ainslie",
+                        "Crown Holdings",
+                        "Monster Beverage"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods",
+                        "beverage"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

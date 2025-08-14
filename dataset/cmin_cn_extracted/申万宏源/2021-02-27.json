@@ -1,0 +1,53 @@
+{
+    "2021-02-27": [
+        [
+            {
+                "time": "",
+                "original_text": "高估资产“发抖”纳指重挫3.52%，美债收益率飙升撬起了谁",
+                "features": {
+                    "keywords": [
+                        "高估资产",
+                        "纳指重挫",
+                        "美债收益率",
+                        "飙升"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "债券市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "新三板券商排名有新变化：头部实力不减 后起之秀逆袭",
+                "features": {
+                    "keywords": [
+                        "新三板",
+                        "券商排名",
+                        "头部实力",
+                        "后起之秀",
+                        "逆袭"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "券商"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

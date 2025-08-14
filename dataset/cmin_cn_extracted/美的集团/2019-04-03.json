@@ -1,0 +1,51 @@
+{
+    "2019-04-03": [
+        [
+            {
+                "time": "",
+                "original_text": "家电行业寒冬下 海信家电（000921.SZ）的股价竟然翻倍了",
+                "features": {
+                    "keywords": [
+                        "家电行业",
+                        "海信家电",
+                        "股价翻倍"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "限购令取消大族激光盘中大涨 美的仍逼近红线",
+                "features": {
+                    "keywords": [
+                        "限购令取消",
+                        "大族激光",
+                        "盘中大涨",
+                        "美的",
+                        "逼近红线"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "激光",
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

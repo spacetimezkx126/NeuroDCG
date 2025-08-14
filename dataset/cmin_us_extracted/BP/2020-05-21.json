@@ -1,0 +1,53 @@
+{
+    "2020-05-21": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "America's Fossil Fuel or Europe's Bet on Low Carbon Future?",
+                "features": {
+                    "keywords": [
+                        "Fossil Fuel",
+                        "Low Carbon",
+                        "Europe",
+                        "America"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "environment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "U.S. energy regulators authorize AGDC's proposed Alaska LNG project",
+                "features": {
+                    "keywords": [
+                        "U.S.",
+                        "energy regulators",
+                        "AGDC",
+                        "Alaska LNG",
+                        "project"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "infrastructure"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

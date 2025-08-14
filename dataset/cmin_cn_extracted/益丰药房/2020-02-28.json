@@ -1,0 +1,49 @@
+{
+    "2020-02-28": [
+        [
+            {
+                "time": "",
+                "original_text": "【东吴医药全铭】医药生物行业点评：国家层面肯定互联网医疗的地位和作用，互联网医疗和药店行业有望受益",
+                "features": {
+                    "keywords": [
+                        "互联网医疗",
+                        "药店行业",
+                        "国家层面",
+                        "政策支持"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药",
+                        "生物科技",
+                        "互联网医疗"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "42只股北向资金持有流通盘的比例超10%",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "持股比例",
+                        "外资流入"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

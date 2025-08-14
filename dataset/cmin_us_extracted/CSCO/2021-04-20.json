@@ -1,0 +1,49 @@
+{
+    "2021-04-20": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "If You Invested $1,000 In Cisco Systems Inc 10 Years Ago, Here's How Much You'd Have Now",
+                "features": {
+                    "keywords": [
+                        "invested",
+                        "Cisco Systems",
+                        "10 years ago"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Digital Alpha Raises $1 Billion for Second Infrastructure Fund",
+                "features": {
+                    "keywords": [
+                        "Digital Alpha",
+                        "raises",
+                        "infrastructure fund"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "infrastructure",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "2020-01-23": [
+        [
+            {
+                "time": "2018-01-23",
+                "original_text": "A股市场破净股一览（1月23日）",
+                "features": {
+                    "keywords": [
+                        "破净股",
+                        "A股市场"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-22",
+                "original_text": "A股融资融券日报（1月22日）",
+                "features": {
+                    "keywords": [
+                        "融资融券",
+                        "A股"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

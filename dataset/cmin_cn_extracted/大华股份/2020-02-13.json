@@ -1,0 +1,72 @@
+{
+    "2020-02-13": [
+        [
+            {
+                "time": "2020-02-13",
+                "original_text": "科技股加速，大盘还能继续逼空吗？",
+                "features": {
+                    "keywords": [
+                        "科技股",
+                        "加速",
+                        "大盘",
+                        "逼空"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-02-13",
+                "original_text": "A股复工进行时丨浙商证券携手浙江百家上市公司发出倡议：厂自为战，科学复工！",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "复工",
+                        "浙商证券",
+                        "倡议",
+                        "科学复工"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-02-12",
+                "original_text": "2月12日有72家公司获重要股东增减持，延安必康已被连续减持155次",
+                "features": {
+                    "keywords": [
+                        "增减持",
+                        "延安必康",
+                        "连续减持"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

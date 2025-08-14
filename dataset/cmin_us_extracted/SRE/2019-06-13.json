@@ -1,0 +1,50 @@
+{
+    "2019-06-13": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "Moody's assigns Baa2 to Sempra Energy's junior subordinated notes",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "Baa2",
+                        "Sempra Energy",
+                        "junior subordinated notes"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "See what the IHS Markit Score report has to say about Sempra Energy.",
+                "features": {
+                    "keywords": [
+                        "IHS Markit Score",
+                        "Sempra Energy"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2019-11-13": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Wells Fargo Has a New CEO. Deutsche Bank Has Questions.",
+                "features": {
+                    "keywords": [
+                        "Wells Fargo",
+                        "New CEO",
+                        "Deutsche Bank",
+                        "Questions"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Stock buybacks of $570 billion next year may support the S&P 500 even if there’s a recession, report says",
+                "features": {
+                    "keywords": [
+                        "Stock buybacks",
+                        "$570 billion",
+                        "S&P 500",
+                        "recession"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

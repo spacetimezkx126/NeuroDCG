@@ -1,0 +1,53 @@
+{
+    "2018-12-11": [
+        [
+            {
+                "time": "",
+                "original_text": "华安基金股东腾挪背后：监管政策叠加上海国资内部调整",
+                "features": {
+                    "keywords": [
+                        "华安基金",
+                        "股东腾挪",
+                        "监管政策",
+                        "上海国资",
+                        "内部调整"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "业绩改善明显，券商反弹行情料延续",
+                "features": {
+                    "keywords": [
+                        "业绩改善",
+                        "券商",
+                        "反弹行情",
+                        "延续"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "券商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

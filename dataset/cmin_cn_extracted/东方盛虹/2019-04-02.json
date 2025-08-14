@@ -1,0 +1,73 @@
+{
+    "2019-04-02": [
+        [
+            {
+                "time": "2018-04-25",
+                "original_text": "借壳上市后首份年报 东方盛虹2018年营收184亿同比增13%",
+                "features": {
+                    "keywords": [
+                        "借壳上市",
+                        "东方盛虹",
+                        "营收",
+                        "同比增长"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工",
+                        "纺织"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-25",
+                "original_text": "东方盛虹发布重组上市后首份年报 2018年实现净利8.47亿元",
+                "features": {
+                    "keywords": [
+                        "重组上市",
+                        "东方盛虹",
+                        "净利润"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工",
+                        "纺织"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-25",
+                "original_text": "东方盛虹(000301.SZ)2018年净利润降40.75%至8.47亿元 拟10派1元 盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "东方盛虹",
+                        "净利润下降",
+                        "盈利能力"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工",
+                        "纺织"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

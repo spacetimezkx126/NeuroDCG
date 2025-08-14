@@ -1,0 +1,52 @@
+{
+    "2019-02-12": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Close Update: Lawmaker Deal to Avoid Another Shutdown Sends US Stocks Sharply Higher",
+                "features": {
+                    "keywords": [
+                        "Lawmaker",
+                        "Deal",
+                        "Avoid",
+                        "Shutdown",
+                        "US Stocks",
+                        "Sharply Higher"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "MMM a Top Socially Responsible Dividend Stock With 2.9% Yield",
+                "features": {
+                    "keywords": [
+                        "MMM",
+                        "Socially Responsible",
+                        "Dividend",
+                        "2.9% Yield"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrials"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

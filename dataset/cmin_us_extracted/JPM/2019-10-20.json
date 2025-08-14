@@ -1,0 +1,52 @@
+{
+    "2019-10-20": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "How Thrive Global's latest deal puts it on a path to health care",
+                "features": {
+                    "keywords": [
+                        "Thrive Global",
+                        "latest deal",
+                        "health care"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Market Weekend: Brexit Purgatory, Syria Troops to Iraq, J&J Arsenic, JPMorgan ‘Big Liquidity Thing’",
+                "features": {
+                    "keywords": [
+                        "Brexit",
+                        "Syria Troops",
+                        "J&J Arsenic",
+                        "JPMorgan",
+                        "Liquidity"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "pharmaceuticals",
+                        "politics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

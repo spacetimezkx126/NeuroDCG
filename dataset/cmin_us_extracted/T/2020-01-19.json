@@ -1,0 +1,56 @@
+{
+    "2020-01-19": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Here's what dominated Wikipedia's most-read articles last year",
+                "features": {
+                    "keywords": [
+                        "dominated",
+                        "Wikipedia",
+                        "most-read",
+                        "articles",
+                        "last year"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "media",
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Big Buys of Intel, AT&T, and Facebook Stock by Norway’s Biggest Bank",
+                "features": {
+                    "keywords": [
+                        "Big Buys",
+                        "Intel",
+                        "AT&T",
+                        "Facebook",
+                        "Stock",
+                        "Norway’s Biggest Bank"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "telecommunications",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

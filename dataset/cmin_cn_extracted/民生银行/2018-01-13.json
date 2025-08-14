@@ -1,0 +1,51 @@
+{
+    "2018-01-13": [
+        [
+            {
+                "time": "",
+                "original_text": "年初北京房贷利率调查：首套上浮区间0-10% 大行额度较宽松",
+                "features": {
+                    "keywords": [
+                        "房贷利率",
+                        "首套上浮",
+                        "大行额度",
+                        "宽松"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "银行股显现配置价值——专访职业投资人杨宝忠",
+                "features": {
+                    "keywords": [
+                        "银行股",
+                        "配置价值",
+                        "职业投资人",
+                        "杨宝忠"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "银行"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

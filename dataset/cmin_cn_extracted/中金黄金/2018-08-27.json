@@ -1,0 +1,54 @@
+{
+    "2018-08-27": [
+        [
+            {
+                "time": "",
+                "original_text": "[快讯]泰信400A基金公布半年报 收益为-15.66%",
+                "features": {
+                    "keywords": [
+                        "泰信400A基金",
+                        "半年报",
+                        "收益",
+                        "-15.66%"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "人民币兑美元“逆周期因子”重启 五大行业有望受益",
+                "features": {
+                    "keywords": [
+                        "人民币",
+                        "美元",
+                        "逆周期因子",
+                        "重启",
+                        "五大行业",
+                        "受益"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "出口",
+                        "航空",
+                        "造纸",
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

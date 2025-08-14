@@ -1,0 +1,70 @@
+{
+    "2020-12-10": [
+        [
+            {
+                "time": "2021-12-09",
+                "original_text": "A股融资融券日报：两融余额减少60.97亿元（12月9日）",
+                "features": {
+                    "keywords": [
+                        "两融余额",
+                        "减少",
+                        "融资融券"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-12-09",
+                "original_text": "A股尾盘跳水，北向资金逆势抢筹近39亿，大幅增持这两大板块（附股）",
+                "features": {
+                    "keywords": [
+                        "尾盘跳水",
+                        "北向资金",
+                        "逆势抢筹",
+                        "增持"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "未明确提及"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-12-09",
+                "original_text": "北向资金动向盘点：食品饮料持仓市值接近4000亿元",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "食品饮料",
+                        "持仓市值"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

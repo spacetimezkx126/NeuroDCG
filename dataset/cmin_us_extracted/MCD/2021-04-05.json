@@ -1,0 +1,53 @@
+{
+    "2021-04-05": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "These Fast Food Restaurants Are Investing in Tech: Should Investors Be Excited?",
+                "features": {
+                    "keywords": [
+                        "Fast Food",
+                        "Investing",
+                        "Tech",
+                        "Excited"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "food_service",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "McFamily Feud: Scandal, lawsuits, and cultural upheaval at McDonald’s",
+                "features": {
+                    "keywords": [
+                        "McFamily",
+                        "Feud",
+                        "Scandal",
+                        "Lawsuits",
+                        "Cultural Upheaval",
+                        "McDonald’s"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food_service"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

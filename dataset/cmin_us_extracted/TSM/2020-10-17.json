@@ -1,0 +1,53 @@
+{
+    "2020-10-17": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Advanced Micro Devices, Inc. -- Moody's upgrades Advanced Micro Devices' senior unsecured rating to Baa3; outlook stable",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "upgrades",
+                        "senior unsecured rating",
+                        "Baa3",
+                        "outlook stable"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "semiconductors"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Taiwan Semiconductor Manufacturing Co Ltd -- Moody's affirms TSMC's Aa3 rating; outlook stable",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "affirms",
+                        "Aa3 rating",
+                        "outlook stable"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "semiconductors"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

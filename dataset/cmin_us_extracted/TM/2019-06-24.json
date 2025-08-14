@@ -1,0 +1,70 @@
+{
+    "2019-06-24": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Toyota Announces North American Executive Leadership Changes",
+                "features": {
+                    "keywords": [
+                        "Toyota",
+                        "North American",
+                        "Executive Leadership Changes"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automobile"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "General Motors Air Bag Footdragging Adds Unnecessary Risk To GM Stock",
+                "features": {
+                    "keywords": [
+                        "General Motors",
+                        "Air Bag",
+                        "Footdragging",
+                        "Risk",
+                        "GM Stock"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automobile"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Revenue Numbers Aside, There’s No Good Reason to Buy PLUG Stock",
+                "features": {
+                    "keywords": [
+                        "Revenue Numbers",
+                        "PLUG Stock"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "2020-02-03": [
+        [
+            {
+                "time": "2018-02-07",
+                "original_text": "Is a Disappointment in Store for Glaxo's (GSK) Q4 Earnings?",
+                "features": {
+                    "keywords": [
+                        "Disappointment",
+                        "Q4 Earnings",
+                        "Glaxo",
+                        "GSK"
+                    ],
+                    "sentiment_score": -0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-02-07",
+                "original_text": "The Zacks Analyst Blog Highlights: Microsoft, Facebook, Novartis, Tesla and Raytheon",
+                "features": {
+                    "keywords": [
+                        "Zacks Analyst Blog",
+                        "Microsoft",
+                        "Facebook",
+                        "Novartis",
+                        "Tesla",
+                        "Raytheon"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "pharmaceuticals",
+                        "automotive",
+                        "defense"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

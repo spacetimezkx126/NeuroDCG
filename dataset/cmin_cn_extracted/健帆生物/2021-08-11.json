@@ -1,0 +1,51 @@
+{
+    "2021-08-11": [
+        [
+            {
+                "time": "",
+                "original_text": "广东证监局连发两份警示函，直指高乐股份、健帆生物高管亲属违规短线交易，金融监管处罚",
+                "features": {
+                    "keywords": [
+                        "广东证监局",
+                        "警示函",
+                        "高乐股份",
+                        "健帆生物",
+                        "高管亲属",
+                        "违规短线交易",
+                        "金融监管",
+                        "处罚"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "40家公司获机构调研（附名单）",
+                "features": {
+                    "keywords": [
+                        "公司",
+                        "机构调研",
+                        "名单"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

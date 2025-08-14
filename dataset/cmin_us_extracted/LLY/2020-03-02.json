@@ -1,0 +1,74 @@
+{
+    "2020-03-02": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Top Stock Reports for Eli Lilly, Union Pacific & Lockheed",
+                "features": {
+                    "keywords": [
+                        "Eli Lilly",
+                        "Union Pacific",
+                        "Lockheed"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals",
+                        "transportation",
+                        "defense"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "This is Why Eli Lilly (LLY) is a Great Dividend Stock",
+                "features": {
+                    "keywords": [
+                        "Eli Lilly",
+                        "Dividend",
+                        "Stock"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-22",
+                "original_text": "U.S. FDA Accepts Regulatory Submission for Tanezumab, a Potential First-in-Class Treatment for Patients with Chronic Pain Due to Moderate-to-Severe Osteoarthritis",
+                "features": {
+                    "keywords": [
+                        "FDA",
+                        "Tanezumab",
+                        "First-in-Class",
+                        "Chronic Pain",
+                        "Osteoarthritis"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

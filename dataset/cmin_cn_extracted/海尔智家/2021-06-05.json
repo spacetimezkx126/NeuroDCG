@@ -1,0 +1,69 @@
+{
+    "2021-06-05": [
+        [
+            {
+                "time": "",
+                "original_text": "江, 北, 高, 质, 量, 发, 展, ｜, 今, 年, 一, 季, 度, ，, 江, 北, 实, 现, 地, 区, 生, 产, 总, 值, 3, 5, 1, ., 9, 亿, 元",
+                "features": {
+                    "keywords": [
+                        "江北",
+                        "高质量发展",
+                        "地区生产总值"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "区域经济"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "未, 来, 海, 尔, 集, 团, 旗, 下, 企, 业, 或, 将, 加, 速, 登, 陆, 资, 本, 市, 场",
+                "features": {
+                    "keywords": [
+                        "海尔集团",
+                        "资本巿场",
+                        "加速登陆"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "家电行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "家, 用, 电, 器, 行, 业, 本, 周, 资, 金, 流, 出, 榜, ：, 6, 股, 净, 流, 出, 资, 金, 超, 5, 0, 0, 0, 万, 元",
+                "features": {
+                    "keywords": [
+                        "家用电器",
+                        "资金流出",
+                        "净流出"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家电行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

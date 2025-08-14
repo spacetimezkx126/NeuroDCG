@@ -1,0 +1,53 @@
+{
+    "2021-01-10": [
+        [
+            {
+                "time": "",
+                "original_text": "工商银行持续加强新型投融资风险管理",
+                "features": {
+                    "keywords": [
+                        "工商银行",
+                        "新型投融资",
+                        "风险管理"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "银行",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "董事长锤伤总经理背后：华信信托股权关系盘根错节 激进扩张踩雷",
+                "features": {
+                    "keywords": [
+                        "董事长",
+                        "总经理",
+                        "华信信托",
+                        "股权关系",
+                        "激进扩张",
+                        "踩雷"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "信托",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

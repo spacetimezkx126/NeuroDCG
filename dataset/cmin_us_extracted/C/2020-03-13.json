@@ -1,0 +1,74 @@
+{
+    "2020-03-13": [
+        [
+            {
+                "time": "2020-03-02",
+                "original_text": "Citigroup, JPMorgan report New York cases of coronavirus",
+                "features": {
+                    "keywords": [
+                        "Citigroup",
+                        "JPMorgan",
+                        "coronavirus",
+                        "New York"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-03-16",
+                "original_text": "US STOCKS-Wall St set to bounce as investors bet on stimulus to thwart recession",
+                "features": {
+                    "keywords": [
+                        "US Stocks",
+                        "Wall St",
+                        "stimulus",
+                        "recession"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-03-18",
+                "original_text": "US STOCKS-Futures point to recovery after Wall St carnage",
+                "features": {
+                    "keywords": [
+                        "US Stocks",
+                        "Futures",
+                        "recovery",
+                        "Wall St"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

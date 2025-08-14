@@ -1,0 +1,98 @@
+{
+    "2018-07-31": [
+        [
+            {
+                "time": "",
+                "original_text": "招, 商, 策, 略, ：, A, 股, 市, 场, 流, 动, 性, 明, 显, 回, 升,  , 陆, 股, 通, 加, 仓, 金, 融",
+                "features": {
+                    "keywords": [
+                        "A股市场",
+                        "流动性",
+                        "明显回升",
+                        "陆股通",
+                        "加仓金融"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "[, 买, 入, 评, 级, ], 中, 国, 国, 旅, (, 6, 0, 1, 8, 8, 8, ), 点, 评, ：, 拟, 在, 澳, 门, 开, 设, 市, 内, 免, 税, 店,  , 掘, 金, 百, 亿, 旅, 游, 购, 物, 消, 费, 市, 场",
+                "features": {
+                    "keywords": [
+                        "中国国旅",
+                        "澳门",
+                        "市内免税店",
+                        "旅游购物消费"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "旅游",
+                        "零售"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "休, 闲, 服, 务, 行, 业, 周, 报, 第, 5, 2, 期, :, 暑, 期, 出, 游, 迎, 来, 酷, 暑, 天, 气, ,, ‘, 水, ’, 主, 题, 公, 园, 人, 山, 人, 海",
+                "features": {
+                    "keywords": [
+                        "休闲服务行业",
+                        "暑期出游",
+                        "酷暑天气",
+                        "水主题公园"
+                    ],
+                    "sentiment_score": 0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "旅游",
+                        "娱乐"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "现, 代, 服, 务, 行, 业, 周, 报, :, 板, 块, 表, 现, 亮, 眼, ,, K, 1, 2, 市, 场, 关, 注, 度, 提, 升",
+                "features": {
+                    "keywords": [
+                        "现代服务行业",
+                        "板块表现亮眼",
+                        "K12市场",
+                        "关注度提升"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "教育",
+                        "服务"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

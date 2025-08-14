@@ -1,0 +1,75 @@
+{
+    "2019-01-04": [
+        [
+            {
+                "time": "",
+                "original_text": "旅游酒店：国家发展改革委印发《海南省建设国际旅游消费中心的实施方案》",
+                "features": {
+                    "keywords": [
+                        "旅游",
+                        "酒店",
+                        "国家发展改革委",
+                        "海南",
+                        "国际旅游消费中心",
+                        "实施方案"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "旅游",
+                        "酒店"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "宋城演艺：佛山项目由轻转重 买入评级",
+                "features": {
+                    "keywords": [
+                        "宋城演艺",
+                        "佛山项目",
+                        "轻资产",
+                        "重资产",
+                        "买入评级"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "文化娱乐"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "宋城演艺的重资产“老路”是否好走",
+                "features": {
+                    "keywords": [
+                        "宋城演艺",
+                        "重资产",
+                        "老路"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "文化娱乐"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

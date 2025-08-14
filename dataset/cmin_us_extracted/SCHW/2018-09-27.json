@@ -1,0 +1,111 @@
+{
+    "2018-09-27": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Schwab Ratings Affirmed by Moody's, Outlook Positive",
+                "features": {
+                    "keywords": [
+                        "Schwab",
+                        "Ratings",
+                        "Affirmed",
+                        "Moody's",
+                        "Outlook",
+                        "Positive"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Should You Invest in the iShares U.S. Broker-Dealers & Securities Exchanges ETF (IAI)?",
+                "features": {
+                    "keywords": [
+                        "Invest",
+                        "iShares",
+                        "U.S.",
+                        "Broker-Dealers",
+                        "Securities",
+                        "Exchanges",
+                        "ETF",
+                        "IAI"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "broker-dealers"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "Schwab Report: Millennial Self-Directed 401(k) Investors Allocate More to ETFs Than Do Other Generations; Mutual Funds Remain Top Holdings for All",
+                "features": {
+                    "keywords": [
+                        "Schwab",
+                        "Report",
+                        "Millennial",
+                        "Self-Directed",
+                        "401(k)",
+                        "Investors",
+                        "ETFs",
+                        "Mutual",
+                        "Funds"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "retirement"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-06-25",
+                "original_text": "Trade Is the Paramount Risk to Shorten Market Cycle, Sonders Says",
+                "features": {
+                    "keywords": [
+                        "Trade",
+                        "Paramount",
+                        "Risk",
+                        "Shorten",
+                        "Market",
+                        "Cycle",
+                        "Sonders"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "trade"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

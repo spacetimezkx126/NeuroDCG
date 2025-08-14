@@ -1,0 +1,55 @@
+{
+    "2021-05-05": [
+        [
+            {
+                "time": "2021-04-01",
+                "original_text": "Banks in Archegos Aftermath Tighten Credit Lines, Scrutinize Swaps",
+                "features": {
+                    "keywords": [
+                        "Banks",
+                        "Archegos",
+                        "Tighten",
+                        "Credit Lines",
+                        "Scrutinize",
+                        "Swaps"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "banking"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-07-15",
+                "original_text": "Jessica Alba’s Honest Co., Investors Raise $413 Million in IPO",
+                "features": {
+                    "keywords": [
+                        "Jessica Alba",
+                        "Honest Co.",
+                        "Investors",
+                        "IPO",
+                        "$413 Million"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

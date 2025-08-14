@@ -1,0 +1,51 @@
+{
+    "2021-01-04": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Duke Energy announces dividend payments to shareholders",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "dividend",
+                        "payments",
+                        "shareholders"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Duke Energy announces new head of Investor Relations",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "new head",
+                        "Investor Relations"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2019-09-23": [
+        [
+            {
+                "time": "",
+                "original_text": "影,院,跑,马,圈,地,的,时,代,结,束,了",
+                "features": {
+                    "keywords": [
+                        "影院",
+                        "跑马圈地",
+                        "时代结束"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "影视"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "影,视,传,媒,行,业,周,报,:,国,办,发,布,体,育,新,政,,体,育,产,业,再,获,政,策,利,好",
+                "features": {
+                    "keywords": [
+                        "影视传媒",
+                        "行业周报",
+                        "国办发布",
+                        "体育新政",
+                        "政策利好"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "体育",
+                        "影视传媒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

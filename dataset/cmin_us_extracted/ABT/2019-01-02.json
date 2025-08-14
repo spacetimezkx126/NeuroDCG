@@ -1,0 +1,47 @@
+{
+    "2019-01-02": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Angel Medical Files for Bankruptcy",
+                "features": {
+                    "keywords": [
+                        "Angel Medical",
+                        "bankruptcy"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Abbott Labs Falls 3%",
+                "features": {
+                    "keywords": [
+                        "Abbott Labs",
+                        "Falls",
+                        "3%"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

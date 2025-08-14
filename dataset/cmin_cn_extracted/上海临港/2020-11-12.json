@@ -1,0 +1,75 @@
+{
+    "2020-11-12": [
+        [
+            {
+                "time": "",
+                "original_text": "上海自贸板块持续走弱，外高桥触及跌停",
+                "features": {
+                    "keywords": [
+                        "上海自贸",
+                        "外高桥",
+                        "走弱",
+                        "跌停"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "自贸区",
+                        "港口"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "上海本地股异动，外高桥、上海临港等直线拉升",
+                "features": {
+                    "keywords": [
+                        "上海本地股",
+                        "外高桥",
+                        "上海临港",
+                        "异动",
+                        "拉升"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "地方经济",
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "策略专题：MSCI中国A股调整报告",
+                "features": {
+                    "keywords": [
+                        "MSCI",
+                        "中国A股",
+                        "调整报告"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "指数基金",
+                        "外资流入"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

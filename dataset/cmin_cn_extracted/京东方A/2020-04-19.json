@@ -1,0 +1,52 @@
+{
+    "2020-04-19": [
+        [
+            {
+                "time": "",
+                "original_text": "京东方向A因大宗交易太频繁，引起社会各界的广泛关注，是何原因？",
+                "features": {
+                    "keywords": [
+                        "京东方向A",
+                        "大宗交易",
+                        "频繁",
+                        "关注"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电子",
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "武汉光谷复苏 订单焦虑难解",
+                "features": {
+                    "keywords": [
+                        "武汉光谷",
+                        "复苏",
+                        "订单",
+                        "焦虑"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

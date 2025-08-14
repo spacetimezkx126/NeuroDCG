@@ -1,0 +1,52 @@
+{
+    "2021-10-11": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Is this upstart retailer the next great investment in coffee?",
+                "features": {
+                    "keywords": [
+                        "upstart",
+                        "retailer",
+                        "great investment",
+                        "coffee"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "food and beverage"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Good News for PepsiCo: Consumer Reaction to Price Increases Is Better Than Expected",
+                "features": {
+                    "keywords": [
+                        "PepsiCo",
+                        "consumer reaction",
+                        "price increases",
+                        "better than expected"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "beverage",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

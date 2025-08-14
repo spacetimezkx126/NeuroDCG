@@ -1,0 +1,73 @@
+{
+    "2021-03-12": [
+        [
+            {
+                "time": "2021-03-12",
+                "original_text": "晚间重要公告",
+                "features": {
+                    "keywords": [
+                        "晚间",
+                        "公告"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-03-12",
+                "original_text": "36氪首发 | 「小望科技」完成新希望领投近亿元A轮融资，依托财税SaaS服务建立企业数字化平台",
+                "features": {
+                    "keywords": [
+                        "小望科技",
+                        "新希望",
+                        "融资",
+                        "财税SaaS",
+                        "数字化平台"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "企业服务"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-03-12",
+                "original_text": "破解猪周期、鸡周期！温氏、新希望、圣农纷纷加码终端布局",
+                "features": {
+                    "keywords": [
+                        "猪周期",
+                        "鸡周期",
+                        "温氏",
+                        "新希望",
+                        "圣农",
+                        "终端布局"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "食品加工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

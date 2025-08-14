@@ -1,0 +1,52 @@
+{
+    "2020-10-29": [
+        [
+            {
+                "time": "",
+                "original_text": "中航飞机：将挂牌转让所持西飞科技100%的股权 资产异常",
+                "features": {
+                    "keywords": [
+                        "中航飞机",
+                        "挂牌转让",
+                        "西飞科技",
+                        "100%股权"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "航空",
+                        "军工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中航飞机：前三季度净利润同比增长32.77%",
+                "features": {
+                    "keywords": [
+                        "中航飞机",
+                        "净利润",
+                        "同比增长",
+                        "32.77%"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "军工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

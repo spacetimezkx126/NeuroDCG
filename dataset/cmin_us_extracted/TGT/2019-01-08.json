@@ -1,0 +1,70 @@
+{
+    "2019-01-08": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Notable Tuesday Option Activity: BTU, TGT, ICPT",
+                "features": {
+                    "keywords": [
+                        "Option Activity",
+                        "BTU",
+                        "TGT",
+                        "ICPT"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Why Amazon Is Facing Troubles in New York City",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "Troubles",
+                        "New York City"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Why These 3 Retail Stocks Rallied Today",
+                "features": {
+                    "keywords": [
+                        "Retail Stocks",
+                        "Rallied"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

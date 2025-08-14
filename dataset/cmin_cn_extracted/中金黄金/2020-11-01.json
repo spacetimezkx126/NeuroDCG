@@ -1,0 +1,41 @@
+{
+    "2020-11-01": [
+        [
+            {
+                "time": "",
+                "original_text": "【安信金属】2020Q3公募基金有色持仓分析：有色持仓保持平稳，铜金、锂板块获显著增仓，钴、加工板块配置回落",
+                "features": {
+                    "keywords": [
+                        "2020Q3",
+                        "公募基金",
+                        "有色持仓",
+                        "铜金",
+                        "锂板块",
+                        "钴",
+                        "加工板块"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "有色金属",
+                        "铜金",
+                        "锂",
+                        "钴",
+                        "加工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed",
+                    "fund_allocation_change": {
+                        "copper_gold": "increase",
+                        "lithium": "increase",
+                        "cobalt": "decrease",
+                        "processing": "decrease"
+                    }
+                }
+            }
+        ]
+    ]
+}

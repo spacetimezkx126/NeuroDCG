@@ -1,0 +1,51 @@
+{
+    "2021-05-20": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Equinor (EQNR), Sonatrach Unite for E&P Activities in Algeria",
+                "features": {
+                    "keywords": [
+                        "Equinor",
+                        "Sonatrach",
+                        "E&P",
+                        "Algeria"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "oil_and_gas"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Equinor ASA: Equinor’s share saving plan allocates shares",
+                "features": {
+                    "keywords": [
+                        "Equinor",
+                        "share_saving_plan",
+                        "allocates_shares"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

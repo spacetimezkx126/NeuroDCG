@@ -1,0 +1,49 @@
+{
+    "2020-08-29": [
+        [
+            {
+                "time": "",
+                "original_text": "估 值 蚂 蚁 ： 谁 的 资 本 盛 宴 ？",
+                "features": {
+                    "keywords": [
+                        "估值",
+                        "蚂蚁",
+                        "资本盛宴"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "1 0 4 公 司 利 润 环 比 连 增 4 5 家 步 入 绩 优 股 行 列",
+                "features": {
+                    "keywords": [
+                        "公司利润",
+                        "环比增长",
+                        "绩优股"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

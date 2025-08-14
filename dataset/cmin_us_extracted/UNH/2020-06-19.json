@@ -1,0 +1,54 @@
+{
+    "2020-06-19": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Dow up 75 points on gains in shares of Walgreens Boots, UnitedHealth",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "up",
+                        "Walgreens Boots",
+                        "UnitedHealth",
+                        "gains"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Walgreens Boots, Dow Inc. share gains contribute to Dow's nearly 150-point jump",
+                "features": {
+                    "keywords": [
+                        "Walgreens Boots",
+                        "Dow Inc.",
+                        "share gains",
+                        "Dow",
+                        "jump"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

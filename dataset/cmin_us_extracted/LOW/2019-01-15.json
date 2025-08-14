@@ -1,0 +1,53 @@
+{
+    "2019-01-15": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "Notable Tuesday Option Activity: PPG, LOW, SWK",
+                "features": {
+                    "keywords": [
+                        "Option Activity",
+                        "PPG",
+                        "LOW",
+                        "SWK"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial",
+                        "retail",
+                        "financial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "Why Analysts Expect Home Depot’s EPS Growth to Slow",
+                "features": {
+                    "keywords": [
+                        "Analysts",
+                        "Home Depot",
+                        "EPS Growth",
+                        "Slow"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "construction"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2021-02-28": [
+        [
+            {
+                "time": "2023-03-01",
+                "original_text": "三月“顺周期”先锋亮剑，“有色”ETF 3月1日御风发行",
+                "features": {
+                    "keywords": [
+                        "顺周期",
+                        "先锋",
+                        "有色",
+                        "ETF",
+                        "御风发行"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "有色金属",
+                        "金融产品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-01",
+                "original_text": "生意社：钴价下跌是上涨遇阻还是蓄势冲高？",
+                "features": {
+                    "keywords": [
+                        "钴价",
+                        "下跌",
+                        "上涨遇阻",
+                        "蓄势冲高"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金属",
+                        "原材料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "2019-09-06": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Should Investors Buy Bank of America Stock?",
+                "features": {
+                    "keywords": [
+                        "Investors",
+                        "Buy",
+                        "Bank of America",
+                        "Stock"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-09-10",
+                "original_text": "Interactive Brokers Up 2% as August DARTs Rise Sequentially",
+                "features": {
+                    "keywords": [
+                        "Interactive Brokers",
+                        "Up",
+                        "2%",
+                        "August",
+                        "DARTs",
+                        "Rise",
+                        "Sequentially"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-11-20",
+                "original_text": "Schwab (SCHW) Decides to Close Singapore Office by 2019-End",
+                "features": {
+                    "keywords": [
+                        "Schwab",
+                        "Close",
+                        "Singapore",
+                        "Office",
+                        "2019-End"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

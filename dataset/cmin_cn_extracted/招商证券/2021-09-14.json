@@ -1,0 +1,74 @@
+{
+    "2021-09-14": [
+        [
+            {
+                "time": "",
+                "original_text": "赤峰黄金跌5.81% 中信证券招商证券高点唱多",
+                "features": {
+                    "keywords": [
+                        "赤峰黄金",
+                        "中信证券",
+                        "招商证券",
+                        "唱多"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "黄金",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "工商银行成功发行全国商业银行首单绿色汽车分期资产支持证券",
+                "features": {
+                    "keywords": [
+                        "工商银行",
+                        "绿色汽车",
+                        "资产支持证券"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "银行",
+                        "绿色金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-09-10",
+                "original_text": "尚品宅配：招商证券、中国人寿养老等6家机构于9月10日调研我司",
+                "features": {
+                    "keywords": [
+                        "尚品宅配",
+                        "招商证券",
+                        "中国人寿养老",
+                        "调研"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "家居",
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

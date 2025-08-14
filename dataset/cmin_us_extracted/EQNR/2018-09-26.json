@@ -1,0 +1,49 @@
+{
+    "2018-09-26": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Norway's Central Bank Fears An Oil Price Spike",
+                "features": {
+                    "keywords": [
+                        "Central Bank",
+                        "Oil Price",
+                        "Spike"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "TechnipFMC (FTI) Enters Into Strategic Alliance With Equinor",
+                "features": {
+                    "keywords": [
+                        "TechnipFMC",
+                        "Strategic Alliance",
+                        "Equinor"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "engineering"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

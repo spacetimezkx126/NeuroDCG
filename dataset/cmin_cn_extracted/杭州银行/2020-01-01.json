@@ -1,0 +1,52 @@
+{
+    "2020-01-01": [
+        [
+            {
+                "time": "",
+                "original_text": "7000亿银行大局：原董事长刚被查 安邦就清仓大甩卖",
+                "features": {
+                    "keywords": [
+                        "银行",
+                        "董事长",
+                        "被查",
+                        "安邦",
+                        "清仓",
+                        "甩卖"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "永续债推行元年26家银行加入发行阵营 近万亿资金助力银行多渠道补充资本",
+                "features": {
+                    "keywords": [
+                        "永续债",
+                        "银行",
+                        "发行",
+                        "资本补充"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

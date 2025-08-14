@@ -1,0 +1,52 @@
+{
+    "2020-02-15": [
+        [
+            {
+                "time": "",
+                "original_text": "泸 州 老 窖 宣 布 取 消 经 销 商 2 月 份 国 窖 1 5 7 3 经 典 装 配 额",
+                "features": {
+                    "keywords": [
+                        "泸州老窖",
+                        "取消",
+                        "经销商",
+                        "国窖1573",
+                        "经典装",
+                        "配额"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "拿 茅 台 换 口 罩 ， 黄 牛 也 慌 了",
+                "features": {
+                    "keywords": [
+                        "茅台",
+                        "口罩",
+                        "黄牛"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "白酒",
+                        "医疗"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

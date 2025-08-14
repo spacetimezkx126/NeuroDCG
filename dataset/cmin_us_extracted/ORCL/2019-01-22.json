@@ -1,0 +1,77 @@
+{
+    "2019-01-22": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Oracle allegedly withheld $400 million in wages from underrepresented employees",
+                "features": {
+                    "keywords": [
+                        "Oracle",
+                        "withheld",
+                        "wages",
+                        "underrepresented",
+                        "employees"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "human resources"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "Department of Labor accuses Oracle of discrimination that cost women and minorities $400 million",
+                "features": {
+                    "keywords": [
+                        "Department of Labor",
+                        "accuses",
+                        "Oracle",
+                        "discrimination",
+                        "women",
+                        "minorities"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "legal"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "See what the IHS Markit Score report has to say about Oracle Corp.",
+                "features": {
+                    "keywords": [
+                        "IHS Markit Score",
+                        "report",
+                        "Oracle Corp."
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "financial analysis"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

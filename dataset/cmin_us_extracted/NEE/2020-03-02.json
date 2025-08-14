@@ -1,0 +1,51 @@
+{
+    "2020-03-02": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "American Municipal Power, Inc. - Solar Electricity Prepayment Project -- Moody's announces completion of a periodic review of ratings of American Municipal Power, Inc. - Solar Electricity Prepayment Project",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "rating review",
+                        "Solar Electricity",
+                        "Prepayment Project"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities",
+                        "renewable energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Coronavirus Pulls Down Market, Utilities Remain a Safe Bet",
+                "features": {
+                    "keywords": [
+                        "Coronavirus",
+                        "Market decline",
+                        "Utilities",
+                        "Safe Bet"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

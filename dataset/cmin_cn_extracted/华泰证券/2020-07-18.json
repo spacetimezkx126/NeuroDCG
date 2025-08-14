@@ -1,0 +1,75 @@
+{
+    "2020-07-18": [
+        [
+            {
+                "time": "",
+                "original_text": "华泰证券：A股处于“第二库存周期和第二科技周期牛市”",
+                "features": {
+                    "keywords": [
+                        "华泰证券",
+                        "A股",
+                        "第二库存周期",
+                        "第二科技周期",
+                        "牛市"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "A股市场巨震，北上资金逆势加仓券商股",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "市场巨震",
+                        "北上资金",
+                        "逆势加仓",
+                        "券商股"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "“券商高价回购”对垒“股东逢高套现”",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "高价回购",
+                        "股东",
+                        "逢高套现"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

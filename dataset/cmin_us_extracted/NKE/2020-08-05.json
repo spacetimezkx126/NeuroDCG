@@ -1,0 +1,74 @@
+{
+    "2020-08-05": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Dow rallies nearly 400 points on gains for shares of Walt Disney, Boeing",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "rallies",
+                        "Walt Disney",
+                        "Boeing"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment",
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Walt Disney, Nike share gains contribute to Dow's 319-point rally",
+                "features": {
+                    "keywords": [
+                        "Walt Disney",
+                        "Nike",
+                        "Dow",
+                        "rally"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment",
+                        "apparel"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "The Retail Misery Story Likely Continued In Q2; Earnings Ahead",
+                "features": {
+                    "keywords": [
+                        "Retail",
+                        "Misery",
+                        "Q2",
+                        "Earnings"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

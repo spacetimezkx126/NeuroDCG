@@ -1,0 +1,77 @@
+{
+    "2020-03-04": [
+        [
+            {
+                "time": "2020-03-15",
+                "original_text": "Billionaire Bill Ackman is hedging his bets as coronavirus looms over market",
+                "features": {
+                    "keywords": [
+                        "Bill Ackman",
+                        "hedging",
+                        "coronavirus",
+                        "market"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-03-15",
+                "original_text": "Bill Ackman Is Preparing Pershing Square for a Coronavirus Meltdown",
+                "features": {
+                    "keywords": [
+                        "Bill Ackman",
+                        "Pershing Square",
+                        "Coronavirus",
+                        "Meltdown"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-03-18",
+                "original_text": "Lowe's to Webcast Presentation from the BofA Securities 2020 Consumer & Retail Technology Conference",
+                "features": {
+                    "keywords": [
+                        "Lowe's",
+                        "Webcast",
+                        "BofA Securities",
+                        "Consumer",
+                        "Retail",
+                        "Technology",
+                        "Conference"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "consumer goods",
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

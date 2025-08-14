@@ -1,0 +1,47 @@
+{
+    "2019-09-11": [
+        [
+            {
+                "time": "2019-09-11",
+                "original_text": "A股早报2019年9月11日星期三",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "早报"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-09-11",
+                "original_text": "零售行业周报:维持推荐必要消费渠道",
+                "features": {
+                    "keywords": [
+                        "零售行业",
+                        "周报",
+                        "维持推荐",
+                        "必要消费渠道"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "零售",
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

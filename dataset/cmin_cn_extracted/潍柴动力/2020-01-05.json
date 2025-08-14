@@ -1,0 +1,49 @@
+{
+    "2020-01-05": [
+        [
+            {
+                "time": "",
+                "original_text": "国盛策略：做多窗口继续 战略看多周期核心资产",
+                "features": {
+                    "keywords": [
+                        "国盛策略",
+                        "做多窗口",
+                        "周期核心资产"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "周期"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "12月乘用车销量或负增长，关注特斯拉产业链机遇【华泰汽车每周谈】",
+                "features": {
+                    "keywords": [
+                        "乘用车销量",
+                        "负增长",
+                        "特斯拉产业链"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车",
+                        "特斯拉产业链"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

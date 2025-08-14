@@ -1,0 +1,78 @@
+{
+    "2021-12-22": [
+        [
+            {
+                "time": "2021-10-15",
+                "original_text": "Retail: ‘The pandemic created the urgency’ to invest in e-commerce, analyst says",
+                "features": {
+                    "keywords": [
+                        "pandemic",
+                        "urgency",
+                        "e-commerce",
+                        "invest"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-11-03",
+                "original_text": "20 companies are spending billions to boost their stock prices",
+                "features": {
+                    "keywords": [
+                        "companies",
+                        "spending",
+                        "billions",
+                        "boost",
+                        "stock prices"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2022-01-10",
+                "original_text": "Lowe's (LOW) Stock Up 52% in a Year: What's Ahead in 2022?",
+                "features": {
+                    "keywords": [
+                        "Lowe's",
+                        "LOW",
+                        "Stock Up",
+                        "52%",
+                        "Year",
+                        "Ahead",
+                        "2022"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "home improvement"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

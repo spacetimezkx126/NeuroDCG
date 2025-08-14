@@ -1,0 +1,71 @@
+{
+    "2019-08-02": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "The Iron Ore Boom Looks Like It’s About to Go Bust",
+                "features": {
+                    "keywords": [
+                        "iron ore",
+                        "boom",
+                        "bust"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining",
+                        "commodities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "The 10 Biggest Energy Stocks",
+                "features": {
+                    "keywords": [
+                        "energy",
+                        "stocks",
+                        "biggest"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Commodities Roiled as Trump Pours Gasoline on Trade War Inferno",
+                "features": {
+                    "keywords": [
+                        "commodities",
+                        "trade war",
+                        "Trump"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "commodities",
+                        "trade"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

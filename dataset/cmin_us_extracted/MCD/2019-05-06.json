@@ -1,0 +1,96 @@
+{
+    "2019-05-06": [
+        [
+            {
+                "time": "2018-05-07",
+                "original_text": "Dow Recoups on China Trade Reports",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "Recoups",
+                        "China",
+                        "Trade",
+                        "Reports"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "global trade"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-05-07",
+                "original_text": "Market Recap for Monday, May 6",
+                "features": {
+                    "keywords": [
+                        "Market",
+                        "Recap",
+                        "Monday",
+                        "May"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-05-01",
+                "original_text": "Why Cypress Semiconductor Stock Jumped 15% in April",
+                "features": {
+                    "keywords": [
+                        "Cypress",
+                        "Semiconductor",
+                        "Stock",
+                        "Jumped",
+                        "15%",
+                        "April"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-07",
+                "original_text": "Dow Movers: CAT, CVX",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "Movers",
+                        "CAT",
+                        "CVX"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial goods",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

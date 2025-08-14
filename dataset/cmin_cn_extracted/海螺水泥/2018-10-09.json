@@ -1,0 +1,68 @@
+{
+    "2018-10-09": [
+        [
+            {
+                "time": "2023-10-09",
+                "original_text": "截 至 10 月 9 日 AH 股 共 计 2 只 股 票 股 价 倒 挂",
+                "features": {
+                    "keywords": [
+                        "AH股",
+                        "股价倒挂"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "投 资 策 略 研 究 : 二 季 度 机 构 持 仓 分 析 , 海 外 机 构 持 续 加 仓 , 国 内 机 构 持 仓 市 值 下 降",
+                "features": {
+                    "keywords": [
+                        "投资策略",
+                        "机构持仓",
+                        "海外机构加仓",
+                        "国内机构市值下降"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            },
+            {
+                "time": "2023-10-09",
+                "original_text": "【 超 级 大 单 】  10 月 09 日  3 只 个 股 特 大 单 净 流 入 超 亿 元",
+                "features": {
+                    "keywords": [
+                        "超级大单",
+                        "特大单净流入"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "个股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "2019-11-30": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "CNBC’s Jim Cramer, a longtime Tesla critic, says he might be about to buy a Model X — because his wife says so",
+                "features": {
+                    "keywords": [
+                        "Jim Cramer",
+                        "Tesla",
+                        "Model X",
+                        "critic",
+                        "buy"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automotive",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Tesla move will draw further companies into Germany - state premier",
+                "features": {
+                    "keywords": [
+                        "Tesla",
+                        "Germany",
+                        "state premier",
+                        "companies"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "international business",
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Tesla Preorders Show High Demand, but There’s a Low Bar",
+                "features": {
+                    "keywords": [
+                        "Tesla",
+                        "preorders",
+                        "demand",
+                        "low bar"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automotive",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

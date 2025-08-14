@@ -1,0 +1,72 @@
+{
+    "2021-10-21": [
+        [
+            {
+                "time": "",
+                "original_text": "温氏股份跌3.12% 中信证券中泰证券华创证券高位唱多",
+                "features": {
+                    "keywords": [
+                        "温氏股份",
+                        "中信证券",
+                        "中泰证券",
+                        "华创证券",
+                        "高位唱多"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "十月猪价大涨超30%，牧原股份大股东豪掷60亿“赌定”市场好转",
+                "features": {
+                    "keywords": [
+                        "猪价",
+                        "牧原股份",
+                        "大股东",
+                        "60亿",
+                        "市场好转"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "谁都逃不过猪周期",
+                "features": {
+                    "keywords": [
+                        "猪周期"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "2018-12-10": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "How Dividends Work",
+                "features": {
+                    "keywords": [
+                        "dividends",
+                        "work"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Coca-Cola's Muhtar Kent talks 'constant volatility,' the 'cola wars' (Video)",
+                "features": {
+                    "keywords": [
+                        "Coca-Cola",
+                        "Muhtar Kent",
+                        "constant volatility",
+                        "cola wars"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

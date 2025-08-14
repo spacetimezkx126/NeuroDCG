@@ -1,0 +1,53 @@
+{
+    "2020-02-20": [
+        [
+            {
+                "time": "2020-03-02",
+                "original_text": "JD.com to Report Fourth Quarter and Full Year 2019 Financial Results on March 2, 2020",
+                "features": {
+                    "keywords": [
+                        "JD.com",
+                        "Fourth Quarter",
+                        "Full Year",
+                        "Financial Results"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "e-commerce",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-03-02",
+                "original_text": "Coronavirus biggest winners: Tech providers in China, Hong Kong",
+                "features": {
+                    "keywords": [
+                        "Coronavirus",
+                        "winners",
+                        "Tech providers",
+                        "China",
+                        "Hong Kong"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "2021-07-07": [
+        [
+            {
+                "time": "2021-07-07",
+                "original_text": "A股早报2021年7月7日星期三",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "早报",
+                        "2021年7月7日"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "家进了中国市值500强，大湾区上市公司为啥这么牛？",
+                "features": {
+                    "keywords": [
+                        "中国市值500强",
+                        "大湾区",
+                        "上市公司"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "房地产",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【IPO追踪】智能制造平台广东领益智造已申请香港上市中金、华泰及瑞银为联席保荐人",
+                "features": {
+                    "keywords": [
+                        "IPO",
+                        "智能制造",
+                        "广东领益智造",
+                        "香港上市",
+                        "中金",
+                        "华泰",
+                        "瑞银"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "制造业",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

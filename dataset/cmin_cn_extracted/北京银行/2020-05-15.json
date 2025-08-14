@@ -1,0 +1,55 @@
+{
+    "2020-05-15": [
+        [
+            {
+                "time": "",
+                "original_text": "康得新造假案一年后，北京银行撤销西单支行负责人职务",
+                "features": {
+                    "keywords": [
+                        "康得新",
+                        "造假案",
+                        "北京银行",
+                        "西单支行",
+                        "负责人",
+                        "撤销职务"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "企业治理"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "主承销商：关注“18康得新SCP001”、“18康得新SCP002”违约后续",
+                "features": {
+                    "keywords": [
+                        "主承销商",
+                        "18康得新SCP001",
+                        "18康得新SCP002",
+                        "违约",
+                        "后续"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "债券市场",
+                        "信用风险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

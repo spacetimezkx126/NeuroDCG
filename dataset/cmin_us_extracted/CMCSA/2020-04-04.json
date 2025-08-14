@@ -1,0 +1,55 @@
+{
+    "2020-04-04": [
+        [
+            {
+                "time": "2020-03-15",
+                "original_text": "Disney an early streaming winner as Americans are stuck indoors amid coronavirus pandemic",
+                "features": {
+                    "keywords": [
+                        "Disney",
+                        "streaming",
+                        "winner",
+                        "Americans",
+                        "stuck indoors",
+                        "coronavirus pandemic"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-04-05",
+                "original_text": "With Olympics on Hold, NBCUniversal Works Up a New Launch Plan for Peacock",
+                "features": {
+                    "keywords": [
+                        "Olympics",
+                        "Hold",
+                        "NBCUniversal",
+                        "Launch Plan",
+                        "Peacock"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "media",
+                        "broadcasting"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

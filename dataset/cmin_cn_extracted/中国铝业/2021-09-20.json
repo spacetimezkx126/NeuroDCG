@@ -1,0 +1,57 @@
+{
+    "2021-09-20": [
+        [
+            {
+                "time": "",
+                "original_text": "香 港 恒 生 指 数 午 盘 跌 3 . 8 7 % 报 2 3 9 5 5 . 1 8 点 ， 地 产 股 、 资 源 股 、 内 资 金 融 股 大 跌",
+                "features": {
+                    "keywords": [
+                        "恒生指数",
+                        "午盘",
+                        "大跌",
+                        "地产股",
+                        "资源股",
+                        "内资金融股"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "地产",
+                        "资源",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "恒 指 大 跌 4 % 失 守 2 4 0 0 0 点 ， 地 产 股 、 资 源 股 领 跌",
+                "features": {
+                    "keywords": [
+                        "恒指",
+                        "大跌",
+                        "失守",
+                        "24000点",
+                        "地产股",
+                        "资源股"
+                    ],
+                    "sentiment_score": -0.95,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "地产",
+                        "资源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

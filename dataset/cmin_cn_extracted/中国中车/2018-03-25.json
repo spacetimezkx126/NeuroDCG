@@ -1,0 +1,72 @@
+{
+    "2018-03-25": [
+        [
+            {
+                "time": "",
+                "original_text": "机械制造：关注上海原油期货推出 荐10股",
+                "features": {
+                    "keywords": [
+                        "机械制造",
+                        "上海原油期货",
+                        "推荐股票"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "机械制造",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "机械制造：高端制造超跌 荐9股",
+                "features": {
+                    "keywords": [
+                        "机械制造",
+                        "高端制造",
+                        "超跌",
+                        "推荐股票"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "机械制造",
+                        "高端制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "巨丰原创：国企改革再遭爆炒 这次与以往有什么不一样?",
+                "features": {
+                    "keywords": [
+                        "国企改革",
+                        "爆炒",
+                        "市场热点"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "国企改革"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

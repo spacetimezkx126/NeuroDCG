@@ -1,0 +1,121 @@
+{
+    "2021-01-25": [
+        [
+            {
+                "time": "2021-01-25",
+                "original_text": "['EV', 'Stocks', 'Rally', 'Late', 'As', 'Biden', 'To', 'Electrify', 'Federal', 'Fleets']",
+                "features": {
+                    "keywords": [
+                        "EV Stocks",
+                        "Rally",
+                        "Biden",
+                        "Electrify",
+                        "Federal Fleets"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "electric vehicles",
+                        "government policy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-01-26",
+                "original_text": "['Why', 'Piedmont', 'Lithium', 'Stock', 'Exploded', '15%', 'Higher', 'Today']",
+                "features": {
+                    "keywords": [
+                        "Piedmont Lithium",
+                        "Stock Exploded",
+                        "15% Higher"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "lithium",
+                        "mining"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-01-27",
+                "original_text": "['Tesla', 'Earnings:', 'What', 'to', 'Look', 'For', 'From', 'TSLA']",
+                "features": {
+                    "keywords": [
+                        "Tesla",
+                        "Earnings",
+                        "TSLA"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automotive",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-01-28",
+                "original_text": "['Tesla', 'Moves', 'Closer', 'To', 'New', 'FSD', '5nm', 'Chip', 'In', 'Samsung', 'Partnership:', 'Report']",
+                "features": {
+                    "keywords": [
+                        "Tesla",
+                        "FSD",
+                        "5nm Chip",
+                        "Samsung Partnership"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "semiconductors",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-01-29",
+                "original_text": "['Dow', 'Jones', 'Slides,', 'Nasdaq', 'Turns', 'Lower', 'As', 'Apple,', 'Tesla', 'Reverse', 'From', 'New', 'Highs;', 'Microsoft', 'Hits', 'Buy', 'Point']",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Nasdaq",
+                        "Apple",
+                        "Tesla",
+                        "Microsoft"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "market indices"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

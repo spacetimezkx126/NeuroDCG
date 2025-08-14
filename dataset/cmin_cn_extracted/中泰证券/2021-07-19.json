@@ -1,0 +1,56 @@
+{
+    "2021-07-19": [
+        [
+            {
+                "time": "",
+                "original_text": "券商科创板跟投浮盈近240亿 东方证券连续增资东证创投达14亿",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "科创板",
+                        "跟投",
+                        "浮盈",
+                        "东方证券",
+                        "增资",
+                        "东证创投"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "股价已经腰斩 中报再施一击 海能实业严重跑偏 盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "股价",
+                        "腰斩",
+                        "中报",
+                        "海能实业",
+                        "盈利能力",
+                        "下降"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "2020-09-03": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Sempra Energy Chairman And CEO Jeffrey Martin And Employees To Participate In NYSE Closing Bell Ceremony",
+                "features": {
+                    "keywords": [
+                        "Sempra Energy",
+                        "Chairman",
+                        "CEO",
+                        "NYSE",
+                        "Closing Bell Ceremony"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Analyst Report: Sempra Energy",
+                "features": {
+                    "keywords": [
+                        "Analyst Report",
+                        "Sempra Energy"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Market Update: M, SRE",
+                "features": {
+                    "keywords": [
+                        "Market Update",
+                        "M",
+                        "SRE"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "2020-03-03": [
+        [
+            {
+                "time": "2020-03-04",
+                "original_text": "Dow Jones Futures: After Fed Rate Cut Flops, A Coronavirus Stock Market Correction Survival Guide",
+                "features": {
+                    "keywords": [
+                        "Fed Rate Cut",
+                        "Coronavirus",
+                        "Stock Market Correction"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2020-03-05",
+                "original_text": "Facebook leads FAANG sell-off as Fed rate cut fails to calm investors' coronavirus concerns",
+                "features": {
+                    "keywords": [
+                        "FAANG",
+                        "sell-off",
+                        "Fed rate cut",
+                        "coronavirus"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-03-06",
+                "original_text": "Amazon taps Dallas for speedier same-day deliveries, creating hundreds of jobs",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "same-day deliveries",
+                        "jobs"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "e-commerce",
+                        "logistics"
+                    ],
+                    "causal_factor": "false",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-03-07",
+                "original_text": "Target forecasts weak 2020 profit as online growth slows",
+                "features": {
+                    "keywords": [
+                        "Target",
+                        "profit",
+                        "online growth"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-03-08",
+                "original_text": "Music Streaming Stocks to Benefit From Virus-Led Lockdown",
+                "features": {
+                    "keywords": [
+                        "Music Streaming",
+                        "Virus-Led Lockdown"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "entertainment",
+                        "media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-03-09",
+                "original_text": "Amazon.com Stock Falls 3%",
+                "features": {
+                    "keywords": [
+                        "Amazon.com",
+                        "Stock Falls"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "e-commerce"
+                    ],
+                    "causal_factor": "false",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-03-10",
+                "original_text": "Amazon battles sharp price rises of coronavirus products",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "price rises",
+                        "coronavirus products"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2018-01-08": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Celgene makes a deal, Nvidia teams up with Uber, Ford to add more muscle to F-150",
+                "features": {
+                    "keywords": [
+                        "Celgene deal",
+                        "Nvidia Uber partnership",
+                        "Ford F-150 upgrade"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals",
+                        "technology",
+                        "automobile"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Mylan To Close $1 Bln Share Repurchase Plan",
+                "features": {
+                    "keywords": [
+                        "Mylan",
+                        "share repurchase",
+                        "capital return"
+                    ],
+                    "sentiment_score": 0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

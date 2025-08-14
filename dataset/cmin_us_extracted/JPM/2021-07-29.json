@@ -1,0 +1,52 @@
+{
+    "2021-07-29": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Lloyds' Embark deal is part of wealth war in banking",
+                "features": {
+                    "keywords": [
+                        "Lloyds",
+                        "Embark",
+                        "wealth war",
+                        "banking"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "banking"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Under Siege, China EdTech Giants Take Steps to Curb Fallout",
+                "features": {
+                    "keywords": [
+                        "China",
+                        "EdTech",
+                        "Giants",
+                        "Fallout"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "education",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

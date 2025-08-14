@@ -1,0 +1,65 @@
+{
+    "2021-06-05": [
+        [
+            {
+                "time": "2021-06-05",
+                "original_text": "Wind风控日报2021年6月5日星期六",
+                "features": {
+                    "keywords": [
+                        "Wind",
+                        "风控",
+                        "日报"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-06-05",
+                "original_text": "上市公司正面负面新闻2021年6月5日星期六",
+                "features": {
+                    "keywords": [
+                        "上市公司",
+                        "正面负面新闻"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-05-01",
+                "original_text": "牧原食品股份有限公司 2021年5月份生猪销售简报",
+                "features": {
+                    "keywords": [
+                        "牧原食品",
+                        "生猪销售",
+                        "简报"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "食品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

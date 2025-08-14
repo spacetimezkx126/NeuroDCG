@@ -1,0 +1,72 @@
+{
+    "2021-01-07": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "券商跳槽大观：研究所离职人数最多的竟然是这家",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "跳槽",
+                        "研究所",
+                        "离职"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "2020年共145家企业登陆科创板 119家选择标准一",
+                "features": {
+                    "keywords": [
+                        "科创板",
+                        "上市企业",
+                        "标准一"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "创新"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "首只食品ETF燃情上市，新财富大咖联袂解读“吃喝行情”",
+                "features": {
+                    "keywords": [
+                        "食品ETF",
+                        "上市",
+                        "吃喝行情"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "消费",
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

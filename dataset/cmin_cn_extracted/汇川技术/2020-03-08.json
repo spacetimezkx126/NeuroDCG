@@ -1,0 +1,53 @@
+{
+    "2020-03-08": [
+        [
+            {
+                "time": "",
+                "original_text": "光伏电价微调利需求释放，电气设备迎新基建东风，欧洲电动车销售延续高增",
+                "features": {
+                    "keywords": [
+                        "光伏电价",
+                        "需求释放",
+                        "电气设备",
+                        "新基建",
+                        "欧洲电动车",
+                        "销售高增"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "电气设备",
+                        "电动车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "2月装机0.60gwh，同比-73%，环比-74%",
+                "features": {
+                    "keywords": [
+                        "装机量",
+                        "同比",
+                        "环比"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

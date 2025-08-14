@@ -1,0 +1,75 @@
+{
+    "2020-02-11": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Dunkin’s average ticket nearly doubles when customers add Beyond Meat sandwich",
+                "features": {
+                    "keywords": [
+                        "Dunkin",
+                        "Beyond Meat",
+                        "average ticket",
+                        "doubles"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "CORRECTED-US STOCKS-S&P 500, Nasdaq set course for new closing highs as coronavirus fears abate",
+                "features": {
+                    "keywords": [
+                        "S&P 500",
+                        "Nasdaq",
+                        "closing highs",
+                        "coronavirus fears",
+                        "abate"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Viral chicken sandwiches aren't enough for Wall Street: Morning Brief",
+                "features": {
+                    "keywords": [
+                        "viral chicken sandwiches",
+                        "Wall Street",
+                        "Morning Brief"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food",
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

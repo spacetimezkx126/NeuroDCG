@@ -1,0 +1,80 @@
+{
+    "2020-07-05": [
+        [
+            {
+                "time": "",
+                "original_text": "猪，肉，全，线，上，涨，，二，季，度，猪，企，注，册，量，大，增，1，7，8，%，，养，猪，再，成，资，本，「，蓝，海，」",
+                "features": {
+                    "keywords": [
+                        "猪肉",
+                        "上涨",
+                        "二季度",
+                        "猪企注册量",
+                        "资本",
+                        "蓝海"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "养殖业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "南，方，雨，水，导，致，生，猪，产，能，损，失，，国，家，加，强，畜，禽，销，售，管，理，，养，殖，链，怎，么，看，？，【，天，风，农，业，】",
+                "features": {
+                    "keywords": [
+                        "南方雨水",
+                        "生猪产能损失",
+                        "国家政策",
+                        "畜禽销售管理",
+                        "养殖链"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "养殖业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "农，林，牧，渔，行，业，周，报，：，预，计，2，0，2，0，H，1，猪，企，盈，利，高，增， ，禽，链，业，绩，下，滑， ，继，续，关，注，畜，禽，养，殖，机，会，-，行，业，周，报",
+                "features": {
+                    "keywords": [
+                        "农林牧渔",
+                        "行业周报",
+                        "猪企盈利",
+                        "高增长",
+                        "禽链业绩下滑",
+                        "畜禽养殖机会"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "养殖业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

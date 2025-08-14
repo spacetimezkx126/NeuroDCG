@@ -1,0 +1,53 @@
+{
+    "2021-02-27": [
+        [
+            {
+                "time": "",
+                "original_text": "房地产业板块逆市上扬 白酒行业高位滑落",
+                "features": {
+                    "keywords": [
+                        "房地产",
+                        "板块",
+                        "逆市上扬",
+                        "白酒",
+                        "高位滑落"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "北上资金加仓银行股，2月份净买入逾400亿元",
+                "features": {
+                    "keywords": [
+                        "北上资金",
+                        "加仓",
+                        "银行股",
+                        "净买入",
+                        "400亿元"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "2020-08-22": [
+        [
+            {
+                "time": "2019-08-22",
+                "original_text": "今日192公司公布半年报27家业绩增幅翻倍",
+                "features": {
+                    "keywords": [
+                        "半年报",
+                        "业绩增幅",
+                        "翻倍"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-08-22",
+                "original_text": "上市公司正面负面新闻",
+                "features": {
+                    "keywords": [
+                        "正面负面新闻"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-08-22",
+                "original_text": "业绩现下滑 福耀玻璃半年仍净赚9.6亿元 盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "福耀玻璃",
+                        "业绩下滑",
+                        "盈利能力下降"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

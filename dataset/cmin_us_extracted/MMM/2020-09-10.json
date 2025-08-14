@@ -1,0 +1,52 @@
+{
+    "2020-09-10": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "Dow's 60-point drop led by losses for shares of Caterpillar, Johnson & Johnson",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "60-point drop",
+                        "Caterpillar",
+                        "Johnson & Johnson"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Amazon Raised Prices on Essentials Amid Pandemic, Watchdog Says",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "Raised Prices",
+                        "Essentials",
+                        "Pandemic"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

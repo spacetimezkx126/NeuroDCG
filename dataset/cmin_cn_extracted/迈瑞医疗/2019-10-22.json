@@ -1,0 +1,51 @@
+{
+    "2019-10-22": [
+        [
+            {
+                "time": "",
+                "original_text": "大众交通：累计出售迈瑞医疗股票81万股 资产异常",
+                "features": {
+                    "keywords": [
+                        "大众交通",
+                        "迈瑞医疗",
+                        "出售股票",
+                        "资产异常"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "交通运输",
+                        "医疗健康"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "创业板十年，总市值达5.6万亿元诞生3家20倍牛股",
+                "features": {
+                    "keywords": [
+                        "创业板",
+                        "十周年",
+                        "总市值",
+                        "牛股"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "创业板"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

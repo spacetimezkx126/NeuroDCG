@@ -1,0 +1,74 @@
+{
+    "2020-02-24": [
+        [
+            {
+                "time": "2023-01-01",
+                "original_text": "Third Avenue Management Buys 2, Sells 2 in 4th Quarter",
+                "features": {
+                    "keywords": [
+                        "Third Avenue Management",
+                        "Buys",
+                        "Sells",
+                        "4th Quarter"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-01-01",
+                "original_text": "Here’s the segment of the economy that may benefit from fears of coronavirus, analysts say",
+                "features": {
+                    "keywords": [
+                        "economy",
+                        "benefit",
+                        "coronavirus",
+                        "analysts"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-01-01",
+                "original_text": "Lowe's Canada is recruiting to fill 5,400 in-store positions this spring",
+                "features": {
+                    "keywords": [
+                        "Lowe's",
+                        "Canada",
+                        "recruiting",
+                        "in-store positions",
+                        "spring"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

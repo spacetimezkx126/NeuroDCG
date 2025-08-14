@@ -1,0 +1,72 @@
+{
+    "2019-06-02": [
+        [
+            {
+                "time": "2018-03-22",
+                "original_text": "Trump’s Tariff Pain Set to Ricochet From China to Global Economy",
+                "features": {
+                    "keywords": [
+                        "Trump",
+                        "Tariff",
+                        "China",
+                        "Global Economy"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "global trade",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-15",
+                "original_text": "Amazon Wants to Be More Like eBay, Less Like Walmart",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "eBay",
+                        "Walmart"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "Is Amazon a Buy?",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "Buy"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

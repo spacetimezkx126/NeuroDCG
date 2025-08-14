@@ -1,0 +1,52 @@
+{
+    "2020-12-26": [
+        [
+            {
+                "time": "",
+                "original_text": "证券行业“卷上天”？东兴证券发美女海报，中信证券曾曝替考研",
+                "features": {
+                    "keywords": [
+                        "证券行业",
+                        "东兴证券",
+                        "美女海报",
+                        "中信证券",
+                        "替考研"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "十天连发两牌照，直销银行“江湖”生变",
+                "features": {
+                    "keywords": [
+                        "直销银行",
+                        "牌照",
+                        "江湖生变"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "银行",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

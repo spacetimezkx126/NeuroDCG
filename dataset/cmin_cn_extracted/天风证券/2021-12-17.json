@@ -1,0 +1,53 @@
+{
+    "2021-12-17": [
+        [
+            {
+                "time": "",
+                "original_text": "天风证券今日大宗交易成交5775.50万股，成交价4.04元溢价0.0%",
+                "features": {
+                    "keywords": [
+                        "天风证券",
+                        "大宗交易",
+                        "成交股数",
+                        "成交价",
+                        "溢价"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2022-12-14",
+                "original_text": "保龄宝：富国基金、天风证券等2家机构于12月14日调研我司",
+                "features": {
+                    "keywords": [
+                        "保龄宝",
+                        "富国基金",
+                        "天风证券",
+                        "机构调研"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "消费品",
+                        "食品加工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

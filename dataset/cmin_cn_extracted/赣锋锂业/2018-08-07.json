@@ -1,0 +1,53 @@
+{
+    "2018-08-07": [
+        [
+            {
+                "time": "",
+                "original_text": "沪指创两年多最大单日涨幅，资金扫货中字头",
+                "features": {
+                    "keywords": [
+                        "沪指",
+                        "两年多",
+                        "最大单日涨幅",
+                        "资金扫货",
+                        "中字头"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "国企"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "有色板块连续疲软拖累指数，华友钴业跌近8%",
+                "features": {
+                    "keywords": [
+                        "有色板块",
+                        "连续疲软",
+                        "拖累指数",
+                        "华友钴业",
+                        "跌近8%"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "有色金属"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

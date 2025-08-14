@@ -1,0 +1,54 @@
+{
+    "2020-01-29": [
+        [
+            {
+                "time": "2019-12-31",
+                "original_text": "New Jersey American Water Invested More Than $375 Million Statewide in 2019",
+                "features": {
+                    "keywords": [
+                        "New Jersey",
+                        "American Water",
+                        "Invested",
+                        "$375 Million",
+                        "Statewide"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities",
+                        "water"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "This industry's lobbying organization just moved from D.C. to Philly. Here's why.",
+                "features": {
+                    "keywords": [
+                        "industry",
+                        "lobbying",
+                        "organization",
+                        "moved",
+                        "D.C.",
+                        "Philly"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "2018-10-07": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Tesla: Model 3 Achieves Lowest Probability Of Injury Of Any Car Tested By NHTSA",
+                "features": {
+                    "keywords": [
+                        "Tesla",
+                        "Model 3",
+                        "Lowest Probability",
+                        "Injury",
+                        "NHTSA"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Oil Price Rally Boosts Electric Car Sales",
+                "features": {
+                    "keywords": [
+                        "Oil Price",
+                        "Rally",
+                        "Electric Car",
+                        "Sales"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Benzinga's Bulls & Bears Of The Week: Disney, GE, Intel, PepsiCo And More",
+                "features": {
+                    "keywords": [
+                        "Bulls",
+                        "Bears",
+                        "Disney",
+                        "GE",
+                        "Intel",
+                        "PepsiCo"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "media",
+                        "technology",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "CLASS ACTION UPDATE for TSLA, ORCL, NLSN, ZN and SBGI: Levi & Korsinsky, LLP Reminds Investors of Class Actions on Behalf of Shareholders",
+                "features": {
+                    "keywords": [
+                        "Class Action",
+                        "TSLA",
+                        "ORCL",
+                        "NLSN",
+                        "ZN",
+                        "SBGI"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "legal",
+                        "investments"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "‘Think of us small people’: Tesla fans are begging Elon Musk to stop tweeting",
+                "features": {
+                    "keywords": [
+                        "Tesla",
+                        "Elon Musk",
+                        "Tweeting"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "social media",
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

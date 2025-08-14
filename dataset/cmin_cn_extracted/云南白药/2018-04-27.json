@@ -1,0 +1,49 @@
+{
+    "2018-04-27": [
+        [
+            {
+                "time": "2018-04-27",
+                "original_text": "云南白药一季度净利增长11.18%",
+                "features": {
+                    "keywords": [
+                        "云南白药",
+                        "一季度",
+                        "净利增长",
+                        "11.18%"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-27",
+                "original_text": "由中兴通讯遭遇美国禁令所想到的",
+                "features": {
+                    "keywords": [
+                        "中兴通讯",
+                        "美国禁令"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "通信"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

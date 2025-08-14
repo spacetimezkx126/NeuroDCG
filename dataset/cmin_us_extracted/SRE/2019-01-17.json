@@ -1,0 +1,56 @@
+{
+    "2019-01-17": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Notable ETF Outflow Detected - IWS, FIS, WMB, SRE",
+                "features": {
+                    "keywords": [
+                        "ETF",
+                        "Outflow",
+                        "IWS",
+                        "FIS",
+                        "WMB",
+                        "SRE"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Can US Threaten Russia's Dominance in Europe's Gas Market?",
+                "features": {
+                    "keywords": [
+                        "US",
+                        "Russia",
+                        "Dominance",
+                        "Europe",
+                        "Gas",
+                        "Market"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "geopolitics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

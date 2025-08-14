@@ -1,0 +1,82 @@
+{
+    "2018-05-29": [
+        [
+            {
+                "time": "",
+                "original_text": "券商评级: 沪指收盘五连阴 九股迎掘金良机",
+                "features": {
+                    "keywords": [
+                        "券商评级",
+                        "沪指",
+                        "五连阴",
+                        "掘金良机"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-05-29",
+                "original_text": "【太平洋证券?今日早读】固收：可转债周报 | 食品饮料、汽车、电新、化工、农林牧渔、交运行业追踪（20180529）",
+                "features": {
+                    "keywords": [
+                        "太平洋证券",
+                        "可转债",
+                        "食品饮料",
+                        "汽车",
+                        "电新",
+                        "化工",
+                        "农林牧渔",
+                        "交运行业"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料",
+                        "汽车",
+                        "新能源",
+                        "化工",
+                        "农林牧渔",
+                        "交通运输"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "化工行业周报: 环保施压导致中间体限产, 染料价格大幅上涨",
+                "features": {
+                    "keywords": [
+                        "化工行业",
+                        "环保施压",
+                        "中间体限产",
+                        "染料价格",
+                        "大幅上涨"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

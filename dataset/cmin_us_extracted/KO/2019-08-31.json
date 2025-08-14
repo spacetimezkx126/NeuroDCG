@@ -1,0 +1,48 @@
+{
+    "2019-08-31": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Barron's Picks And Pans: Activision Blizzard, Best Buy, Coca-Cola, Microsoft And More",
+                "features": {
+                    "keywords": [
+                        "Activision Blizzard",
+                        "Best Buy",
+                        "Coca-Cola",
+                        "Microsoft"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Would you buy a 100-year bond from this man?",
+                "features": {
+                    "keywords": [
+                        "100-year bond"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

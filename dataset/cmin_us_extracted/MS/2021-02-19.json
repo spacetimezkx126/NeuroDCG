@@ -1,0 +1,54 @@
+{
+    "2021-02-19": [
+        [
+            {
+                "time": "2021-03-01",
+                "original_text": "Morgan Stanley’s Acquisition of Eaton Vance Currently Expected to Close March 1, 2021",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "Acquisition",
+                        "Eaton Vance",
+                        "Close",
+                        "March 1, 2021"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "corporate actions"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-03-01",
+                "original_text": "Adjournment of Special Shareholder Meeting of Eaton Vance Floating-Rate 2022 Target Term Trust",
+                "features": {
+                    "keywords": [
+                        "Adjournment",
+                        "Special Shareholder Meeting",
+                        "Eaton Vance",
+                        "Floating-Rate",
+                        "2022 Target Term Trust"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "shareholder meetings"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

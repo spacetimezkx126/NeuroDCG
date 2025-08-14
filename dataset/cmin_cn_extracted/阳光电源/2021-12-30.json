@@ -1,0 +1,55 @@
+{
+    "2021-12-30": [
+        [
+            {
+                "time": "2022-01-01",
+                "original_text": "2022年储能起飞？指数已涨72%，锂电巨头抢滩，这些公司要盯紧",
+                "features": {
+                    "keywords": [
+                        "储能",
+                        "指数",
+                        "锂电",
+                        "巨头",
+                        "抢滩"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "锂电池"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2022-01-01",
+                "original_text": "一图掌握2022中国经济、楼市、股市走势，机会在哪",
+                "features": {
+                    "keywords": [
+                        "经济",
+                        "楼市",
+                        "股市",
+                        "走势",
+                        "机会"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "宏观经济",
+                        "房地产",
+                        "股票市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

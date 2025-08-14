@@ -1,0 +1,92 @@
+{
+    "2021-01-01": [
+        [
+            {
+                "time": "2021-01-01",
+                "original_text": "北上南下呈现哪些新格局？",
+                "features": {
+                    "keywords": [
+                        "北上南下",
+                        "新格局"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "区域经济"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-01-01",
+                "original_text": "2021年券商看好的十大板块",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "看好",
+                        "十大板块"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "科技",
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-01-01",
+                "original_text": "2020实‘鼠’不易，2021何以‘牛’转乾坤",
+                "features": {
+                    "keywords": [
+                        "2020",
+                        "2021",
+                        "鼠",
+                        "牛",
+                        "转乾坤"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-01-01",
+                "original_text": "艾芬在爱尔治眼后右眼近乎失明 爱尔回应:不存在对病例篡改等情况",
+                "features": {
+                    "keywords": [
+                        "艾芬",
+                        "爱尔",
+                        "医疗纠纷",
+                        "病例篡改"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医疗"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

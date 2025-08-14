@@ -1,0 +1,72 @@
+{
+    "2018-06-25": [
+        [
+            {
+                "time": "",
+                "original_text": "[互动]合盛硅业:目前公司产销处于正常状态",
+                "features": {
+                    "keywords": [
+                        "合盛硅业",
+                        "产销",
+                        "正常状态"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "false",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018下半年",
+                "original_text": "2018下半年有色金属行业投资策略：信用收缩金属价格差强人意 新能源行业景气曲折上行",
+                "features": {
+                    "keywords": [
+                        "有色金属",
+                        "投资策略",
+                        "信用收缩",
+                        "金属价格",
+                        "新能源",
+                        "景气上行"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "有色金属",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "化工行业周报:布局中报行情,关注提价品种",
+                "features": {
+                    "keywords": [
+                        "化工行业",
+                        "中报行情",
+                        "提价品种"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

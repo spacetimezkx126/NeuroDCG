@@ -1,0 +1,71 @@
+{
+    "2018-12-28": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Top Analyst Reports for Merck, Abbott & Lockheed Martin",
+                "features": {
+                    "keywords": [
+                        "analyst reports",
+                        "Merck",
+                        "Abbott",
+                        "Lockheed Martin"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals",
+                        "defense"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-12-31",
+                "original_text": "Werner Enterprises, Inc. (WERN) Ex-Dividend Date Scheduled for December 31, 2018",
+                "features": {
+                    "keywords": [
+                        "Werner Enterprises",
+                        "ex-dividend",
+                        "scheduled"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "transportation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-03",
+                "original_text": "Transportation stocks down 13 percent despite strong holi...",
+                "features": {
+                    "keywords": [
+                        "transportation stocks",
+                        "down",
+                        "strong holiday"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "transportation"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

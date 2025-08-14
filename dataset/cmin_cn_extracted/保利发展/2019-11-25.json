@@ -1,0 +1,53 @@
+{
+    "2019-11-25": [
+        [
+            {
+                "time": "",
+                "original_text": "惠誉确认保利地产评级为BBB+，评级展望为稳定",
+                "features": {
+                    "keywords": [
+                        "惠誉",
+                        "保利地产",
+                        "评级",
+                        "BBB+",
+                        "稳定"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "金地集团拿地权益占比四年低于50% 负债攀升超2400亿 偿债能力下降",
+                "features": {
+                    "keywords": [
+                        "金地集团",
+                        "拿地权益",
+                        "负债",
+                        "2400亿",
+                        "偿债能力",
+                        "下降"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

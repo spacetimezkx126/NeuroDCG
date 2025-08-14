@@ -1,0 +1,70 @@
+{
+    "2021-01-26": [
+        [
+            {
+                "time": "2021-01-01",
+                "original_text": "Procter & Gamble Promises More Cash and Growth in 2021",
+                "features": {
+                    "keywords": [
+                        "Procter",
+                        "Gamble",
+                        "More Cash",
+                        "Growth",
+                        "2021"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-01-01",
+                "original_text": "Here comes the return of stock buybacks",
+                "features": {
+                    "keywords": [
+                        "stock buybacks",
+                        "return"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-01-01",
+                "original_text": "Kimberly-Clark Earnings Don't Quite Measure Up",
+                "features": {
+                    "keywords": [
+                        "Kimberly-Clark",
+                        "Earnings",
+                        "Measure Up"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

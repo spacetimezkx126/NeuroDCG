@@ -1,0 +1,55 @@
+{
+    "2021-05-04": [
+        [
+            {
+                "time": "",
+                "original_text": "摩根大通下调建行、工行、邮储行目标价",
+                "features": {
+                    "keywords": [
+                        "摩根大通",
+                        "下调",
+                        "建行",
+                        "工行",
+                        "邮储行",
+                        "目标价"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "这一银行加入国有行列，网点数量是工行2倍，光员工就17万人",
+                "features": {
+                    "keywords": [
+                        "银行",
+                        "国有",
+                        "网点数量",
+                        "工行",
+                        "员工"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

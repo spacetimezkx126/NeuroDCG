@@ -1,0 +1,75 @@
+{
+    "2020-09-14": [
+        [
+            {
+                "time": "",
+                "original_text": "长春高新跌停 中金公司 中泰证券 西部证券 高位唱多很囧",
+                "features": {
+                    "keywords": [
+                        "长春高新",
+                        "跌停",
+                        "中金公司",
+                        "中泰证券",
+                        "西部证券",
+                        "高位唱多"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-09-14",
+                "original_text": "9月14日深市创业板活跃股公开信息",
+                "features": {
+                    "keywords": [
+                        "深市",
+                        "创业板",
+                        "活跃股",
+                        "公开信息"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "创业板"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "天味食品：公司改革渐入佳境，复调龙头扬帆起航【中泰食品饮料】",
+                "features": {
+                    "keywords": [
+                        "天味食品",
+                        "改革",
+                        "复调龙头",
+                        "中泰食品饮料"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

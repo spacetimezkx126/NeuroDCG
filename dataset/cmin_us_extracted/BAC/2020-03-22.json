@@ -1,0 +1,72 @@
+{
+    "2020-03-22": [
+        [
+            {
+                "time": "2020-03-15",
+                "original_text": "U.S. regulators urge banks to go easy on borrowers hurt by coronavirus",
+                "features": {
+                    "keywords": [
+                        "regulators",
+                        "banks",
+                        "borrowers",
+                        "coronavirus"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-04-08",
+                "original_text": "U.S. Jobless Rate May Soar to 30%, Fed’s Bullard Says",
+                "features": {
+                    "keywords": [
+                        "Jobless Rate",
+                        "Fed",
+                        "Bullard"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "labor"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-03-20",
+                "original_text": "Congressional Republicans sought to curtail the Fed’s lending power — now they embrace it",
+                "features": {
+                    "keywords": [
+                        "Congressional Republicans",
+                        "Fed",
+                        "lending power"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "government"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2018-06-29": [
+        [
+            {
+                "time": "2018-06-29",
+                "original_text": "新闻发布会",
+                "features": {
+                    "keywords": [
+                        "新闻发布会",
+                        "政策解读",
+                        "市场动态"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-06-29",
+                "original_text": "[领先大市-A评级]涂料油漆行业专题报告：环保高压 出口向好 钛白粉景气持续",
+                "features": {
+                    "keywords": [
+                        "涂料油漆",
+                        "环保高压",
+                        "出口向好",
+                        "钛白粉",
+                        "景气持续"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "化工",
+                        "材料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

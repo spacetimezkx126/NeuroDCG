@@ -1,0 +1,93 @@
+{
+    "2018-11-01": [
+        [
+            {
+                "time": "2018-11-05",
+                "original_text": "Gene therapy: CHOP unveils $75M manufacturing facility (Photos)",
+                "features": {
+                    "keywords": [
+                        "gene therapy",
+                        "CHOP",
+                        "manufacturing facility"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-11-06",
+                "original_text": "Call buyers take position in Novartis",
+                "features": {
+                    "keywords": [
+                        "call buyers",
+                        "Novartis",
+                        "take position"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-11-07",
+                "original_text": "Glaxo (GSK) Beats on Q3 Earnings & Sales, Raises '18 View",
+                "features": {
+                    "keywords": [
+                        "Glaxo",
+                        "Q3 Earnings",
+                        "Raises '18 View"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-11-08",
+                "original_text": "FDA Approves 3rd Humira Biosimilar, CLVS Tanks On Q3 Results, CRY On Watch",
+                "features": {
+                    "keywords": [
+                        "FDA",
+                        "Humira Biosimilar",
+                        "CLVS Tanks",
+                        "Q3 Results"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

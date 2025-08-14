@@ -1,0 +1,70 @@
+{
+    "2019-01-19": [
+        [
+            {
+                "time": "2019-01-01",
+                "original_text": "Dogs of the Dow 2019: 10 Dividend Stocks to Watch",
+                "features": {
+                    "keywords": [
+                        "Dogs of the Dow",
+                        "Dividend Stocks"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "Why mortgage lending at Wells Fargo, Chase and Citi plunged",
+                "features": {
+                    "keywords": [
+                        "mortgage lending",
+                        "Wells Fargo",
+                        "Chase",
+                        "Citi",
+                        "plunged"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-04-22",
+                "original_text": "See what the IHS Markit Score report has to say about JPMorgan Chase & Co.",
+                "features": {
+                    "keywords": [
+                        "IHS Markit Score",
+                        "JPMorgan Chase"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

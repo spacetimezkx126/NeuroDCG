@@ -1,0 +1,71 @@
+{
+    "2021-12-22": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Wells Fargo, Bank of America and other banks temporarily close hundreds of branches",
+                "features": {
+                    "keywords": [
+                        "Wells Fargo",
+                        "Bank of America",
+                        "branches",
+                        "close"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "20 companies are spending billions to boost their stock prices",
+                "features": {
+                    "keywords": [
+                        "companies",
+                        "spending",
+                        "boost",
+                        "stock prices"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "10 Financial Stocks to Buy According to Jim Cramer",
+                "features": {
+                    "keywords": [
+                        "Financial Stocks",
+                        "Buy",
+                        "Jim Cramer"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

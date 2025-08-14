@@ -1,0 +1,51 @@
+{
+    "2018-10-01": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "How GlaxoSmithKline’s Segments Performed",
+                "features": {
+                    "keywords": [
+                        "GlaxoSmithKline",
+                        "segments",
+                        "performance"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Novo Nordisk: Health Canada Approves Tresiba For Children With Type 1 Diabetes",
+                "features": {
+                    "keywords": [
+                        "Novo Nordisk",
+                        "Health Canada",
+                        "Tresiba",
+                        "Type 1 Diabetes",
+                        "approval"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

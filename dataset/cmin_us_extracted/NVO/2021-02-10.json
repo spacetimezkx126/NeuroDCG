@@ -1,0 +1,52 @@
+{
+    "2021-02-10": [
+        [
+            {
+                "time": "2021-02-08",
+                "original_text": "Trading in Novo Nordisk shares by board members, executives and associated persons on 8 February 2021",
+                "features": {
+                    "keywords": [
+                        "Novo Nordisk",
+                        "board members",
+                        "executives",
+                        "trading",
+                        "shares"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-12-31",
+                "original_text": "Novo Nordisk CEO on 7% sales growth in 2020, healthcare outlook",
+                "features": {
+                    "keywords": [
+                        "Novo Nordisk",
+                        "CEO",
+                        "sales growth",
+                        "healthcare",
+                        "outlook"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

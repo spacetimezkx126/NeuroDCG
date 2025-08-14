@@ -1,0 +1,78 @@
+{
+    "2019-12-30": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Court orders Boston Scientific to complete $275M acquisition",
+                "features": {
+                    "keywords": [
+                        "Boston Scientific",
+                        "acquisition",
+                        "court order"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-03",
+                "original_text": "The Zacks Analyst Blog Highlights: Facebook, Alibaba, Mastercard, Abbott Laboratories and Philip Morris International",
+                "features": {
+                    "keywords": [
+                        "Zacks Analyst Blog",
+                        "Facebook",
+                        "Alibaba",
+                        "Mastercard",
+                        "Abbott Laboratories",
+                        "Philip Morris International"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "financial services",
+                        "healthcare",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "The Zacks Analyst Blog Highlights: AbbVie, Abbott Labs, Allergan, Johnson & Johnson and Merck",
+                "features": {
+                    "keywords": [
+                        "Zacks Analyst Blog",
+                        "AbbVie",
+                        "Abbott Labs",
+                        "Allergan",
+                        "Johnson & Johnson",
+                        "Merck"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

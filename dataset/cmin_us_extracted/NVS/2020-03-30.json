@@ -1,0 +1,97 @@
+{
+    "2020-03-30": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "FDA Decisions on 5 Drugs Expected in 2nd Quarter",
+                "features": {
+                    "keywords": [
+                        "FDA",
+                        "Decisions",
+                        "Drugs",
+                        "2nd Quarter"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "There's scant evidence for chloroquine so far as a COVID-19 drug. But there's already a shortage",
+                "features": {
+                    "keywords": [
+                        "chloroquine",
+                        "COVID-19",
+                        "shortage"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Novartis Reports Data on Inclisiran, CHMP Positive on Zolgensma",
+                "features": {
+                    "keywords": [
+                        "Novartis",
+                        "Inclisiran",
+                        "CHMP",
+                        "Zolgensma"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "FDA approves emergency use of malaria pill for COVID-19 treatment",
+                "features": {
+                    "keywords": [
+                        "FDA",
+                        "emergency use",
+                        "malaria pill",
+                        "COVID-19"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

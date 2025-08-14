@@ -1,0 +1,49 @@
+{
+    "2021-11-12": [
+        [
+            {
+                "time": "2018-01-12",
+                "original_text": "1月12日深市大宗交易信息",
+                "features": {
+                    "keywords": [
+                        "深市",
+                        "大宗交易",
+                        "信息"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-12",
+                "original_text": "投资浮亏拖累业绩，九牧王为何不务正业？ 盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "投资浮亏",
+                        "拖累业绩",
+                        "九牧王",
+                        "盈利能力下降"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "纺织服装"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

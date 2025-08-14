@@ -1,0 +1,85 @@
+{
+    "2018-11-14": [
+        [
+            {
+                "time": "2018-11-01",
+                "original_text": "Missouri American Water Finishes Project to Improve Sewer Lines; Plans to Upsize, Reroute Sewer Mains as Part of its Commitment to Arnold",
+                "features": {
+                    "keywords": [
+                        "Missouri",
+                        "American Water",
+                        "Project",
+                        "Improve",
+                        "Sewer Lines",
+                        "Upsize",
+                        "Reroute",
+                        "Commitment"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities",
+                        "infrastructure"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "SABESP (SBS) Q3 Earnings Miss Estimates, Revenues up Y/Y",
+                "features": {
+                    "keywords": [
+                        "SABESP",
+                        "Q3",
+                        "Earnings",
+                        "Miss",
+                        "Estimates",
+                        "Revenues",
+                        "up",
+                        "Y/Y"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities",
+                        "water services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "Aqua America, Inc. (WTR) Ex-Dividend Date Scheduled for November 15, 2018",
+                "features": {
+                    "keywords": [
+                        "Aqua America",
+                        "Ex-Dividend",
+                        "Date",
+                        "Scheduled",
+                        "November 15",
+                        "2018"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities",
+                        "water services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

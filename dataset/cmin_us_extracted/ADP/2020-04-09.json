@@ -1,0 +1,54 @@
+{
+    "2020-04-09": [
+        [
+            {
+                "time": "2020-03-01",
+                "original_text": "ADP is Working with Federal Government to Support Businesses and their Employees in Securing Timely Relief",
+                "features": {
+                    "keywords": [
+                        "ADP",
+                        "Federal Government",
+                        "Support",
+                        "Businesses",
+                        "Employees",
+                        "Relief"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "human resources",
+                        "government relations"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-04-16",
+                "original_text": "Media Alert: March 2020 ADP Canada National Employment Report to be released on Thursday, April 16, 2020",
+                "features": {
+                    "keywords": [
+                        "ADP",
+                        "Canada",
+                        "National Employment Report",
+                        "released"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "employment",
+                        "economics"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

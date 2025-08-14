@@ -1,0 +1,82 @@
+{
+    "2019-07-23": [
+        [
+            {
+                "time": "2019-07-23",
+                "original_text": "After Hours Most Active for Jul 23, 2019: SNAP, CZR, PFE, QQQ, AVP, BAC, FDC, T, HBAN, INTC, BCRX, IGOV",
+                "features": {
+                    "keywords": [
+                        "Most Active",
+                        "SNAP",
+                        "CZR",
+                        "PFE",
+                        "QQQ",
+                        "AVP",
+                        "BAC",
+                        "FDC",
+                        "T",
+                        "HBAN",
+                        "INTC",
+                        "BCRX",
+                        "IGOV"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-07-23",
+                "original_text": "AT&T earnings: Expect another quarter of big video losses",
+                "features": {
+                    "keywords": [
+                        "AT&T",
+                        "earnings",
+                        "video losses"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-07-23",
+                "original_text": "AT&T Reports Earnings Tomorrow. Here’s What to Expect.",
+                "features": {
+                    "keywords": [
+                        "AT&T",
+                        "Reports",
+                        "Earnings",
+                        "Expect"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

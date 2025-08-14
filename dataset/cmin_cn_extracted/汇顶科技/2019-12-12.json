@@ -1,0 +1,52 @@
+{
+    "2019-12-12": [
+        [
+            {
+                "time": "",
+                "original_text": "中国证监会行政处罚决定书（王萍） 金融监管处罚",
+                "features": {
+                    "keywords": [
+                        "证监会",
+                        "行政处罚",
+                        "王萍",
+                        "金融监管",
+                        "处罚"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "汇顶科技 A股唯一千亿市值芯片公司的成色",
+                "features": {
+                    "keywords": [
+                        "汇顶科技",
+                        "A股",
+                        "千亿市值",
+                        "芯片公司"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "芯片"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

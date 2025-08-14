@@ -1,0 +1,77 @@
+{
+    "2020-03-01": [
+        [
+            {
+                "time": "",
+                "original_text": "皮卡行业现状评估：历史低谷已过，春天正在路上",
+                "features": {
+                    "keywords": [
+                        "皮卡",
+                        "行业",
+                        "历史低谷",
+                        "春天"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "万里扬2019年营收52亿，CVT持续放量上行逻辑不变",
+                "features": {
+                    "keywords": [
+                        "万里扬",
+                        "2019年",
+                        "营收",
+                        "CVT",
+                        "放量上行"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "汽车零部件"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "卡门简报丨进出京跨城网约车全面暂停；多家二手车平台宣布停工停薪；SpaceX星际飞船原型发生爆炸",
+                "features": {
+                    "keywords": [
+                        "网约车",
+                        "暂停",
+                        "二手车平台",
+                        "停工停薪",
+                        "SpaceX",
+                        "爆炸"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "交通运输",
+                        "互联网",
+                        "航天"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

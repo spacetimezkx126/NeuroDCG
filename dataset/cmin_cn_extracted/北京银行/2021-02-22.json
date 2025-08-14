@@ -1,0 +1,71 @@
+{
+    "2021-02-22": [
+        [
+            {
+                "time": "",
+                "original_text": "北京银行今日大宗交易成交3034.48万股，成交价4.35元折价10.12%",
+                "features": {
+                    "keywords": [
+                        "北京银行",
+                        "大宗交易",
+                        "成交",
+                        "折价"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "北京银行现2笔大宗交易 共成交13,199.98万元",
+                "features": {
+                    "keywords": [
+                        "北京银行",
+                        "大宗交易",
+                        "成交"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-02-19",
+                "original_text": "A股融资融券日报：两融余额增加72.52亿元（2月19日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

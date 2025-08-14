@@ -1,0 +1,52 @@
+{
+    "2021-07-04": [
+        [
+            {
+                "time": "",
+                "original_text": "宝钢股份4.77万员工构成：女性比例为12%，50岁以上的员工占比16.9%、行政人员占比5.1%",
+                "features": {
+                    "keywords": [
+                        "宝钢股份",
+                        "员工构成",
+                        "女性比例",
+                        "50岁以上",
+                        "行政人员"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "钢铁"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "环保：因地施策 各省市央企业碳达峰时间线梳理",
+                "features": {
+                    "keywords": [
+                        "环保",
+                        "因地施策",
+                        "碳达峰",
+                        "央企业"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "环保",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "2020-07-21": [
+        [
+            {
+                "time": "",
+                "original_text": "中信银行：“18中航资本MTN001”“18中航资本MTN002”持有人会议均未生效",
+                "features": {
+                    "keywords": [
+                        "中信银行",
+                        "18中航资本MTN001",
+                        "18中航资本MTN002",
+                        "持有人会议",
+                        "未生效"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中信银行：“19川国资MTN001”持有人会议生效，审议并通过相关议案",
+                "features": {
+                    "keywords": [
+                        "中信银行",
+                        "19川国资MTN001",
+                        "持有人会议",
+                        "生效",
+                        "审议",
+                        "通过",
+                        "议案"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "国有企业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中信银行一营业经理吸收客户资金不入账，金额达1000万！",
+                "features": {
+                    "keywords": [
+                        "中信银行",
+                        "营业经理",
+                        "吸收资金",
+                        "不入账",
+                        "1000万"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2018-06-09": [
+        [
+            {
+                "time": "",
+                "original_text": "中兴案落定后首封内部信：向员工/客户/股东/合作伙伴道歉",
+                "features": {
+                    "keywords": [
+                        "中兴",
+                        "案落定",
+                        "内部信",
+                        "道歉"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "通信"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "A股上市公司研发支出排行榜：中石油第一，中兴通讯第二！",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "上市公司",
+                        "研发支出",
+                        "中石油",
+                        "中兴通讯"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

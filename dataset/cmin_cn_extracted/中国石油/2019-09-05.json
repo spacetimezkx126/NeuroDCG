@@ -1,0 +1,51 @@
+{
+    "2019-09-05": [
+        [
+            {
+                "time": "",
+                "original_text": "国际油价爆发性上涨促石油概念股普涨 中国石油(0857.HK)涨超2%",
+                "features": {
+                    "keywords": [
+                        "国际油价",
+                        "爆发性上涨",
+                        "石油概念股",
+                        "中国石油"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "石油"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中石油：将支持广东地区降低用气成本",
+                "features": {
+                    "keywords": [
+                        "中石油",
+                        "广东地区",
+                        "降低用气成本"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "天然气"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

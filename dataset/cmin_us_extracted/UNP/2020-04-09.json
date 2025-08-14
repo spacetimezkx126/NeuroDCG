@@ -1,0 +1,51 @@
+{
+    "2020-04-09": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "U.S. railroads push against oil industry demands for storage in rail cars",
+                "features": {
+                    "keywords": [
+                        "railroads",
+                        "oil industry",
+                        "storage",
+                        "rail cars"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "transportation",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Are Investors Undervaluing Union Pacific Corporation (NYSE:UNP) By 21%?",
+                "features": {
+                    "keywords": [
+                        "Investors",
+                        "Undervaluing",
+                        "Union Pacific Corporation",
+                        "NYSE:UNP"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "transportation"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

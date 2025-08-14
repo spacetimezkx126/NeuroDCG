@@ -1,0 +1,51 @@
+{
+    "2019-08-18": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Indonesia Makes a Big Fiscal Bet",
+                "features": {
+                    "keywords": [
+                        "Indonesia",
+                        "Fiscal",
+                        "Bet"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "government",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "JPMorgan to brief clients on volatility in equity markets",
+                "features": {
+                    "keywords": [
+                        "JPMorgan",
+                        "clients",
+                        "volatility",
+                        "equity",
+                        "markets"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "2020-04-24": [
+        [
+            {
+                "time": "2020-04-28",
+                "original_text": "Coronavirus update: US death toll tops 50K as Trump stirs debate over treatments, reopenings",
+                "features": {
+                    "keywords": [
+                        "Coronavirus",
+                        "death toll",
+                        "Trump",
+                        "treatments",
+                        "reopenings"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-04-29",
+                "original_text": "Pharma Stock Roundup: Q1 Earnings of LLY, Coronavirus Update from PFE, NVS, AZN",
+                "features": {
+                    "keywords": [
+                        "Pharma",
+                        "Q1 Earnings",
+                        "LLY",
+                        "PFE",
+                        "NVS",
+                        "AZN",
+                        "Coronavirus"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-04-30",
+                "original_text": "Hydroxychloroquine sparks renewed controversy but clinical trials are pushing ahead",
+                "features": {
+                    "keywords": [
+                        "Hydroxychloroquine",
+                        "controversy",
+                        "clinical trials"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

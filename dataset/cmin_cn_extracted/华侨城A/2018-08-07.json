@@ -1,0 +1,49 @@
+{
+    "2018-08-07": [
+        [
+            {
+                "time": "",
+                "original_text": "恒生指数盘前上涨0.3% 恒大大涨6.73%",
+                "features": {
+                    "keywords": [
+                        "恒生指数",
+                        "盘前上涨",
+                        "恒大",
+                        "大涨"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-08-07",
+                "original_text": "读懂新三板投资者早报（8月7日）",
+                "features": {
+                    "keywords": [
+                        "新三板",
+                        "投资者早报"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "中小企业"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

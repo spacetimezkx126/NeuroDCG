@@ -1,0 +1,73 @@
+{
+    "2020-12-20": [
+        [
+            {
+                "time": "",
+                "original_text": "招 商 策 略 ： 重 心 转 变 ， 重 视 科 技",
+                "features": {
+                    "keywords": [
+                        "招商策略",
+                        "重心转变",
+                        "重视科技"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "非 银 金 融 行 业 周 报 ： 人 身 险 业 扩 面 提 质 空 间 广 阔 沪 深 交 易 所 退 市 新 规 出 台",
+                "features": {
+                    "keywords": [
+                        "非银金融",
+                        "人身险业",
+                        "扩面提质",
+                        "沪深交易所",
+                        "退市新规"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "保险",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "券 商 点 将 台 之 三 ： 谁 是 2 0 2 0 年 最 火 券 商 股 ？",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "点将台",
+                        "2020年",
+                        "最火券商股"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "证券"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

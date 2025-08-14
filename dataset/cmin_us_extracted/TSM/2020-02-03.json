@@ -1,0 +1,48 @@
+{
+    "2020-02-03": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Alphabet Cracks the Lid on a Black Box That’s Still Too Opaque",
+                "features": {
+                    "keywords": [
+                        "Alphabet",
+                        "Black Box",
+                        "Opaque"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Buy Applied Materials Stock Because It Will Beat Earnings Expectations, Analyst Says",
+                "features": {
+                    "keywords": [
+                        "Applied Materials",
+                        "Earnings Expectations",
+                        "Analyst"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "semiconductors"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

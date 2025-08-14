@@ -1,0 +1,74 @@
+{
+    "2020-08-21": [
+        [
+            {
+                "time": "",
+                "original_text": "江苏银行随e伴：为您提供“极简极快极美”的智能厅堂服务",
+                "features": {
+                    "keywords": [
+                        "江苏银行",
+                        "智能厅堂服务",
+                        "极简极快极美"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "江苏银行半年报：践行普惠反哺实体，经营质效稳中向好",
+                "features": {
+                    "keywords": [
+                        "江苏银行",
+                        "半年报",
+                        "普惠",
+                        "反哺实体",
+                        "经营质效"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-08-21",
+                "original_text": "零壹上市公司周报(8.17日-8.21日)：蚂蚁上市目标估值2250亿美元；持牌互联网险企遭遇“7年之痒”",
+                "features": {
+                    "keywords": [
+                        "蚂蚁上市",
+                        "目标估值",
+                        "2250亿美元",
+                        "持牌互联网险企",
+                        "7年之痒"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融科技",
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

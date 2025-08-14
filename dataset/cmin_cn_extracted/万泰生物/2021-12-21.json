@@ -1,0 +1,51 @@
+{
+    "2021-12-21": [
+        [
+            {
+                "time": "2021-12-21",
+                "original_text": "券商首次关注2股并给予买入评级（12月21日）",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "买入评级",
+                        "首次关注"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "22股获券商买入评级，中国船舶目标涨幅达67.26%",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "买入评级",
+                        "中国船舶",
+                        "目标涨幅"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "工业",
+                        "船舶制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

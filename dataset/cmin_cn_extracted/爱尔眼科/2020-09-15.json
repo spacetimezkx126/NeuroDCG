@@ -1,0 +1,73 @@
+{
+    "2020-09-15": [
+        [
+            {
+                "time": "",
+                "original_text": "千山药机：曾经3年股价涨20多倍  如今一股不到一毛九！",
+                "features": {
+                    "keywords": [
+                        "千山药机",
+                        "股价",
+                        "涨20多倍",
+                        "一毛九"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-Q4",
+                "original_text": "医药行业2020年4季度投资策略报告：行业中报业绩企稳 关注长期投资逻辑―",
+                "features": {
+                    "keywords": [
+                        "医药行业",
+                        "2020年4季度",
+                        "投资策略",
+                        "中报业绩企稳",
+                        "长期投资逻辑"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "科创50来了，创业板还有投资价值吗？",
+                "features": {
+                    "keywords": [
+                        "科创50",
+                        "创业板",
+                        "投资价值"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "创业板块"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

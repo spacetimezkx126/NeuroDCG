@@ -1,0 +1,54 @@
+{
+    "2019-03-19": [
+        [
+            {
+                "time": "",
+                "original_text": "申万宏源：董事冯戎、屈艳萍辞职 董监高成员变化",
+                "features": {
+                    "keywords": [
+                        "申万宏源",
+                        "董事",
+                        "冯戎",
+                        "屈艳萍",
+                        "辞职",
+                        "董监高成员变化"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "军工变奏：采购订单高峰季开幕 证券化浪潮在途",
+                "features": {
+                    "keywords": [
+                        "军工",
+                        "采购订单",
+                        "高峰季",
+                        "证券化",
+                        "浪潮"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "军工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

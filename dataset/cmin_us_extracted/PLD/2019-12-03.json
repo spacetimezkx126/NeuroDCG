@@ -1,0 +1,51 @@
+{
+    "2019-12-03": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Vornado (VNO) Refinances $800M Loan for 650 Madison Avenue",
+                "features": {
+                    "keywords": [
+                        "Vornado",
+                        "refinances",
+                        "800M",
+                        "loan",
+                        "Madison Avenue"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Terreno Carries Out Lease Renewal for San Leandro Property",
+                "features": {
+                    "keywords": [
+                        "Terreno",
+                        "lease renewal",
+                        "San Leandro",
+                        "property"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

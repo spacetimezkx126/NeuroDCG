@@ -1,0 +1,73 @@
+{
+    "2020-10-21": [
+        [
+            {
+                "time": "",
+                "original_text": "小 米 值 多 少 钱 ？ （ 附 测 算 ）",
+                "features": {
+                    "keywords": [
+                        "小米",
+                        "估值",
+                        "测算"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "消费电子"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "C o p y   T o   C h i n a ， 企 业 创 业 到 股 票 投 资",
+                "features": {
+                    "keywords": [
+                        "Copy to China",
+                        "企业创业",
+                        "股票投资"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2010-09-21",
+                "original_text": "晨 会 聚 焦 2 0 1 0 2 1 重 点 关 注 9 月 快 递 数 据 、 医 药 政 策 、 建 龙 微 纳 、 新 洋 丰",
+                "features": {
+                    "keywords": [
+                        "快递数据",
+                        "医药政策",
+                        "建龙微纳",
+                        "新洋丰"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "物流",
+                        "医药",
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

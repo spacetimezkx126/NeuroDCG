@@ -1,0 +1,126 @@
+{
+    "2021-08-03": [
+        [
+            {
+                "time": "2021-08-03",
+                "original_text": "中国电建三日内累涨30%，期间沪股通买入6.19亿元并卖出5.54亿元",
+                "features": {
+                    "keywords": [
+                        "中国电建",
+                        "累涨",
+                        "沪股通",
+                        "买入",
+                        "卖出"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "建筑",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-08-03",
+                "original_text": "中环海陆上市首日涨238.69%，募资加码绿色智能制造",
+                "features": {
+                    "keywords": [
+                        "中环海陆",
+                        "上市首日",
+                        "涨幅",
+                        "绿色智能制造"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "风电",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-08-03",
+                "original_text": "西藏矿业跌停，逾5亿元出逃",
+                "features": {
+                    "keywords": [
+                        "西藏矿业",
+                        "跌停",
+                        "资金流出"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "矿业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-08-03",
+                "original_text": "主力尾盘加仓生物、券商，抛售半导体、芯片",
+                "features": {
+                    "keywords": [
+                        "主力",
+                        "尾盘",
+                        "加仓",
+                        "生物",
+                        "券商",
+                        "抛售",
+                        "半导体",
+                        "芯片"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "生物医药",
+                        "券商",
+                        "半导体",
+                        "芯片"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            },
+            {
+                "time": "2021-08-03",
+                "original_text": "A股收盘综述：上证指数跌0.47%，热点题材尽数哑火",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "收盘",
+                        "上证指数",
+                        "下跌",
+                        "热点题材"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合市场"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

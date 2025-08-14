@@ -1,0 +1,83 @@
+{
+    "2019-01-10": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Pattern Energy Sells Interest in K2 Wind Facility for $160M",
+                "features": {
+                    "keywords": [
+                        "Pattern",
+                        "Energy",
+                        "Sells",
+                        "Interest",
+                        "K2",
+                        "Wind",
+                        "Facility"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "renewable energy",
+                        "wind"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-04-10",
+                "original_text": "Maxwell Unveils Improved Version of Ultracapacitor 3.0V",
+                "features": {
+                    "keywords": [
+                        "Maxwell",
+                        "Unveils",
+                        "Improved",
+                        "Version",
+                        "Ultracapacitor",
+                        "3.0V"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "energy storage"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-07-22",
+                "original_text": "Utilities Speed Up Closure of Coal-Fired Power Plants",
+                "features": {
+                    "keywords": [
+                        "Utilities",
+                        "Speed",
+                        "Up",
+                        "Closure",
+                        "Coal-Fired",
+                        "Power",
+                        "Plants"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities",
+                        "coal"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

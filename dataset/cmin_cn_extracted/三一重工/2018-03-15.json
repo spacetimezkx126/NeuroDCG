@@ -1,0 +1,51 @@
+{
+    "2018-03-15": [
+        [
+            {
+                "time": "2018-01-01",
+                "original_text": "[看好评级]2018年申万宏源机械行业春季策略：新消费 新制造 新周期",
+                "features": {
+                    "keywords": [
+                        "机械行业",
+                        "春季策略",
+                        "新消费",
+                        "新制造",
+                        "新周期"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "机械"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-01",
+                "original_text": "尼泊尔飞机坠机最新消息：中国乘客遇难者系三一重工员工",
+                "features": {
+                    "keywords": [
+                        "尼泊尔",
+                        "飞机坠机",
+                        "三一重工",
+                        "遇难"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "重工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

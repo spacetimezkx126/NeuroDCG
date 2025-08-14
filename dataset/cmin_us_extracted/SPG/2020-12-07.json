@@ -1,0 +1,73 @@
+{
+    "2020-12-07": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Morgan Stanley Bank of America Merrill Lynch Trust 2013-C12 -- Moody's affirms seven and downgrades four classes of MSBAM 2013-C12",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "affirms",
+                        "downgrades",
+                        "MSBAM",
+                        "2013-C12"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-02-12",
+                "original_text": "J.C. Penney’s Retail Business Steps Out of Bankruptcy",
+                "features": {
+                    "keywords": [
+                        "J.C. Penney",
+                        "retail",
+                        "bankruptcy"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-05-08",
+                "original_text": "J.C. Penney's retail and operating assets to exit Chapter 11",
+                "features": {
+                    "keywords": [
+                        "J.C. Penney",
+                        "retail",
+                        "operating assets",
+                        "Chapter 11"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

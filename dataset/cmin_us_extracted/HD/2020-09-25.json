@@ -1,0 +1,70 @@
+{
+    "2020-09-25": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "Some 3,500 U.S. companies sue over Trump-imposed Chinese tariffs",
+                "features": {
+                    "keywords": [
+                        "U.S. companies",
+                        "Trump-imposed",
+                        "Chinese tariffs"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "trade",
+                        "legal"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "5 Cyclical Companies Outperforming the S&P 500",
+                "features": {
+                    "keywords": [
+                        "Cyclical Companies",
+                        "Outperforming",
+                        "S&P 500"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "cyclical sectors"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "You Can Beat The Market Without Owning FAANG Stocks",
+                "features": {
+                    "keywords": [
+                        "Beat The Market",
+                        "FAANG Stocks"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "market strategy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

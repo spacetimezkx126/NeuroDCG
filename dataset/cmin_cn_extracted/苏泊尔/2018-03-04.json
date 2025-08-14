@@ -1,0 +1,52 @@
+{
+    "2018-03-04": [
+        [
+            {
+                "time": "",
+                "original_text": "苏泊尔董事长辞职",
+                "features": {
+                    "keywords": [
+                        "苏泊尔",
+                        "董事长",
+                        "辞职"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-01-01",
+                "original_text": "[看好评级] 1月家电零售和企业出货端数据点评(家用电器行业)：开门红 1月空调行业内销增长52.9%",
+                "features": {
+                    "keywords": [
+                        "家电",
+                        "零售",
+                        "出货",
+                        "开门红",
+                        "空调",
+                        "内销",
+                        "增长"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

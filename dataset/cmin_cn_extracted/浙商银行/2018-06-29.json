@@ -1,0 +1,51 @@
+{
+    "2018-06-29": [
+        [
+            {
+                "time": "",
+                "original_text": "浙商银行预先披露A股招股说明书，拟发行不超过44.9亿股",
+                "features": {
+                    "keywords": [
+                        "浙商银行",
+                        "A股",
+                        "招股说明书",
+                        "发行",
+                        "44.9亿股"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "浙商银行IPO敲门，近五分之一限售股或遭质押",
+                "features": {
+                    "keywords": [
+                        "浙商银行",
+                        "IPO",
+                        "限售股",
+                        "质押"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

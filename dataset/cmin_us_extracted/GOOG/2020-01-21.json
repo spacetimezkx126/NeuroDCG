@@ -1,0 +1,116 @@
+{
+    "2020-01-21": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Stock market mania in the U.S. is similar to the top in January 2018",
+                "features": {
+                    "keywords": [
+                        "stock market",
+                        "mania",
+                        "January 2018"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-12-24",
+                "original_text": "Trump-Macron Truce Averts Brewing Trade War: A Brief Solace?",
+                "features": {
+                    "keywords": [
+                        "Trump",
+                        "Macron",
+                        "trade war",
+                        "truce"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "global trade"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-01-15",
+                "original_text": "Dow Jones Futures Fall As Asia Sells Off: Stock Market Rally Faces Next Test",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "futures",
+                        "Asia",
+                        "selloff"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "financial markets"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-01-20",
+                "original_text": "Macron, Trump Agree To Hold Off Tit-For-Tat Tariffs",
+                "features": {
+                    "keywords": [
+                        "Macron",
+                        "Trump",
+                        "tariffs",
+                        "hold off"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "international trade"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-02-10",
+                "original_text": "Uber Rises as It's Named Morgan Stanley's Top Internet Pick, Sells Uber Eats India",
+                "features": {
+                    "keywords": [
+                        "Uber",
+                        "Morgan Stanley",
+                        "Internet Pick",
+                        "India"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "transportation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

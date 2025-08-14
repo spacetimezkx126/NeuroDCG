@@ -1,0 +1,52 @@
+{
+    "2019-04-25": [
+        [
+            {
+                "time": "2023-10-04",
+                "original_text": "中国建筑：邵继江先生不再担任公司副总裁一职",
+                "features": {
+                    "keywords": [
+                        "中国建筑",
+                        "邵继江",
+                        "副总裁",
+                        "人事变动"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "建筑"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-04",
+                "original_text": "一带一路国际合作高峰论坛召开 机构三大视角揭示概念股潜力",
+                "features": {
+                    "keywords": [
+                        "一带一路",
+                        "国际合作",
+                        "高峰论坛",
+                        "概念股",
+                        "潜力"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基建",
+                        "国际贸易"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

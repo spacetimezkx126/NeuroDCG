@@ -1,0 +1,70 @@
+{
+    "2021-08-03": [
+        [
+            {
+                "time": "",
+                "original_text": "中国神华：公司化工板块目前只有煤制烯烃业务",
+                "features": {
+                    "keywords": [
+                        "中国神华",
+                        "化工板块",
+                        "煤制烯烃"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "8月底",
+                "original_text": "中国神华：H股（包括港股通）现金分红业务预计8月底完成",
+                "features": {
+                    "keywords": [
+                        "中国神华",
+                        "H股",
+                        "港股通",
+                        "现金分红"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国神华：目前公司没有制氢业务",
+                "features": {
+                    "keywords": [
+                        "中国神华",
+                        "制氢业务"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

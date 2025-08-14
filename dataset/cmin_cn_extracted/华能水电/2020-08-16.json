@@ -1,0 +1,49 @@
+{
+    "2020-08-16": [
+        [
+            {
+                "time": "",
+                "original_text": "公,用,事,业,行,业,周,报,：,7,月,全,社,会,用,电,量,同,比,增,长,2,.,3,%, ,天,然,气,产,量,同,比,增,长,4,.,8,%",
+                "features": {
+                    "keywords": [
+                        "全社会用电量",
+                        "同比增长",
+                        "天然气产量"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "公用事业",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "7,月,能,源,供,给,增,速,短,期,承,压,，,复,苏,仍,为,主,线",
+                "features": {
+                    "keywords": [
+                        "能源供给增速",
+                        "短期承压",
+                        "复苏"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2020-03-24": [
+        [
+            {
+                "time": "2020-03-24",
+                "original_text": "晶澳科技拟投资约14.54亿元建设朝阳县300MW光伏平价上网项目。",
+                "features": {
+                    "keywords": [
+                        "晶澳科技",
+                        "光伏项目",
+                        "14.54亿元",
+                        "300MW",
+                        "平价上网"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "光伏"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-03-24",
+                "original_text": "上市公司正面新闻：晶澳科技拟投资约14.54亿元建设光伏项目。",
+                "features": {
+                    "keywords": [
+                        "上市公司",
+                        "正面新闻",
+                        "晶澳科技",
+                        "光伏项目"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

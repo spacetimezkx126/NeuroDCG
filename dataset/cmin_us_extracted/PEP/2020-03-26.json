@@ -1,0 +1,76 @@
+{
+    "2020-03-26": [
+        [
+            {
+                "time": "2020-03-15",
+                "original_text": "Spam sales are on fire as people stay quarantined during coronavirus pandemic: Hormel CEO",
+                "features": {
+                    "keywords": [
+                        "Spam",
+                        "sales",
+                        "fire",
+                        "quarantined",
+                        "coronavirus",
+                        "Hormel"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods",
+                        "food"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-04-10",
+                "original_text": "Why Peter Lynch Loves Volatility",
+                "features": {
+                    "keywords": [
+                        "Peter Lynch",
+                        "Volatility"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-05-20",
+                "original_text": "Zacks Market Edge Highlights: Pepsico, Coca-Cola, McDonald's, Starbucks and Sony",
+                "features": {
+                    "keywords": [
+                        "Zacks",
+                        "Market Edge",
+                        "Pepsico",
+                        "Coca-Cola",
+                        "McDonald's",
+                        "Starbucks",
+                        "Sony"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "beverages",
+                        "fast food",
+                        "electronics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

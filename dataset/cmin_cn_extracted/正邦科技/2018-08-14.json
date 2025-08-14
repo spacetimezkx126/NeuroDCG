@@ -1,0 +1,55 @@
+{
+    "2018-08-14": [
+        [
+            {
+                "time": "",
+                "original_text": "温氏股份上半年净利润9.17亿元 养猪亏损养禽业务明显回暖 亏损",
+                "features": {
+                    "keywords": [
+                        "温氏股份",
+                        "净利润",
+                        "养猪",
+                        "亏损",
+                        "养禽业务",
+                        "回暖"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "畜牧业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "券商操盘的股票多数跑赢大盘 这只股7月至今涨了19%",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "操盘",
+                        "跑赢大盘",
+                        "7月至今",
+                        "涨了19%"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "2021-02-01": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Analyst Raises General Electric Target Following FCF Deep Dive",
+                "features": {
+                    "keywords": [
+                        "Analyst",
+                        "Raises",
+                        "General Electric",
+                        "Target",
+                        "FCF",
+                        "Deep Dive"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2020-12-01",
+                "original_text": "GE Healthcare Named '2020 Global Company of the Year' by Frost & Sullivan for its AI-based Command Centers that Help Hospitals Make Real-time Decisions That Improve Care Delivery",
+                "features": {
+                    "keywords": [
+                        "GE Healthcare",
+                        "Global Company of the Year",
+                        "Frost & Sullivan",
+                        "AI-based Command Centers",
+                        "Hospitals",
+                        "Real-time Decisions",
+                        "Care Delivery"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

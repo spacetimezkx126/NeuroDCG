@@ -1,0 +1,53 @@
+{
+    "2020-07-28": [
+        [
+            {
+                "time": "",
+                "original_text": "缩量反弹调整未结束？北上资金大笔调仓白酒医药",
+                "features": {
+                    "keywords": [
+                        "缩量反弹",
+                        "调整未结束",
+                        "北上资金",
+                        "大笔调仓",
+                        "白酒",
+                        "医药"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "白酒",
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "交运行业周报：旅客运输量恢复至六成，暑运旺季来临",
+                "features": {
+                    "keywords": [
+                        "交运行业",
+                        "旅客运输量",
+                        "恢复至六成",
+                        "暑运旺季"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

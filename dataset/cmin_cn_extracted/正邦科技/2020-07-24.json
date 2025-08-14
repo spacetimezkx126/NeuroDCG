@@ -1,0 +1,52 @@
+{
+    "2020-07-24": [
+        [
+            {
+                "time": "",
+                "original_text": "正邦科技现2笔大宗交易 ，共成交739.20万元",
+                "features": {
+                    "keywords": [
+                        "正邦科技",
+                        "大宗交易",
+                        "成交"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "解盘：资金出逃，题材走势分化，黄金珠宝、军工略涨",
+                "features": {
+                    "keywords": [
+                        "资金出逃",
+                        "题材走势",
+                        "黄金珠宝",
+                        "军工",
+                        "略涨"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "黄金珠宝",
+                        "军工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

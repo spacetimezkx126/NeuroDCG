@@ -1,0 +1,52 @@
+{
+    "2021-01-16": [
+        [
+            {
+                "time": "",
+                "original_text": "西 南 千 亿 房 企 增 至 3 家 整 体 发 展 分 化 加 剧",
+                "features": {
+                    "keywords": [
+                        "西南",
+                        "千亿房企",
+                        "增至3家",
+                        "整体发展",
+                        "分化加剧"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "巨 头 圈 地 不 止 生 猪 期 货 难 以 熨 平 猪 周 期",
+                "features": {
+                    "keywords": [
+                        "巨头圈地",
+                        "生猪期货",
+                        "难以熨平",
+                        "猪周期"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "期货"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

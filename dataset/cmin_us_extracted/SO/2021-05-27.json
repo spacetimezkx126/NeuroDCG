@@ -1,0 +1,53 @@
+{
+    "2021-05-27": [
+        [
+            {
+                "time": "2020-12-31",
+                "original_text": "Georgia Power, Georgia Power Foundation invested more than $20 million to help meet community challenges in 2020",
+                "features": {
+                    "keywords": [
+                        "Georgia Power",
+                        "Foundation",
+                        "invested",
+                        "$20 million",
+                        "community challenges"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-03-15",
+                "original_text": "Is The Southern Company's (NYSE:SO) ROE Of 10% Impressive?",
+                "features": {
+                    "keywords": [
+                        "Southern Company",
+                        "NYSE:SO",
+                        "ROE",
+                        "10%"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "2020-04-02": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Berkshire's Unnoticed and Self-Beating Holdings",
+                "features": {
+                    "keywords": [
+                        "Berkshire",
+                        "unnoticed",
+                        "self-beating",
+                        "holdings"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "investing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Cash and Credit Cards Are Dirty. Apple Pay Is Looking Better.",
+                "features": {
+                    "keywords": [
+                        "cash",
+                        "credit cards",
+                        "dirty",
+                        "Apple Pay",
+                        "looking better"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Britain's FCA proposes temporary financial relief for customers",
+                "features": {
+                    "keywords": [
+                        "FCA",
+                        "proposes",
+                        "temporary",
+                        "financial relief",
+                        "customers"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "regulation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2020-09-03": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "MAS to Enhance Bank Access to Dollar Funding to Improve Liquidity",
+                "features": {
+                    "keywords": [
+                        "MAS",
+                        "bank access",
+                        "dollar funding",
+                        "liquidity"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "banking"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "RPT-Top EU schools see applications dip as COVID compounds Brexit delays",
+                "features": {
+                    "keywords": [
+                        "EU schools",
+                        "applications dip",
+                        "COVID",
+                        "Brexit delays"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "education",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

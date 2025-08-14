@@ -1,0 +1,74 @@
+{
+    "2018-12-31": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Top Stock Reports for Alphabet, Boeing & Salesforce",
+                "features": {
+                    "keywords": [
+                        "Alphabet",
+                        "Boeing",
+                        "Salesforce",
+                        "stock reports"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "aerospace",
+                        "software"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "Frontier Communications’ Earnings and Revenues in 2018",
+                "features": {
+                    "keywords": [
+                        "Frontier Communications",
+                        "earnings",
+                        "revenues",
+                        "2018"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Tax Settlement Takes 75% of Sprint’s 2018 Profits",
+                "features": {
+                    "keywords": [
+                        "tax settlement",
+                        "Sprint",
+                        "profits",
+                        "2018"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

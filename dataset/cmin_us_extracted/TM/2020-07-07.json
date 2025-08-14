@@ -1,0 +1,51 @@
+{
+    "2020-07-07": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Cars, a cocktail and a celebrity: South Koreans succumb to Tesla fever",
+                "features": {
+                    "keywords": [
+                        "Tesla",
+                        "South Korea",
+                        "cars",
+                        "celebrity"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automobiles",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Russia's June new car sales fall 14.6% y/y - AEB",
+                "features": {
+                    "keywords": [
+                        "Russia",
+                        "car sales",
+                        "fall",
+                        "AEB"
+                    ],
+                    "sentiment_score": -0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automobiles"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

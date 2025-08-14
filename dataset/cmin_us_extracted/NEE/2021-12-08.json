@@ -1,0 +1,75 @@
+{
+    "2021-12-08": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "O'Shares U.S. Quality Dividend ETF Buys Blackstone Inc, Abbott Laboratories, Verizon ...",
+                "features": {
+                    "keywords": [
+                        "O'Shares",
+                        "Quality Dividend",
+                        "ETF",
+                        "Blackstone",
+                        "Abbott Laboratories",
+                        "Verizon"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "healthcare",
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "AES Completes Acquisition of 612 MW-Wind Energy Portfolio",
+                "features": {
+                    "keywords": [
+                        "AES",
+                        "Acquisition",
+                        "Wind Energy",
+                        "Portfolio"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "renewable energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Here is What Hedge Funds Think About NextEra Energy, Inc. (NEE)",
+                "features": {
+                    "keywords": [
+                        "Hedge Funds",
+                        "NextEra Energy",
+                        "Opinion"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

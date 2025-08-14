@@ -1,0 +1,72 @@
+{
+    "2019-03-17": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Will Burger King's $5 Coffee Trick Hurt Starbucks and McDonald's?",
+                "features": {
+                    "keywords": [
+                        "Burger King",
+                        "Coffee",
+                        "Starbucks",
+                        "McDonald's"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food_and_beverage"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Starbucks CEO sees more stores, faster innovation as key",
+                "features": {
+                    "keywords": [
+                        "Starbucks",
+                        "CEO",
+                        "stores",
+                        "innovation"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food_and_beverage"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Pass It On: Starbucks CEO says great leaders are authentic",
+                "features": {
+                    "keywords": [
+                        "Starbucks",
+                        "CEO",
+                        "leaders",
+                        "authentic"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food_and_beverage"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

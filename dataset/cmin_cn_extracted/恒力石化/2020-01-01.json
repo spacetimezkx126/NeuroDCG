@@ -1,0 +1,49 @@
+{
+    "2020-01-01": [
+        [
+            {
+                "time": "",
+                "original_text": "P,T,A,加,工,费,低,廉,成,常,态",
+                "features": {
+                    "keywords": [
+                        "PTA",
+                        "加工费",
+                        "低廉",
+                        "常态"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "券商,逆势,大涨,，,鹿,死,谁,手,尚,未,可,知,!",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "逆势",
+                        "大涨"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

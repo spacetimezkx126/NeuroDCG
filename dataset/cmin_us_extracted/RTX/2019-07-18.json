@@ -1,0 +1,76 @@
+{
+    "2019-07-18": [
+        [
+            {
+                "time": "2023-10-10",
+                "original_text": "Aviation is the rope in the tug of war over GE stock",
+                "features": {
+                    "keywords": [
+                        "Aviation",
+                        "GE stock",
+                        "tug of war"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aviation",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "Danaher (DHR) Beats on Q2 Earnings and Sales, Ups Guidance",
+                "features": {
+                    "keywords": [
+                        "Danaher",
+                        "DHR",
+                        "Q2 Earnings",
+                        "Beats",
+                        "Ups Guidance"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "Honeywell (HON) Q2 Earnings Beat Estimates, Revenues Miss",
+                "features": {
+                    "keywords": [
+                        "Honeywell",
+                        "HON",
+                        "Q2 Earnings",
+                        "Beat",
+                        "Revenues Miss"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

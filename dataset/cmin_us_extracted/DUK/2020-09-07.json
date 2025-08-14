@@ -1,0 +1,54 @@
+{
+    "2020-09-07": [
+        [
+            {
+                "time": "2021-01-01",
+                "original_text": "Duke Energy Florida Arm Plans to Slash Electric Rates for 2021",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "Florida",
+                        "Slash",
+                        "Electric Rates",
+                        "2021"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-01-01",
+                "original_text": "Duke Energy (NYSE:DUK) Has Compensated Shareholders With A Respectable 47% Return On Their Investment",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "Compensated",
+                        "Shareholders",
+                        "Respectable",
+                        "47%",
+                        "Return",
+                        "Investment"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

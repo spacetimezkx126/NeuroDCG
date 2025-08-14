@@ -1,0 +1,96 @@
+{
+    "2020-08-10": [
+        [
+            {
+                "time": "2018-01-03",
+                "original_text": "Berkshire Hathaway Inc. Cl A stock outperforms market on strong trading day",
+                "features": {
+                    "keywords": [
+                        "Berkshire",
+                        "Hathaway",
+                        "outperforms",
+                        "strong trading day"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "IMPORTANT ALERT FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm",
+                "features": {
+                    "keywords": [
+                        "Class Action Lawsuit",
+                        "Honeywell",
+                        "Investors",
+                        "Losses"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-05",
+                "original_text": "Honeywell and Halliburton Team Up on What? That’s Right: Software.",
+                "features": {
+                    "keywords": [
+                        "Honeywell",
+                        "Halliburton",
+                        "Team Up",
+                        "Software"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-06",
+                "original_text": "Halliburton and Honeywell Collaborate to Improve Asset Productivity From Reservoir to Point of Sale",
+                "features": {
+                    "keywords": [
+                        "Halliburton",
+                        "Honeywell",
+                        "Collaborate",
+                        "Asset Productivity"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

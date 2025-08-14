@@ -1,0 +1,55 @@
+{
+    "2021-11-13": [
+        [
+            {
+                "time": "",
+                "original_text": "北向资金本周净卖出约27亿元，抛售医药制造、酿酒行业，大幅加仓“宁王”和这只券商股",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "净卖出",
+                        "医药制造",
+                        "酿酒行业",
+                        "宁王",
+                        "券商股"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药制造",
+                        "酿酒行业",
+                        "新能源",
+                        "券商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "“双11”成绩单出炉 伊利再创夺目战绩",
+                "features": {
+                    "keywords": [
+                        "双11",
+                        "成绩单",
+                        "伊利"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "消费品",
+                        "乳制品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

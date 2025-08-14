@@ -1,0 +1,78 @@
+{
+    "2020-02-22": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "The 5G rollout is already behind, and coronavirus could slow it even more",
+                "features": {
+                    "keywords": [
+                        "5G rollout",
+                        "behind",
+                        "coronavirus",
+                        "slow"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "These companies are investing billions so robots can perform surgery without a doctor in the room",
+                "features": {
+                    "keywords": [
+                        "investing",
+                        "billions",
+                        "robots",
+                        "surgery",
+                        "doctor"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "White House to Host Huawei Rivals at 5G Meeting, Kudlow Says",
+                "features": {
+                    "keywords": [
+                        "White House",
+                        "Huawei",
+                        "rivals",
+                        "5G",
+                        "meeting"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "telecommunications",
+                        "government"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

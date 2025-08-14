@@ -1,0 +1,72 @@
+{
+    "2020-06-08": [
+        [
+            {
+                "time": "2021-06-15",
+                "original_text": "Goldman Sachs strategist: If we don't address systematic racism, it will be bad for the economy and markets",
+                "features": {
+                    "keywords": [
+                        "systematic racism",
+                        "economy",
+                        "markets"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-06-15",
+                "original_text": "Airbnb Joins Vacation-Rental Sites Seeing Surge in Demand",
+                "features": {
+                    "keywords": [
+                        "Airbnb",
+                        "Vacation-Rental",
+                        "Surge",
+                        "Demand"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate",
+                        "travel"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-06-15",
+                "original_text": "The Office Isn't Dead. It's Just Convalescing",
+                "features": {
+                    "keywords": [
+                        "Office",
+                        "Convalescing"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate",
+                        "workplace"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2019-01-21": [
+        [
+            {
+                "time": "2018-02-05",
+                "original_text": "Lilly Confirms Date and Conference Call for Fourth-Quarter 2018 Financial Results Announcement",
+                "features": {
+                    "keywords": [
+                        "Lilly",
+                        "Financial Results",
+                        "Conference Call",
+                        "Fourth-Quarter"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-02-05",
+                "original_text": "Lilly Stops Lartruvo Promotion as Confirmatory Study Fails",
+                "features": {
+                    "keywords": [
+                        "Lilly",
+                        "Lartruvo",
+                        "Promotion",
+                        "Confirmatory Study",
+                        "Fails"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

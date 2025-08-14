@@ -1,0 +1,74 @@
+{
+    "2020-10-23": [
+        [
+            {
+                "time": "",
+                "original_text": "一天输掉一套房：可转债尾盘跳水 最高浮亏超55%",
+                "features": {
+                    "keywords": [
+                        "可转债",
+                        "尾盘跳水",
+                        "浮亏"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "债券市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "从濒临破产到营收增长超10倍、市值接近500亿，这家公司经历了什么 减资破产",
+                "features": {
+                    "keywords": [
+                        "濒临破产",
+                        "营收增长",
+                        "市值",
+                        "减资"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "企业经营"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2010-02-3",
+                "original_text": "晨会聚焦201023重点关注电连技术、佰仁医疗、江苏神通、柏楚电子",
+                "features": {
+                    "keywords": [
+                        "晨会聚焦",
+                        "电连技术",
+                        "佰仁医疗",
+                        "江苏神通",
+                        "柏楚电子"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "医疗",
+                        "工业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

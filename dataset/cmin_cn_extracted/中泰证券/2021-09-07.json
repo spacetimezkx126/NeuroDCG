@@ -1,0 +1,54 @@
+{
+    "2021-09-07": [
+        [
+            {
+                "time": "",
+                "original_text": "青岛银行：浙商证券、中泰证券等13家机构于9月3日调研我司",
+                "features": {
+                    "keywords": [
+                        "青岛银行",
+                        "浙商证券",
+                        "中泰证券",
+                        "机构调研"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "金域医学跌3.10% 中泰证券浙商证券西部证券高点唱多",
+                "features": {
+                    "keywords": [
+                        "金域医学",
+                        "下跌",
+                        "中泰证券",
+                        "浙商证券",
+                        "西部证券",
+                        "唱多"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医疗",
+                        "生物科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

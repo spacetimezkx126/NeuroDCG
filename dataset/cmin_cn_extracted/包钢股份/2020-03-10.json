@@ -1,0 +1,67 @@
+{
+    "2020-03-10": [
+        [
+            {
+                "time": "",
+                "original_text": "两市低价股一览56股股价不足2元",
+                "features": {
+                    "keywords": [
+                        "低价股",
+                        "股价不足2元"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-10",
+                "original_text": "3月10日午盘两市机构大单抢筹40股(名单)",
+                "features": {
+                    "keywords": [
+                        "机构大单",
+                        "抢筹",
+                        "名单"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "多行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-09",
+                "original_text": "A股融资融券日报：两融余额减少34.07亿元（3月9日）",
+                "features": {
+                    "keywords": [
+                        "融资融券",
+                        "两融余额减少"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

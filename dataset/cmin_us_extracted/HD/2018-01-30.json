@@ -1,0 +1,73 @@
+{
+    "2018-01-30": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Activist Investors Are a Win for Lowe’s Companies, Inc. Stock",
+                "features": {
+                    "keywords": [
+                        "activist investors",
+                        "win",
+                        "Lowe's",
+                        "stock"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Notable Tuesday Option Activity: EA, BHF, HD",
+                "features": {
+                    "keywords": [
+                        "option activity",
+                        "EA",
+                        "BHF",
+                        "HD"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "financials",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-22",
+                "original_text": "Key Updates in the Consumer Sector: Week of January 22–26",
+                "features": {
+                    "keywords": [
+                        "consumer sector",
+                        "updates",
+                        "January 22–26"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

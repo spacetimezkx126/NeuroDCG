@@ -1,0 +1,77 @@
+{
+    "2019-08-21": [
+        [
+            {
+                "time": "2008-01",
+                "original_text": "Max Capital Ltd Series 2008-01 -- Moody's downgrades rating on Repack notes of Max Capital Ltd Series 2008-01",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "downgrades",
+                        "rating",
+                        "Repack notes",
+                        "Max Capital Ltd"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10",
+                "original_text": "Should You Invest in the Invesco S&P 500 Equal Weight Industrials ETF (RGI)?",
+                "features": {
+                    "keywords": [
+                        "Invesco",
+                        "S&P 500",
+                        "Equal Weight",
+                        "Industrials",
+                        "ETF",
+                        "RGI"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrials"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10",
+                "original_text": "UPS & ChannelAdvisor Simplify Global Shipping And E-Commerce For Small And Medium-Sized Businesses",
+                "features": {
+                    "keywords": [
+                        "UPS",
+                        "ChannelAdvisor",
+                        "Global Shipping",
+                        "E-Commerce",
+                        "Small And Medium-Sized Businesses"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "logistics",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

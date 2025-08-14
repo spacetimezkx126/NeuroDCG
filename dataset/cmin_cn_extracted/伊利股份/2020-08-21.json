@@ -1,0 +1,52 @@
+{
+    "2020-08-21": [
+        [
+            {
+                "time": "",
+                "original_text": "《股东来了》2020内蒙古片区走进上市公司——伊利股份",
+                "features": {
+                    "keywords": [
+                        "股东来了",
+                        "内蒙古",
+                        "伊利股份"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "北向资金动向盘点：先弃后取，重新加仓军工医药电子",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "加仓",
+                        "军工",
+                        "医药",
+                        "电子"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "军工",
+                        "医药",
+                        "电子"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

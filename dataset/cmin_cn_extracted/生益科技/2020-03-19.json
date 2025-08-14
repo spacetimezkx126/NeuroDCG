@@ -1,0 +1,51 @@
+{
+    "2020-03-19": [
+        [
+            {
+                "time": "",
+                "original_text": "P,C,B,板,块,集,体,走,强",
+                "features": {
+                    "keywords": [
+                        "板块",
+                        "集体",
+                        "走强"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【中金电子与通信】生益科技（600183.SH）：中国“新基建”核心标的，受益于5G和云计算建设周期",
+                "features": {
+                    "keywords": [
+                        "生益科技",
+                        "新基建",
+                        "5G",
+                        "云计算",
+                        "建设周期"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电子",
+                        "通信"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

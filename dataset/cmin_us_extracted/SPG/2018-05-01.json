@@ -1,0 +1,80 @@
+{
+    "2018-05-01": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Simon Property Group (SPG) Shares Cross Above 200 DMA",
+                "features": {
+                    "keywords": [
+                        "Simon Property Group",
+                        "SPG",
+                        "Shares",
+                        "Cross",
+                        "Above",
+                        "200 DMA"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Mall owners fight back against 'scythe-wielding grim reaper of bankruptcy'",
+                "features": {
+                    "keywords": [
+                        "Mall",
+                        "owners",
+                        "fight",
+                        "back",
+                        "bankruptcy"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Notable ETF Outflow Detected - VNQ, SPG, PLD, EQIX",
+                "features": {
+                    "keywords": [
+                        "ETF",
+                        "Outflow",
+                        "Detected",
+                        "VNQ",
+                        "SPG",
+                        "PLD",
+                        "EQIX"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "real estate",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

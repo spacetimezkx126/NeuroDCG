@@ -1,0 +1,124 @@
+{
+    "2019-09-25": [
+        [
+            {
+                "time": "2019-06-30",
+                "original_text": "T. Rowe Price Equity Income Fund Semi-Annual Letter 2019",
+                "features": {
+                    "keywords": [
+                        "Equity Income Fund",
+                        "Semi-Annual Letter"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2019-04-15",
+                "original_text": "Climate-change protesters shut down Wells Fargo’s headquarters branch",
+                "features": {
+                    "keywords": [
+                        "Climate-change",
+                        "protesters",
+                        "Wells Fargo",
+                        "headquarters"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2019-10-10",
+                "original_text": "Impeaching Trump Like ‘Bill Clinton 2.0,’ Wall Street Says",
+                "features": {
+                    "keywords": [
+                        "Impeaching",
+                        "Trump",
+                        "Wall Street"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-08-15",
+                "original_text": "Wells Fargo Donates $300,000 to Greater Orlando for Revitalization Efforts",
+                "features": {
+                    "keywords": [
+                        "Wells Fargo",
+                        "Donates",
+                        "Revitalization"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2019-03-05",
+                "original_text": "Wells Fargo's top female execs share thoughts on diversity, inclusion",
+                "features": {
+                    "keywords": [
+                        "Wells Fargo",
+                        "diversity",
+                        "inclusion"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2019-12-05",
+                "original_text": "Stocks - U.S. Futures Slip on Trump Impeachment Woes",
+                "features": {
+                    "keywords": [
+                        "Stocks",
+                        "U.S. Futures",
+                        "Slip",
+                        "Trump",
+                        "Impeachment"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

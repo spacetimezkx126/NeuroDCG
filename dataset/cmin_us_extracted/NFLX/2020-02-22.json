@@ -1,0 +1,53 @@
+{
+    "2020-02-22": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "podcast: Netflix's 'Locke & Key' offers spooky delights",
+                "features": {
+                    "keywords": [
+                        "Netflix",
+                        "Locke & Key",
+                        "spooky",
+                        "delights"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment",
+                        "media"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Mnuchin Says Congress Key Hurdle to Europe’s Digital Tax Demands",
+                "features": {
+                    "keywords": [
+                        "Mnuchin",
+                        "Congress",
+                        "Europe",
+                        "Digital Tax",
+                        "Demands"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "2018-07-11": [
+        [
+            {
+                "time": "",
+                "original_text": "长盈精密大跌5.02%，报11.92元",
+                "features": {
+                    "keywords": [
+                        "长盈精密",
+                        "大跌",
+                        "5.02%"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电子制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-06",
+                "original_text": "环旭电子2018年6月营业收入简报",
+                "features": {
+                    "keywords": [
+                        "环旭电子",
+                        "营业收入",
+                        "简报"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电子制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

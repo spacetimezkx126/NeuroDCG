@@ -1,0 +1,74 @@
+{
+    "2021-08-20": [
+        [
+            {
+                "time": "",
+                "original_text": "工、业、富、联、董、事、长、李、军、旗、：、工、业、互、联、网、是、一、场、持、久、战、离、全、面、推、广、普、及、还、有、很、大、差、距",
+                "features": {
+                    "keywords": [
+                        "工业富联",
+                        "工业互联网",
+                        "持久战",
+                        "全面推广"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "信息技术",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "助、力、传、统、制、造、业、数、字、化、转、型、工、业、富、联、拟、5、0、0、0、万、元、参、投、基、金",
+                "features": {
+                    "keywords": [
+                        "工业富联",
+                        "数字化转型",
+                        "投资基金",
+                        "5000万元"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "制造业",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "富、士、康、野、心、：、汽、车、芯、片、的、“、台、积、电、”",
+                "features": {
+                    "keywords": [
+                        "富士康",
+                        "汽车芯片",
+                        "台积电"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "半导体",
+                        "汽车制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

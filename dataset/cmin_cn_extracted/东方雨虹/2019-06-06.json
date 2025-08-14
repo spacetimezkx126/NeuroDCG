@@ -1,0 +1,53 @@
+{
+    "2019-06-06": [
+        [
+            {
+                "time": "",
+                "original_text": "东方雨虹回复深交易所存货、资产减值等问询",
+                "features": {
+                    "keywords": [
+                        "东方雨虹",
+                        "深交易所",
+                        "存货",
+                        "资产减值",
+                        "问询"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "建筑材料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "建材行业周报:错峰生产保障供需平衡,水泥价格以稳为主",
+                "features": {
+                    "keywords": [
+                        "建材行业",
+                        "错峰生产",
+                        "供需平衡",
+                        "水泥价格",
+                        "稳定"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "建筑材料",
+                        "水泥"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

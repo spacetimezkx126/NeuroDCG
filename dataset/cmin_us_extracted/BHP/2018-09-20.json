@@ -1,0 +1,67 @@
+{
+    "2018-09-20": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Asian Markets Mostly Higher After Positive Wall Street Lead",
+                "features": {
+                    "keywords": [
+                        "Asian Markets",
+                        "Higher",
+                        "Positive Wall Street Lead"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Australian Market Rises",
+                "features": {
+                    "keywords": [
+                        "Australian Market",
+                        "Rises"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Asian Shares End On Muted Note",
+                "features": {
+                    "keywords": [
+                        "Asian Shares",
+                        "Muted Note"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

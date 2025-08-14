@@ -1,0 +1,53 @@
+{
+    "2019-03-11": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "5 Top Stock Trades for Tuesday: Apple, Nvidia, Boeing",
+                "features": {
+                    "keywords": [
+                        "Apple",
+                        "Nvidia",
+                        "Boeing",
+                        "Top Stock Trades"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "3 Big Stock Charts for Monday: Coca-Cola, Citrix Systems and Johnson Controls",
+                "features": {
+                    "keywords": [
+                        "Coca-Cola",
+                        "Citrix Systems",
+                        "Johnson Controls",
+                        "Big Stock Charts"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods",
+                        "technology",
+                        "industrial"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

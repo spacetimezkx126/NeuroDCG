@@ -1,0 +1,52 @@
+{
+    "2020-07-17": [
+        [
+            {
+                "time": "",
+                "original_text": "半导体板块低迷，兆易创新、北方华创、卓胜微、紫光国微均走软",
+                "features": {
+                    "keywords": [
+                        "半导体",
+                        "板块低迷",
+                        "兆易创新",
+                        "北方华创",
+                        "卓胜微",
+                        "紫光国微"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "证券时报头版：中芯国际刮起“情感估值”，投资者需兼顾产业规律",
+                "features": {
+                    "keywords": [
+                        "证券时报",
+                        "中芯国际",
+                        "情感估值",
+                        "产业规律"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

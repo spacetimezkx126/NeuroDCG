@@ -1,0 +1,54 @@
+{
+    "2020-01-03": [
+        [
+            {
+                "time": "2019-01-02",
+                "original_text": "IPO保荐承销费112亿：中信中金领跑 海通被否最多",
+                "features": {
+                    "keywords": [
+                        "IPO",
+                        "保荐承销费",
+                        "中信",
+                        "中金",
+                        "海通",
+                        "被否"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-01-02",
+                "original_text": "投资者诉华泽退等索赔案一审胜诉 其余受损投资者仍可索赔",
+                "features": {
+                    "keywords": [
+                        "投资者",
+                        "华泽退",
+                        "索赔",
+                        "胜诉"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "法律",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2020-06-26": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Gap Stock Has Never Had a Day Like This. Thanks, Kanye West.",
+                "features": {
+                    "keywords": [
+                        "Gap",
+                        "Stock",
+                        "Day",
+                        "Kanye West"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Taubman Gets Shareholder Approval for Simon Property Merger",
+                "features": {
+                    "keywords": [
+                        "Taubman",
+                        "Shareholder",
+                        "Approval",
+                        "Simon Property",
+                        "Merger"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2019-11-21": [
+        [
+            {
+                "time": "",
+                "original_text": "今年港股十大IPO表现很戏剧 ，最高涨八成 ，最低近腰斩",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "IPO",
+                        "最高涨八成",
+                        "最低近腰斩"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "资本市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "今年港股十大IPO表现很戏剧，分析人士对阿里首日表现持保守态度",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "IPO",
+                        "阿里",
+                        "首日表现",
+                        "保守态度"
+                    ],
+                    "sentiment_score": 0.1,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

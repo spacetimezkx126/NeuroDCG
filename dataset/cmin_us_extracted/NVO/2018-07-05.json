@@ -1,0 +1,69 @@
+{
+    "2018-07-05": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Look at Novo Nordisk’s Biopharmaceuticals",
+                "features": {
+                    "keywords": [
+                        "Novo Nordisk",
+                        "Biopharmaceuticals"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "NVO’s Victoza and Ozempic Could See Steady Growth in 2018",
+                "features": {
+                    "keywords": [
+                        "NVO",
+                        "Victoza",
+                        "Ozempic",
+                        "Steady Growth"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Free Technical Reports on Novavax and Three Additional Biotech Equities",
+                "features": {
+                    "keywords": [
+                        "Technical Reports",
+                        "Novavax",
+                        "Biotech Equities"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

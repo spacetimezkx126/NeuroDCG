@@ -1,0 +1,50 @@
+{
+    "2020-12-11": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Delisting, Chinese, Companies, Could, Be, Bad, for, Investors. But, It’s, the, Right, Thing, to, Do.",
+                "features": {
+                    "keywords": [
+                        "delisting",
+                        "Chinese companies",
+                        "bad for investors"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "international",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Calculating The Fair Value Of JD.com, Inc. (NASDAQ:JD)",
+                "features": {
+                    "keywords": [
+                        "fair value",
+                        "JD.com",
+                        "NASDAQ:JD"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

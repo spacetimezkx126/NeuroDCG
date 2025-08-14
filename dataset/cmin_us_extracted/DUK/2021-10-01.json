@@ -1,0 +1,52 @@
+{
+    "2021-10-01": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "Duke Energy Ohio proposes new customer benefits; requests electric distribution rate review as it continues grid, service improvements",
+                "features": {
+                    "keywords": [
+                        "customer benefits",
+                        "electric distribution rate",
+                        "grid improvements",
+                        "service improvements"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Duke Energy extends Covid moratorium on power disconnections as advocacy groups attack its efforts",
+                "features": {
+                    "keywords": [
+                        "Covid moratorium",
+                        "power disconnections",
+                        "advocacy groups",
+                        "attacks"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2020-10-10": [
+        [
+            {
+                "time": "2018-09-30",
+                "original_text": "Costco's Sales Sizzled Again in September",
+                "features": {
+                    "keywords": [
+                        "Costco",
+                        "Sales",
+                        "Sizzled",
+                        "September"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-09-30",
+                "original_text": "Costco Wholesale Corporation (NASDAQ:COST) Yearly Results: Here's What Analysts Are Forecasting For This Year",
+                "features": {
+                    "keywords": [
+                        "Costco",
+                        "Wholesale",
+                        "Yearly",
+                        "Results",
+                        "Analysts",
+                        "Forecasting"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

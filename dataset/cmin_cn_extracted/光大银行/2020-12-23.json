@@ -1,0 +1,76 @@
+{
+    "2020-12-23": [
+        [
+            {
+                "time": "",
+                "original_text": "港股\"支付第一股\"汇付天下私有化背后：上半年出现上市后首亏 亏损",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "支付第一股",
+                        "汇付天下",
+                        "私有化",
+                        "首亏",
+                        "亏损"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融科技",
+                        "支付行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-12-22",
+                "original_text": "A股融资融券日报：两融余额增加2.44亿元（12月22日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "证券市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-12-23",
+                "original_text": "【安信中小盘】华安鑫创-次新股资讯1223",
+                "features": {
+                    "keywords": [
+                        "安信中小盘",
+                        "华安鑫创",
+                        "次新股",
+                        "资讯"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "中小盘股",
+                        "次新股"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

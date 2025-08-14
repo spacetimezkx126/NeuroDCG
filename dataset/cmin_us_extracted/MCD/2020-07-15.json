@@ -1,0 +1,75 @@
+{
+    "2020-07-15": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "KFC, Nando's, and Pret lower prices after VAT cut",
+                "features": {
+                    "keywords": [
+                        "VAT cut",
+                        "lower prices",
+                        "KFC",
+                        "Nando's",
+                        "Pret"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food service",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-03-16",
+                "original_text": "Better Buy: McDonald's vs. Restaurant Brands International",
+                "features": {
+                    "keywords": [
+                        "McDonald's",
+                        "Restaurant Brands International",
+                        "Better Buy"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "food service",
+                        "fast food"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-17",
+                "original_text": "Chipotle plans on hiring 10,000 workers to support drive-thru expansion",
+                "features": {
+                    "keywords": [
+                        "Chipotle",
+                        "hiring",
+                        "drive-thru expansion",
+                        "10,000 workers"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food service",
+                        "fast casual"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

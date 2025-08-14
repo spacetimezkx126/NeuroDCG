@@ -1,0 +1,53 @@
+{
+    "2021-05-23": [
+        [
+            {
+                "time": "",
+                "original_text": "花博会周边加油站看点多：可咨询住宿、交通信息，加油还送小绿植",
+                "features": {
+                    "keywords": [
+                        "花博会",
+                        "加油站",
+                        "住宿",
+                        "交通信息",
+                        "小绿植"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "旅游"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "李斌：蔚来在全国已经有200多个换电站 比加油更快",
+                "features": {
+                    "keywords": [
+                        "李斌",
+                        "蔚来",
+                        "换电站",
+                        "新能源汽车"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "汽车行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "2020-12-07": [
+        [
+            {
+                "time": "2023-12-07",
+                "original_text": "周一机构一致看好的七大金股（12.7）",
+                "features": {
+                    "keywords": [
+                        "机构",
+                        "看好",
+                        "金股"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-12-07",
+                "original_text": "【国金晨报】A股一周策略：明年资管新规过渡期到期对市场有何影响；PCB全年预增4.4%，长期应关注高端布局",
+                "features": {
+                    "keywords": [
+                        "资管新规",
+                        "过渡期",
+                        "PCB",
+                        "预增",
+                        "高端布局"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电子",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-12-07",
+                "original_text": "【国金电子】PCB行业回顾及展望：PCB全年预增4.4%，长期应关注高端布局",
+                "features": {
+                    "keywords": [
+                        "PCB",
+                        "预增",
+                        "高端布局"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电子"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

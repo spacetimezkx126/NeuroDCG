@@ -1,0 +1,54 @@
+{
+    "2018-12-25": [
+        [
+            {
+                "time": "",
+                "original_text": "中国电建海外投资电站年发电量突破100亿千瓦时",
+                "features": {
+                    "keywords": [
+                        "中国电建",
+                        "海外投资",
+                        "发电量",
+                        "突破",
+                        "100亿千瓦时"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2019",
+                "original_text": "江西省发布《关于印发2019年全省电力直接交易实施方案的通知》，2019年直接交易电量规模不低于350亿千瓦时",
+                "features": {
+                    "keywords": [
+                        "江西省",
+                        "电力直接交易",
+                        "实施方案",
+                        "2019年",
+                        "350亿千瓦时"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

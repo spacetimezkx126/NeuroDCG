@@ -1,0 +1,52 @@
+{
+    "2020-02-04": [
+        [
+            {
+                "time": "2020-12-01",
+                "original_text": "中环股份M12单晶硅棒首批产出 2020年大部分产能已锁定",
+                "features": {
+                    "keywords": [
+                        "中环股份",
+                        "M12单晶硅棒",
+                        "首批产出",
+                        "产能锁定"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-02-09",
+                "original_text": "特斯拉为产业链注入生机，光伏政策定调高增可期【安信电新·周观察·0209】",
+                "features": {
+                    "keywords": [
+                        "特斯拉",
+                        "产业链",
+                        "光伏政策",
+                        "高增可期"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源汽车",
+                        "光伏"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

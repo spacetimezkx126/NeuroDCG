@@ -1,0 +1,73 @@
+{
+    "2021-02-03": [
+        [
+            {
+                "time": "2023-01-31",
+                "original_text": "Subaru of America sells record 46k+ cars in January is it recovers from pandemic",
+                "features": {
+                    "keywords": [
+                        "Subaru",
+                        "record sales",
+                        "January",
+                        "pandemic recovery"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automobile"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-02-01",
+                "original_text": "Top Analyst Reports for Adobe, Toyota & QUALCOMM",
+                "features": {
+                    "keywords": [
+                        "analyst reports",
+                        "Adobe",
+                        "Toyota",
+                        "QUALCOMM"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "automobile",
+                        "semiconductors"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-02-02",
+                "original_text": "Toyota Shares Messages of Hope, Strength, and Social Responsibility in Big Game",
+                "features": {
+                    "keywords": [
+                        "Toyota",
+                        "social responsibility",
+                        "Big Game"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automobile"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

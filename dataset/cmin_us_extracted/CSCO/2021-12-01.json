@@ -1,0 +1,53 @@
+{
+    "2021-12-01": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Durham CEO joins IBM, Microsoft execs urging rapid action from Congress to address chip shortage",
+                "features": {
+                    "keywords": [
+                        "CEO",
+                        "IBM",
+                        "Microsoft",
+                        "Congress",
+                        "chip shortage"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "semiconductors"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Verizon Business, Cisco bolster enterprise agility with managed service offerings",
+                "features": {
+                    "keywords": [
+                        "Verizon",
+                        "Cisco",
+                        "enterprise agility",
+                        "managed service"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications",
+                        "IT services"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

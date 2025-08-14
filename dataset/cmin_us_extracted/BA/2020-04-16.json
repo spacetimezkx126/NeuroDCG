@@ -1,0 +1,135 @@
+{
+    "2020-04-16": [
+        [
+            {
+                "time": "2020-04-15",
+                "original_text": "US STOCKS-Futures jump late following data on potential virus treatment, Trump guidelines",
+                "features": {
+                    "keywords": [
+                        "jump",
+                        "potential virus treatment",
+                        "Trump guidelines"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2020-04-16",
+                "original_text": "Boeing to Resume Airplane Production in Washington",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "resume",
+                        "airplane production"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-04-16",
+                "original_text": "Dow futures surge nearly 700 points in after-hour trade Thursday evening amid hope of coronavirus treatment",
+                "features": {
+                    "keywords": [
+                        "Dow futures",
+                        "surge",
+                        "coronavirus treatment"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-04-16",
+                "original_text": "Boeing Stock Jumps Late As Commercial Production To Restart Next Week",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "stock jumps",
+                        "commercial production restart"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-04-16",
+                "original_text": "Stocks mixed as investors shrug off more job losses, assess scope for reopening economy",
+                "features": {
+                    "keywords": [
+                        "stocks mixed",
+                        "job losses",
+                        "reopening economy"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-04-16",
+                "original_text": "Dow Jones Sharply Lower After New York To Remain Shut Down To Fight Coronavirus",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "sharply lower",
+                        "New York shut down",
+                        "coronavirus"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "2019-05-15": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "John Burbank Goes 3 for 2 in 1st Quarter",
+                "features": {
+                    "keywords": [
+                        "John Burbank",
+                        "performance",
+                        "trading"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Merger Cops Must ‘Push the Envelope’ in Health, FTC Official Says",
+                "features": {
+                    "keywords": [
+                        "merger",
+                        "FTC",
+                        "healthcare regulation"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Increases in Home-Based Health Services Provide More Care Options for Seniors, According to New Report",
+                "features": {
+                    "keywords": [
+                        "home-based health services",
+                        "seniors",
+                        "care options"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

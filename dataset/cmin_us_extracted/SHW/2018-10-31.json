@@ -1,0 +1,87 @@
+{
+    "2018-10-31": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "Hidden indicator? Execs aren’t saying “peak” on earnings calls as much as before",
+                "features": {
+                    "keywords": [
+                        "Execs",
+                        "peak",
+                        "earnings calls"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "We are past the peak",
+                "features": {
+                    "keywords": [
+                        "past",
+                        "peak"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "What to Expect from IFF’s Q3 Adjusted Earnings",
+                "features": {
+                    "keywords": [
+                        "Expect",
+                        "IFF",
+                        "Q3",
+                        "Adjusted Earnings"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "See what the IHS Markit Score report has to say about Sherwin-Williams Co.",
+                "features": {
+                    "keywords": [
+                        "IHS Markit Score",
+                        "Sherwin-Williams Co."
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

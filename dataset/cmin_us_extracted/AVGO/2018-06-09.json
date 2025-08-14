@@ -1,0 +1,58 @@
+{
+    "2018-06-09": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "U.S. security panel approves Oceanwide purchase of Genworth",
+                "features": {
+                    "keywords": [
+                        "U.S.",
+                        "security",
+                        "panel",
+                        "approves",
+                        "Oceanwide",
+                        "purchase",
+                        "Genworth"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "insurance",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "4 Outperforms: Walmart, Broadcom, Delta Air Lines, HD Supply",
+                "features": {
+                    "keywords": [
+                        "Outperforms",
+                        "Walmart",
+                        "Broadcom",
+                        "Delta Air Lines",
+                        "HD Supply"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "technology",
+                        "airlines",
+                        "industrial distribution"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "2021-05-21": [
+        [
+            {
+                "time": "",
+                "original_text": "A股收盘综述：上证指数三连跌，碳中和概念卷土重来",
+                "features": {
+                    "keywords": [
+                        "上证指数",
+                        "三连跌",
+                        "碳中和",
+                        "概念"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "环保",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "A股午盘综述：上证指数跌0.45%，创业板指跌0.57%",
+                "features": {
+                    "keywords": [
+                        "上证指数",
+                        "跌",
+                        "创业板指"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

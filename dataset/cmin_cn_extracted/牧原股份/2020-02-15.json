@@ -1,0 +1,51 @@
+{
+    "2020-02-15": [
+        [
+            {
+                "time": "",
+                "original_text": "十家上市公司发行疫情防控债，四类债券合计拟募集资金67.5亿元",
+                "features": {
+                    "keywords": [
+                        "疫情防控债",
+                        "上市公司",
+                        "募集资金"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "医疗"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "手机招'猪倌'月薪10000+，这家生猪养殖龙头扩招，公司股价又大涨",
+                "features": {
+                    "keywords": [
+                        "生猪养殖",
+                        "招聘",
+                        "龙头公司",
+                        "股价上涨"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "食品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

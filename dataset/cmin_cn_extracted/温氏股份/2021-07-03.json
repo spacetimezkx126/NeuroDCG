@@ -1,0 +1,50 @@
+{
+    "2021-07-03": [
+        [
+            {
+                "time": "2023-05-31",
+                "original_text": "温氏股份：公司从5月份起停止外购猪苗，公司1-5月份共出栏367.63万头",
+                "features": {
+                    "keywords": [
+                        "温氏股份",
+                        "停止外购猪苗",
+                        "出栏",
+                        "猪苗"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "养殖业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-05-31",
+                "original_text": "紫燕食品(X21321)：招股说明书数据详解系列",
+                "features": {
+                    "keywords": [
+                        "紫燕食品",
+                        "招股说明书",
+                        "数据详解"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品行业"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

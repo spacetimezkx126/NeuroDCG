@@ -1,0 +1,71 @@
+{
+    "2021-03-15": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "A股共发生106宗大宗交易成交20.64亿元（3月15日）",
+                "features": {
+                    "keywords": [
+                        "大宗交易",
+                        "成交额",
+                        "A股"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-12-31",
+                "original_text": "2020年A股减持榜：雪浪环境遭减持比例最高，欣天科技高管套现52次 减持股份",
+                "features": {
+                    "keywords": [
+                        "减持",
+                        "雪浪环境",
+                        "欣天科技",
+                        "高管套现"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "环保",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-17",
+                "original_text": "上海莱士今日大宗交易成交50万股，成交价7.62元溢价0.0%",
+                "features": {
+                    "keywords": [
+                        "上海莱士",
+                        "大宗交易",
+                        "溢价"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "2020-09-20": [
+        [
+            {
+                "time": "",
+                "original_text": "沪指重回3300点 有机构认为市场存在上升潜力",
+                "features": {
+                    "keywords": [
+                        "沪指",
+                        "3300点",
+                        "机构",
+                        "上升潜力"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "500个药品要集采降价",
+                "features": {
+                    "keywords": [
+                        "药品",
+                        "集采",
+                        "降价"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2021-11-29": [
+        [
+            {
+                "time": "2022-11-05",
+                "original_text": "Merck (MRK) COVID Pill Less Effective in Final Study, Stock Down",
+                "features": {
+                    "keywords": [
+                        "Merck",
+                        "COVID",
+                        "Pill",
+                        "Less Effective",
+                        "Final Study",
+                        "Stock Down"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2022-11-05",
+                "original_text": "Adagio Therapeutics Upgraded at Morgan Stanley on Omicron Potential",
+                "features": {
+                    "keywords": [
+                        "Adagio Therapeutics",
+                        "Upgraded",
+                        "Morgan Stanley",
+                        "Omicron",
+                        "Potential"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "biotechnology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

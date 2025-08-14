@@ -1,0 +1,50 @@
+{
+    "2021-10-25": [
+        [
+            {
+                "time": "",
+                "original_text": "【行情】港股钢铁板块走高，马鞍山钢铁股份涨近3%，鞍钢股份涨超2%，重庆钢铁股份涨近2%，中国铝业跟涨",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "钢铁板块",
+                        "马鞍山钢铁股份",
+                        "鞍钢股份",
+                        "重庆钢铁股份",
+                        "中国铝业"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "钢铁",
+                        "有色金属"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-10-22",
+                "original_text": "A股融资融券日报：两融余额减少66.73亿元（10月22日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "2020-01-11": [
+        [
+            {
+                "time": "",
+                "original_text": "每经11点丨上海银行声明：徐某某及其企业严重拖欠巨额债务，散布严重失实言论；李泽钜回应“是否重回内地投资”：从来没离开过怎么会有所谓的重返呢？；西安明确带薪护理假，全国十余省份已出台相关政策",
+                "features": {
+                    "keywords": [
+                        "上海银行",
+                        "徐某某",
+                        "巨额债务",
+                        "失实言论"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "上海银行声明：徐国良及其企业严重拖欠巨额债务，利用自媒体散布严重失实言论 违约失信",
+                "features": {
+                    "keywords": [
+                        "上海银行",
+                        "徐国良",
+                        "巨额债务",
+                        "违约失信"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "“上海银行被举报向宝能违规放贷200多亿”背后：举报人问题重重 金融监管处罚",
+                "features": {
+                    "keywords": [
+                        "上海银行",
+                        "宝能",
+                        "违规放贷",
+                        "举报",
+                        "金融监管"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

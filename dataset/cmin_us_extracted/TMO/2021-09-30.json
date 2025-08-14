@@ -1,0 +1,54 @@
+{
+    "2021-09-30": [
+        [
+            {
+                "time": "2023-10-10",
+                "original_text": "Thermo Fisher (TMO) Launches Kit for Safer Sample Collection",
+                "features": {
+                    "keywords": [
+                        "Thermo Fisher",
+                        "TMO",
+                        "Launches",
+                        "Kit",
+                        "Safer Sample Collection"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "10 Tech Stocks Hedge Funds Prefer Over Nvidia (NVDA)",
+                "features": {
+                    "keywords": [
+                        "Tech Stocks",
+                        "Hedge Funds",
+                        "Prefer",
+                        "Nvidia",
+                        "NVDA"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "semiconductors"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

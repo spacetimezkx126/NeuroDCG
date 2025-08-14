@@ -1,0 +1,52 @@
+{
+    "2020-11-25": [
+        [
+            {
+                "time": "",
+                "original_text": "中国首富公司咋了？市值仨月蒸发500亿！新董秘5年换5次工作 连续下跌",
+                "features": {
+                    "keywords": [
+                        "首富公司",
+                        "市值蒸发",
+                        "董秘更换",
+                        "连续下跌"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "企业治理",
+                        "资本市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "抗击新冠疫情系列报告之五：新冠疫苗研发跟踪 需求与成本分析",
+                "features": {
+                    "keywords": [
+                        "新冠疫苗",
+                        "研发跟踪",
+                        "需求分析",
+                        "成本分析"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "生物科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

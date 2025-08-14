@@ -1,0 +1,80 @@
+{
+    "2020-09-18": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Why BofA Is Sidelined On Caterpillar",
+                "features": {
+                    "keywords": [
+                        "BofA",
+                        "sidelined",
+                        "Caterpillar"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Dow Jones Extends Losses As Apple Drops; Nasdaq Falls Deeper In The Red",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Apple",
+                        "Nasdaq",
+                        "losses",
+                        "drops"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "The Zacks Analyst Blog Highlights: Novartis, Zoom Video, Caterpillar, Microsoft, Cisco, Clorox and LHC Group",
+                "features": {
+                    "keywords": [
+                        "Zacks",
+                        "analyst",
+                        "Novartis",
+                        "Zoom Video",
+                        "Caterpillar",
+                        "Microsoft",
+                        "Cisco",
+                        "Clorox",
+                        "LHC Group"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "technology",
+                        "industrial goods",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

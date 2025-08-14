@@ -1,0 +1,54 @@
+{
+    "2018-12-06": [
+        [
+            {
+                "time": "",
+                "original_text": "银行投资策略月报: 12月策略, 均值回归, 首选兴业",
+                "features": {
+                    "keywords": [
+                        "银行",
+                        "投资策略",
+                        "12月",
+                        "均值回归",
+                        "兴业"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "9.36亿元竞得穗甬控股股权 杉杉股份优化金融板块布局",
+                "features": {
+                    "keywords": [
+                        "9.36亿元",
+                        "穗甬控股",
+                        "股权",
+                        "杉杉股份",
+                        "金融板块",
+                        "优化",
+                        "布局"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

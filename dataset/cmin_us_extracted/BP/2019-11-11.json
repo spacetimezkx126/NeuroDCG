@@ -1,0 +1,53 @@
+{
+    "2019-11-11": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "BP, Total, Shell, Vitol Take Stakes in Abu Dhabi Oil Exchange",
+                "features": {
+                    "keywords": [
+                        "BP",
+                        "Total",
+                        "Shell",
+                        "Vitol",
+                        "Abu Dhabi Oil Exchange"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "oil"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "British pound surges after Brexit Party leader Nigel Farage says he won’t challenge Conservative seats",
+                "features": {
+                    "keywords": [
+                        "British pound",
+                        "Brexit Party",
+                        "Nigel Farage",
+                        "Conservative seats"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "currency",
+                        "politics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

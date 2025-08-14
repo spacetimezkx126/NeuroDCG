@@ -1,0 +1,71 @@
+{
+    "2021-10-10": [
+        [
+            {
+                "time": "",
+                "original_text": "建行云南省分行COP15金融服务全面开启",
+                "features": {
+                    "keywords": [
+                        "建行",
+                        "云南省分行",
+                        "COP15",
+                        "金融服务"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国建设银行发布重要公告！",
+                "features": {
+                    "keywords": [
+                        "中国建设银行",
+                        "重要公告"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "楼市四大信号！“十一”黄金周成交降三成，多地房贷利率下调",
+                "features": {
+                    "keywords": [
+                        "楼市",
+                        "信号",
+                        "黄金周",
+                        "成交下降",
+                        "房贷利率下调"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

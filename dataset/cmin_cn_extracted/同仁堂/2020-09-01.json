@@ -1,0 +1,75 @@
+{
+    "2020-09-01": [
+        [
+            {
+                "time": "",
+                "original_text": "“云眼”看服贸 | “数”读服贸",
+                "features": {
+                    "keywords": [
+                        "云眼",
+                        "服贸",
+                        "数据"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "服务业",
+                        "贸易"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "同仁堂养生咖啡馆成网红 枸杞拿铁能否激活老字号潜力？",
+                "features": {
+                    "keywords": [
+                        "同仁堂",
+                        "养生咖啡",
+                        "网红",
+                        "枸杞拿铁",
+                        "老字号"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "消费品",
+                        "健康食品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "同仁堂业绩承压 新零售能否成为激活发展潜力突破口?",
+                "features": {
+                    "keywords": [
+                        "同仁堂",
+                        "业绩承压",
+                        "新零售",
+                        "发展潜力"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "零售"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

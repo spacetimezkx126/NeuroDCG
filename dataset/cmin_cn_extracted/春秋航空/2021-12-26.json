@@ -1,0 +1,73 @@
+{
+    "2021-12-26": [
+        [
+            {
+                "time": "",
+                "original_text": "春,秋,航,空,：,低,成,本,优,势,凸,显,，,仍,有,价,值,重,估,机,会",
+                "features": {
+                    "keywords": [
+                        "春秋航空",
+                        "低成本",
+                        "优势",
+                        "价值重估"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "春,秋,航,空,5,亿,元,建,飞,机,大,修,基,地",
+                "features": {
+                    "keywords": [
+                        "春秋航空",
+                        "5亿元",
+                        "飞机维修基地"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "交,运,物,流,行,业,周,报,：,集,运,需,求,持,续,旺,盛, , 运,价,高,位,小,幅,上,行",
+                "features": {
+                    "keywords": [
+                        "交运物流",
+                        "行业周报",
+                        "集运需求",
+                        "运价高位",
+                        "小幅上行"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流",
+                        "运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

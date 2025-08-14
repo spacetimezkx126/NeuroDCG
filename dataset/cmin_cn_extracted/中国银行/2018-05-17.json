@@ -1,0 +1,52 @@
+{
+    "2018-05-17": [
+        [
+            {
+                "time": "",
+                "original_text": "恒指高开低走失守31000点，腾讯领涨蓝筹",
+                "features": {
+                    "keywords": [
+                        "恒指",
+                        "高开低走",
+                        "31000点",
+                        "腾讯",
+                        "蓝筹"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国银行:息差改善延续,海外业务有望带动估值回升",
+                "features": {
+                    "keywords": [
+                        "中国银行",
+                        "息差改善",
+                        "海外业务",
+                        "估值回升"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

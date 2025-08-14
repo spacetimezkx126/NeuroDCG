@@ -1,0 +1,71 @@
+{
+    "2021-02-13": [
+        [
+            {
+                "time": "",
+                "original_text": "涨嗨了，美股小盘股大幅跑赢机构抱团股！A股小盘股指数仍在下跌，中美股市风格要互换？SPAC狂潮愈演愈烈，美股掀起上市潮",
+                "features": {
+                    "keywords": [
+                        "美股小盘股",
+                        "机构抱团股",
+                        "A股小盘股",
+                        "中美股市风格",
+                        "SPAC狂潮",
+                        "美股上市潮"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "美股",
+                        "A股",
+                        "小盘股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-02-18",
+                "original_text": "下周需要重点规避的解禁潮（2月18日至2月19日）——骑牛看熊淘金学堂",
+                "features": {
+                    "keywords": [
+                        "解禁潮",
+                        "规避风险"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "国际油价创一年新高 机构预计后市稳中上行",
+                "features": {
+                    "keywords": [
+                        "国际油价",
+                        "一年新高",
+                        "后市稳中上行"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

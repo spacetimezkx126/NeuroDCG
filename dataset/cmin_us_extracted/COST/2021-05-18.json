@@ -1,0 +1,72 @@
+{
+    "2021-05-18": [
+        [
+            {
+                "time": "2022-03-01",
+                "original_text": "Starbucks, Target, Trader Joe's are dropping mask rules. Why California is stopping them for now",
+                "features": {
+                    "keywords": [
+                        "Starbucks",
+                        "Target",
+                        "Trader Joe's",
+                        "mask rules",
+                        "California"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2022-04-14",
+                "original_text": "BJ's Wholesale Club Earnings: What to Watch on Thursday",
+                "features": {
+                    "keywords": [
+                        "BJ's Wholesale Club",
+                        "earnings",
+                        "Thursday"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "wholesale"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2022-05-10",
+                "original_text": "Worried About a Market Downturn? Buy This Forever Stock.",
+                "features": {
+                    "keywords": [
+                        "Market Downturn",
+                        "Forever Stock"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

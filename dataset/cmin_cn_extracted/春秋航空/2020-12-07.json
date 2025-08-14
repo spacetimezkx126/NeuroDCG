@@ -1,0 +1,54 @@
+{
+    "2020-12-07": [
+        [
+            {
+                "time": "",
+                "original_text": "盐城国资买买买，立霸股份距离国资控股又进一步",
+                "features": {
+                    "keywords": [
+                        "盐城国资",
+                        "买买买",
+                        "立霸股份",
+                        "国资控股"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "国有企业",
+                        "控股收购"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2020-12-07",
+                "original_text": "【华创·周知道】铜铝价格冲高回落但趋势不改，继续推荐铝铜，关注锂和前驱体",
+                "features": {
+                    "keywords": [
+                        "铜铝价格",
+                        "冲高回落",
+                        "趋势",
+                        "推荐铝铜",
+                        "关注锂",
+                        "前驱体"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "有色金属",
+                        "新能源材料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

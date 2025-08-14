@@ -1,0 +1,54 @@
+{
+    "2021-01-22": [
+        [
+            {
+                "time": "",
+                "original_text": "国金证券：上海楼市调控预期中，对全局无影响",
+                "features": {
+                    "keywords": [
+                        "国金证券",
+                        "上海楼市",
+                        "调控预期",
+                        "全局影响"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "券商2020年报前瞻：头部公司有望捷报频传 春躁进行时 重申看好板块",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "2020年报",
+                        "头部公司",
+                        "捷报频传",
+                        "春躁",
+                        "看好板块"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

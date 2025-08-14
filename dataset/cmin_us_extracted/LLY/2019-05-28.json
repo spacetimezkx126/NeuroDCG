@@ -1,0 +1,91 @@
+{
+    "2019-05-28": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "This Just In: Goldman Sachs Picks 4 Big Pharma Stocks to Buy",
+                "features": {
+                    "keywords": [
+                        "Goldman Sachs",
+                        "Big Pharma",
+                        "Stocks to Buy"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-01",
+                "original_text": "British Columbia to be first Canadian province to switch patients to biosimilars",
+                "features": {
+                    "keywords": [
+                        "British Columbia",
+                        "Canadian",
+                        "biosimilars"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "See what the IHS Markit Score report has to say about Eli Lilly and Co.",
+                "features": {
+                    "keywords": [
+                        "IHS Markit Score",
+                        "Eli Lilly",
+                        "report"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-06-20",
+                "original_text": "Lilly Announces Licensing Agreement for Non-Opioid Pain Asset from Centrexion Therapeutics",
+                "features": {
+                    "keywords": [
+                        "Lilly",
+                        "Licensing Agreement",
+                        "Non-Opioid Pain",
+                        "Centrexion Therapeutics"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

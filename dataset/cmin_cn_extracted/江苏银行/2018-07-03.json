@@ -1,0 +1,51 @@
+{
+    "2018-07-03": [
+        [
+            {
+                "time": "",
+                "original_text": "江苏银行跌0.48%，创年度新低，报6.24元",
+                "features": {
+                    "keywords": [
+                        "江苏银行",
+                        "下跌",
+                        "年度新低"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "多家次新银行大股东高管联袂增持 个别解禁小股东套现",
+                "features": {
+                    "keywords": [
+                        "次新银行",
+                        "大股东",
+                        "高管增持",
+                        "小股东套现"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

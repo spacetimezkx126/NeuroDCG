@@ -1,0 +1,72 @@
+{
+    "2018-01-03": [
+        [
+            {
+                "time": "2018-01-03",
+                "original_text": "A股共发生92宗大宗交易成交8.53亿元（1月3日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "大宗交易",
+                        "成交额"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2017-12-31",
+                "original_text": "“定增大王”刘益谦的2017：投资长江证券、国民技术损失惨重",
+                "features": {
+                    "keywords": [
+                        "刘益谦",
+                        "定增",
+                        "长江证券",
+                        "国民技术",
+                        "投资损失"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-03",
+                "original_text": "长江证券今日大宗交易成交71.02万股，成交价7.32元折价8.61%",
+                "features": {
+                    "keywords": [
+                        "长江证券",
+                        "大宗交易",
+                        "折价"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

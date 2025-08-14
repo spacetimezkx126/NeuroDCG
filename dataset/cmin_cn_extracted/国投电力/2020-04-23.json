@@ -1,0 +1,48 @@
+{
+    "2020-04-23": [
+        [
+            {
+                "time": "2023-04-23",
+                "original_text": "75股每笔成交量增超50%",
+                "features": {
+                    "keywords": [
+                        "成交量",
+                        "每笔成交",
+                        "增长"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-04-23",
+                "original_text": "4月23日券商晨会研报汇编",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "晨会",
+                        "研报"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "多行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

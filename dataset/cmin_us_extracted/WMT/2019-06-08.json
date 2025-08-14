@@ -1,0 +1,74 @@
+{
+    "2019-06-08": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Walmart's Grocery Pickup Attracts a Different Class of Customers",
+                "features": {
+                    "keywords": [
+                        "Walmart",
+                        "Grocery Pickup",
+                        "Customers"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-05-24",
+                "original_text": "Retailers including Walmart warned the trade war will cost U.S. households — JPMorgan says it already is",
+                "features": {
+                    "keywords": [
+                        "Retailers",
+                        "Walmart",
+                        "trade war",
+                        "U.S. households"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-06-26",
+                "original_text": "FedEx opts out of Express service contract with Amazon to focus on 'broader e-commerce market'",
+                "features": {
+                    "keywords": [
+                        "FedEx",
+                        "Amazon",
+                        "Express service",
+                        "e-commerce market"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "logistics",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

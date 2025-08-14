@@ -1,0 +1,55 @@
+{
+    "2021-01-23": [
+        [
+            {
+                "time": "",
+                "original_text": "中国邮政定存利率上调，利息竟比理财还高，年利息更让人眼红！",
+                "features": {
+                    "keywords": [
+                        "中国邮政",
+                        "定存利率",
+                        "上调",
+                        "利息",
+                        "理财",
+                        "年利息"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "储蓄"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "房贷新规与信贷变局：房企债务置换有新花样",
+                "features": {
+                    "keywords": [
+                        "房贷",
+                        "新规",
+                        "信贷",
+                        "房企",
+                        "债务置换"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

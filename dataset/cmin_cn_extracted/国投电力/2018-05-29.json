@@ -1,0 +1,74 @@
+{
+    "2018-05-29": [
+        [
+            {
+                "time": "",
+                "original_text": "最后40分钟，医药股集体开砸，这只白马股罕见跌停，机构这么看",
+                "features": {
+                    "keywords": [
+                        "医药股",
+                        "白马股",
+                        "跌停",
+                        "机构"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "煤价回落 煤炭火电跷跷板效应明显",
+                "features": {
+                    "keywords": [
+                        "煤价",
+                        "煤炭",
+                        "火电",
+                        "跷跷板效应"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "煤炭",
+                        "火电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "公用事业与环保行业周报:居民燃气气价理顺,环保执法持续升温",
+                "features": {
+                    "keywords": [
+                        "公用事业",
+                        "环保",
+                        "燃气气价",
+                        "环保执法"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "公用事业",
+                        "环保"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

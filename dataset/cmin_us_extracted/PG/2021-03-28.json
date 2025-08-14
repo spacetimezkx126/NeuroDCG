@@ -1,0 +1,48 @@
+{
+    "2021-03-28": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Better Buy: Procter & Gamble or All 30 Dow Jones Stocks?",
+                "features": {
+                    "keywords": [
+                        "Procter & Gamble",
+                        "Dow Jones",
+                        "Better Buy"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Worried About Inflation? These 3 Stocks Can Help",
+                "features": {
+                    "keywords": [
+                        "Inflation",
+                        "Stocks",
+                        "Worried"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "economy-wide"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

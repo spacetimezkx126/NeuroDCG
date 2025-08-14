@@ -1,0 +1,51 @@
+{
+    "2019-10-27": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Asian Stocks Rise on Sino-U.S. Trade Hopes",
+                "features": {
+                    "keywords": [
+                        "Asian Stocks",
+                        "Rise",
+                        "Sino-U.S.",
+                        "Trade Hopes"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "trade",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Rio chief looks beyond mining’s ‘big is beautiful’ paradigm",
+                "features": {
+                    "keywords": [
+                        "Rio chief",
+                        "mining",
+                        "paradigm"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining",
+                        "industrial"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

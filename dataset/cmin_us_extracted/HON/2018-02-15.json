@@ -1,0 +1,73 @@
+{
+    "2018-02-15": [
+        [
+            {
+                "time": "2018-01-03",
+                "original_text": "US stocks keep gaining as tech, industrial companies rise",
+                "features": {
+                    "keywords": [
+                        "stocks",
+                        "gaining",
+                        "tech",
+                        "industrial"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "Where to Shop in a Rallying Industrial Sector (Hint: Not GE)",
+                "features": {
+                    "keywords": [
+                        "rallying",
+                        "industrial",
+                        "GE"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-02-16",
+                "original_text": "Allison Transmission Holdings, Inc. (ALSN) Ex-Dividend Date Scheduled for February 16, 2018",
+                "features": {
+                    "keywords": [
+                        "Allison",
+                        "Transmission",
+                        "Ex-Dividend",
+                        "Date",
+                        "ALSN"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

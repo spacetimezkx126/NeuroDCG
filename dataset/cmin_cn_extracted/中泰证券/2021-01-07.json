@@ -1,0 +1,53 @@
+{
+    "2021-01-07": [
+        [
+            {
+                "time": "",
+                "original_text": "淳中科技跌停 两个多月前中泰证券海通证券曾研报唱多",
+                "features": {
+                    "keywords": [
+                        "淳中科技",
+                        "跌停",
+                        "中泰证券",
+                        "海通证券",
+                        "研报",
+                        "唱多"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "股东“忙”减持，天齐锂业却涨停，游资身影频现 减持股份",
+                "features": {
+                    "keywords": [
+                        "天齐锂业",
+                        "减持",
+                        "涨停",
+                        "游资"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "锂业",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

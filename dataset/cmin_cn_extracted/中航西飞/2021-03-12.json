@@ -1,0 +1,51 @@
+{
+    "2021-03-12": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "冷板凳也有春天，碳中和渐入佳境公用事业领涨A股",
+                "features": {
+                    "keywords": [
+                        "碳中和",
+                        "公用事业",
+                        "领涨",
+                        "A股"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "公用事业",
+                        "环保"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "中航西飞跌2.71%，创年度新低 连续下跌",
+                "features": {
+                    "keywords": [
+                        "中航西飞",
+                        "下跌",
+                        "年度新低",
+                        "连续下跌"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空航天"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

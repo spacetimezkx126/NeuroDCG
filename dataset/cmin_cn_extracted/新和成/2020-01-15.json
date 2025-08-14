@@ -1,0 +1,43 @@
+{
+    "2020-01-15": [
+        [
+            {
+                "time": "",
+                "original_text": "哪些股票属于中小盘",
+                "features": {
+                    "keywords": [
+                        "中小盘"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "老沙:外资扫货内资扫兴",
+                "features": {
+                    "keywords": [
+                        "外资",
+                        "扫货",
+                        "内资",
+                        "扫兴"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

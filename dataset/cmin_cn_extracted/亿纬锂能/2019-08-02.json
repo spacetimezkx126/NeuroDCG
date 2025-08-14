@@ -1,0 +1,54 @@
+{
+    "2019-08-02": [
+        [
+            {
+                "time": "",
+                "original_text": "锂化工产品价格低迷，产能过剩仍有企业开疆扩土",
+                "features": {
+                    "keywords": [
+                        "锂",
+                        "化工产品",
+                        "价格低迷",
+                        "产能过剩",
+                        "开疆扩土"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "电力设备行业周报:上半年全国可再生能源发电量同比增14%",
+                "features": {
+                    "keywords": [
+                        "电力设备",
+                        "可再生能源",
+                        "发电量",
+                        "同比增长",
+                        "14%"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电力设备",
+                        "可再生能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

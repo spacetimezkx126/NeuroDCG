@@ -1,0 +1,54 @@
+{
+    "2020-05-12": [
+        [
+            {
+                "time": "",
+                "original_text": "武汉紧急通知，全员核酸检测！这些股票应声暴涨",
+                "features": {
+                    "keywords": [
+                        "武汉",
+                        "紧急通知",
+                        "全员核酸检测",
+                        "股票",
+                        "应声暴涨"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医疗",
+                        "生物科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "云上“健康广东展区”展现粤品牌战“疫”担当",
+                "features": {
+                    "keywords": [
+                        "健康广东",
+                        "展区",
+                        "粤品牌",
+                        "战疫",
+                        "担当"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医疗设备",
+                        "健康服务"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

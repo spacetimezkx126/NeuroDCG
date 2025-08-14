@@ -1,0 +1,53 @@
+{
+    "2021-05-08": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "A Large Fund Bet Big on Apple and Alibaba Stock. Here Are Two Stocks It Sold.",
+                "features": {
+                    "keywords": [
+                        "Large Fund",
+                        "Bet Big",
+                        "Apple",
+                        "Alibaba",
+                        "Stocks Sold"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Didi Vows to Improve Drivers’ Pay, Users’ Fares After Criticism",
+                "features": {
+                    "keywords": [
+                        "Didi",
+                        "Drivers’ Pay",
+                        "Users’ Fares",
+                        "Criticism"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "transportation",
+                        "ride-sharing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

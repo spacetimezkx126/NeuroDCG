@@ -1,0 +1,51 @@
+{
+    "2019-01-08": [
+        [
+            {
+                "time": "2023-10-04",
+                "original_text": "方正证券：证监会核发新股2家 康龙化成建议关注",
+                "features": {
+                    "keywords": [
+                        "方正证券",
+                        "证监会",
+                        "新股",
+                        "康龙化成"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-04",
+                "original_text": "康龙化成业务高增长率与低销售费用率相背 商誉埋雷",
+                "features": {
+                    "keywords": [
+                        "康龙化成",
+                        "高增长率",
+                        "低销售费用率",
+                        "商誉"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

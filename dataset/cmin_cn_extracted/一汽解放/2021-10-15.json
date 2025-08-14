@@ -1,0 +1,53 @@
+{
+    "2021-10-15": [
+        [
+            {
+                "time": "",
+                "original_text": "卡家看财报：一汽解放重卡销售316226辆",
+                "features": {
+                    "keywords": [
+                        "一汽解放",
+                        "重卡",
+                        "销售",
+                        "财报"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "左手纯电，右手氢，重卡的新能源转型之路该往哪里走？",
+                "features": {
+                    "keywords": [
+                        "新能源",
+                        "纯电",
+                        "氢",
+                        "重卡",
+                        "转型"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "汽车行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

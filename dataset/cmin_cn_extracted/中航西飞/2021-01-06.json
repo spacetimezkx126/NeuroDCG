@@ -1,0 +1,53 @@
+{
+    "2021-01-06": [
+        [
+            {
+                "time": "",
+                "original_text": "A股市场白酒突然杀跌，三大板块却火了",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "白酒",
+                        "杀跌",
+                        "三大板块"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "白酒",
+                        "其他未明确的三大板块"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "航天军工板块猛烈反弹，中航沈飞、中航西飞、航发动力领涨",
+                "features": {
+                    "keywords": [
+                        "航天军工",
+                        "反弹",
+                        "中航沈飞",
+                        "中航西飞",
+                        "航发动力",
+                        "领涨"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航天军工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

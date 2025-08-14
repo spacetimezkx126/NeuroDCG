@@ -1,0 +1,54 @@
+{
+    "2019-08-29": [
+        [
+            {
+                "time": "",
+                "original_text": "爆了！这个板块又买5亿；神秘机构3亿操刀一股，比章建平赵老哥猛",
+                "features": {
+                    "keywords": [
+                        "爆",
+                        "板块",
+                        "买5亿",
+                        "神秘机构",
+                        "3亿",
+                        "操刀",
+                        "章建平",
+                        "赵老哥"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "未明确提及"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中信证券：工业产出的量价双缩值得关注 宽松政策仍然可期",
+                "features": {
+                    "keywords": [
+                        "中信证券",
+                        "工业产出",
+                        "量价双缩",
+                        "宽松政策"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "工业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

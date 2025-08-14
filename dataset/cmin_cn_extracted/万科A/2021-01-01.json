@@ -1,0 +1,50 @@
+{
+    "2021-01-01": [
+        [
+            {
+                "time": "",
+                "original_text": "开发商普遍“欠收”，融创富力等公司未达销售目标，盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "开发商",
+                        "融创",
+                        "富力",
+                        "销售目标",
+                        "盈利能力下降"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "2020年全国房地产企业拿地排行榜",
+                "features": {
+                    "keywords": [
+                        "2020年",
+                        "房地产企业",
+                        "拿地排行榜"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

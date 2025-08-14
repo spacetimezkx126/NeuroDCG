@@ -1,0 +1,117 @@
+{
+    "2018-12-20": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Lockheed Martin's F-35 Hits Its Biggest Target So Far",
+                "features": {
+                    "keywords": [
+                        "Lockheed Martin",
+                        "F-35",
+                        "Biggest Target"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "defense",
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "iShares S&P 500 Value ETF Experiences Big Inflow",
+                "features": {
+                    "keywords": [
+                        "iShares",
+                        "S&P 500",
+                        "Value ETF",
+                        "Big Inflow"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "ETFs",
+                        "index funds"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "BBEU, SIZE: Big ETF Inflows",
+                "features": {
+                    "keywords": [
+                        "BBEU",
+                        "SIZE",
+                        "Big ETF Inflows"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "ETFs",
+                        "global markets"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-06-05",
+                "original_text": "2 Stocks Billionaire Bill Ackman Bought in Q3 (and 3 He Dumped)",
+                "features": {
+                    "keywords": [
+                        "Bill Ackman",
+                        "Bought",
+                        "Dumped"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "investor activity",
+                        "stock picks"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            },
+            {
+                "time": "2018-07-25",
+                "original_text": "Near-Term Prospects Bleak for Diversified Operations Industry",
+                "features": {
+                    "keywords": [
+                        "Near-Term Prospects",
+                        "Bleak",
+                        "Diversified Operations"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "diversified operations",
+                        "industrial sector"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

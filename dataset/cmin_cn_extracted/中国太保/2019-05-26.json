@@ -1,0 +1,52 @@
+{
+    "2019-05-26": [
+        [
+            {
+                "time": "",
+                "original_text": "上海，金融业界改革开放的“引力场”丨上海解放70周年",
+                "features": {
+                    "keywords": [
+                        "上海",
+                        "金融业",
+                        "改革开放",
+                        "引力场"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2018",
+                "original_text": "中国太保聘任潘艳红为总经理 2018年薪酬为254万元",
+                "features": {
+                    "keywords": [
+                        "中国太保",
+                        "潘艳红",
+                        "总经理",
+                        "2018年",
+                        "薪酬",
+                        "254万元"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

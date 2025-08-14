@@ -1,0 +1,51 @@
+{
+    "2019-02-16": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Top Stocks to Trade Tuesday, Including Canopy Growth",
+                "features": {
+                    "keywords": [
+                        "Top Stocks",
+                        "Trade",
+                        "Canopy Growth"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "stocks",
+                        "trading"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Deere Says Trade Tensions Holding Down Sales",
+                "features": {
+                    "keywords": [
+                        "Deere",
+                        "Trade Tensions",
+                        "Holding Down",
+                        "Sales"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "agriculture",
+                        "sales"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

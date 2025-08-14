@@ -1,0 +1,52 @@
+{
+    "2020-07-31": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Online shopping giant JD.com invests US$100 million for a stake in one of the world's oldest and largest supply chain managers",
+                "features": {
+                    "keywords": [
+                        "JD.com",
+                        "invests",
+                        "US$100 million",
+                        "supply chain managers"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "e-commerce",
+                        "supply chain"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Apple Blockbuster Quarter Boosted by Strong Sales in China",
+                "features": {
+                    "keywords": [
+                        "Apple",
+                        "Blockbuster Quarter",
+                        "Strong Sales",
+                        "China"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "consumer electronics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

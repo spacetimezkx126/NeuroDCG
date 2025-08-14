@@ -1,0 +1,74 @@
+{
+    "2021-02-24": [
+        [
+            {
+                "time": "2020-10-15",
+                "original_text": "'There's no playbook for a pandemic: Pittsburgh Steelers part-owner",
+                "features": {
+                    "keywords": [
+                        "pandemic",
+                        "playbook",
+                        "Pittsburgh Steelers"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "sports",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-12-30",
+                "original_text": "Structured Notes Saw Record Demand in a Volatile 2020. Investors Should Mind the Fine Print.",
+                "features": {
+                    "keywords": [
+                        "structured notes",
+                        "record demand",
+                        "volatile",
+                        "investors"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "investment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-11-20",
+                "original_text": "Apple Not Acquiring Netflix The 'Biggest Strategic Mistake' Jobs, Cook Made In Last Decade, Says Analyst",
+                "features": {
+                    "keywords": [
+                        "Apple",
+                        "Netflix",
+                        "strategic mistake",
+                        "analyst"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "entertainment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

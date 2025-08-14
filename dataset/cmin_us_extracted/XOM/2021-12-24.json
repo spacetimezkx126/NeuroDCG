@@ -1,0 +1,77 @@
+{
+    "2021-12-24": [
+        [
+            {
+                "time": "2022-12-01",
+                "original_text": "Exxon Cuts Baytown Refinery Rates After Extinguishing Fire",
+                "features": {
+                    "keywords": [
+                        "Exxon",
+                        "Cuts",
+                        "Refinery Rates",
+                        "Fire"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2022-12-01",
+                "original_text": "Multi-Asset Real Return Portfolio Buys Exxon Mobil Corp, Chevron Corp, Newmont Corp, Sells ...",
+                "features": {
+                    "keywords": [
+                        "Multi-Asset",
+                        "Real Return",
+                        "Portfolio",
+                        "Buys",
+                        "Exxon Mobil Corp",
+                        "Chevron Corp",
+                        "Newmont Corp",
+                        "Sells"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "materials"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2022-12-01",
+                "original_text": "Brent crude futures snap 3-day rally in thin trade; Omicron eyed",
+                "features": {
+                    "keywords": [
+                        "Brent crude futures",
+                        "rally",
+                        "thin trade",
+                        "Omicron"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "commodities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

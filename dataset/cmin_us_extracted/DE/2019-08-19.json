@@ -1,0 +1,70 @@
+{
+    "2019-08-19": [
+        [
+            {
+                "time": "2019-08-19",
+                "original_text": "A US recession is probably coming so investors should just deal with it",
+                "features": {
+                    "keywords": [
+                        "US",
+                        "recession",
+                        "investors"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-08-19",
+                "original_text": "Deere Analyst Says Company Took Earnings Miss And Guidance Cut 'In Stride'",
+                "features": {
+                    "keywords": [
+                        "Deere",
+                        "Earnings Miss",
+                        "Guidance Cut",
+                        "Analyst"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "agribusiness"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-08-19",
+                "original_text": "John Deere Misses But Shares Up: Agribusiness ETFs in Focus",
+                "features": {
+                    "keywords": [
+                        "John Deere",
+                        "Shares Up",
+                        "Agribusiness ETFs"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "agribusiness"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

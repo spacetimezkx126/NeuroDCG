@@ -1,0 +1,99 @@
+{
+    "2019-10-24": [
+        [
+            {
+                "time": "2019-10-25",
+                "original_text": "中国船舶晚间公告，公司已收到国务院国资委原则同意公司资产重组及配套融资方案的批复。本次资产重组内容为国资委原则同意中国船舶重组方案。",
+                "features": {
+                    "keywords": [
+                        "中国船舶",
+                        "资产重组",
+                        "国务院国资委",
+                        "配套融资",
+                        "重组方案"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "船舶制造",
+                        "军工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-10-25",
+                "original_text": "中国船舶：重大资产重组获国务院国资委批复。",
+                "features": {
+                    "keywords": [
+                        "中国船舶",
+                        "重大资产重组",
+                        "国务院国资委",
+                        "批复"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "船舶制造",
+                        "军工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-10-25",
+                "original_text": "快讯：中船系板块持续拉升，中国船舶涨逾4%。",
+                "features": {
+                    "keywords": [
+                        "中船系",
+                        "板块拉升",
+                        "中国船舶",
+                        "涨逾4%"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "船舶制造",
+                        "军工"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-10-25",
+                "original_text": "南北船概念午后异动，中国船舶大涨4%。",
+                "features": {
+                    "keywords": [
+                        "南北船概念",
+                        "异动",
+                        "中国船舶",
+                        "大涨4%"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "船舶制造",
+                        "军工"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2021-04-30": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "Rio Tinto updates details of tailings facilities",
+                "features": {
+                    "keywords": [
+                        "Rio Tinto",
+                        "tailings",
+                        "facilities",
+                        "update"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "mining"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Rio Tinto insider sells stake in miner",
+                "features": {
+                    "keywords": [
+                        "Rio Tinto",
+                        "insider",
+                        "sells",
+                        "stake",
+                        "miner"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

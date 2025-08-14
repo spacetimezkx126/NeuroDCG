@@ -1,0 +1,52 @@
+{
+    "2020-07-28": [
+        [
+            {
+                "time": "",
+                "original_text": "股获券商买入评级 风华高科目标涨幅达121.53%",
+                "features": {
+                    "keywords": [
+                        "风华高科",
+                        "券商",
+                        "买入评级",
+                        "目标涨幅"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电子元件",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "丰巢后撤，便宜了菜鸟驿站、京东快递柜？",
+                "features": {
+                    "keywords": [
+                        "丰巢",
+                        "菜鸟驿站",
+                        "京东快递柜",
+                        "市场竞争"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流",
+                        "电商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

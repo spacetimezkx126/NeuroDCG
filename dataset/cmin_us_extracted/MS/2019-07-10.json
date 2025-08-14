@@ -1,0 +1,53 @@
+{
+    "2019-07-10": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Fed Easing Bets Firm After Jerome Powell Flags Downside Economic Risks",
+                "features": {
+                    "keywords": [
+                        "Fed",
+                        "Easing",
+                        "Jerome Powell",
+                        "Downside",
+                        "Economic Risks"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Investors Might Be Underpricing Draghi’s Desire for a July Move",
+                "features": {
+                    "keywords": [
+                        "Investors",
+                        "Underpricing",
+                        "Draghi",
+                        "July Move"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "central bank"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2018-11-11": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "P&G, McDonald's, Power, Dow, Rebound, in, Sign, of, Continued, Anxiety",
+                "features": {
+                    "keywords": [
+                        "P&G",
+                        "McDonald's",
+                        "Dow",
+                        "Rebound",
+                        "Continued Anxiety"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods",
+                        "fast food"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Does The Procter & Gamble Company’s (NYSE:PG) CEO Pay Matter?",
+                "features": {
+                    "keywords": [
+                        "Procter & Gamble",
+                        "CEO Pay"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2020-03-27": [
+        [
+            {
+                "time": "",
+                "original_text": "东方航空保留包括19个执飞国际站点，每周执飞40班国际航班",
+                "features": {
+                    "keywords": [
+                        "东方航空",
+                        "国际站点",
+                        "执飞",
+                        "航班"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "多家航空转场大兴 疫情对航空业的影响",
+                "features": {
+                    "keywords": [
+                        "航空",
+                        "转场",
+                        "大兴",
+                        "疫情",
+                        "影响"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

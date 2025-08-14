@@ -1,0 +1,52 @@
+{
+    "2020-08-29": [
+        [
+            {
+                "time": "",
+                "original_text": "沪指收复3400点，机构建议关注券商板块机会",
+                "features": {
+                    "keywords": [
+                        "沪指",
+                        "3400点",
+                        "机构",
+                        "券商板块"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "券商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "创业板注册制首周平稳运行，业界提醒追高风险",
+                "features": {
+                    "keywords": [
+                        "创业板",
+                        "注册制",
+                        "首周",
+                        "平稳运行",
+                        "追高风险"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "创业板"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

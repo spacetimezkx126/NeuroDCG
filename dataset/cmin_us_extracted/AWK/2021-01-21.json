@@ -1,0 +1,53 @@
+{
+    "2021-01-21": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "New Jersey American Water Invested More Than $464 Million Statewide in 2020",
+                "features": {
+                    "keywords": [
+                        "New Jersey American Water",
+                        "Invested",
+                        "$464 Million",
+                        "Statewide",
+                        "2020"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "water",
+                        "infrastructure"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "15 Biggest Water Treatment Companies in the World",
+                "features": {
+                    "keywords": [
+                        "Biggest",
+                        "Water Treatment",
+                        "Companies",
+                        "World"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "water",
+                        "treatment"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

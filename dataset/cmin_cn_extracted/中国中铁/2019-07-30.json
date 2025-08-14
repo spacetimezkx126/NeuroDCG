@@ -1,0 +1,53 @@
+{
+    "2019-07-30": [
+        [
+            {
+                "time": "",
+                "original_text": "中国中铁(0390.HK)因派发股息调整A股增发价格",
+                "features": {
+                    "keywords": [
+                        "中国中铁",
+                        "派发股息",
+                        "A股增发",
+                        "价格调整"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "建筑",
+                        "铁路"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国中铁深圳项目周三曝违法遭罚 票据管理屡违规 其他违规处罚",
+                "features": {
+                    "keywords": [
+                        "中国中铁",
+                        "深圳项目",
+                        "违法",
+                        "票据管理",
+                        "违规处罚"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "建筑",
+                        "铁路"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

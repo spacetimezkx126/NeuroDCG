@@ -1,0 +1,51 @@
+{
+    "2020-12-24": [
+        [
+            {
+                "time": "2021-12-24",
+                "original_text": "Dow Jones Rises In Santa Claus Rally After Trump Calls Stimulus Bill A 'Disgrace'",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Santa Claus Rally",
+                        "Trump",
+                        "Stimulus Bill"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-12-24",
+                "original_text": "Booz Allen (BAH) Appoints EVP to Its Global Commercial Business",
+                "features": {
+                    "keywords": [
+                        "Booz Allen",
+                        "EVP",
+                        "Global Commercial Business"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consulting",
+                        "business"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

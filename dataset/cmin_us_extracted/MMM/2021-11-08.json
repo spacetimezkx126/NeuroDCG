@@ -1,0 +1,53 @@
+{
+    "2021-11-08": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Infrastructure bill: ‘Caterpillar sees the most benefit,’ analyst says",
+                "features": {
+                    "keywords": [
+                        "Infrastructure",
+                        "bill",
+                        "Caterpillar",
+                        "benefit",
+                        "analyst"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "construction",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Beyond Funding: A Case for the Power of People to Advance Health Equity",
+                "features": {
+                    "keywords": [
+                        "Funding",
+                        "Health",
+                        "Equity",
+                        "People",
+                        "Advance"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

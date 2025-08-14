@@ -1,0 +1,53 @@
+{
+    "2018-12-29": [
+        [
+            {
+                "time": "",
+                "original_text": "九 州 通 成 药 商 与 医 院 中 介  药 商 为 销 量 给 149 位 医 生 回 扣",
+                "features": {
+                    "keywords": [
+                        "九州通",
+                        "药商",
+                        "医院",
+                        "回扣",
+                        "销量"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "周 军 ： 坚 持 创 新 驱 动  积 极 投 身 上 海 科 创 中 心 建 设",
+                "features": {
+                    "keywords": [
+                        "周军",
+                        "创新",
+                        "上海",
+                        "科创中心",
+                        "建设"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "创新"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

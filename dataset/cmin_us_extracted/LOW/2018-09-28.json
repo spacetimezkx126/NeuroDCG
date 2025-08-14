@@ -1,0 +1,105 @@
+{
+    "2018-09-28": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Lowe’s Could Rally Another 50% and Gain on Home Depot",
+                "features": {
+                    "keywords": [
+                        "Lowe's",
+                        "Rally",
+                        "50%",
+                        "Home Depot"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "home improvement"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-03-16",
+                "original_text": "Google CEO in DC, Eli Lilly gets green light, Boeing wins big",
+                "features": {
+                    "keywords": [
+                        "Google",
+                        "CEO",
+                        "DC",
+                        "Eli Lilly",
+                        "green light",
+                        "Boeing",
+                        "wins"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "pharmaceuticals",
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-03-17",
+                "original_text": "Lowe’s stock jumps to record high after SunTrust raises rating, price target",
+                "features": {
+                    "keywords": [
+                        "Lowe's",
+                        "stock",
+                        "jumps",
+                        "record high",
+                        "SunTrust",
+                        "rating",
+                        "price target"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "home improvement"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-03-18",
+                "original_text": "4 Consumers Stocks Facing Steep Declines",
+                "features": {
+                    "keywords": [
+                        "Consumers",
+                        "Stocks",
+                        "Facing",
+                        "Steep",
+                        "Declines"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

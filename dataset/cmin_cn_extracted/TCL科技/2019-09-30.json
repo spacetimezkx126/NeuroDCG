@@ -1,0 +1,53 @@
+{
+    "2019-09-30": [
+        [
+            {
+                "time": "",
+                "original_text": "午间公告：大北农调整2019年生猪出栏量",
+                "features": {
+                    "keywords": [
+                        "大北农",
+                        "生猪",
+                        "出栏量",
+                        "调整"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "养殖业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "TCL集团公告称为，美国337调查涉及的业务不属于公司经营范围",
+                "features": {
+                    "keywords": [
+                        "TCL集团",
+                        "美国",
+                        "337调查",
+                        "业务",
+                        "经营范围"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电子制造",
+                        "国际贸易"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

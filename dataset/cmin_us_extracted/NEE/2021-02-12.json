@@ -1,0 +1,53 @@
+{
+    "2021-02-12": [
+        [
+            {
+                "time": "2021-03-15",
+                "original_text": "NextEra Energy announces appointment of Lynn M. Utter to board of directors",
+                "features": {
+                    "keywords": [
+                        "NextEra",
+                        "Energy",
+                        "appointment",
+                        "Lynn M. Utter",
+                        "board of directors"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-03-15",
+                "original_text": "NextEra Energy board declares quarterly dividend and continues above-average targeted growth rate in dividends per share through at least 2022",
+                "features": {
+                    "keywords": [
+                        "NextEra",
+                        "Energy",
+                        "quarterly dividend",
+                        "above-average",
+                        "growth rate",
+                        "dividends per share"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2021-03-19": [
+        [
+            {
+                "time": "",
+                "original_text": "一批A股尾盘突然放量异动！发生了什么？",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "尾盘",
+                        "放量",
+                        "异动"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-19",
+                "original_text": "A股主力资金流向（3月19日）：机构抱团股再遭抛售",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "主力资金",
+                        "机构抱团股",
+                        "抛售"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "机构抱团股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

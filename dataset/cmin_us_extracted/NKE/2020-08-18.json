@@ -1,0 +1,54 @@
+{
+    "2020-08-18": [
+        [
+            {
+                "time": "2021-07-15",
+                "original_text": "Stifel boosts Nike price target on continued e-commerce strength",
+                "features": {
+                    "keywords": [
+                        "Stifel",
+                        "Nike",
+                        "price target",
+                        "e-commerce",
+                        "strength"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-07-15",
+                "original_text": "New York gyms to reopen: Planet Fitness CEO says his chain is ready to go",
+                "features": {
+                    "keywords": [
+                        "New York",
+                        "gyms",
+                        "reopen",
+                        "Planet Fitness",
+                        "CEO"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "fitness"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

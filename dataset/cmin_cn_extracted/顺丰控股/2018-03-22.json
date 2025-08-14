@@ -1,0 +1,74 @@
+{
+    "2018-03-22": [
+        [
+            {
+                "time": "2023-03-22",
+                "original_text": "3月22日有35家公司获重要股东增减持，巨力索具已被连续增持35次",
+                "features": {
+                    "keywords": [
+                        "重要股东",
+                        "增减持",
+                        "巨力索具",
+                        "连续增持"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "制造业",
+                        "机械设备"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-22",
+                "original_text": "聚焦中西部物流：谁将成为中国“孟菲斯”",
+                "features": {
+                    "keywords": [
+                        "中西部物流",
+                        "孟菲斯",
+                        "物流枢纽"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "交通运输",
+                        "物流"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-03-22",
+                "original_text": "揭秘顺丰金融版图，剥离金融业务上市有内幕！",
+                "features": {
+                    "keywords": [
+                        "顺丰",
+                        "金融业务",
+                        "剥离",
+                        "上市"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "快递物流",
+                        "金融服务"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

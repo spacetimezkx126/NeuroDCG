@@ -1,0 +1,53 @@
+{
+    "2021-07-06": [
+        [
+            {
+                "time": "",
+                "original_text": "中国中铁：公司2020年年报中披露的矿产品产量均为纯金属产量",
+                "features": {
+                    "keywords": [
+                        "中国中铁",
+                        "2020年年报",
+                        "矿产品产量",
+                        "纯金属"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "矿业",
+                        "金属"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国中铁：公司下属子公司高铁电气拆分至科创板上市事宜已获上交所科创板上市委审议通过",
+                "features": {
+                    "keywords": [
+                        "中国中铁",
+                        "高铁电气",
+                        "科创板",
+                        "上市",
+                        "拆分"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "铁路",
+                        "电气设备"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2021-06-02": [
+        [
+            {
+                "time": "",
+                "original_text": "航、空、市、场、竞、争、力、评、判、中、，、‘、市、场、份、额、’、指、标、作、用、如、何、？",
+                "features": {
+                    "keywords": [
+                        "航空",
+                        "市场竞争",
+                        "市场份额"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "交通运输"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "上、海、区、域、股、市、周、报、：、新、增、3、家、上、市、公、司、1、4、3、家、机、构、调、研、妙、可、蓝、多",
+                "features": {
+                    "keywords": [
+                        "上海区域",
+                        "股市周报",
+                        "新增上市公司",
+                        "机构调研",
+                        "妙可蓝多"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料",
+                        "乳业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2019-09-20": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "These new Apple iPhones are already sold out in China on launch day",
+                "features": {
+                    "keywords": [
+                        "Apple",
+                        "iPhones",
+                        "sold out",
+                        "China",
+                        "launch day"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "consumer electronics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "5 Small Cap Stocks That Could Soar 200%",
+                "features": {
+                    "keywords": [
+                        "Small Cap Stocks",
+                        "Soar",
+                        "200%"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

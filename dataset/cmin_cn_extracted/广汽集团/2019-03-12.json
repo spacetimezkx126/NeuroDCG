@@ -1,0 +1,49 @@
+{
+    "2019-03-12": [
+        [
+            {
+                "time": "2023-03-20",
+                "original_text": "广汽集团(02238.HK)：“12广汽02”将于3月20日付息",
+                "features": {
+                    "keywords": [
+                        "广汽集团",
+                        "12广汽02",
+                        "付息"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-02-01",
+                "original_text": "广汽集团2月销量突破10万辆 MPV增长超110%",
+                "features": {
+                    "keywords": [
+                        "广汽集团",
+                        "销量",
+                        "MPV",
+                        "增长"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2021-11-30": [
+        [
+            {
+                "time": "2021-11-26",
+                "original_text": "Oil: Omicron fears send crude into bear market",
+                "features": {
+                    "keywords": [
+                        "Omicron",
+                        "fears",
+                        "crude",
+                        "bear market"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-11-29",
+                "original_text": "OPEC+ Under Pressure As Oil Prices Plunge Again",
+                "features": {
+                    "keywords": [
+                        "OPEC+",
+                        "Pressure",
+                        "Oil Prices",
+                        "Plunge"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

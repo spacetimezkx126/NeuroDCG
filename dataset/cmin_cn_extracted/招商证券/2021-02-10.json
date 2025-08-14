@@ -1,0 +1,79 @@
+{
+    "2021-02-10": [
+        [
+            {
+                "time": "",
+                "original_text": "A股收盘综述：鼠年完美收官，三大股指均创出逾5年新高",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "收盘",
+                        "鼠年",
+                        "完美收官",
+                        "三大股指",
+                        "5年新高"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "A股午盘综述：上证指数涨超1%创5年来新高，创业板指重返3400点",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "午盘",
+                        "上证指数",
+                        "涨超1%",
+                        "5年新高",
+                        "创业板指",
+                        "3400点"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "上证指数",
+                        "创业板"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "深圳炒房客要哭了：3成首付变5成？",
+                "features": {
+                    "keywords": [
+                        "深圳",
+                        "炒房客",
+                        "首付",
+                        "3成",
+                        "5成"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

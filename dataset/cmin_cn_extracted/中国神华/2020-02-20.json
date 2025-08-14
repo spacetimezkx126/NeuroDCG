@@ -1,0 +1,52 @@
+{
+    "2020-02-20": [
+        [
+            {
+                "time": "2020-02-20",
+                "original_text": "【天风煤炭20200220】六大电厂日耗增加缓慢，库存维持1700万吨以上高位",
+                "features": {
+                    "keywords": [
+                        "六大电厂",
+                        "日耗",
+                        "库存",
+                        "1700万吨"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "中国神华公布1月份财务数据商品煤产量24.1百万吨",
+                "features": {
+                    "keywords": [
+                        "中国神华",
+                        "商品煤",
+                        "产量",
+                        "24.1百万吨"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

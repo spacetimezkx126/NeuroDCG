@@ -1,0 +1,51 @@
+{
+    "2020-03-20": [
+        [
+            {
+                "time": "2020-04-15",
+                "original_text": "American Water & American Water Charitable Foundation Provide $100,000 to Feeding America COVID-19 Response Fund",
+                "features": {
+                    "keywords": [
+                        "American Water",
+                        "Charitable Foundation",
+                        "Feeding America",
+                        "COVID-19 Response Fund"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities",
+                        "charity"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-04-15",
+                "original_text": "American Water Californian Unit Provides Service Despite Dues",
+                "features": {
+                    "keywords": [
+                        "American Water",
+                        "Californian Unit",
+                        "Service",
+                        "Despite Dues"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "2021-01-16": [
+        [
+            {
+                "time": "",
+                "original_text": "“限贷令”之后农行、建行、中行齐发 RMBS 的春天到了？",
+                "features": {
+                    "keywords": [
+                        "限贷令",
+                        "农行",
+                        "建行",
+                        "中行",
+                        "RMBS"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "农业银行兰州分行首笔人民币国际商业转贷款发放",
+                "features": {
+                    "keywords": [
+                        "农业银行",
+                        "兰州分行",
+                        "人民币",
+                        "国际商业转贷款"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "国际贸易"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "上海普陀区33个项目集中开工！28个招商引资项目集中签约！",
+                "features": {
+                    "keywords": [
+                        "上海",
+                        "普陀区",
+                        "项目开工",
+                        "招商引资"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "基础设施",
+                        "房地产",
+                        "招商引资"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

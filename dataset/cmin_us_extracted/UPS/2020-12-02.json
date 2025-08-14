@@ -1,0 +1,54 @@
+{
+    "2020-12-02": [
+        [
+            {
+                "time": "2023-11-01",
+                "original_text": "Give UPS a Pass for Christmas Package Pileups",
+                "features": {
+                    "keywords": [
+                        "UPS",
+                        "Christmas",
+                        "Package",
+                        "Pileups"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "logistics",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-11-01",
+                "original_text": "UPS Sets Shipping Limits on Nike, Macy's, Gap, Others",
+                "features": {
+                    "keywords": [
+                        "UPS",
+                        "Shipping",
+                        "Limits",
+                        "Nike",
+                        "Macy's",
+                        "Gap"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "logistics",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2019-08-08": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "中国节能与中国铁建签署战略合作协议",
+                "features": {
+                    "keywords": [
+                        "中国节能",
+                        "中国铁建",
+                        "战略合作协议"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "建筑",
+                        "环保"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "午间要闻公告：雄安新区将申建海关特殊监管区域",
+                "features": {
+                    "keywords": [
+                        "雄安新区",
+                        "海关",
+                        "特殊监管区域"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "基础设施"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

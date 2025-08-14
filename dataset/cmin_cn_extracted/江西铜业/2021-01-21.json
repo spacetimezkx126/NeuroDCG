@@ -1,0 +1,78 @@
+{
+    "2021-01-21": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "港股恒指4度冲向3万点终跌34点腾讯登顶见700港元",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "恒指",
+                        "3万点",
+                        "腾讯",
+                        "登顶",
+                        "700港元"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "5只个股尾盘净流入资金超亿元",
+                "features": {
+                    "keywords": [
+                        "个股",
+                        "尾盘",
+                        "净流入",
+                        "资金",
+                        "超亿元"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "港股稀土概念股拉升中国稀土(0769.HK)暴涨超60%",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "稀土",
+                        "概念股",
+                        "拉升",
+                        "中国稀土",
+                        "暴涨",
+                        "60%"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "资源",
+                        "材料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

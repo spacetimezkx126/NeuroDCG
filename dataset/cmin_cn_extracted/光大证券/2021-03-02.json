@@ -1,0 +1,79 @@
+{
+    "2021-03-02": [
+        [
+            {
+                "time": "",
+                "original_text": "国金证券80后投行执行总经理突然逝世，年仅39岁 董监高成员异常事件",
+                "features": {
+                    "keywords": [
+                        "国金证券",
+                        "投行",
+                        "执行总经理",
+                        "突然逝世",
+                        "董监高成员",
+                        "异常事件"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "2020年券商奇景：业绩与风险计提共攀升",
+                "features": {
+                    "keywords": [
+                        "2020年",
+                        "券商",
+                        "业绩",
+                        "风险计提",
+                        "攀升"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "光大证券：康弘药业(002773.SZ)Q4业绩超预期，维持“买入”评级",
+                "features": {
+                    "keywords": [
+                        "光大证券",
+                        "康弘药业",
+                        "Q4",
+                        "业绩超预期",
+                        "买入评级"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

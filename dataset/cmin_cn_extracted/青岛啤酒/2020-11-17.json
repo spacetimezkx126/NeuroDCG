@@ -1,0 +1,72 @@
+{
+    "2020-11-17": [
+        [
+            {
+                "time": "",
+                "original_text": "创 新 引 领 智 慧 酿 造 西 凤 酒 聚 焦 健 康 酿 酒",
+                "features": {
+                    "keywords": [
+                        "西凤酒",
+                        "健康酿酒"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "消费品",
+                        "酒业"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "陕 西 宝 鸡 今 年 两 条 2 5 0 0 t / d 水 泥 熟 料 线 置 换 出 省 ， 其 中 一 条 已 拆 除 ！",
+                "features": {
+                    "keywords": [
+                        "水泥熟料",
+                        "置换出省",
+                        "拆除"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "建材",
+                        "水泥"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "万 家 基 金 4 混 基 1 0 月 份 跌 超 4 % 业 绩 落 后 3 只 规 模 大 缩 水 规 模 大 幅 缩 水",
+                "features": {
+                    "keywords": [
+                        "万家基金",
+                        "混合基金",
+                        "业绩落后",
+                        "规模缩水"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

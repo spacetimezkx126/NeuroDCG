@@ -1,0 +1,50 @@
+{
+    "2019-07-10": [
+        [
+            {
+                "time": "",
+                "original_text": "北上资金连续三日净流出，中国平安等多股遭净卖出超1亿元",
+                "features": {
+                    "keywords": [
+                        "北上资金",
+                        "净流出",
+                        "中国平安",
+                        "净卖出"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "公告解读：中国平安耗资逾5亿元回购股份 累计回购金额已达50亿元",
+                "features": {
+                    "keywords": [
+                        "中国平安",
+                        "回购股份",
+                        "累计回购",
+                        "50亿元"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

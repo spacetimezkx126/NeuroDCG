@@ -1,0 +1,50 @@
+{
+    "2021-02-19": [
+        [
+            {
+                "time": "",
+                "original_text": "上市银行估值水平目前仍处于历史低位区间，破净几乎是普遍现象",
+                "features": {
+                    "keywords": [
+                        "上市银行",
+                        "估值水平",
+                        "历史低位",
+                        "破净"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-02-18",
+                "original_text": "A股融资融券日报：两融余额增加250.86亿元（2月18日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

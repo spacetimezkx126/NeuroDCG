@@ -1,0 +1,68 @@
+{
+    "2019-04-05": [
+        [
+            {
+                "time": "",
+                "original_text": "短 短 十 多 天 暴 涨 1 0 0 % ！ 全 球 第 一 的 巨 头 ！ 估 值 直 线 飙 升 ， 啥 情 况 ？",
+                "features": {
+                    "keywords": [
+                        "暴涨",
+                        "全球第一",
+                        "估值飙升"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "巨头企业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "最 新 反 弹 王 诞 生 ！ 这 些 昔 日 大 熊 股 一 朝 翻 身   最 意 外 的 竟 是 它",
+                "features": {
+                    "keywords": [
+                        "反弹王",
+                        "昔日大熊股",
+                        "翻身"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "反弹股票"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "从 短 期 强 轧 空 到 趋 势 强 轧 空",
+                "features": {
+                    "keywords": [
+                        "短期强轧空",
+                        "趋势强轧空"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "市场策略"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

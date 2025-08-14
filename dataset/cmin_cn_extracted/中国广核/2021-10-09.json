@@ -1,0 +1,53 @@
+{
+    "2021-10-09": [
+        [
+            {
+                "time": "",
+                "original_text": "中国广核：核电上网电价分为两部分，一部分是计划电量上网电价，另一部分是市场电量上网电价",
+                "features": {
+                    "keywords": [
+                        "中国广核",
+                        "核电",
+                        "上网电价",
+                        "计划电量",
+                        "市场电量"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "核电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国广核：公司上半年市场电价低于计划电价",
+                "features": {
+                    "keywords": [
+                        "中国广核",
+                        "市场电价",
+                        "计划电价",
+                        "上半年"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "核电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

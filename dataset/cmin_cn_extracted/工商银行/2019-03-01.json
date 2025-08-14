@@ -1,0 +1,73 @@
+{
+    "2019-03-01": [
+        [
+            {
+                "time": "",
+                "original_text": "水皮脱口秀 | 易会满首秀！关于科创板 透露了这些信息",
+                "features": {
+                    "keywords": [
+                        "易会满",
+                        "首秀",
+                        "科创板"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国平安“扫货”工行H股1702万股，7个月以来已接连10次增持",
+                "features": {
+                    "keywords": [
+                        "中国平安",
+                        "工商银行",
+                        "H股",
+                        "增持"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "汽车分期业务频现违规 农行等银行相继领罚 其他违规处罚",
+                "features": {
+                    "keywords": [
+                        "汽车分期",
+                        "违规",
+                        "农行",
+                        "处罚"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

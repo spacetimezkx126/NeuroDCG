@@ -1,0 +1,47 @@
+{
+    "2018-03-26": [
+        [
+            {
+                "time": "",
+                "original_text": "没 错 是 他 ！ 我 在 中 国 银 行 北 京 分 行 大 楼 里 见 到 了 “ 靖 哥 哥 ”",
+                "features": {
+                    "keywords": [
+                        "中国银行",
+                        "北京分行",
+                        "靖哥哥"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "媒 体 ： 住 房 租 赁 市 场 进 入 黄 金 时 代",
+                "features": {
+                    "keywords": [
+                        "住房租赁",
+                        "黄金时代"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

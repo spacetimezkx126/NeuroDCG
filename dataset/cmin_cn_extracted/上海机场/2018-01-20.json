@@ -1,0 +1,53 @@
+{
+    "2018-01-20": [
+        [
+            {
+                "time": "2018-01-15",
+                "original_text": "【华泰周刊】2018.01.15-01.19 华泰研究一周回顾",
+                "features": {
+                    "keywords": [
+                        "华泰研究",
+                        "周刊",
+                        "回顾"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "银行",
+                        "地产"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-15",
+                "original_text": "卖出部分银行、地产股后 陆股通大买细分行业龙头",
+                "features": {
+                    "keywords": [
+                        "卖出",
+                        "银行",
+                        "地产股",
+                        "陆股通",
+                        "细分行业龙头"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "银行",
+                        "地产",
+                        "细分行业龙头"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

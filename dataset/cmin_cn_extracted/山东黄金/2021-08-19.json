@@ -1,0 +1,57 @@
+{
+    "2021-08-19": [
+        [
+            {
+                "time": "",
+                "original_text": "【行情】港股黄金股集体下挫，紫金矿业跌约8%，中国黄金国际跌4.55%，招金矿业跌3.64%，山东黄金跌2.7%，灵宝黄金跌2%。",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "黄金股",
+                        "紫金矿业",
+                        "中国黄金国际",
+                        "招金矿业",
+                        "山东黄金",
+                        "灵宝黄金",
+                        "下挫"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "黄金",
+                        "矿业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "高德打车携手济南出租车企业  推进巡网融合数字化升级。",
+                "features": {
+                    "keywords": [
+                        "高德打车",
+                        "济南",
+                        "出租车",
+                        "巡网融合",
+                        "数字化升级"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "交通运输",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "2021-11-05": [
+        [
+            {
+                "time": "",
+                "original_text": "投资地产信托受挫！股市风云变幻 洋河股份酒业第三不保？",
+                "features": {
+                    "keywords": [
+                        "地产信托",
+                        "受挫",
+                        "洋河股份",
+                        "酒业"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产",
+                        "酒业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2022-11-02",
+                "original_text": "航天彩虹：中邮创业基金管理股份有限公司、中银国际证券股份有限公司等37家机构于11月2日调研我司",
+                "features": {
+                    "keywords": [
+                        "航天彩虹",
+                        "中邮创业基金",
+                        "中银国际证券",
+                        "机构调研"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空航天"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2022-11-03",
+                "original_text": "通裕重工：中银国际证券股份有限公司、财通基金管理有限公司等2家机构于11月3日调研我司",
+                "features": {
+                    "keywords": [
+                        "通裕重工",
+                        "中银国际证券",
+                        "财通基金",
+                        "机构调研"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "重工业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

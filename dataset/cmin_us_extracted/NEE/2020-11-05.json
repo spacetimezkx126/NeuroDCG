@@ -1,0 +1,72 @@
+{
+    "2020-11-05": [
+        [
+            {
+                "time": "2018-11-05",
+                "original_text": "If You Like Dividends, You Should Love These 3 Stocks",
+                "features": {
+                    "keywords": [
+                        "dividends",
+                        "stocks"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-11-06",
+                "original_text": "CenterPoint Energy (CNP) Q3 Earnings Beat, Revenues Fall Y/Y",
+                "features": {
+                    "keywords": [
+                        "CenterPoint Energy",
+                        "CNP",
+                        "Q3",
+                        "earnings beat",
+                        "revenues fall"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-11-07",
+                "original_text": "Duke Energy (DUK) Q3 Earnings Beat, Revenues Decline Y/Y",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "DUK",
+                        "Q3",
+                        "earnings beat",
+                        "revenues decline"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "2019-11-11": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "Total CEO Expects Weak Oil-Demand Growth in 2020",
+                "features": {
+                    "keywords": [
+                        "Total",
+                        "CEO",
+                        "Weak",
+                        "Oil-Demand",
+                        "Growth",
+                        "2020"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-11-15",
+                "original_text": "SunPower's stock rallies after plan to separately into 2 publicly traded companies",
+                "features": {
+                    "keywords": [
+                        "SunPower",
+                        "stock",
+                        "rallies",
+                        "plan",
+                        "publicly",
+                        "traded",
+                        "companies"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "renewable energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-11-15",
+                "original_text": "UPDATE 3-SunPower to spin off solar panel manufacturing, shares rise",
+                "features": {
+                    "keywords": [
+                        "UPDATE",
+                        "SunPower",
+                        "spin",
+                        "off",
+                        "solar",
+                        "panel",
+                        "manufacturing",
+                        "shares",
+                        "rise"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "renewable energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

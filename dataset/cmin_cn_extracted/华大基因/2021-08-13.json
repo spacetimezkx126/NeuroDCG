@@ -1,0 +1,52 @@
+{
+    "2021-08-13": [
+        [
+            {
+                "time": "",
+                "original_text": "华大基因(300676.SZ)独立董事杜兰取得《上市公司独立董事资格证书》",
+                "features": {
+                    "keywords": [
+                        "华大基因",
+                        "独立董事",
+                        "杜兰",
+                        "资格证书"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "生物科技"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "华大智造IPO：业绩依赖关联交易 因专利纠纷被行业巨头“纠缠”",
+                "features": {
+                    "keywords": [
+                        "华大智造",
+                        "IPO",
+                        "关联交易",
+                        "专利纠纷",
+                        "行业巨头"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "生物科技",
+                        "智能制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

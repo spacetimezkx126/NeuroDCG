@@ -1,0 +1,52 @@
+{
+    "2020-08-02": [
+        [
+            {
+                "time": "",
+                "original_text": "美国7月ISM制造业PMI",
+                "features": {
+                    "keywords": [
+                        "美国",
+                        "ISM制造业PMI",
+                        "经济数据"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "蛋壳周报20200809：西门子164亿美元收购瓦里安；泰格医药登陆港交所上市",
+                "features": {
+                    "keywords": [
+                        "西门子",
+                        "瓦里安",
+                        "收购",
+                        "泰格医药",
+                        "港交所",
+                        "上市"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医疗",
+                        "制药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "2020-03-12": [
+        [
+            {
+                "time": "",
+                "original_text": "农业股飙升，原来是这条政策起了作用",
+                "features": {
+                    "keywords": [
+                        "农业股",
+                        "飙升",
+                        "政策"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "“拉满弓”复产 新希望加快产业布局",
+                "features": {
+                    "keywords": [
+                        "复产",
+                        "新希望",
+                        "产业布局"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "食品加工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "新希望继续加码生猪养殖",
+                "features": {
+                    "keywords": [
+                        "新希望",
+                        "加码",
+                        "生猪养殖"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "畜牧业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

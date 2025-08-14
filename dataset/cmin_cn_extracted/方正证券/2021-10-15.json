@@ -1,0 +1,50 @@
+{
+    "2021-10-15": [
+        [
+            {
+                "time": "2023-09-01",
+                "original_text": "博瑞医药：方正证券、诺德基金等17家机构于9月1日调研我司",
+                "features": {
+                    "keywords": [
+                        "博瑞医药",
+                        "方正证券",
+                        "诺德基金",
+                        "机构调研"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-09-02",
+                "original_text": "百亿私募“内讧”，自曝违规！29家券商被拖下水",
+                "features": {
+                    "keywords": [
+                        "百亿私募",
+                        "内讧",
+                        "违规",
+                        "券商"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

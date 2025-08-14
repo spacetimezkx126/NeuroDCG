@@ -1,0 +1,90 @@
+{
+    "2021-09-13": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "银行业：银行指数继续回升 银行间利率上行",
+                "features": {
+                    "keywords": [
+                        "银行指数",
+                        "回升",
+                        "银行间利率",
+                        "上行"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "银行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "每日报告回放",
+                "features": {
+                    "keywords": [],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "国泰君安：银行信贷需求不足延续，预期底大概率已经形成",
+                "features": {
+                    "keywords": [
+                        "国泰君安",
+                        "银行",
+                        "信贷需求",
+                        "不足",
+                        "预期底",
+                        "形成"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "银行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "商业银行行业：商业银行业日报",
+                "features": {
+                    "keywords": [
+                        "商业银行",
+                        "日报"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "商业银行"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2018-11-08": [
+        [
+            {
+                "time": "2018-11-08",
+                "original_text": "[快讯]预期收益率7.50% 民生银行11月08日开售91天理财产品",
+                "features": {
+                    "keywords": [
+                        "民生银行",
+                        "理财产品",
+                        "预期收益率",
+                        "7.50%",
+                        "91天"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2018-11-08",
+                "original_text": "福星股份为成都公司3.6亿元借款提供担保",
+                "features": {
+                    "keywords": [
+                        "福星股份",
+                        "成都公司",
+                        "借款",
+                        "担保",
+                        "3.6亿元"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

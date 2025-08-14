@@ -1,0 +1,56 @@
+{
+    "2020-12-04": [
+        [
+            {
+                "time": "",
+                "original_text": "港股收评：恒指震荡收涨0.4%，乳制品、医药板块领涨",
+                "features": {
+                    "keywords": [
+                        "恒指",
+                        "震荡",
+                        "收涨",
+                        "乳制品",
+                        "医药",
+                        "板块领涨"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "乳制品",
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-12-04",
+                "original_text": "智通港股早知道︱(12月4日)蓝月亮(06993)今起招股，关注赣锋锂业(01772)等新能源车上游产业链股价趋势",
+                "features": {
+                    "keywords": [
+                        "蓝月亮",
+                        "招股",
+                        "赣锋锂业",
+                        "新能源车",
+                        "上游产业链",
+                        "股价趋势"
+                    ],
+                    "sentiment_score": 0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源车",
+                        "上游产业链"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

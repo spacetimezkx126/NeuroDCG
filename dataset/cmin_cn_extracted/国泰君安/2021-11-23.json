@@ -1,0 +1,76 @@
+{
+    "2021-11-23": [
+        [
+            {
+                "time": "",
+                "original_text": "券商板块再度活跃，长城证券涨停，中泰证券等走高",
+                "features": {
+                    "keywords": [
+                        "券商板块",
+                        "长城证券",
+                        "中泰证券",
+                        "涨停",
+                        "走高"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "前三季度债券承销业务专项统计显示 证券业持续发力绿色发展与创新创业",
+                "features": {
+                    "keywords": [
+                        "债券承销",
+                        "证券业",
+                        "绿色发展",
+                        "创新创业"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "债券市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "拟4.8亿元底价挂牌转让17.28%股份 华茂集团启动二次混改",
+                "features": {
+                    "keywords": [
+                        "华茂集团",
+                        "混改",
+                        "股份转让",
+                        "4.8亿元"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "企业改革",
+                        "资本运作"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

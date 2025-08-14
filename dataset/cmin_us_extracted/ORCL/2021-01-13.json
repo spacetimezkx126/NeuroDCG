@@ -1,0 +1,80 @@
+{
+    "2021-01-13": [
+        [
+            {
+                "time": "2021-01-08",
+                "original_text": "Sequoia Capital’s Doug Leone Renounces Trump After Backing Campaign",
+                "features": {
+                    "keywords": [
+                        "Sequoia Capital",
+                        "Doug Leone",
+                        "Renounces",
+                        "Trump",
+                        "Backing",
+                        "Campaign"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "venture capital",
+                        "politics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-03-15",
+                "original_text": "Oracle Cloud Infrastructure Delivers New Low-code Service to Simplify Application Development",
+                "features": {
+                    "keywords": [
+                        "Oracle",
+                        "Cloud",
+                        "Infrastructure",
+                        "Low-code",
+                        "Service",
+                        "Application",
+                        "Development"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "cloud computing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-04-20",
+                "original_text": "Oracle Extends Database Leadership with Oracle Database 21c",
+                "features": {
+                    "keywords": [
+                        "Oracle",
+                        "Database",
+                        "Leadership",
+                        "Oracle Database 21c"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "database"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

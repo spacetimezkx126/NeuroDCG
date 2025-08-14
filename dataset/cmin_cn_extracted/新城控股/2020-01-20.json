@@ -1,0 +1,51 @@
+{
+    "2020-01-20": [
+        [
+            {
+                "time": "",
+                "original_text": "【兴证地产】新房二手房周报第3期：2019年住宅销售金额同比增10%，衡阳调整公积金贷款首付比例",
+                "features": {
+                    "keywords": [
+                        "住宅销售",
+                        "同比增长",
+                        "公积金贷款",
+                        "首付比例",
+                        "衡阳"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "市场竞争更加激烈，购物中心如何顺势而为？",
+                "features": {
+                    "keywords": [
+                        "市场竞争",
+                        "购物中心",
+                        "顺势而为"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "零售",
+                        "商业地产"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

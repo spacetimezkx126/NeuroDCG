@@ -1,0 +1,110 @@
+{
+    "2020-02-14": [
+        [
+            {
+                "time": "2018-01-03",
+                "original_text": "Dow Jones Today: A Day for Safe Havens",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "Jones",
+                        "Safe Havens"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-07-15",
+                "original_text": "Drug wholesaler stocks falls after WSJ report that states rejected opioid settlement offer",
+                "features": {
+                    "keywords": [
+                        "Drug",
+                        "wholesaler",
+                        "stocks",
+                        "WSJ",
+                        "opioid",
+                        "settlement",
+                        "rejected"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-02-05",
+                "original_text": "Pharma Stock Roundup: ABBV, AGN Post Q4 Results, Another Alzheimer's Study Fails",
+                "features": {
+                    "keywords": [
+                        "Pharma",
+                        "Stock",
+                        "ABBV",
+                        "AGN",
+                        "Q4",
+                        "Results",
+                        "Alzheimer's",
+                        "Study",
+                        "Fails"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-01-21",
+                "original_text": "The Daily Biotech Pulse: Epizyme's Tazemetostat sNDA Accepted For Priority Review, Eisai To Withdraw Weight Loss Drug, Sol-Gel Prices Offering",
+                "features": {
+                    "keywords": [
+                        "Biotech",
+                        "Epizyme",
+                        "Tazemetostat",
+                        "sNDA",
+                        "Priority",
+                        "Review",
+                        "Eisai",
+                        "Weight",
+                        "Loss",
+                        "Drug",
+                        "Sol-Gel",
+                        "Prices",
+                        "Offering"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

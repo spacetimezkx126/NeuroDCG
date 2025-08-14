@@ -1,0 +1,53 @@
+{
+    "2021-12-25": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Pioneer Series Trust Xi Buys Progressive Corp, The Walt Disney Co, Autodesk Inc, Sells Meta ...",
+                "features": {
+                    "keywords": [
+                        "Pioneer Series Trust",
+                        "Progressive Corp",
+                        "Walt Disney Co",
+                        "Autodesk Inc",
+                        "Sells Meta"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "technology",
+                        "entertainment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Streaming Wars: 5 Things to Watch in 2022",
+                "features": {
+                    "keywords": [
+                        "Streaming Wars",
+                        "Things to Watch",
+                        "2022"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment",
+                        "media"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

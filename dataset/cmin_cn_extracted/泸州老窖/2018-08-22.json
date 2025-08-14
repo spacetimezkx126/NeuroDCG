@@ -1,0 +1,53 @@
+{
+    "2018-08-22": [
+        [
+            {
+                "time": "",
+                "original_text": "泸州市商业银行向证监会提交上市申请 泸州老窖为第一大股东",
+                "features": {
+                    "keywords": [
+                        "泸州市商业银行",
+                        "上市申请",
+                        "证监会",
+                        "泸州老窖",
+                        "第一大股东"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "银行",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "[中性评级]食品饮料行业周报：食板块料基本 面未变 估值回落 性价比提升",
+                "features": {
+                    "keywords": [
+                        "食品饮料",
+                        "行业周报",
+                        "中性评级",
+                        "估值回落",
+                        "性价比提升"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2019-01-18": [
+        [
+            {
+                "time": "",
+                "original_text": "这是深圳成绩单！GDP亚洲前五、世界一线城市",
+                "features": {
+                    "keywords": [
+                        "深圳",
+                        "GDP",
+                        "亚洲前五",
+                        "世界一线城市"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "基础设施"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "5G概念3个月大涨30%！这5只基将牛贯2019",
+                "features": {
+                    "keywords": [
+                        "5G",
+                        "概念",
+                        "大涨30%",
+                        "基金"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "通信"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

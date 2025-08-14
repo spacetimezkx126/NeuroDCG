@@ -1,0 +1,78 @@
+{
+    "2020-07-31": [
+        [
+            {
+                "time": "2020-12-31",
+                "original_text": "Morgan Stanley’s Carla Harris: ‘Let’s look at actual dollars committed to women, multicultural entrepreneurs’ at 2020 year-end",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "Carla Harris",
+                        "dollars committed",
+                        "women",
+                        "multicultural entrepreneurs"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "entrepreneurship"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-10-15",
+                "original_text": "Barclays Loses IAG Brokership, Misses $3.3 Billion Share Sale",
+                "features": {
+                    "keywords": [
+                        "Barclays",
+                        "IAG",
+                        "Brokership",
+                        "Misses",
+                        "$3.3 Billion",
+                        "Share Sale"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "aviation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-08-25",
+                "original_text": "Xi Calls for Pivot to Domestic Economy as Recovery Continues",
+                "features": {
+                    "keywords": [
+                        "Xi",
+                        "Pivot",
+                        "Domestic Economy",
+                        "Recovery"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "domestic market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

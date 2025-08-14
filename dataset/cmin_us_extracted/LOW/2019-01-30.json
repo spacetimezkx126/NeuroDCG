@@ -1,0 +1,52 @@
+{
+    "2019-01-30": [
+        [
+            {
+                "time": "2019-08-15",
+                "original_text": "The Owners of Wayfair Stock Want to Know a Secret",
+                "features": {
+                    "keywords": [
+                        "Wayfair",
+                        "stock",
+                        "owners",
+                        "secret"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-01-12",
+                "original_text": "Redfin: the Government Shutdown Has Impacted the Real Estate Market",
+                "features": {
+                    "keywords": [
+                        "Redfin",
+                        "government shutdown",
+                        "real estate",
+                        "market",
+                        "impacted"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

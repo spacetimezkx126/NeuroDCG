@@ -1,0 +1,96 @@
+{
+    "2019-07-23": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Cibolo OKs incentives for Toyota supplier that would bring 900 jobs",
+                "features": {
+                    "keywords": [
+                        "incentives",
+                        "Toyota",
+                        "supplier",
+                        "jobs"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automotive",
+                        "manufacturing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-04-22",
+                "original_text": "Tesla who? Top Ford exec says it's 'dominating' pickup truck market",
+                "features": {
+                    "keywords": [
+                        "Tesla",
+                        "Ford",
+                        "pickup truck",
+                        "market"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-07-10",
+                "original_text": "Toyota's 2020 Olympics robots will include a javelin-carrying cart",
+                "features": {
+                    "keywords": [
+                        "Toyota",
+                        "Olympics",
+                        "robots",
+                        "javelin-carrying"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "sports"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-05-20",
+                "original_text": "These 2 electric cars have a solar boost — and could be on the road in 2021",
+                "features": {
+                    "keywords": [
+                        "electric cars",
+                        "solar boost",
+                        "road"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "renewable energy",
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

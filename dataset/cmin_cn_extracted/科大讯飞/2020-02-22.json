@@ -1,0 +1,76 @@
+{
+    "2020-02-22": [
+        [
+            {
+                "time": "",
+                "original_text": "小米有品官宣键鼠新品：键盘不只能用来打字",
+                "features": {
+                    "keywords": [
+                        "小米",
+                        "新品",
+                        "键盘"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "消费电子"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "迷惘的二三四五：折戟现金贷、梦碎区块链，再打AI突围战",
+                "features": {
+                    "keywords": [
+                        "二三四五",
+                        "现金贷",
+                        "区块链",
+                        "AI"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融科技",
+                        "区块链",
+                        "人工智能"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "直击疫情下的光谷创业者：现金流吃紧、人才流失，他们静待“冬去春来”",
+                "features": {
+                    "keywords": [
+                        "疫情",
+                        "光谷",
+                        "创业者",
+                        "现金流",
+                        "人才流失"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "创业",
+                        "经济"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

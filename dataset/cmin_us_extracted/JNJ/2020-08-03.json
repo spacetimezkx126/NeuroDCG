@@ -1,0 +1,48 @@
+{
+    "2020-08-03": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "Johnson & Johnson stock rises Monday, outperforms market",
+                "features": {
+                    "keywords": [
+                        "Johnson & Johnson",
+                        "stock rises",
+                        "outperforms market"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "5 Top Dividend Kings to Buy and Hold Forever",
+                "features": {
+                    "keywords": [
+                        "Dividend Kings",
+                        "Buy and Hold",
+                        "Forever"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "dividends"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

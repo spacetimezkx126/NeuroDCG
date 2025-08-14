@@ -1,0 +1,52 @@
+{
+    "2021-08-26": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "茅 台 “ 降 价 ” 吓 倒 白 酒 ， 两 大 主 力 资 金 却 连 续 加 仓",
+                "features": {
+                    "keywords": [
+                        "茅台",
+                        "降价",
+                        "白酒",
+                        "主力资金",
+                        "加仓"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "上 证 50 跌 幅 扩 大 至 1 % ， 中 国 中 免 、 复 星 医 药 跌 超 3 %",
+                "features": {
+                    "keywords": [
+                        "上证50",
+                        "跌幅",
+                        "中国中免",
+                        "复星医药"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "旅游零售",
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

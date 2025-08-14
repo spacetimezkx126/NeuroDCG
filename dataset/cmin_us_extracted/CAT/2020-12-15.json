@@ -1,0 +1,49 @@
+{
+    "2020-12-15": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Is CAT A Good Stock To Buy Now?",
+                "features": {
+                    "keywords": [
+                        "CAT",
+                        "Good Stock",
+                        "Buy Now"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Caterpillar's (CAT) Retail Sales Decline 11% in November",
+                "features": {
+                    "keywords": [
+                        "Caterpillar",
+                        "Retail Sales",
+                        "Decline",
+                        "11%"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

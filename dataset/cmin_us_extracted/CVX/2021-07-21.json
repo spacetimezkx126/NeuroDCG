@@ -1,0 +1,96 @@
+{
+    "2021-07-21": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Dow Jones Up 270 Points After Coca-Cola, Johnson & Johnson, Verizon Announce Earnings",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Coca-Cola",
+                        "Johnson & Johnson",
+                        "Verizon",
+                        "earnings"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "consumer goods",
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Chevron's (CVX) Gorgon Project Misses Carbon Capture Target",
+                "features": {
+                    "keywords": [
+                        "Chevron",
+                        "Gorgon Project",
+                        "carbon capture",
+                        "misses target"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "environmental"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "4 Dow Stocks With 48% to 58% Upside, According to Wall Street",
+                "features": {
+                    "keywords": [
+                        "Dow stocks",
+                        "Wall Street",
+                        "upside potential"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Could This Be The Most Promising Oil Play Of The Decade?",
+                "features": {
+                    "keywords": [
+                        "oil play",
+                        "promising",
+                        "decade"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

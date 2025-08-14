@@ -1,0 +1,99 @@
+{
+    "2021-03-31": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "Walmart, Inc. -- Moody's announces completion of a periodic review of ratings of Walmart Inc.",
+                "features": {
+                    "keywords": [
+                        "Walmart",
+                        "Moody's",
+                        "ratings",
+                        "review"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Amazon Says Most U.S. Employees Will Return to Work in the Fall",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "U.S.",
+                        "Employees",
+                        "Return",
+                        "Work",
+                        "Fall"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Is there a pet food shortage?",
+                "features": {
+                    "keywords": [
+                        "pet",
+                        "food",
+                        "shortage"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "India’s First Unicorn Plans U.S. IPO at Value of Up to $15 Billion",
+                "features": {
+                    "keywords": [
+                        "India",
+                        "Unicorn",
+                        "U.S.",
+                        "IPO",
+                        "Value",
+                        "$15 Billion"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "startups"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

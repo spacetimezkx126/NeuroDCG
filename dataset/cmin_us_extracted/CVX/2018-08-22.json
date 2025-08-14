@@ -1,0 +1,53 @@
+{
+    "2018-08-22": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Fed Minutes, Retail Earnings In Focus As Tech Stocks Lead Mixed Session",
+                "features": {
+                    "keywords": [
+                        "Fed",
+                        "Minutes",
+                        "Retail",
+                        "Earnings",
+                        "Tech Stocks",
+                        "Mixed Session"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Which Institutions Bought BP Stock in the Second Quarter?",
+                "features": {
+                    "keywords": [
+                        "Institutions",
+                        "Bought",
+                        "BP Stock",
+                        "Second Quarter"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

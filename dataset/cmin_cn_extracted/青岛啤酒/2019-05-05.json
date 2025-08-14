@@ -1,0 +1,73 @@
+{
+    "2019-05-05": [
+        [
+            {
+                "time": "2019-05-06",
+                "original_text": "快去超市囤薯片！继康师傅、可口可乐之后，乐事薯片也要涨价了",
+                "features": {
+                    "keywords": [
+                        "乐事薯片",
+                        "涨价",
+                        "康师傅",
+                        "可口可乐"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-03",
+                "original_text": "报告| 2019年3月山东省A股上市公司市值排行榜",
+                "features": {
+                    "keywords": [
+                        "山东省",
+                        "A股",
+                        "上市公司",
+                        "市值排行榜"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-Q1",
+                "original_text": "2019一季报总结：白酒维持高增 大众品有望提速",
+                "features": {
+                    "keywords": [
+                        "白酒",
+                        "高增",
+                        "大众品",
+                        "提速"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "白酒",
+                        "消费品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

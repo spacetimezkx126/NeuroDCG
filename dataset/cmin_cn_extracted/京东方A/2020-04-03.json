@@ -1,0 +1,74 @@
+{
+    "2020-04-03": [
+        [
+            {
+                "time": "",
+                "original_text": "面，板，最，冷，“，寒，冬，”，有，所，回，暖， T，C，L，插，上，科，技，是，否，具，备，估，值，洼，地，？",
+                "features": {
+                    "keywords": [
+                        "面板",
+                        "寒冬",
+                        "回暖",
+                        "TCL",
+                        "科技",
+                        "估值洼地"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "面板"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "内，容，仍，是，短，板， 超，高，清，产，业，化，需，四，方，面，发，力",
+                "features": {
+                    "keywords": [
+                        "内容",
+                        "短板",
+                        "超高清",
+                        "产业化",
+                        "四方发力"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "超高清产业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2019-04-02",
+                "original_text": "A，股，融，资，融，券，日，报，：，两，融，余，额，增，加，1，7，.,，6，4，亿，元，（，4，月，2，日，）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

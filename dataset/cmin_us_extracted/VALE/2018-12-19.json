@@ -1,0 +1,73 @@
+{
+    "2018-12-19": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Copper Throws Mixed Signals for Markets",
+                "features": {
+                    "keywords": [
+                        "Copper",
+                        "Mixed Signals",
+                        "Markets"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "commodities",
+                        "mining"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Mining Stocks Look Dead unless China Stabilizes",
+                "features": {
+                    "keywords": [
+                        "Mining Stocks",
+                        "Dead",
+                        "China",
+                        "Stabilizes"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "mining",
+                        "international trade"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Is Freeport-McMoRan Worth a Look Now?",
+                "features": {
+                    "keywords": [
+                        "Freeport-McMoRan",
+                        "Worth",
+                        "Look"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining",
+                        "corporate valuation"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

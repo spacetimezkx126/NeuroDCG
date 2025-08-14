@@ -1,0 +1,73 @@
+{
+    "2021-08-07": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "波折不断！潘石屹能如愿卖掉SOHO吗？",
+                "features": {
+                    "keywords": [
+                        "潘石屹",
+                        "SOHO",
+                        "出售"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "基金经理为何争相“剁手”赛道股？拥挤交易打败传统估值框架？四大维度解码赛道股热度几何!",
+                "features": {
+                    "keywords": [
+                        "基金经理",
+                        "赛道股",
+                        "拥挤交易",
+                        "估值框架"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "武汉市新增6例新冠肺炎确诊病例和10例无症状感染者",
+                "features": {
+                    "keywords": [
+                        "武汉",
+                        "新冠",
+                        "确诊病例",
+                        "无症状感染者"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医疗",
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

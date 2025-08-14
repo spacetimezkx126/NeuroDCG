@@ -1,0 +1,50 @@
+{
+    "2020-03-23": [
+        [
+            {
+                "time": "2020-03-18",
+                "original_text": "MEDIA-Bill Ackman makes $2.5 bln 'Recovery Bet' amid coronavirus tumble - Bloomberg News",
+                "features": {
+                    "keywords": [
+                        "Bill Ackman",
+                        "Recovery Bet",
+                        "coronavirus",
+                        "tumble"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-03-20",
+                "original_text": "Lowe’s commits $25M to coronavirus fight, cuts store hours",
+                "features": {
+                    "keywords": [
+                        "Lowe's",
+                        "coronavirus",
+                        "commits",
+                        "cuts store hours"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

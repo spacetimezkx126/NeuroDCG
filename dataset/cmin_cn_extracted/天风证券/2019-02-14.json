@@ -1,0 +1,52 @@
+{
+    "2019-02-14": [
+        [
+            {
+                "time": "",
+                "original_text": "【天风钢铁|日报】黑色系商品涨跌互现，成交缩量资金大幅流入",
+                "features": {
+                    "keywords": [
+                        "黑色系商品",
+                        "涨跌互现",
+                        "成交缩量",
+                        "资金大幅流入"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "钢铁",
+                        "大宗商品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "券商板块多数回调，华林证券跌近5%",
+                "features": {
+                    "keywords": [
+                        "券商板块",
+                        "回调",
+                        "华林证券",
+                        "跌近5%"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

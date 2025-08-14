@@ -1,0 +1,92 @@
+{
+    "2018-01-02": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Duke Energy offers cold weather energy and money-saving tips",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "cold weather",
+                        "energy",
+                        "money-saving"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-03",
+                "original_text": "How US Utility Stocks Are Valued for the New Year",
+                "features": {
+                    "keywords": [
+                        "US Utility Stocks",
+                        "Valued",
+                        "New Year"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "Dominion (D) Adds 81MW Green Power, Strives to Add More",
+                "features": {
+                    "keywords": [
+                        "Dominion",
+                        "Green Power",
+                        "81MW",
+                        "Add More"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "renewable energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-05",
+                "original_text": "Top SPX Utilities Are Trading in the Oversold Zone—What’s Next?",
+                "features": {
+                    "keywords": [
+                        "SPX Utilities",
+                        "Oversold Zone",
+                        "Trading"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

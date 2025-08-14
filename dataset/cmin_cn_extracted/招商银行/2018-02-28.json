@@ -1,0 +1,75 @@
+{
+    "2018-02-28": [
+        [
+            {
+                "time": "",
+                "original_text": "招 商 银 行 金 华 分 行 高 铁 智 行 春 运 志 愿 者 服 务  强 社 会 责 任 担 当",
+                "features": {
+                    "keywords": [
+                        "招商银行",
+                        "金华分行",
+                        "高铁智行",
+                        "春运志愿者服务",
+                        "社会责任"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "服务业"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "招 商 银 行 湖 州 分 行 转 型 升 级 工 作 成 果 显 著",
+                "features": {
+                    "keywords": [
+                        "招商银行",
+                        "湖州分行",
+                        "转型升级",
+                        "成果显著"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2月",
+                "original_text": "2 月 风 投 系 P 2 P 平 台 T O P 3 0 排 行 榜 ： 2 2 家 成 交 额 过 百 亿",
+                "features": {
+                    "keywords": [
+                        "风投",
+                        "P2P平台",
+                        "TOP30",
+                        "成交额过百亿"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融科技",
+                        "投资"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

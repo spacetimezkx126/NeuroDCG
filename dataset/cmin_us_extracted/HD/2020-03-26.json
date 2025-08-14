@@ -1,0 +1,52 @@
+{
+    "2020-03-26": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Dow's 931-point surge led by gains for shares of Boeing, Walgreens Boots",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "surge",
+                        "Boeing",
+                        "Walgreens Boots",
+                        "gains"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Home Depot (HD) Down 22.8% Since Last Earnings Report: Can It Rebound?",
+                "features": {
+                    "keywords": [
+                        "Home Depot",
+                        "down",
+                        "earnings report",
+                        "rebound"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

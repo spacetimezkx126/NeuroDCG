@@ -1,0 +1,75 @@
+{
+    "2018-10-17": [
+        [
+            {
+                "time": "",
+                "original_text": "电气设备：10月上旬LNG价格旬环比降1.2%",
+                "features": {
+                    "keywords": [
+                        "电气设备",
+                        "LNG价格",
+                        "环比下降"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "公用事业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "降低资产负债率 华能水电拟转让云南华电金沙江中游水电23%股权",
+                "features": {
+                    "keywords": [
+                        "华能水电",
+                        "股权转让",
+                        "金沙江中游水电",
+                        "资产负债率"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电力",
+                        "水电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【国君公用-日报】浙江省环保厅对诸暨八方热电联产扩建项目作出批准意见",
+                "features": {
+                    "keywords": [
+                        "国君公用",
+                        "环保厅",
+                        "八方热电",
+                        "扩建项目",
+                        "批准"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "公用事业",
+                        "热电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

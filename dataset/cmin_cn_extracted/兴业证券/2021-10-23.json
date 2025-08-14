@@ -1,0 +1,52 @@
+{
+    "2021-10-23": [
+        [
+            {
+                "time": "",
+                "original_text": "分析师“大忽悠”四天三家券商被罚 金融监管处罚",
+                "features": {
+                    "keywords": [
+                        "分析师",
+                        "券商",
+                        "金融监管",
+                        "处罚"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "券商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "综合金融服务行业周报：保险投资端有所改善 负债端仍承压",
+                "features": {
+                    "keywords": [
+                        "金融服务",
+                        "保险",
+                        "投资端",
+                        "负债端"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "保险",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

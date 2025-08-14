@@ -1,0 +1,53 @@
+{
+    "2019-07-10": [
+        [
+            {
+                "time": "2019-08-01",
+                "original_text": "S&P 500 index tops 3,000 for first time — here’s how the stock market got here and what it means",
+                "features": {
+                    "keywords": [
+                        "S&P 500",
+                        "tops 3,000",
+                        "first time",
+                        "stock market"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "market_index"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-03-15",
+                "original_text": "Ex-Div Reminder for Freeport-McMoran Copper & Gold (FCX)",
+                "features": {
+                    "keywords": [
+                        "Ex-Div",
+                        "Freeport-McMoran",
+                        "Copper",
+                        "Gold",
+                        "FCX"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "mining",
+                        "commodities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "2018-01-05": [
+        [
+            {
+                "time": "",
+                "original_text": "比尔·盖茨的能源梦：比尔·盖茨当选中国工程院院士，与他在行波堆技术方面与中国结成亲密“盟友”分不开。清洁能源之于资本是一门生意，之于地球却是一份千秋事业。比尔·盖茨将其后半生加注在这份极大的不确定性上，让人肃然起敬。",
+                "features": {
+                    "keywords": [
+                        "比尔·盖茨",
+                        "清洁能源",
+                        "行波堆技术",
+                        "中国工程院",
+                        "院士",
+                        "千秋事业"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【行业周报】电力周然 核电安全性日益提升 静候政策“开闸”",
+                "features": {
+                    "keywords": [
+                        "核电",
+                        "安全性",
+                        "政策",
+                        "开闸"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电力",
+                        "核电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

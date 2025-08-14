@@ -1,0 +1,54 @@
+{
+    "2019-11-21": [
+        [
+            {
+                "time": "",
+                "original_text": "开源零售黄泽鹏团队祝您： 中秋、国庆双节快乐！",
+                "features": {
+                    "keywords": [
+                        "开源零售",
+                        "黄泽鹏",
+                        "中秋",
+                        "国庆"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "零售"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "红旗连锁携手饿了么口碑 便利店外卖走到线上",
+                "features": {
+                    "keywords": [
+                        "红旗连锁",
+                        "饿了么",
+                        "口碑",
+                        "便利店",
+                        "外卖",
+                        "线上"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "零售",
+                        "电商",
+                        "物流"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2019-01-05": [
+        [
+            {
+                "time": "2018-01-03",
+                "original_text": "The Muscle Morgan Stanley Flexed in the $74 Billion Bristol-Myers Deal",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "Bristol-Myers",
+                        "deal",
+                        "74 billion"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-03",
+                "original_text": "Have I Got a Fund For You! Why Brokers Push Some Investments",
+                "features": {
+                    "keywords": [
+                        "fund",
+                        "brokers",
+                        "investments"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

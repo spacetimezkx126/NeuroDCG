@@ -1,0 +1,96 @@
+{
+    "2018-03-09": [
+        [
+            {
+                "time": "2018-03-01",
+                "original_text": "US trading partners, businesses say tariffs will backfire",
+                "features": {
+                    "keywords": [
+                        "tariffs",
+                        "backfire",
+                        "trading partners",
+                        "businesses"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "global trade",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-15",
+                "original_text": "Dividend 15 Stocks: A Mixed Bag",
+                "features": {
+                    "keywords": [
+                        "dividend",
+                        "stocks",
+                        "mixed bag"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "investing"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-01",
+                "original_text": "Tariffs are a move towards fair trade: Bob Nardelli",
+                "features": {
+                    "keywords": [
+                        "tariffs",
+                        "fair trade",
+                        "Bob Nardelli"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "global trade",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-06-10",
+                "original_text": "Home Depot to pay $27M in hazardous waste, privacy deal",
+                "features": {
+                    "keywords": [
+                        "Home Depot",
+                        "hazardous waste",
+                        "privacy deal",
+                        "$27M"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "legal"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

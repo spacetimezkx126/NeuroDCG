@@ -1,0 +1,51 @@
+{
+    "2021-12-14": [
+        [
+            {
+                "time": "",
+                "original_text": "北向资金再度扫货超60亿，连续7日抢筹东方财富累计加仓超近61亿元",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "扫货",
+                        "东方财富",
+                        "加仓"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "奥密克戎“面纱”逐渐揭开，或削弱现有疫苗保护作用",
+                "features": {
+                    "keywords": [
+                        "奥密克戎",
+                        "疫苗",
+                        "保护作用",
+                        "削弱"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药",
+                        "生物科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

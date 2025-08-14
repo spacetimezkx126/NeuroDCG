@@ -1,0 +1,51 @@
+{
+    "2018-01-30": [
+        [
+            {
+                "time": "",
+                "original_text": "7, 6, 股, 获, 券, 商, 买, 入, 评, 级, , 东, 诚, 药, 业, 目, 标, 涨, 幅, 达, 9, 2, ., 1, 2, %",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "买入评级",
+                        "东诚药业",
+                        "目标涨幅"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【, 电, 子, |, 刘, 翔, 团, 队, 太, 平, 洋, 证, 券, 】, , 三, 环, 集, 团, (, 3, 0, 0, 4, 0, 8, ), ：, 再, 次, 确, 认, 业, 绩, 拐, 点, ，, 未, 来, 多, 点, 开, 花, 小, 步, 快, 跑",
+                "features": {
+                    "keywords": [
+                        "太平洋证券",
+                        "三环集团",
+                        "业绩拐点",
+                        "多点开花",
+                        "小步快跑"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电子"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

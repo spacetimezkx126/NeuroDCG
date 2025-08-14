@@ -1,0 +1,75 @@
+{
+    "2021-12-31": [
+        [
+            {
+                "time": "",
+                "original_text": "涪陵银保监分局关于中国人寿保险股份有限公司重庆市涪陵区支公司龙桥营销服务部变更营业所的批复",
+                "features": {
+                    "keywords": [
+                        "涪陵",
+                        "银保监分局",
+                        "中国人寿",
+                        "变更营业所"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国人寿：线上财宝节将开启元宇宙大门，推出限量数字纪念藏品和数字家庭两大数字板块内容",
+                "features": {
+                    "keywords": [
+                        "中国人寿",
+                        "线上财宝节",
+                        "元宇宙",
+                        "数字纪念藏品",
+                        "数字家庭"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "保险",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021",
+                "original_text": "2021年保险业转型：险企股价跌声一片，超百万代理人出走",
+                "features": {
+                    "keywords": [
+                        "2021年",
+                        "保险业",
+                        "转型",
+                        "股价下跌",
+                        "代理人出走"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

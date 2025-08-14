@@ -1,0 +1,51 @@
+{
+    "2019-05-29": [
+        [
+            {
+                "time": "",
+                "original_text": "丸美生物1个月没拿到IPO批文 正中珠江中信证券担责",
+                "features": {
+                    "keywords": [
+                        "丸美生物",
+                        "IPO批文",
+                        "正中珠江",
+                        "中信证券"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "生物医药",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "证券业再现近百亿并购：天风受让恒泰证券三成股份",
+                "features": {
+                    "keywords": [
+                        "证券业",
+                        "并购",
+                        "天风证券",
+                        "恒泰证券"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

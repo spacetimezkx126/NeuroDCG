@@ -1,0 +1,73 @@
+{
+    "2020-12-15": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "GE’s stock jumps after two Wall Street analysts raise their targets by more than 40%",
+                "features": {
+                    "keywords": [
+                        "GE",
+                        "stock jumps",
+                        "Wall Street analysts",
+                        "targets raised",
+                        "more than 40%"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "GE's stock bounces toward snapping 3-day losing streak after Deutsche Bank boosts price target",
+                "features": {
+                    "keywords": [
+                        "GE",
+                        "stock bounces",
+                        "3-day losing streak",
+                        "Deutsche Bank",
+                        "boosts price target"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Athene Announces Significant Pension Buyout Agreement with GE",
+                "features": {
+                    "keywords": [
+                        "Athene",
+                        "Pension Buyout Agreement",
+                        "GE"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "financial services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

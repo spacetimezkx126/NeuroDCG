@@ -1,0 +1,121 @@
+{
+    "2019-04-22": [
+        [
+            {
+                "time": "2018-04-05",
+                "original_text": "['CLASS', 'ACTION', 'UPDATE', 'for', 'T,', 'EB', 'and', 'FSNN:', 'Levi', '&', 'Korsinsky,', 'LLP', 'Reminds', 'Investors', 'of', 'Class', 'Actions', 'on', 'Behalf', 'of', 'Shareholders']",
+                "features": {
+                    "keywords": [
+                        "class action",
+                        "investors",
+                        "shareholders"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "legal"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-05",
+                "original_text": "['T-Mobile,', 'Sprint', 'lobby', 'regulators', 'to', 'win', 'U.S.', 'approval', 'for', 'tie-up']",
+                "features": {
+                    "keywords": [
+                        "T-Mobile",
+                        "Sprint",
+                        "lobby",
+                        "regulators",
+                        "tie-up"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-05",
+                "original_text": "['AT&T,', 'Sprint', 'settle', 'dispute', 'over', '5GE', deception, 'case']",
+                "features": {
+                    "keywords": [
+                        "AT&T",
+                        "Sprint",
+                        "settle",
+                        "dispute",
+                        "5GE",
+                        "deception"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-05",
+                "original_text": "['Verizon', 'Earnings', 'Due', 'As', 'Analysts', 'Focus', 'On', '5G', 'Network', 'Expansion']",
+                "features": {
+                    "keywords": [
+                        "Verizon",
+                        "Earnings",
+                        "5G",
+                        "Network",
+                        "Expansion"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-05",
+                "original_text": "['Verizon,', 'AT&T', 'Q1', 'Results', 'On', 'Tap', 'As', 'Consumer', 'Scene', 'Looks', 'Bright']",
+                "features": {
+                    "keywords": [
+                        "Verizon",
+                        "AT&T",
+                        "Q1",
+                        "Results",
+                        "Consumer",
+                        "Bright"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

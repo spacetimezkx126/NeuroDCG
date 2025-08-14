@@ -1,0 +1,57 @@
+{
+    "2021-09-30": [
+        [
+            {
+                "time": "",
+                "original_text": "A股收盘综述：两市万亿成交额记录终止，锂电激活题材炒作、煤钢电卷土重来",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "收盘",
+                        "两市",
+                        "万亿成交额",
+                        "锂电",
+                        "题材炒作",
+                        "煤钢电"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "煤炭",
+                        "钢铁",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "兖州煤业连续两日跌停，中国神华、陕西煤业跟随大市走升",
+                "features": {
+                    "keywords": [
+                        "兖州煤业",
+                        "跌停",
+                        "中国神华",
+                        "陕西煤业",
+                        "大市走升"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

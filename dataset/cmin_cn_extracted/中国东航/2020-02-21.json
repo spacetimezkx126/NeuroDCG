@@ -1,0 +1,77 @@
+{
+    "2020-02-21": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "年后上市公司发债变化大！成本全面下降，数量、规模激增超100%",
+                "features": {
+                    "keywords": [
+                        "上市公司",
+                        "发债",
+                        "成本下降",
+                        "数量规模激增"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "债券市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-02",
+                "original_text": "股票连涨两天，海航是否会被接管或分拆收购？",
+                "features": {
+                    "keywords": [
+                        "股票连涨",
+                        "海航",
+                        "接管",
+                        "分拆",
+                        "收购"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "航空",
+                        "交通运输"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-02-21",
+                "original_text": "公司情绪前瞻0221丨联想集团业绩亮眼正向情绪居首，京东负向情绪警笛拉响",
+                "features": {
+                    "keywords": [
+                        "联想集团",
+                        "业绩亮眼",
+                        "正向情绪",
+                        "京东",
+                        "负向情绪"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "电子商务"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

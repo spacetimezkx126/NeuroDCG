@@ -1,0 +1,53 @@
+{
+    "2020-02-26": [
+        [
+            {
+                "time": "",
+                "original_text": "创,业,板,估,值,高,不,高,？,复,盘,史,上,3,次,大,牛,2,次,大,顶,！",
+                "features": {
+                    "keywords": [
+                        "创业板",
+                        "估值",
+                        "复盘",
+                        "大牛",
+                        "大顶"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "成长股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "券,商,纷,纷,放,开,新,三,板,权,限,线,上,入,口,，,迎,增,量,业,务",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "新三板",
+                        "权限",
+                        "增量业务"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "券商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

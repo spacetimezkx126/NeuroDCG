@@ -1,0 +1,54 @@
+{
+    "2020-10-28": [
+        [
+            {
+                "time": "2023-10-28",
+                "original_text": "Duke Energy crews ready to respond following Hurricane Zeta as remnants of storm near Carolinas",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "crews",
+                        "Hurricane Zeta",
+                        "Carolinas"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-28",
+                "original_text": "North Carolina Capital Facilities Fin. Agy. -- Moody's revises outlooks for Duke Energy, Duke Carolinas, and Duke Progress to negative",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "outlooks",
+                        "Duke Energy",
+                        "Duke Carolinas",
+                        "Duke Progress",
+                        "negative"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

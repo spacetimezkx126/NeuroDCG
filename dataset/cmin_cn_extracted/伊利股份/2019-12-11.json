@@ -1,0 +1,74 @@
+{
+    "2019-12-11": [
+        [
+            {
+                "time": "",
+                "original_text": "伊利股份股票近日股价表现如何？",
+                "features": {
+                    "keywords": [
+                        "伊利股份",
+                        "股价",
+                        "表现"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【方正食品饮料】2020食品饮料行业推什么？",
+                "features": {
+                    "keywords": [
+                        "方正食品饮料",
+                        "2020",
+                        "食品饮料",
+                        "行业"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中美乳企“冰火两重天”：伊利蒙牛全球并购，美国最大奶企却轰然倒下",
+                "features": {
+                    "keywords": [
+                        "中美乳企",
+                        "伊利",
+                        "蒙牛",
+                        "全球并购",
+                        "美国奶企",
+                        "倒闭"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "食品饮料",
+                        "乳业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

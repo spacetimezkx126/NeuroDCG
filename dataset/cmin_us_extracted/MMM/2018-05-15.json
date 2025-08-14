@@ -1,0 +1,76 @@
+{
+    "2018-05-15": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Notable ETF Inflow Detected - XLI, MMM, UNP, UPS",
+                "features": {
+                    "keywords": [
+                        "ETF",
+                        "Inflow",
+                        "XLI",
+                        "MMM",
+                        "UNP",
+                        "UPS"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrials",
+                        "transportation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Ex-Dividend Reminder: MMM, Park National and Apartment Investment & Management",
+                "features": {
+                    "keywords": [
+                        "Ex-Dividend",
+                        "MMM",
+                        "Park National",
+                        "Apartment Investment & Management"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Moving Average Crossover Alert: 3M (MMM)",
+                "features": {
+                    "keywords": [
+                        "Moving Average",
+                        "Crossover",
+                        "3M",
+                        "MMM"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

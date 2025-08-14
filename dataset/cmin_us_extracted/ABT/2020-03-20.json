@@ -1,0 +1,80 @@
+{
+    "2020-03-20": [
+        [
+            {
+                "time": "2020-03-15",
+                "original_text": "Abbott shipping 150,000 COVID-19 tests, plans to produce 1 million per week",
+                "features": {
+                    "keywords": [
+                        "Abbott",
+                        "shipping",
+                        "COVID-19",
+                        "tests",
+                        "produce",
+                        "1 million",
+                        "week"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-03-15",
+                "original_text": "CDC, public health labs performed at least 44,000 COVID-19 tests",
+                "features": {
+                    "keywords": [
+                        "CDC",
+                        "public health",
+                        "labs",
+                        "performed",
+                        "COVID-19",
+                        "tests"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "government"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-03-15",
+                "original_text": "Abbott Labs Stock Falls 3%",
+                "features": {
+                    "keywords": [
+                        "Abbott Labs",
+                        "Stock",
+                        "Falls",
+                        "3%"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "stocks"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

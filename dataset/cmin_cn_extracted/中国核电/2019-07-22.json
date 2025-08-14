@@ -1,0 +1,50 @@
+{
+    "2019-07-22": [
+        [
+            {
+                "time": "",
+                "original_text": "薪资有多少？净利润有多低？我国各主要电力上市公司高层薪酬、职工薪酬、净利润大揭秘！",
+                "features": {
+                    "keywords": [
+                        "薪资",
+                        "净利润",
+                        "电力",
+                        "上市公司"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-07-15",
+                "original_text": "【国君公用|行业周报】6月用电量增速回升，煤价继续下行（2019.7.15-2019.7.19）",
+                "features": {
+                    "keywords": [
+                        "用电量",
+                        "增速",
+                        "煤价",
+                        "下行"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "公用事业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

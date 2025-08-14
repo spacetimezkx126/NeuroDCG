@@ -1,0 +1,102 @@
+{
+    "2020-10-23": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "On The Move: Beauty boom at L'Oreal, Gene Simmons sells mansion, Walmart files lawsuit over opioids",
+                "features": {
+                    "keywords": [
+                        "Beauty boom",
+                        "L'Oreal",
+                        "Gene Simmons",
+                        "sells mansion",
+                        "Walmart",
+                        "lawsuit",
+                        "opioids"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-05-14",
+                "original_text": "Walmart’s Flipkart Invests $204 Million in Birla’s Retail Business",
+                "features": {
+                    "keywords": [
+                        "Walmart",
+                        "Flipkart",
+                        "Invests",
+                        "Birla",
+                        "Retail Business"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-11-05",
+                "original_text": "eHealth (EHTH) Q3 2020 Earnings Call Transcript",
+                "features": {
+                    "keywords": [
+                        "eHealth",
+                        "Q3",
+                        "Earnings",
+                        "Call",
+                        "Transcript"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-09-22",
+                "original_text": "Walmart Preemptively Sues US Government To Avoid Penalties Related To Opioid Crisis: WSJ",
+                "features": {
+                    "keywords": [
+                        "Walmart",
+                        "Preemptively Sues",
+                        "US Government",
+                        "Penalties",
+                        "Opioid Crisis"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

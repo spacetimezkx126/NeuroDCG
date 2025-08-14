@@ -1,0 +1,46 @@
+{
+    "2018-08-28": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "See what the IHS Markit Score report has to say about United Technologies Corp.",
+                "features": {
+                    "keywords": [
+                        "IHS Markit Score",
+                        "United Technologies Corp"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "The GE Segment No One Is Talking About",
+                "features": {
+                    "keywords": [
+                        "GE",
+                        "Segment"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

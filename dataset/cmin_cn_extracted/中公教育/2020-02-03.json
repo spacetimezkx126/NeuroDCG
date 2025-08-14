@@ -1,0 +1,44 @@
+{
+    "2020-02-03": [
+        [
+            {
+                "time": "",
+                "original_text": "疫情冲击下教培业A股走势分化：职教龙头中公教育跌停，昂立教育跑步线上逆势大涨",
+                "features": {
+                    "keywords": [
+                        "疫情",
+                        "教培业",
+                        "A股",
+                        "走势分化",
+                        "中公教育",
+                        "跌停",
+                        "昂立教育",
+                        "逆势大涨"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "教育",
+                        "职业教育"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed",
+                    "event_type": "market_split",
+                    "specific_impact": {
+                        "中公教育": {
+                            "causal_impact": "negative",
+                            "ts_effect_direction": "negative"
+                        },
+                        "昂立教育": {
+                            "causal_impact": "positive",
+                            "ts_effect_direction": "positive"
+                        }
+                    }
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2020-03-16": [
+        [
+            {
+                "time": "2023-10-10",
+                "original_text": "Dow's 1,936-point fall led by losses for Boeing, JPMorgan Chase stocks",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "fall",
+                        "Boeing",
+                        "JPMorgan Chase"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "UnitedHealth Stock Falls 12%",
+                "features": {
+                    "keywords": [
+                        "UnitedHealth",
+                        "Falls",
+                        "Stock"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

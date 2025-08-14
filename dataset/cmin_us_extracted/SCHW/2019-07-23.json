@@ -1,0 +1,52 @@
+{
+    "2019-07-23": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "Banks are the cheapest they’ve ever been relative to the market: portfolio manager",
+                "features": {
+                    "keywords": [
+                        "Banks",
+                        "cheapest",
+                        "relative",
+                        "market",
+                        "portfolio manager"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "TD Ameritrade (AMTD) Q3 Earnings Top, Trading Activity High",
+                "features": {
+                    "keywords": [
+                        "TD Ameritrade",
+                        "AMTD",
+                        "Q3 Earnings",
+                        "Trading Activity",
+                        "High"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

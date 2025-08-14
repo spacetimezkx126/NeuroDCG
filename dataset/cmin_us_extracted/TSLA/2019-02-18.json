@@ -1,0 +1,82 @@
+{
+    "2019-02-18": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Shell (RDS.A) Buys sonnen to Boost Cleaner Energy Footprint",
+                "features": {
+                    "keywords": [
+                        "Shell",
+                        "RDS.A",
+                        "Buys",
+                        "sonnen",
+                        "Cleaner Energy",
+                        "Footprint"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "renewables"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Relative Price Gains Favor Apple, Google and Tesla Over Amazon and Netflix",
+                "features": {
+                    "keywords": [
+                        "Price Gains",
+                        "Apple",
+                        "Google",
+                        "Tesla",
+                        "Amazon",
+                        "Netflix"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Bulls & Bears Of The Week: Cisco, Coca-Cola, IBM, Tesla And More",
+                "features": {
+                    "keywords": [
+                        "Bulls",
+                        "Bears",
+                        "Cisco",
+                        "Coca-Cola",
+                        "IBM",
+                        "Tesla"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "beverages",
+                        "automobiles"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

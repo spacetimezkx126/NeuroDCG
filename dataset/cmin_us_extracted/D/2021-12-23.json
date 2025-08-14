@@ -1,0 +1,79 @@
+{
+    "2021-12-23": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Sit Mutual Funds Inc Buys Truist Financial Corp, Baxter International Inc, The AES Corp, Sells ...",
+                "features": {
+                    "keywords": [
+                        "Buys",
+                        "Truist Financial Corp",
+                        "Baxter International Inc",
+                        "The AES Corp",
+                        "Sells"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "healthcare",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Mainstay Vp Funds Trust Buys Cigna Corp, Dominion Energy Inc, Siemens AG, Sells PNC Financial ...",
+                "features": {
+                    "keywords": [
+                        "Buys",
+                        "Cigna Corp",
+                        "Dominion Energy Inc",
+                        "Siemens AG",
+                        "Sells",
+                        "PNC Financial"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "energy",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "MainStay VP CBRE Global Infrastructure Portfolio Buys WEC Energy Group Inc, Williams Inc, ...",
+                "features": {
+                    "keywords": [
+                        "Buys",
+                        "WEC Energy Group Inc",
+                        "Williams Inc"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

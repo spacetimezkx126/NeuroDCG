@@ -1,0 +1,55 @@
+{
+    "2021-11-12": [
+        [
+            {
+                "time": "",
+                "original_text": "远东股份：风电方面，公司是VESTAS、西门子、金风科技、GE等全球前十大风机制造商的供应商",
+                "features": {
+                    "keywords": [
+                        "远东股份",
+                        "风电",
+                        "VESTAS",
+                        "西门子",
+                        "金风科技",
+                        "GE",
+                        "供应商"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "风电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "金风科技(02208.HK)遭摩根大通减持61.07万股 减持股份",
+                "features": {
+                    "keywords": [
+                        "金风科技",
+                        "摩根大通",
+                        "减持",
+                        "61.07万股"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "风电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

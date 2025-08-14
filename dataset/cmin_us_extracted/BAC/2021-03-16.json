@@ -1,0 +1,50 @@
+{
+    "2021-03-16": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Here’s Wall Street’s next biggest pain trade: BofA",
+                "features": {
+                    "keywords": [
+                        "Wall Street",
+                        "pain trade",
+                        "BofA"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "S&P 500 Eases From Record High as Tech Fights to Hold Gains Ahead of Fed",
+                "features": {
+                    "keywords": [
+                        "S&P 500",
+                        "Record High",
+                        "Tech",
+                        "Fed"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

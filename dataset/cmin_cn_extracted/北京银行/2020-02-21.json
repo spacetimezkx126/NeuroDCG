@@ -1,0 +1,52 @@
+{
+    "2020-02-21": [
+        [
+            {
+                "time": "",
+                "original_text": "因进入重整程序，北大方正今日到期债券不会兑付",
+                "features": {
+                    "keywords": [
+                        "北大方正",
+                        "重整程序",
+                        "到期债券",
+                        "不会兑付"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "企业债"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "新疆金融机构支持企业复工复产，累计授信119.93亿元",
+                "features": {
+                    "keywords": [
+                        "新疆",
+                        "金融机构",
+                        "复工复产",
+                        "累计授信",
+                        "119.93亿元"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "企业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2019-12-20": [
+        [
+            {
+                "time": "",
+                "original_text": "鹏鼎控股现1笔大宗交易 ，共成交276.72万元",
+                "features": {
+                    "keywords": [
+                        "鹏鼎控股",
+                        "大宗交易",
+                        "276.72万元"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电子制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "鹏鼎控股：全球PCB龙头，5G创新赋能增长",
+                "features": {
+                    "keywords": [
+                        "鹏鼎控股",
+                        "PCB龙头",
+                        "5G",
+                        "创新",
+                        "增长"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电子制造",
+                        "5G"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

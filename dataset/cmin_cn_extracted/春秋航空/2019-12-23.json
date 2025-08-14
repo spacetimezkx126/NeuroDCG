@@ -1,0 +1,93 @@
+{
+    "2019-12-23": [
+        [
+            {
+                "time": "",
+                "original_text": "春,秋,航,空,迎,来,第,1,0,0,架,飞,机, ,推,进,大,众,化,航,空,建,设",
+                "features": {
+                    "keywords": [
+                        "春秋航空",
+                        "第100架飞机",
+                        "大众化航空"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "春,秋,航,空,第,1,0,0,架,飞,机,入,列, ,未,来,还,将,引,进,A,3,2,1",
+                "features": {
+                    "keywords": [
+                        "春秋航空",
+                        "第100架飞机",
+                        "A321"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "春,秋,航,空,第,1,0,0,架,飞,机,入,列, ,与,上,海,机,场,集,团,达,成,战,略,合,作",
+                "features": {
+                    "keywords": [
+                        "春秋航空",
+                        "第100架飞机",
+                        "战略合作",
+                        "上海机场集团"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "机场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "交,通,运,输,行,业,2,0,2,0,年,度,策,略,：,价,值,重,估,，,择,时,而,动,，,维,持,“,增,持,”,评,级",
+                "features": {
+                    "keywords": [
+                        "交通运输行业",
+                        "2020年度策略",
+                        "价值重估",
+                        "增持评级"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

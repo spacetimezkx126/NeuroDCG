@@ -1,0 +1,74 @@
+{
+    "2019-12-10": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "【天风交运】2020快递策略 | 变中求胜，把握龙头",
+                "features": {
+                    "keywords": [
+                        "快递",
+                        "策略",
+                        "变中求胜",
+                        "龙头"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "物流",
+                        "快递"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "银河证券：快递行业在2020年仍将保持较高增速",
+                "features": {
+                    "keywords": [
+                        "快递",
+                        "行业",
+                        "高增速"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流",
+                        "快递"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-12-10",
+                "original_text": "【每日晨报】1210丨药品集采成医改突破口，仿制药行业未来何去何从",
+                "features": {
+                    "keywords": [
+                        "药品集采",
+                        "医改",
+                        "仿制药",
+                        "行业"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药",
+                        "仿制药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

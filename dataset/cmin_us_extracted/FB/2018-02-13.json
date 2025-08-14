@@ -1,0 +1,114 @@
+{
+    "2018-02-13": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "['U.S.', '2018', 'elections', \"'under\", \"attack'\", 'by', 'Russia', '-', 'U.S.', 'intelligence', 'chief']",
+                "features": {
+                    "keywords": [
+                        "elections",
+                        "attack",
+                        "Russia",
+                        "intelligence"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "politics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "['Is', 'It', 'Time', 'to', 'Buy', 'the', 'Dip', 'in', 'Microsoft', 'Corporation', 'Stock?']",
+                "features": {
+                    "keywords": [
+                        "buy",
+                        "dip",
+                        "Microsoft",
+                        "stock"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "['Silicon', \"Valley's\", 'biggest', 'stocks', 'all', 'climb', '—', 'except', 'Facebook']",
+                "features": {
+                    "keywords": [
+                        "Silicon Valley",
+                        "stocks",
+                        "climb",
+                        "Facebook"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "['Facebook', 'Eviscerated', 'Over', 'Spread', 'of', 'Fake', 'News']",
+                "features": {
+                    "keywords": [
+                        "Facebook",
+                        "eviscerated",
+                        "fake news"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "social media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "['3', 'Top', 'Virtual', 'Reality', 'Stocks', 'to', 'Buy', 'Now']",
+                "features": {
+                    "keywords": [
+                        "virtual reality",
+                        "stocks",
+                        "buy"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "2021-12-04": [
+        [
+            {
+                "time": "",
+                "original_text": "A股市场领涨全球，监管同意开展账户管理功能优化试点工作的消息",
+                "features": {
+                    "keywords": [
+                        "A股市场",
+                        "领涨全球",
+                        "监管同意",
+                        "账户管理功能优化",
+                        "试点"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "北上资金年度净买入刷新历史纪录",
+                "features": {
+                    "keywords": [
+                        "北上资金",
+                        "年度净买入",
+                        "刷新历史纪录"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "多空博弈：千亿芯片股排队涨停，资金提前出逃物产中大",
+                "features": {
+                    "keywords": [
+                        "多空博弈",
+                        "芯片股",
+                        "涨停",
+                        "资金出逃",
+                        "物产中大"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

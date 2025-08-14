@@ -1,0 +1,51 @@
+{
+    "2018-05-18": [
+        [
+            {
+                "time": "",
+                "original_text": "股 东 会 上 ， 杨 国 强 宋 广 菊 张 玉 良 都 说 到 了 “ 钱 ” 景",
+                "features": {
+                    "keywords": [
+                        "股东会",
+                        "杨国强",
+                        "宋广菊",
+                        "张玉良",
+                        "钱景"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "[ 强 于 大 市 评 级 ] 深 度 * 行 业 * 房 地 产 行 业 4 月 报 ： 销 售 投 资 增 速 温 和 收 窄   流 动 性 紧 张 未 缓 解",
+                "features": {
+                    "keywords": [
+                        "房地产行业",
+                        "销售投资",
+                        "增速温和收窄",
+                        "流动性紧张"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

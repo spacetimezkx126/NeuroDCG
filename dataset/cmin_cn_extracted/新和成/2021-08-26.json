@@ -1,0 +1,53 @@
+{
+    "2021-08-26": [
+        [
+            {
+                "time": "",
+                "original_text": "西南证券首予新和成买入评级：利润率高基数回归，长期成长逻辑不变",
+                "features": {
+                    "keywords": [
+                        "西南证券",
+                        "新和成",
+                        "买入评级",
+                        "利润率",
+                        "高基数回归",
+                        "长期成长逻辑"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "北向资金连续4日净买入，中国铝业获大幅加仓近12亿元",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "净买入",
+                        "中国铝业",
+                        "加仓",
+                        "12亿元"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "有色金属"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2018-12-15": [
+        [
+            {
+                "time": "",
+                "original_text": "钢 铁 ： 需 求 稳 态 供 给 反 复  荐 5 股",
+                "features": {
+                    "keywords": [
+                        "钢铁",
+                        "需求稳态",
+                        "供给反复",
+                        "荐股"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "钢铁"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "盐 城 市 副 市 长 孙 轶 ： 宝 武 盐 城 新 基 地   不 是 传 统 意 义 上 的 招 商 引 资",
+                "features": {
+                    "keywords": [
+                        "盐城",
+                        "副市长",
+                        "宝武",
+                        "新基地",
+                        "招商"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "钢铁",
+                        "基础设施"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

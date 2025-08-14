@@ -1,0 +1,52 @@
+{
+    "2019-09-11": [
+        [
+            {
+                "time": "",
+                "original_text": "养猪的不卖猪了！猪肉股真的还能大涨吗？",
+                "features": {
+                    "keywords": [
+                        "养猪",
+                        "猪肉股",
+                        "不卖猪"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "食品加工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "养猪企业8月“成绩单”：销售低点出现 三季业绩可期",
+                "features": {
+                    "keywords": [
+                        "养猪企业",
+                        "8月",
+                        "成绩单",
+                        "销售低点",
+                        "三季业绩"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "食品加工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2020-07-31": [
+        [
+            {
+                "time": "2020-07-20至2020-07-24",
+                "original_text": "贵金属成交量全面开花！白银成交量激增近70%！上海黄金交易所第28期行情周报（7月20日-7月24日）",
+                "features": {
+                    "keywords": [
+                        "贵金属",
+                        "成交量",
+                        "白银",
+                        "上海黄金交易所",
+                        "行情周报"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "贵金属",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "近期三日",
+                "original_text": "108亿主力资金近三日大量撤出中小创",
+                "features": {
+                    "keywords": [
+                        "主力资金",
+                        "撤出",
+                        "中小创"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "中小创"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

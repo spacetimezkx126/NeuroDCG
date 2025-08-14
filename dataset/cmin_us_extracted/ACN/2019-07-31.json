@@ -1,0 +1,82 @@
+{
+    "2019-07-31": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "FTI Consulting (FCN) Beats on Earnings and Revenues in Q2",
+                "features": {
+                    "keywords": [
+                        "FTI Consulting",
+                        "Beats",
+                        "Earnings",
+                        "Revenues",
+                        "Q2"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consulting",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Aptiv (APTV) Surpasses Q2 Earnings and Revenue Estimates",
+                "features": {
+                    "keywords": [
+                        "Aptiv",
+                        "Surpasses",
+                        "Earnings",
+                        "Revenue",
+                        "Estimates",
+                        "Q2"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "IWF, PYPL, HD, ACN: ETF Outflow Alert",
+                "features": {
+                    "keywords": [
+                        "ETF",
+                        "Outflow",
+                        "IWF",
+                        "PYPL",
+                        "HD",
+                        "ACN"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "ETFs",
+                        "technology",
+                        "retail",
+                        "consulting"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

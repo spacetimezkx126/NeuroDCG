@@ -1,0 +1,51 @@
+{
+    "2020-09-15": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "Danaher Announces Quarterly Dividend",
+                "features": {
+                    "keywords": [
+                        "Danaher",
+                        "Quarterly Dividend",
+                        "Announces"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Beckman Coulter Lauded by Frost & Sullivan for Accelerating Sepsis Detection with the DxH 690T",
+                "features": {
+                    "keywords": [
+                        "Beckman Coulter",
+                        "Frost & Sullivan",
+                        "Sepsis Detection",
+                        "DxH 690T"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "medical devices"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

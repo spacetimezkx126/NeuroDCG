@@ -1,0 +1,68 @@
+{
+    "2020-07-16": [
+        [
+            {
+                "time": "",
+                "original_text": "地產股局部活躍，浙江廣廈午後漲停",
+                "features": {
+                    "keywords": [
+                        "地產股",
+                        "浙江廣廈",
+                        "漲停"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地產"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-07-16",
+                "original_text": "A股7月16日房企午盤绿地控股漲6.55%，泰禾集團跌4.07%",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "房地產",
+                        "绿地控股",
+                        "泰禾集團"
+                    ],
+                    "sentiment_score": -0.1,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地產"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            },
+            {
+                "time": "2023-07-15",
+                "original_text": "A股融資融券日報：兩融餘額增加10.73億元（7月15日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融資融券",
+                        "兩融餘額"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

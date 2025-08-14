@@ -1,0 +1,52 @@
+{
+    "2019-03-29": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Why General Electric Stock Shouldn’t Trade Much Below $10",
+                "features": {
+                    "keywords": [
+                        "General Electric",
+                        "Stock",
+                        "Trade",
+                        "Below",
+                        "$10"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-04-01",
+                "original_text": "Acme United Corporation. (ACU) Ex-Dividend Date Scheduled for April 01, 2019",
+                "features": {
+                    "keywords": [
+                        "Acme United Corporation",
+                        "ACU",
+                        "Ex-Dividend",
+                        "Date",
+                        "Scheduled"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

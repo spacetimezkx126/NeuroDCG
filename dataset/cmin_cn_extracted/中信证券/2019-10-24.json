@@ -1,0 +1,78 @@
+{
+    "2019-10-24": [
+        [
+            {
+                "time": "",
+                "original_text": "中信证券：间接全资附属公司根据中期票据计划进行提取 大额借贷担保",
+                "features": {
+                    "keywords": [
+                        "中信证券",
+                        "全资附属公司",
+                        "中期票据",
+                        "大额借贷",
+                        "担保"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-10-30",
+                "original_text": "证监会：中信证券、中闽能源发行股份购买资产事项均将于10月30日上会",
+                "features": {
+                    "keywords": [
+                        "证监会",
+                        "中信证券",
+                        "中闽能源",
+                        "发行股份",
+                        "购买资产",
+                        "上会"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "证监会认定中信证券等三券商与司度两融业务违法事实不成立 金融监管处罚",
+                "features": {
+                    "keywords": [
+                        "证监会",
+                        "中信证券",
+                        "两融业务",
+                        "违法事实",
+                        "金融监管",
+                        "处罚"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

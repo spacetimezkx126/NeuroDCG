@@ -1,0 +1,55 @@
+{
+    "2021-12-02": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Enbridge Has $2 Billion Burning a Hole in Its Pockets",
+                "features": {
+                    "keywords": [
+                        "Enbridge",
+                        "2 Billion",
+                        "Burning",
+                        "Hole",
+                        "Pockets"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "United Way 2021 Campaigns: Copper, Creativity and COVID Recovery",
+                "features": {
+                    "keywords": [
+                        "United Way",
+                        "2021",
+                        "Campaigns",
+                        "Copper",
+                        "Creativity",
+                        "COVID",
+                        "Recovery"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "non-profit",
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

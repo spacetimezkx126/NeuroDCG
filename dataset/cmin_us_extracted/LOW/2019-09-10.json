@@ -1,0 +1,53 @@
+{
+    "2019-09-10": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "CORRECTED-UPDATE 2-White House adviser plays down expectations for U.S.-China talks",
+                "features": {
+                    "keywords": [
+                        "White House",
+                        "adviser",
+                        "expectations",
+                        "U.S.-China talks"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "global trade",
+                        "politics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Why Home Depot's Share Climbed 1.6x In 3 Years",
+                "features": {
+                    "keywords": [
+                        "Home Depot",
+                        "Share",
+                        "Climbed",
+                        "1.6x",
+                        "3 Years"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

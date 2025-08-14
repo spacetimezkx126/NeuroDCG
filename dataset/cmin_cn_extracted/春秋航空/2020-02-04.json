@@ -1,0 +1,53 @@
+{
+    "2020-02-04": [
+        [
+            {
+                "time": "2020-01",
+                "original_text": "中国民航市场简报2020年1月",
+                "features": {
+                    "keywords": [
+                        "中国",
+                        "民航",
+                        "市场",
+                        "简报",
+                        "2020年1月"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "交通运输"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-01",
+                "original_text": "疫情期间三亚机场T2航站楼暂停服务",
+                "features": {
+                    "keywords": [
+                        "疫情",
+                        "三亚机场",
+                        "T2航站楼",
+                        "暂停服务"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "旅游"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

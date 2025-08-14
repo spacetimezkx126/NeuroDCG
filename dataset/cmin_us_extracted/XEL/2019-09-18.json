@@ -1,0 +1,53 @@
+{
+    "2019-09-18": [
+        [
+            {
+                "time": "2019-01-01",
+                "original_text": "Moody's assigns A1 to Southern Minnesota Municipal Power's Badger Coulee Project Revenue Bonds, Series 2019A; outlook stable",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "A1 rating",
+                        "Badger Coulee Project",
+                        "Revenue Bonds",
+                        "outlook stable"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "municipal finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-01-01",
+                "original_text": "Xcel Energy (XEL) to Install Smart Meters, Teams With Itron",
+                "features": {
+                    "keywords": [
+                        "Xcel Energy",
+                        "Smart Meters",
+                        "Itron",
+                        "technology upgrade"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

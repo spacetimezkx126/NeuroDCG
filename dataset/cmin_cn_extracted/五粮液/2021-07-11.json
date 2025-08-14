@@ -1,0 +1,51 @@
+{
+    "2021-07-11": [
+        [
+            {
+                "time": "",
+                "original_text": "北上资金最新调仓股名单出炉，连续7周扫货21股，数十亿抢筹电动车资源股，白酒股重新得宠",
+                "features": {
+                    "keywords": [
+                        "北上资金",
+                        "调仓",
+                        "电动车资源股",
+                        "白酒股"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电动车",
+                        "资源",
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "国内低度酒饮市场酣战正浓",
+                "features": {
+                    "keywords": [
+                        "低度酒饮",
+                        "市场",
+                        "竞争"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "酒饮"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

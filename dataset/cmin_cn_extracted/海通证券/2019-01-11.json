@@ -1,0 +1,53 @@
+{
+    "2019-01-11": [
+        [
+            {
+                "time": "",
+                "original_text": "海通证券购买顾家家居219.46万张可转债劵",
+                "features": {
+                    "keywords": [
+                        "海通证券",
+                        "顾家家居",
+                        "可转债",
+                        "购买"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "家居"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "海通证券前员工因违法买卖股票被罚没1086万元 禁入市3年 其他违规处罚",
+                "features": {
+                    "keywords": [
+                        "海通证券",
+                        "前员工",
+                        "违法",
+                        "买卖股票",
+                        "罚款",
+                        "禁入市场"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

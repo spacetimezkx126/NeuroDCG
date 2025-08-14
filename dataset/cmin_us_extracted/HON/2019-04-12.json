@@ -1,0 +1,52 @@
+{
+    "2019-04-12": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Noteworthy ETF Inflows: IWF, MO, UPS, HON",
+                "features": {
+                    "keywords": [
+                        "ETF",
+                        "Inflows",
+                        "IWF",
+                        "MO",
+                        "UPS",
+                        "HON"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Your Next Flight Is Brought to You by 3D Printing",
+                "features": {
+                    "keywords": [
+                        "Flight",
+                        "3D Printing"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "aviation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

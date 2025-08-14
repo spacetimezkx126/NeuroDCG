@@ -1,0 +1,52 @@
+{
+    "2018-01-21": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "High Open Called For Taiwan Stock Market",
+                "features": {
+                    "keywords": [
+                        "High",
+                        "Open",
+                        "Taiwan",
+                        "Stock",
+                        "Market"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general_stock_market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "5 Stocks That Could Be Hurt By Cryptocurrencies",
+                "features": {
+                    "keywords": [
+                        "5",
+                        "Stocks",
+                        "Hurt",
+                        "Cryptocurrencies"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "cryptocurrency",
+                        "stocks"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

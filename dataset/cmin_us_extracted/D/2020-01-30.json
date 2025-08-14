@@ -1,0 +1,83 @@
+{
+    "2020-01-30": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Public Service Co. of North Carolina, Inc. -- Moody's upgrades SCANA to Baa3 and DESC to Baa2; downgrades PSNC to Baa1. All outlooks are stable.",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "upgrades",
+                        "SCANA",
+                        "Baa3",
+                        "DESC",
+                        "Baa2",
+                        "PSNC",
+                        "downgrades",
+                        "Baa1",
+                        "stable"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "CMS Energy (CMS) Misses on Q4 Earnings, Tweaks EPS View",
+                "features": {
+                    "keywords": [
+                        "CMS Energy",
+                        "Q4",
+                        "Earnings",
+                        "Misses",
+                        "EPS",
+                        "Tweaks"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Xcel Energy (XEL) Q4 Earnings Beat Estimates, Revenues Miss",
+                "features": {
+                    "keywords": [
+                        "Xcel Energy",
+                        "Q4",
+                        "Earnings",
+                        "Beat",
+                        "Estimates",
+                        "Revenues",
+                        "Miss"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

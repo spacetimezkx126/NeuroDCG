@@ -1,0 +1,51 @@
+{
+    "2021-03-20": [
+        [
+            {
+                "time": "",
+                "original_text": "一个月前刚完成A轮的蜂巢能源已启动B轮融资，预计融资30-40亿元",
+                "features": {
+                    "keywords": [
+                        "蜂巢能源",
+                        "A轮",
+                        "B轮",
+                        "融资",
+                        "30-40亿元"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "汽车零部件"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "长城WEY在焦虑什么？",
+                "features": {
+                    "keywords": [
+                        "长城WEY",
+                        "焦虑"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车行业",
+                        "品牌"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

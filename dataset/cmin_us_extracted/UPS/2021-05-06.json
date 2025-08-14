@@ -1,0 +1,72 @@
+{
+    "2021-05-06": [
+        [
+            {
+                "time": "2023-10-10",
+                "original_text": "Earnings Roundup: Tesla, UPS, Crocs",
+                "features": {
+                    "keywords": [
+                        "Earnings",
+                        "Tesla",
+                        "UPS",
+                        "Crocs"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automotive",
+                        "logistics",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "Is Now a Good Time to Buy Cyclical Stocks?",
+                "features": {
+                    "keywords": [
+                        "Cyclical",
+                        "Stocks"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "UPS delivery wants me to pay £32 to release my urgent letter to Italy",
+                "features": {
+                    "keywords": [
+                        "UPS",
+                        "delivery",
+                        "pay",
+                        "urgent",
+                        "letter",
+                        "Italy"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "logistics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

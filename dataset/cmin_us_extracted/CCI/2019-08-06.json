@@ -1,0 +1,52 @@
+{
+    "2019-08-06": [
+        [
+            {
+                "time": "2019-08-07",
+                "original_text": "American Finance Trust, Inc. (AFIN) Ex-Dividend Date Scheduled for August 07, 2019",
+                "features": {
+                    "keywords": [
+                        "American Finance Trust",
+                        "Ex-Dividend",
+                        "Scheduled"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "real estate",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2009-01-01",
+                "original_text": "Crown Castle Senior Secured Notes, Series 2009-1 -- Moody's upgrades Crown Castle's wireless tower-backed 2009 ABS notes.",
+                "features": {
+                    "keywords": [
+                        "Crown Castle",
+                        "Moody's",
+                        "upgrades",
+                        "wireless tower-backed",
+                        "ABS notes"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications",
+                        "infrastructure"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

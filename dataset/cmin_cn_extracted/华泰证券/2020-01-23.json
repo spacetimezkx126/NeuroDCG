@@ -1,0 +1,52 @@
+{
+    "2020-01-23": [
+        [
+            {
+                "time": "",
+                "original_text": "证监会会计部副主任焦晓宁下海，走马上任华泰证券首席财务官",
+                "features": {
+                    "keywords": [
+                        "证监会",
+                        "会计部",
+                        "副主任",
+                        "焦晓宁",
+                        "华泰证券",
+                        "首席财务官"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "华泰证券：2019年年度业绩报告预告",
+                "features": {
+                    "keywords": [
+                        "华泰证券",
+                        "2019年",
+                        "年度业绩",
+                        "报告预告"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

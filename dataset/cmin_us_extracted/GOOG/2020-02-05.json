@@ -1,0 +1,118 @@
+{
+    "2020-02-05": [
+        [
+            {
+                "time": "2020-02-05",
+                "original_text": "Bulls are running in the stock market as the weak hands are flushed out",
+                "features": {
+                    "keywords": [
+                        "bulls",
+                        "running",
+                        "weak hands",
+                        "flushed out"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-02-03",
+                "original_text": "NASDAQ Reaches New Closing High as Rebound Continues",
+                "features": {
+                    "keywords": [
+                        "NASDAQ",
+                        "new closing high",
+                        "rebound"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-02-05",
+                "original_text": "DOJ has stepped up Google antitrust investigation with emphasis on ad server integration, Youtube policies: WSJ",
+                "features": {
+                    "keywords": [
+                        "DOJ",
+                        "Google",
+                        "antitrust",
+                        "ad server",
+                        "Youtube"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-02-05",
+                "original_text": "Cloud Capex Is Growing Again - But the Spending Is Now More Efficient",
+                "features": {
+                    "keywords": [
+                        "cloud capex",
+                        "growing",
+                        "efficient"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "cloud computing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-02-05",
+                "original_text": "Is Microsoft Stock As White House Confers Special 5G Status? Here's What Its Stock Chart Shows",
+                "features": {
+                    "keywords": [
+                        "Microsoft",
+                        "White House",
+                        "5G",
+                        "special status"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "2018-10-17": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Hong Kong Bourse Tipped To Open Higher",
+                "features": {
+                    "keywords": [
+                        "Hong Kong",
+                        "Bourse",
+                        "Open Higher"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "China Shares May See Renewed Consolidation",
+                "features": {
+                    "keywords": [
+                        "China",
+                        "Shares",
+                        "Renewed Consolidation"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Oil Falls After U.S. Stockpiles Swell for Fourth Straight Week",
+                "features": {
+                    "keywords": [
+                        "Oil",
+                        "Falls",
+                        "U.S.",
+                        "Stockpiles",
+                        "Swell"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

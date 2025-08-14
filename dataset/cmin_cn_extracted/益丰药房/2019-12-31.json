@@ -1,0 +1,50 @@
+{
+    "2019-12-31": [
+        [
+            {
+                "time": "2019-01-01",
+                "original_text": "2019年“吸金王”出炉 逾385亿元资金涌入10只个股",
+                "features": {
+                    "keywords": [
+                        "吸金王",
+                        "资金流入",
+                        "个股"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-12-31",
+                "original_text": "太平洋证券研究 12月31日最新观点：芯片格局变化或将影响产业链",
+                "features": {
+                    "keywords": [
+                        "太平洋证券",
+                        "芯片",
+                        "格局变化",
+                        "产业链"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "半导体",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

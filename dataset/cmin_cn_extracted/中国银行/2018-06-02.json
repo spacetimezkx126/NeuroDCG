@@ -1,0 +1,51 @@
+{
+    "2018-06-02": [
+        [
+            {
+                "time": "2023-10-04",
+                "original_text": "中国银行副行长：12个项目正在试点使用区块链技术",
+                "features": {
+                    "keywords": [
+                        "中国银行",
+                        "副行长",
+                        "试点",
+                        "区块链技术"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-04",
+                "original_text": "张青松：传统银行日益感觉到获客不易、活客更难",
+                "features": {
+                    "keywords": [
+                        "张青松",
+                        "传统银行",
+                        "获客",
+                        "活客"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

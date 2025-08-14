@@ -1,0 +1,49 @@
+{
+    "2019-12-05": [
+        [
+            {
+                "time": "",
+                "original_text": "美 的 集 团 最 接 近 外 资 “ 禁 买 线 ” 其 后 还 有 谁 ？",
+                "features": {
+                    "keywords": [
+                        "美的集团",
+                        "外资",
+                        "禁买线"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "大 盘 缩 量 盘 整 药 明 康 德 融 资 盘 小 幅 流 入",
+                "features": {
+                    "keywords": [
+                        "大盘",
+                        "缩量盘整",
+                        "药明康德",
+                        "融资盘"
+                    ],
+                    "sentiment_score": 0.1,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

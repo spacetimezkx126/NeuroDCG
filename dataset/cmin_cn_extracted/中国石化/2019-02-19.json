@@ -1,0 +1,78 @@
+{
+    "2019-02-19": [
+        [
+            {
+                "time": "",
+                "original_text": "大型央企新能源发展进程提速 去年大唐集团可再生能源发电量增9.62%",
+                "features": {
+                    "keywords": [
+                        "大型央企",
+                        "新能源",
+                        "大唐集团",
+                        "可再生能源",
+                        "发电量增长"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "基础化工行业:油价上涨至近三个月来最高,等待化工品下游需求回暖",
+                "features": {
+                    "keywords": [
+                        "基础化工",
+                        "油价上涨",
+                        "化工品",
+                        "下游需求",
+                        "回暖"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "石油化工iea2019年2月月报点评:美国对委内瑞拉制裁影响重油供给",
+                "features": {
+                    "keywords": [
+                        "石油化工",
+                        "iea",
+                        "美国",
+                        "委内瑞拉",
+                        "制裁",
+                        "重油供给"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "石油",
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

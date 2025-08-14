@@ -1,0 +1,49 @@
+{
+    "2020-07-13": [
+        [
+            {
+                "time": "2023-07-13",
+                "original_text": "A股7月13日午盘京能置业涨9.97%，绿地控股跌4.64%。",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "京能置业",
+                        "绿地控股",
+                        "涨",
+                        "跌"
+                    ],
+                    "sentiment_score": -0.1,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-07-10",
+                "original_text": "A股融资融券日报：两融余额增加157.62亿元（7月10日）。",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

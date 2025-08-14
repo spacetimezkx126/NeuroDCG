@@ -1,0 +1,56 @@
+{
+    "2018-11-05": [
+        [
+            {
+                "time": "2018-10-31",
+                "original_text": "Why Sherwin-Williams Stock Lost 14% in October",
+                "features": {
+                    "keywords": [
+                        "Sherwin-Williams",
+                        "Stock",
+                        "Lost",
+                        "14%",
+                        "October"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "materials",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-10-31",
+                "original_text": "XLB, DWDP, ECL, SHW: ETF Inflow Alert",
+                "features": {
+                    "keywords": [
+                        "XLB",
+                        "DWDP",
+                        "ECL",
+                        "SHW",
+                        "ETF",
+                        "Inflow",
+                        "Alert"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "materials",
+                        "industrials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

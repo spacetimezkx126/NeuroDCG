@@ -1,0 +1,53 @@
+{
+    "2020-11-20": [
+        [
+            {
+                "time": "",
+                "original_text": "电报|兆易创新：由于晶圆厂产能紧缺扩产会受到一些影响",
+                "features": {
+                    "keywords": [
+                        "兆易创新",
+                        "晶圆厂",
+                        "产能紧缺",
+                        "扩产"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "半导体",
+                        "电子制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "晶圆产能紧张难缓解 MCU芯片价格“上涨有理”？背后国产厂商或迎机遇",
+                "features": {
+                    "keywords": [
+                        "晶圆产能",
+                        "MCU芯片",
+                        "价格上涨",
+                        "国产厂商",
+                        "机遇"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "半导体",
+                        "芯片制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2020-08-14": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Dow's 64-point jump led by gains for Boeing, Walgreens Boots shares",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "64-point jump",
+                        "Boeing",
+                        "Walgreens Boots",
+                        "gains"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Raytheon Technologies Drops Then Pops on Earnings Beat",
+                "features": {
+                    "keywords": [
+                        "Raytheon Technologies",
+                        "Drops",
+                        "Pops",
+                        "Earnings Beat"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "defense",
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

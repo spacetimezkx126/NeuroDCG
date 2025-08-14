@@ -1,0 +1,52 @@
+{
+    "2019-10-07": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "BofA pursuing top talent to build middle market team in Pittsburgh",
+                "features": {
+                    "keywords": [
+                        "BofA",
+                        "top talent",
+                        "middle market",
+                        "Pittsburgh"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "human resources"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Credit Suisse’s potential damages mount in RMBS cases",
+                "features": {
+                    "keywords": [
+                        "Credit Suisse",
+                        "potential damages",
+                        "RMBS",
+                        "cases"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "legal"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

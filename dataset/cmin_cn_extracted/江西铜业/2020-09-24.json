@@ -1,0 +1,72 @@
+{
+    "2020-09-24": [
+        [
+            {
+                "time": "",
+                "original_text": "江西任免李晓刚、郑高清、黄平、汪波、龙子平、宋树欣等职务",
+                "features": {
+                    "keywords": [
+                        "江西",
+                        "任免",
+                        "李晓刚",
+                        "郑高清",
+                        "黄平",
+                        "汪波",
+                        "龙子平",
+                        "宋树欣"
+                    ],
+                    "sentiment_score": -0.1,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "恒指低开低走收跌1.82%报23311.07点，资源股、医疗股跌幅居前",
+                "features": {
+                    "keywords": [
+                        "恒指",
+                        "低开低走",
+                        "收跌",
+                        "资源股",
+                        "医疗股"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "资源",
+                        "医疗"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-09-24",
+                "original_text": "A股市场破净股一览（9月24日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "破净股"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2018-10-09": [
+        [
+            {
+                "time": "",
+                "original_text": "北上资金3季度买卖A股名单来了：白马股被弃，这一概念大获青睐！",
+                "features": {
+                    "keywords": [
+                        "北上资金",
+                        "3季度",
+                        "A股",
+                        "白马股",
+                        "概念"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative",
+                    "factors_detail": {
+                        "causal_factors": [
+                            {
+                                "factor": "北上资金流向变化",
+                                "impact": "positive"
+                            },
+                            {
+                                "factor": "投资者偏好转变",
+                                "impact": "positive"
+                            }
+                        ],
+                        "affected_by_time_series_factors": [
+                            {
+                                "factor": "白马股抛售压力",
+                                "impact": "negative"
+                            },
+                            {
+                                "factor": "新概念资金流入",
+                                "impact": "positive"
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    ]
+}

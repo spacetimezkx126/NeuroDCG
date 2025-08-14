@@ -1,0 +1,50 @@
+{
+    "2019-12-20": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Dominion Energy Completes Equity Recapitalization of Cove Point",
+                "features": {
+                    "keywords": [
+                        "Dominion Energy",
+                        "Equity Recapitalization",
+                        "Cove Point"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "Duke Energy Unit Files for Rate Hike for Customers in Florida",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "Rate Hike",
+                        "Customers",
+                        "Florida"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

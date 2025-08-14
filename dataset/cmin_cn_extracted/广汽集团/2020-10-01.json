@@ -1,0 +1,49 @@
+{
+    "2020-10-01": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "【2020中国汽车图鉴】解码“广新速度”：从未停止的科技秀场",
+                "features": {
+                    "keywords": [
+                        "中国汽车",
+                        "广新速度",
+                        "科技秀场"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "广汽传祺李勇：为消费者增值是金三角战略的核心",
+                "features": {
+                    "keywords": [
+                        "广汽传祺",
+                        "李勇",
+                        "消费者增值",
+                        "金三角战略"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

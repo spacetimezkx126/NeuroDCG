@@ -1,0 +1,65 @@
+{
+    "2020-04-01": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "刚，刚，高层传来重磅利好，规格很高！",
+                "features": {
+                    "keywords": [
+                        "高层",
+                        "重磅利好",
+                        "规格很高"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "解密主力资金出逃股连续5日净流出612股",
+                "features": {
+                    "keywords": [
+                        "主力资金",
+                        "出逃",
+                        "净流出",
+                        "612股"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "4月观点 | 率先走出疫情阴影有迹可循",
+                "features": {
+                    "keywords": [
+                        "4月",
+                        "疫情阴影",
+                        "率先走出",
+                        "有迹可循"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

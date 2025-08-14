@@ -1,0 +1,50 @@
+{
+    "2019-10-10": [
+        [
+            {
+                "time": "2019-10-09",
+                "original_text": "锂电电池教父斩获诺贝尔化学奖推动国内锂电池股一片飘红",
+                "features": {
+                    "keywords": [
+                        "诺贝尔化学奖",
+                        "锂电池",
+                        "教父",
+                        "国内锂电池股"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "锂电池"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-10-10",
+                "original_text": "锂电池板块机会来临",
+                "features": {
+                    "keywords": [
+                        "锂电池",
+                        "板块机会"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "锂电池"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

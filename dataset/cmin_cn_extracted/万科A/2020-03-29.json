@@ -1,0 +1,52 @@
+{
+    "2020-03-29": [
+        [
+            {
+                "time": "",
+                "original_text": "20年报风云：万科一天一个小目标，涪陵榨菜开胃不开心，B站欢乐出圈",
+                "features": {
+                    "keywords": [
+                        "万科",
+                        "涪陵榨菜",
+                        "B站",
+                        "出圈"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "食品饮料",
+                        "互联网"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【天风地产】政治局会议点评：未直接提及地产、政策面基本面预期差大",
+                "features": {
+                    "keywords": [
+                        "政治局会议",
+                        "地产",
+                        "政策面",
+                        "基本面"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

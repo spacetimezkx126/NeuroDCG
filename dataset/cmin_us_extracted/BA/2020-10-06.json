@@ -1,0 +1,199 @@
+{
+    "2020-10-06": [
+        [
+            {
+                "time": "2020-09-01",
+                "original_text": "Trump's Tweet Tanks S&P 500: Stocks Fall Sharply as President Puts Stimulus Talks on Hold",
+                "features": {
+                    "keywords": [
+                        "Trump",
+                        "S&P 500",
+                        "Stimulus Talks",
+                        "Stocks Fall"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2020-09-02",
+                "original_text": "Why Boeing Stock Plunged Today",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "Stock Plunged"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-09-03",
+                "original_text": "FAA issues new proposed Boeing 737 MAX pilot training procedures",
+                "features": {
+                    "keywords": [
+                        "FAA",
+                        "Boeing 737 MAX",
+                        "Pilot Training Procedures"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2020-09-04",
+                "original_text": "FAA issues draft report on new Boeing 737 MAX pilot training procedures",
+                "features": {
+                    "keywords": [
+                        "FAA",
+                        "Draft Report",
+                        "Boeing 737 MAX",
+                        "Pilot Training Procedures"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2020-09-05",
+                "original_text": "Boeing Cuts Forecast for Airplane Demand Due to the Coronavirus",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "Airplane Demand",
+                        "Coronavirus"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-09-06",
+                "original_text": "Dow Jones Posts Small Gain as Boeing Predicts Tough Decade Ahead, Walmart Launches Insurance Business",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Small Gain",
+                        "Boeing",
+                        "Tough Decade",
+                        "Walmart",
+                        "Insurance Business"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-09-07",
+                "original_text": "BUZZ-U.S. STOCKS ON THE MOVE-Facebook, Amazon.com, Nvidia",
+                "features": {
+                    "keywords": [
+                        "U.S. Stocks",
+                        "Facebook",
+                        "Amazon.com",
+                        "Nvidia"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-09-08",
+                "original_text": "US STOCKS-Tech sell-off weighs on Wall St as Powell warns on recovery",
+                "features": {
+                    "keywords": [
+                        "Tech Sell-off",
+                        "Wall St",
+                        "Powell",
+                        "Recovery"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-09-09",
+                "original_text": "Business jet purchase plans mostly unscathed by COVID-19, Honeywell survey shows",
+                "features": {
+                    "keywords": [
+                        "Business Jet",
+                        "Purchase Plans",
+                        "COVID-19",
+                        "Honeywell Survey"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aviation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false"
+                }
+            }
+        ]
+    ]
+}

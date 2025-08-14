@@ -1,0 +1,93 @@
+{
+    "2021-01-01": [
+        [
+            {
+                "time": "",
+                "original_text": "证券行业点评：金融科技监管进一步完善 财富管理助力资本市场投资端建设",
+                "features": {
+                    "keywords": [
+                        "金融科技",
+                        "监管",
+                        "财富管理",
+                        "资本市场",
+                        "投资端"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2021-01-01",
+                "original_text": "券商首次关注8股并给予买入评级（1月1日）",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "买入评级",
+                        "股票推荐"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "2021年券商看好的十大板块",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "看好",
+                        "板块"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "延续火热趋势！2020年ABS承销排行榜揭晓",
+                "features": {
+                    "keywords": [
+                        "ABS",
+                        "承销",
+                        "排行榜"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "2021-04-08": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "American Water Names Mark McDonough Senior Vice President and President of New Jersey American Water",
+                "features": {
+                    "keywords": [
+                        "Mark McDonough",
+                        "Senior Vice President",
+                        "New Jersey American Water"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "water utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "American Water (AWK) Pennsylvania Arm to Buy Wastewater Assets",
+                "features": {
+                    "keywords": [
+                        "American Water",
+                        "Pennsylvania",
+                        "Wastewater Assets"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "water utilities",
+                        "wastewater"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Missouri Public Service Commission Issues Rate Order Approving Agreement Reached in Missouri American Water Case",
+                "features": {
+                    "keywords": [
+                        "Missouri Public Service Commission",
+                        "Rate Order",
+                        "Missouri American Water"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "water utilities",
+                        "regulatory"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

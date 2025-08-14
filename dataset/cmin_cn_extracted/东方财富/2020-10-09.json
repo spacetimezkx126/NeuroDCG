@@ -1,0 +1,78 @@
+{
+    "2020-10-09": [
+        [
+            {
+                "time": "2020-Q3",
+                "original_text": "2020年三季度证券公司地方政府债券承销排行榜",
+                "features": {
+                    "keywords": [
+                        "证券公司",
+                        "地方政府债券",
+                        "承销",
+                        "排行榜"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "债券市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-09-30",
+                "original_text": "【行情】券商股表现分化，国元证券配股跌停，西南证券、东方财富、华泰证券等涨2%",
+                "features": {
+                    "keywords": [
+                        "券商股",
+                        "国元证券",
+                        "配股",
+                        "跌停",
+                        "西南证券",
+                        "东方财富",
+                        "华泰证券"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-09-30",
+                "original_text": "A股融资融券日报：两融余额减少180.88亿元（9月30日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "减少"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融市场",
+                        "杠杆资金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

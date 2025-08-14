@@ -1,0 +1,50 @@
+{
+    "2020-06-02": [
+        [
+            {
+                "time": "2023-04-01",
+                "original_text": "April Retail Sales Fall, but Realty Income Appears Solid",
+                "features": {
+                    "keywords": [
+                        "Retail Sales",
+                        "Fall",
+                        "Realty Income",
+                        "Solid"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-05-01",
+                "original_text": "Realty Income Provides Update On May Rent Collections",
+                "features": {
+                    "keywords": [
+                        "Realty Income",
+                        "Update",
+                        "May Rent Collections"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "2019-03-25": [
+        [
+            {
+                "time": "",
+                "original_text": "东, 北, 证, 券, ：, 将, 用, 友, 网, 络, 评, 级, 调, 低, 为, \", 增, 持, \", 投, 资, 评, 级, 恶, 化",
+                "features": {
+                    "keywords": [
+                        "东北证券",
+                        "友网络",
+                        "评级调低",
+                        "增持",
+                        "投资评级恶化"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "互联网"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "华, 创, 证, 券, ：, 科, 创, 板, 再, 迎, 进, 展, 科, 技, 股, 有, 望, 重, 估",
+                "features": {
+                    "keywords": [
+                        "华创证券",
+                        "科创板",
+                        "进展",
+                        "科技股",
+                        "有望重估"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "科创板"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-25",
+                "original_text": "晨, 会, 0, 3, 2, 5, ｜, 科, 创, 板, 开, 板, 后, 的, 图, 景, 猜, 想",
+                "features": {
+                    "keywords": [
+                        "晨会",
+                        "科创板",
+                        "开板",
+                        "图景猜想"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "科创板"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

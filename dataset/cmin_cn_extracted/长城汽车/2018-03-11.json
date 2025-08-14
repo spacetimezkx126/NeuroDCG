@@ -1,0 +1,83 @@
+{
+    "2018-03-11": [
+        [
+            {
+                "time": "",
+                "original_text": "【一周动态】愿天下每一个胖子都能被温柔对待",
+                "features": {
+                    "keywords": [],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "[中经V视]一分钟看两会 王凤英代表:中国改革开放40年来最受益的是汽车市场",
+                "features": {
+                    "keywords": [
+                        "汽车市场",
+                        "改革开放",
+                        "王凤英"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "[中经V视]一分钟看两会 王凤英代表：长城汽车将在雄安新区推出智能交通创新产品",
+                "features": {
+                    "keywords": [
+                        "长城汽车",
+                        "雄安新区",
+                        "智能交通",
+                        "创新产品"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车",
+                        "智能交通"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "36只个股连续下跌3日或3日以上",
+                "features": {
+                    "keywords": [
+                        "个股",
+                        "连续下跌"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

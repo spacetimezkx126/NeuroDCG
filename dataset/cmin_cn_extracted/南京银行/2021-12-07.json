@@ -1,0 +1,53 @@
+{
+    "2021-12-07": [
+        [
+            {
+                "time": "",
+                "original_text": "中信证券：压制银行板块表现的经济景气和资产质量悲观预期有望逐步改善",
+                "features": {
+                    "keywords": [
+                        "中信证券",
+                        "银行板块",
+                        "经济景气",
+                        "资产质量",
+                        "悲观预期",
+                        "逐步改善"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中信建投：央行宣布全面降准释放资金约1.2万亿",
+                "features": {
+                    "keywords": [
+                        "中信建投",
+                        "央行",
+                        "全面降准",
+                        "释放资金",
+                        "1.2万亿"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "宏观经济"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

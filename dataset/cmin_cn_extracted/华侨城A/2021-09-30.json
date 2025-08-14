@@ -1,0 +1,53 @@
+{
+    "2021-09-30": [
+        [
+            {
+                "time": "",
+                "original_text": "不断 提升 产业 规模 和 质量  华侨城 在 滇 已 完成 投资 近 1,000 亿元",
+                "features": {
+                    "keywords": [
+                        "华侨城",
+                        "产业规模",
+                        "质量",
+                        "投资",
+                        "滇"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产",
+                        "旅游"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "华侨城 挂牌 转让 深圳 华城 荷坳 20% 股权 ， 底价 2.4 亿元",
+                "features": {
+                    "keywords": [
+                        "华侨城",
+                        "挂牌转让",
+                        "股权",
+                        "深圳",
+                        "荷坳"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2018-07-24": [
+        [
+            {
+                "time": "",
+                "original_text": "涉嫌逃汇、内保外贷等被外汇局通报 工行中行等13家银行及支付宝、财付通等5家支付机构成典型",
+                "features": {
+                    "keywords": [
+                        "逃汇",
+                        "内保外贷",
+                        "外汇局",
+                        "工行",
+                        "中行",
+                        "支付宝",
+                        "财付通"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "支付行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-07-24",
+                "original_text": "券商首次关注3股并给予买入评级（7月24日）",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "买入评级"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

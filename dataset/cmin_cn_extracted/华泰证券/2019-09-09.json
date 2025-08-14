@@ -1,0 +1,53 @@
+{
+    "2019-09-09": [
+        [
+            {
+                "time": "",
+                "original_text": "港股投资日历：友邦保险、安踏体育、复星国际等股除净",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "友邦保险",
+                        "安踏体育",
+                        "复星国际",
+                        "除净"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "保险",
+                        "体育用品",
+                        "综合企业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "32家上市券商8月份合计盈利81亿元，同比增350%",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "8月",
+                        "盈利",
+                        "同比增长"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

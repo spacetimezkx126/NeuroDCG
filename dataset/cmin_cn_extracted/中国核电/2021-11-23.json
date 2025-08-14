@@ -1,0 +1,54 @@
+{
+    "2021-11-23": [
+        [
+            {
+                "time": "",
+                "original_text": "中国核电今日大宗交易成交43万股，成交价6.62元折价3.22%",
+                "features": {
+                    "keywords": [
+                        "中国核电",
+                        "大宗交易",
+                        "成交",
+                        "折价"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "核电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国核电（601985）：电价受益市场环境变化，新能源为扩张赋新能",
+                "features": {
+                    "keywords": [
+                        "中国核电",
+                        "电价",
+                        "市场环境",
+                        "新能源",
+                        "扩张"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "核电",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

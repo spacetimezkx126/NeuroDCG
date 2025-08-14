@@ -1,0 +1,53 @@
+{
+    "2021-12-18": [
+        [
+            {
+                "time": "",
+                "original_text": "票据逾期暂息，再遭评级下调，猪周期考验牧原股份 未按时兑付本息",
+                "features": {
+                    "keywords": [
+                        "票据逾期",
+                        "评级下调",
+                        "猪周期",
+                        "牧原股份",
+                        "未按时兑付"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "富时中国指数成分股大调整，外资布局2022年",
+                "features": {
+                    "keywords": [
+                        "富时中国指数",
+                        "成分股调整",
+                        "外资布局",
+                        "2022年"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "指数基金",
+                        "外资流入"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

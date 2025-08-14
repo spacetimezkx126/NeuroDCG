@@ -1,0 +1,49 @@
+{
+    "2019-01-21": [
+        [
+            {
+                "time": "",
+                "original_text": "战 略 配 售 基 金 半 年 赚 了 3 %  因 为 没 买 股 票",
+                "features": {
+                    "keywords": [
+                        "战略配售基金",
+                        "半年",
+                        "3%"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2018",
+                "original_text": "2 0 1 8 年 上 市 险 企 原 保 费 增 速 普 遍 下 滑",
+                "features": {
+                    "keywords": [
+                        "2018年",
+                        "上市险企",
+                        "原保费",
+                        "增速下滑"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

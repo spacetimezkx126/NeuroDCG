@@ -1,0 +1,73 @@
+{
+    "2020-08-26": [
+        [
+            {
+                "time": "",
+                "original_text": "白,云,山,(,6,0,0,3,3,2,),：,业,绩,符,合,预,期",
+                "features": {
+                    "keywords": [
+                        "白云山",
+                        "业绩",
+                        "符合预期"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "A,股,异,动,｜,白,云,山,A,+,H,齐,跌, ,中,期,净,利,润,同,比,下,降,3,0,.,7,5,%, ,盈,利,能,力,下,降",
+                "features": {
+                    "keywords": [
+                        "白云山",
+                        "A股",
+                        "H股",
+                        "净利润下降",
+                        "盈利能力下降"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "白,云,山,(,0,0,8,7,4,-,H,K,),半,年,少,赚,3,1,%,拟,银,行,借,款,筹,资,满,足,资,本,开,支, ,盈,利,能,力,下,降",
+                "features": {
+                    "keywords": [
+                        "白云山",
+                        "半年少赚",
+                        "银行借款",
+                        "资本支出",
+                        "盈利能力下降"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "2020-04-14": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "America's manufacturing activity is about to crash by the most since World War II: Goldman Sachs",
+                "features": {
+                    "keywords": [
+                        "manufacturing",
+                        "crash",
+                        "Goldman Sachs"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "manufacturing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-04-28",
+                "original_text": "Caterpillar Inc. to Announce First-Quarter 2020 Financial Results on April 28",
+                "features": {
+                    "keywords": [
+                        "Caterpillar",
+                        "First-Quarter",
+                        "Financial Results"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-03-17",
+                "original_text": "Pandemic survival plans: U.S. businesses scramble to conserve cash, boost liquidity",
+                "features": {
+                    "keywords": [
+                        "Pandemic",
+                        "survival plans",
+                        "conserve cash",
+                        "boost liquidity"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general business"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "US Stocks Slide as Focus Shifts to Earnings",
+                "features": {
+                    "keywords": [
+                        "US Stocks",
+                        "Slide",
+                        "Earnings"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "stocks"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

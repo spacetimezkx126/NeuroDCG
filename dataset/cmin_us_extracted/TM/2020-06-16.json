@@ -1,0 +1,50 @@
+{
+    "2020-06-16": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Japanese stocks surge on central bank boosts, U.S. stimulus hopes",
+                "features": {
+                    "keywords": [
+                        "Japanese stocks",
+                        "central bank",
+                        "U.S. stimulus"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Is Tesla Bigger Than Toyota or Not? Well, It’s Complicated",
+                "features": {
+                    "keywords": [
+                        "Tesla",
+                        "Toyota",
+                        "market cap"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automobiles",
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

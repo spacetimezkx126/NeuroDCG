@@ -1,0 +1,53 @@
+{
+    "2021-07-07": [
+        [
+            {
+                "time": "",
+                "original_text": "紫光股份：公司与紫光展锐同为紫光集团下属子公司，公司不持有紫光展锐的股权",
+                "features": {
+                    "keywords": [
+                        "紫光股份",
+                        "紫光展锐",
+                        "紫光集团",
+                        "股权"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "半导体"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "通信行业周报：中国移动开启5G通用模组集中采集  加速5G终端生态繁荣",
+                "features": {
+                    "keywords": [
+                        "通信行业",
+                        "中国移动",
+                        "5G",
+                        "通用模组",
+                        "终端生态"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "通信",
+                        "5G"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

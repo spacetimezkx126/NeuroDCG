@@ -1,0 +1,72 @@
+{
+    "2019-12-17": [
+        [
+            {
+                "time": "2019-12-12",
+                "original_text": "Google will provide $750,000 in help to reduce San Francisco’s housing woes",
+                "features": {
+                    "keywords": [
+                        "Google",
+                        "financial aid",
+                        "housing crisis",
+                        "San Francisco"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-12-12",
+                "original_text": "Top Analyst Reports for Apple, Cisco & Oracle",
+                "features": {
+                    "keywords": [
+                        "analyst reports",
+                        "Apple",
+                        "Cisco",
+                        "Oracle"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-12-12",
+                "original_text": "Edited Transcript of ADBE earnings conference call or presentation 12-Dec-19 10:00pm GMT",
+                "features": {
+                    "keywords": [
+                        "ADBE",
+                        "earnings call",
+                        "conference"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

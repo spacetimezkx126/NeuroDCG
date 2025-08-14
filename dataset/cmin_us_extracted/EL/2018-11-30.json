@@ -1,0 +1,71 @@
+{
+    "2018-11-30": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Congress preparing a key bill for cannabis that could be...",
+                "features": {
+                    "keywords": [
+                        "Congress",
+                        "bill",
+                        "cannabis"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Why Is Estee Lauder (EL) Down 0.3% Since Last Earnings Report?",
+                "features": {
+                    "keywords": [
+                        "Estee Lauder",
+                        "Down",
+                        "Earnings Report"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer staples"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Is The Estee Lauder Companies (EL) Stock Outpacing Its Consumer Staples Peers This Year?",
+                "features": {
+                    "keywords": [
+                        "Estee Lauder",
+                        "Outpacing",
+                        "Consumer Staples",
+                        "Peers"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer staples"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

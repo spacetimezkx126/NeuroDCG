@@ -1,0 +1,73 @@
+{
+    "2020-02-04": [
+        [
+            {
+                "time": "",
+                "original_text": "银行业绩快报：净利增速多超10%，浦发、苏农不良率上升 资产异常",
+                "features": {
+                    "keywords": [
+                        "银行业",
+                        "净利增速",
+                        "浦发",
+                        "苏农",
+                        "不良率",
+                        "资产异常"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "保本理财退出市场速度加快 业务变化",
+                "features": {
+                    "keywords": [
+                        "保本理财",
+                        "退出市场",
+                        "业务变化"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "公募砸重金接力自购！近百只基金单日重挫逾9%，逆行者果断买入",
+                "features": {
+                    "keywords": [
+                        "公募基金",
+                        "自购",
+                        "基金重挫",
+                        "逆势买入"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

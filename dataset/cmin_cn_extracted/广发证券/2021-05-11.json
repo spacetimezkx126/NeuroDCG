@@ -1,0 +1,57 @@
+{
+    "2021-05-11": [
+        [
+            {
+                "time": "",
+                "original_text": "券商海外业务排座次：海通与中金连续四年收入占比霸榜，中信建投增速最快，券业大举发力“走出去”",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "海外业务",
+                        "海通",
+                        "中金",
+                        "中信建投",
+                        "收入占比",
+                        "增速",
+                        "走出去"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "券商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "监管出手降温显效，黑色系冲高回落，铁矿石不再强势",
+                "features": {
+                    "keywords": [
+                        "监管",
+                        "黑色系",
+                        "铁矿石",
+                        "冲高回落",
+                        "降温"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "大宗商品",
+                        "矿业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

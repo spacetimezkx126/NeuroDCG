@@ -1,0 +1,51 @@
+{
+    "2018-06-16": [
+        [
+            {
+                "time": "",
+                "original_text": "廉颇老矣？董明珠晚节不保，珠海银隆或成人生滑铁卢！",
+                "features": {
+                    "keywords": [
+                        "董明珠",
+                        "珠海银隆",
+                        "晚节不保",
+                        "滑铁卢"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "格力手机3配全面屏 不过处理器确实是骁龙821",
+                "features": {
+                    "keywords": [
+                        "格力手机",
+                        "全面屏",
+                        "骁龙821"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "消费电子",
+                        "科技"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

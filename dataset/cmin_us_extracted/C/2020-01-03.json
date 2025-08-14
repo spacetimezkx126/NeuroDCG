@@ -1,0 +1,76 @@
+{
+    "2020-01-03": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "Q4 Earnings Season Preview",
+                "features": {
+                    "keywords": [
+                        "Q4",
+                        "Earnings",
+                        "Season",
+                        "Preview"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "all"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Bank of America's stock falls, as BMO analyst backs away from bullish stance",
+                "features": {
+                    "keywords": [
+                        "Bank of America",
+                        "falls",
+                        "BMO",
+                        "analyst",
+                        "bullish stance"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "StockBeat: Airlines Suffer as Oil Spikes in Response to U.S. Airstrike",
+                "features": {
+                    "keywords": [
+                        "Airlines",
+                        "Suffer",
+                        "Oil",
+                        "Spikes",
+                        "U.S.",
+                        "Airstrike"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "airlines",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

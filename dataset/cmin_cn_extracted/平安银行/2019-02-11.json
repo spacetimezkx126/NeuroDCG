@@ -1,0 +1,55 @@
+{
+    "2019-02-11": [
+        [
+            {
+                "time": "",
+                "original_text": "报告 | 2018年广东省上市公司市值TOP50",
+                "features": {
+                    "keywords": [
+                        "报告",
+                        "2018年",
+                        "广东省",
+                        "上市公司",
+                        "市值",
+                        "TOP50"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "金融股普跌拖累指数，交通银行、平安银行跌超1%",
+                "features": {
+                    "keywords": [
+                        "金融股",
+                        "普跌",
+                        "拖累",
+                        "指数",
+                        "交通银行",
+                        "平安银行",
+                        "跌超1%"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

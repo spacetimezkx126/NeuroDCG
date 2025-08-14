@@ -1,0 +1,50 @@
+{
+    "2021-07-20": [
+        [
+            {
+                "time": "2021-01-01",
+                "original_text": "Best Electric Cars of 2021",
+                "features": {
+                    "keywords": [
+                        "electric cars",
+                        "best",
+                        "2021"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automotive",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-07-23",
+                "original_text": "Two Tokyo Olympics Show the Long Arc of Japan’s Tech Decline",
+                "features": {
+                    "keywords": [
+                        "Tokyo Olympics",
+                        "Japan",
+                        "tech decline"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "2018-05-02": [
+        [
+            {
+                "time": "2018-04-06",
+                "original_text": "U.S. sanctions extension may ease Rusal restrictions - Rio Tinto CEO",
+                "features": {
+                    "keywords": [
+                        "U.S.",
+                        "sanctions",
+                        "extension",
+                        "ease",
+                        "Rusal",
+                        "restrictions",
+                        "Rio Tinto",
+                        "CEO"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "metals",
+                        "mining"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-06",
+                "original_text": "[$$] Australia Broadens Legal Action Against Mining Titan Rio Tinto",
+                "features": {
+                    "keywords": [
+                        "Australia",
+                        "Broadens",
+                        "Legal",
+                        "Action",
+                        "Mining",
+                        "Titan",
+                        "Rio Tinto"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "mining",
+                        "legal"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

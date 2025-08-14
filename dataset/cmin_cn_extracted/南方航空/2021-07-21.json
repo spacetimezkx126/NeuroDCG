@@ -1,0 +1,51 @@
+{
+    "2021-07-21": [
+        [
+            {
+                "time": "",
+                "original_text": "暑假来临 南方航空多条热门航线覆盖早中晚 保证旅客出行需求",
+                "features": {
+                    "keywords": [
+                        "暑假",
+                        "南方航空",
+                        "热门航线",
+                        "出行需求"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "旅游"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "多家航空公司发布涉及南京航班处置方案，可免费退改",
+                "features": {
+                    "keywords": [
+                        "航空公司",
+                        "南京航班",
+                        "处置方案",
+                        "免费退改"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "2018-01-16": [
+        [
+            {
+                "time": "",
+                "original_text": "年报披露本周拉开帷幕，一批绩差股或遭ST",
+                "features": {
+                    "keywords": [
+                        "年报",
+                        "绩差股",
+                        "ST"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国人寿掘金另类投资，王思东履新中国太平",
+                "features": {
+                    "keywords": [
+                        "中国人寿",
+                        "另类投资",
+                        "王思东",
+                        "中国太平"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "市值破万亿大关，贵州茅台高处不胜寒？",
+                "features": {
+                    "keywords": [
+                        "贵州茅台",
+                        "市值",
+                        "万亿"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "白酒"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

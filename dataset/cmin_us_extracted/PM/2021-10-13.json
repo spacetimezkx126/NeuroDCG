@@ -1,0 +1,54 @@
+{
+    "2021-10-13": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Do Institutions Own Philip Morris International Inc. (NYSE:PM) Shares?",
+                "features": {
+                    "keywords": [
+                        "Institutions",
+                        "Philip Morris",
+                        "International",
+                        "Shares"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "tobacco"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Philip Morris, Altria Stocks Gain as FDA Approves e-Cigarette Marketing",
+                "features": {
+                    "keywords": [
+                        "Philip Morris",
+                        "Altria",
+                        "Stocks",
+                        "FDA",
+                        "e-Cigarette",
+                        "Marketing"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "tobacco"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

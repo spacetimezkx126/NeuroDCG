@@ -1,0 +1,51 @@
+{
+    "2021-11-26": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Japanese Billionaire Masayoshi Son’s Investments: Top 10 Stock Picks",
+                "features": {
+                    "keywords": [
+                        "Masayoshi Son",
+                        "investments",
+                        "stock picks"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "venture capital"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Japan Approves $6.8 Billion Boost for Domestic Chip Industry",
+                "features": {
+                    "keywords": [
+                        "Japan",
+                        "approves",
+                        "6.8 billion",
+                        "chip industry"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "semiconductors",
+                        "electronics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

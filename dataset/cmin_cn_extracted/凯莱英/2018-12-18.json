@@ -1,0 +1,50 @@
+{
+    "2018-12-18": [
+        [
+            {
+                "time": "",
+                "original_text": "生 biomedical 医药 行业 周报 : 集采 刚 过 国辅 又 来 , 回避 政策 风险 , 紧抓 景气 细分 领域",
+                "features": {
+                    "keywords": [
+                        "集采",
+                        "国辅",
+                        "政策风险",
+                        "景气细分领域",
+                        "生物医药"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "生物医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "医药 行业 周报 2018 第 45 期 : 限制 辅助 用药 , 助力 药品 结构 升级",
+                "features": {
+                    "keywords": [
+                        "辅助用药",
+                        "药品结构升级",
+                        "医药行业"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

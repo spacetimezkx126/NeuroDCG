@@ -1,0 +1,71 @@
+{
+    "2021-11-01": [
+        [
+            {
+                "time": "",
+                "original_text": "华友钴业：公司向外卖购的碳酸氢铵主要用于生产碳酸钴",
+                "features": {
+                    "keywords": [
+                        "华友钴业",
+                        "碳酸氢铵",
+                        "碳酸钴"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工",
+                        "金属"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【异动股】能源金属板块下挫，华友钴业(603799.CN)跌7.22%",
+                "features": {
+                    "keywords": [
+                        "华友钴业",
+                        "能源金属",
+                        "下挫"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "金属"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-10-29",
+                "original_text": "A股融资融券日报：两融余额减少52.62亿元（10月29日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "市场整体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

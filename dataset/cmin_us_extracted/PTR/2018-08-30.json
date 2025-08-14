@@ -1,0 +1,70 @@
+{
+    "2018-08-30": [
+        [
+            {
+                "time": "2018-07-01",
+                "original_text": "PetroChina second-quarter profit surges to three-year high on oil price recovery",
+                "features": {
+                    "keywords": [
+                        "profit",
+                        "surges",
+                        "three-year high",
+                        "oil price recovery"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-07-01",
+                "original_text": "PetroChina Pays Out Lucky 8s",
+                "features": {
+                    "keywords": [
+                        "Pays Out",
+                        "Lucky 8s"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-07-01",
+                "original_text": "Petrochina Trying To Cut Impact Of Petchem Import Duties Amid Trade War",
+                "features": {
+                    "keywords": [
+                        "Cut Impact",
+                        "Petchem Import Duties",
+                        "Trade War"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "chemicals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

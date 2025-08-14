@@ -1,0 +1,53 @@
+{
+    "2020-07-14": [
+        [
+            {
+                "time": "",
+                "original_text": "抛货效果有限，纱企竞价压力增加；粘胶短纤低价传闻是否月底成真？",
+                "features": {
+                    "keywords": [
+                        "抛货",
+                        "效果有限",
+                        "纱企",
+                        "竞价压力",
+                        "粘胶短纤",
+                        "低价传闻"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "纺织业",
+                        "化纤行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "国泰君安君得明混合基金最新净值涨幅达1.56％",
+                "features": {
+                    "keywords": [
+                        "国泰君安",
+                        "君得明混合基金",
+                        "净值涨幅"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

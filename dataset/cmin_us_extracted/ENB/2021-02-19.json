@@ -1,0 +1,51 @@
+{
+    "2021-02-19": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Wall Street takes fresh steps to kick $200 trillion Libor debt habit",
+                "features": {
+                    "keywords": [
+                        "Wall Street",
+                        "Libor",
+                        "debt",
+                        "fresh steps"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Biden expected to sign federal disaster aid for Texas: WSJ",
+                "features": {
+                    "keywords": [
+                        "Biden",
+                        "federal disaster aid",
+                        "Texas",
+                        "WSJ"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "government",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

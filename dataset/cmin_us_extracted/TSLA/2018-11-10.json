@@ -1,0 +1,48 @@
+{
+    "2018-11-10": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "The Morning After: MacBook Air and iPad Pro reviews",
+                "features": {
+                    "keywords": [
+                        "MacBook Air",
+                        "iPad Pro",
+                        "reviews"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Morningstar Runs the Numbers",
+                "features": {
+                    "keywords": [
+                        "Morningstar",
+                        "Runs",
+                        "Numbers"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

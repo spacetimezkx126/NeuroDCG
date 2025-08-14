@@ -1,0 +1,77 @@
+{
+    "2021-01-04": [
+        [
+            {
+                "time": "",
+                "original_text": "【中信建投银行杨荣】上海银行简评：《营收净利润大幅回升，不良率环比持平》",
+                "features": {
+                    "keywords": [
+                        "上海银行",
+                        "营收",
+                        "净利润",
+                        "大幅回升",
+                        "不良率",
+                        "环比持平"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-01",
+                "original_text": "A股融资融券日报：两融余额增加25.69亿元（1月1日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "新规发威，元旦后银行房贷额度不松反紧",
+                "features": {
+                    "keywords": [
+                        "新规",
+                        "元旦",
+                        "银行",
+                        "房贷",
+                        "额度",
+                        "不松反紧"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "银行",
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

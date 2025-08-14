@@ -1,0 +1,75 @@
+{
+    "2019-12-04": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "What's behind a delay in Duke Energy's latest bidding round for NC solar projects",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "delay",
+                        "bidding round",
+                        "NC solar projects"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "renewables"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "Hedge Funds Aren’t Crazy About Duke Energy Corporation (DUK) Anymore",
+                "features": {
+                    "keywords": [
+                        "Hedge Funds",
+                        "Duke Energy Corporation",
+                        "DUK"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-05-20",
+                "original_text": "Black Hills Invests $125M, Builds Wind and Pipeline Project",
+                "features": {
+                    "keywords": [
+                        "Black Hills",
+                        "Invests",
+                        "$125M",
+                        "Wind",
+                        "Pipeline Project"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "infrastructure"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

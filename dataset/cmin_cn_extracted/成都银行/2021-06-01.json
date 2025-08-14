@@ -1,0 +1,50 @@
+{
+    "2021-06-01": [
+        [
+            {
+                "time": "",
+                "original_text": "成都银行今日大宗交易成交330万股，成交价12.82元折价5.74%",
+                "features": {
+                    "keywords": [
+                        "成都银行",
+                        "大宗交易",
+                        "成交",
+                        "折价"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-05-31",
+                "original_text": "A股融资融券日报：两融余额增加114.99亿元（5月31日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

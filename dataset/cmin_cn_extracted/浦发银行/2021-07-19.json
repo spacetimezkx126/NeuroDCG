@@ -1,0 +1,95 @@
+{
+    "2021-07-19": [
+        [
+            {
+                "time": "",
+                "original_text": "浦发银行上海分行为特殊人士上门办理企业年金申领业务",
+                "features": {
+                    "keywords": [
+                        "浦发银行",
+                        "特殊人士",
+                        "企业年金",
+                        "上门办理"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "子公司未如约还债天泽信息担保贷款逾期近2年信披考评由B降D 担保风险",
+                "features": {
+                    "keywords": [
+                        "天泽信息",
+                        "担保贷款",
+                        "逾期",
+                        "信披考评",
+                        "担保风险"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-07-12至2021-07-18",
+                "original_text": "金融监管政策周报（7.12-7.18）：发布数字人民币白皮书",
+                "features": {
+                    "keywords": [
+                        "金融监管",
+                        "数字人民币",
+                        "白皮书"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "94股获券商买入评级，浦发银行目标涨幅达96.69%",
+                "features": {
+                    "keywords": [
+                        "券商买入评级",
+                        "浦发银行",
+                        "目标涨幅"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

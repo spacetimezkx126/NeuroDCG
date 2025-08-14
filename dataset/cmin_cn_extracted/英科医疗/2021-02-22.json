@@ -1,0 +1,85 @@
+{
+    "2021-02-22": [
+        [
+            {
+                "time": "2021-12-31",
+                "original_text": "2021年度商界女性榜出炉：医药行业占22%，‘玻尿酸女王’身价超500亿元",
+                "features": {
+                    "keywords": [
+                        "商界女性",
+                        "医药行业",
+                        "玻尿酸",
+                        "身价"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-03-04",
+                "original_text": "盛视早参：‘两会’前夕或维持震荡格局",
+                "features": {
+                    "keywords": [
+                        "两会",
+                        "震荡格局"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-09-15",
+                "original_text": "335公司利润不断改善85家步入绩优股行列",
+                "features": {
+                    "keywords": [
+                        "公司利润",
+                        "绩优股"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-12-10",
+                "original_text": "中红医疗过会，2020年手套销售额料翻2-3倍",
+                "features": {
+                    "keywords": [
+                        "中红医疗",
+                        "手套",
+                        "销售额"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医疗"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "2021-12-06": [
+        [
+            {
+                "time": "",
+                "original_text": "解盘：人气回暖资金回流，纯碱、证券、电力、ST领涨",
+                "features": {
+                    "keywords": [
+                        "人气回暖",
+                        "资金回流",
+                        "纯碱",
+                        "证券",
+                        "电力",
+                        "ST"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "化工",
+                        "金融",
+                        "公用事业",
+                        "其他"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-12-03",
+                "original_text": "成都银行12月03日的融资余额比上日增2.38%，共有1笔股票质押",
+                "features": {
+                    "keywords": [
+                        "成都银行",
+                        "融资余额",
+                        "股票质押"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "2019-11-08": [
+        [
+            {
+                "time": "2023-01-08",
+                "original_text": "上市公司晚间公告速递",
+                "features": {
+                    "keywords": [
+                        "公告",
+                        "速递"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-01-08",
+                "original_text": "大秦铁路：前10月累计货物运输量36012万吨 同比减少3.75%",
+                "features": {
+                    "keywords": [
+                        "大秦铁路",
+                        "货物运输量",
+                        "同比减少"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-01-08",
+                "original_text": "大秦铁路：大秦线前10月货物运输量同比减少3.75% 盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "大秦铁路",
+                        "大秦线",
+                        "货物运输量",
+                        "同比减少",
+                        "盈利能力下降"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-01-08",
+                "original_text": "大秦铁路(601006.SH)10月大秦线货物运输量升5.80%至3664万吨",
+                "features": {
+                    "keywords": [
+                        "大秦铁路",
+                        "大秦线",
+                        "货物运输量",
+                        "同比上升"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

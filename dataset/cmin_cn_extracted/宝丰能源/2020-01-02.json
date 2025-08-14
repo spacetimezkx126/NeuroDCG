@@ -1,0 +1,72 @@
+{
+    "2020-01-02": [
+        [
+            {
+                "time": "2019-01-01",
+                "original_text": "2019年打新中签一股票最高可赚22万",
+                "features": {
+                    "keywords": [
+                        "打新",
+                        "中签",
+                        "股票",
+                        "盈利"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-12-31",
+                "original_text": "12月31日有96家公司获重要股东增减持，坚瑞沃能已被连续减持76次",
+                "features": {
+                    "keywords": [
+                        "增减持",
+                        "重要股东",
+                        "坚瑞沃能",
+                        "连续减持"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-12-31",
+                "original_text": "最新IPO造富榜出炉！203家公司催生558位亿万富豪，科创板占了4成！",
+                "features": {
+                    "keywords": [
+                        "IPO",
+                        "造富榜",
+                        "科创板",
+                        "亿万富豪"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科创板"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "2021-10-26": [
+        [
+            {
+                "time": "2021-10-25",
+                "original_text": "公,用,周,报,：,广,东,等,多,省,份,颁,布,电,价,市,场,改,革,通,知, ,21Q1-Q3,风,电,光,伏,分,别,新,增,装,机,16.4、25.7GW",
+                "features": {
+                    "keywords": [
+                        "电价改革",
+                        "风电",
+                        "光伏",
+                        "新增装机"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电力",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-10-01",
+                "original_text": "前,瞻,性,研,究,行,业,月,报,：,绿,色,能,源,与,前,瞻,性,产,业,月,报,(,2,0,2,1,年,1,0,月,报,)",
+                "features": {
+                    "keywords": [
+                        "绿色能源",
+                        "前瞻性产业"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "环保"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-10-25",
+                "original_text": "A,股,融,资,融,券,日,报,：,两,融,余,额,增,加,78.07,亿,元,（,1,0,月,2,5,日,）",
+                "features": {
+                    "keywords": [
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-10-25",
+                "original_text": "公,用,事,业,点,评,报,告,：,“,双,碳,”,顶,层,设,计,重,磅,出,台, ,行,业,迎,来,机,制,改,革,共,振,成,长,曲,线",
+                "features": {
+                    "keywords": [
+                        "双碳",
+                        "顶层设计",
+                        "机制改革",
+                        "成长曲线"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "公用事业",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

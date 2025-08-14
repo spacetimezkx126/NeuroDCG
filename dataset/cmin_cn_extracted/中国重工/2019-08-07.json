@@ -1,0 +1,50 @@
+{
+    "2019-08-07": [
+        [
+            {
+                "time": "",
+                "original_text": "【异动股】船舶制造板块下挫，亚光科技(300123-CN)跌5.02%",
+                "features": {
+                    "keywords": [
+                        "船舶制造",
+                        "板块下挫",
+                        "亚光科技"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "船舶制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【安信军工】中船防务重大资产重组方案调整，不再注入动力类资产同时保留黄埔文冲船厂控制权",
+                "features": {
+                    "keywords": [
+                        "中船防务",
+                        "资产重组",
+                        "动力类资产",
+                        "黄埔文冲船厂"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "军工",
+                        "船舶制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

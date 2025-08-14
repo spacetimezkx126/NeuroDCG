@@ -1,0 +1,51 @@
+{
+    "2020-10-17": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "煤、炭、银、行、股、领、衔、低、估、值、板、块、逆、势、崛、起、哪、些、基、金、值、得、关、注、?",
+                "features": {
+                    "keywords": [
+                        "煤炭",
+                        "银行股",
+                        "低估",
+                        "逆势崛起"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "煤炭",
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "市、场、信、心、逐、渐、恢、复、银、行、股、迎、来、修、复、行、情",
+                "features": {
+                    "keywords": [
+                        "市场信心",
+                        "恢复",
+                        "银行股",
+                        "修复行情"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

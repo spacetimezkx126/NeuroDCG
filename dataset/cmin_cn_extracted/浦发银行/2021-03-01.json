@@ -1,0 +1,74 @@
+{
+    "2021-03-01": [
+        [
+            {
+                "time": "",
+                "original_text": "打造智能财富管理银行 “浦发卓信”财富管理品牌焕新发布",
+                "features": {
+                    "keywords": [
+                        "智能财富管理",
+                        "浦发卓信",
+                        "品牌焕新"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "银行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-03-01",
+                "original_text": "上清所3月1日试运行大宗商品现货清算业务",
+                "features": {
+                    "keywords": [
+                        "上清所",
+                        "大宗商品",
+                        "现货清算",
+                        "试运行"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "大宗商品",
+                        "金融基础设施"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "首批个贷不良转让落地，国厚资产、广投资产各竞得一个资产包",
+                "features": {
+                    "keywords": [
+                        "个贷不良",
+                        "资产转让",
+                        "国厚资产",
+                        "广投资产"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "资产管理",
+                        "不良资产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

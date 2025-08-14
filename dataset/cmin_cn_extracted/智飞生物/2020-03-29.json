@@ -1,0 +1,51 @@
+{
+    "2020-03-29": [
+        [
+            {
+                "time": "",
+                "original_text": "股本本周股价创新高，4股北上资金抢先加仓",
+                "features": {
+                    "keywords": [
+                        "股价创新高",
+                        "北上资金",
+                        "加仓"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "投资"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "2020年全球及中国疫苗行业市场分析：全球四大巨头领先发展 未来发展趋势利好明显",
+                "features": {
+                    "keywords": [
+                        "疫苗行业",
+                        "市场分析",
+                        "发展趋势",
+                        "利好"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药",
+                        "生物科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

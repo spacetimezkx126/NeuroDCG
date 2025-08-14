@@ -1,0 +1,71 @@
+{
+    "2020-01-09": [
+        [
+            {
+                "time": "2019-12-18",
+                "original_text": "On the menu: Downtown Orlando to get its 3rd Starbucks",
+                "features": {
+                    "keywords": [
+                        "Downtown Orlando",
+                        "Starbucks"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-12-18",
+                "original_text": "Starbucks Stock, Up 37% in 2019, Rises on Barclays Upgrade",
+                "features": {
+                    "keywords": [
+                        "Starbucks Stock",
+                        "Barclays Upgrade",
+                        "Up 37%"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-12-18",
+                "original_text": "Starbucks Shares Gain as Barclays Joins Wall Street Chorus of Bullish 2020 Outlooks",
+                "features": {
+                    "keywords": [
+                        "Starbucks Shares",
+                        "Barclays",
+                        "Bullish 2020 Outlooks"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

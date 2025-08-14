@@ -1,0 +1,83 @@
+{
+    "2020-10-27": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Oil Demand In Doubt As COVID Cases Climb",
+                "features": {
+                    "keywords": [
+                        "Oil",
+                        "Demand",
+                        "Doubt",
+                        "COVID",
+                        "Cases",
+                        "Climb"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "France: Total Obtains 20% of the Volumes of the Latest National Solar Tender, More Than 600 MW of Projects Awarded in France",
+                "features": {
+                    "keywords": [
+                        "France",
+                        "Total",
+                        "Solar",
+                        "Tender",
+                        "Projects",
+                        "Awarded"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "renewable energy",
+                        "solar"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "LanzaTech, Total and L’Oréal Announce a Worldwide Premiere: the Production of the First Cosmetic Plastic Bottle Made From Industrial Carbon Emissions",
+                "features": {
+                    "keywords": [
+                        "LanzaTech",
+                        "Total",
+                        "L’Oréal",
+                        "Cosmetic",
+                        "Plastic",
+                        "Bottle",
+                        "Industrial",
+                        "Carbon",
+                        "Emissions"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "environmental technology",
+                        "plastics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

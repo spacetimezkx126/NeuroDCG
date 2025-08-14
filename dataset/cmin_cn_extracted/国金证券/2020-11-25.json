@@ -1,0 +1,71 @@
+{
+    "2020-11-25": [
+        [
+            {
+                "time": "",
+                "original_text": "保本合同是“假章”盖的?员工代客炒股一年亏掉2000多万",
+                "features": {
+                    "keywords": [
+                        "假章",
+                        "代客炒股",
+                        "亏损"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【行情】证券板块活跃，国联证券、湘财股份涨4%，国金证券、兴业证券、中银证券小幅跟涨",
+                "features": {
+                    "keywords": [
+                        "证券板块",
+                        "活跃",
+                        "国联证券",
+                        "湘财股份",
+                        "上涨"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "券商股能否带领A股冲关？",
+                "features": {
+                    "keywords": [
+                        "券商股",
+                        "A股",
+                        "冲关"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

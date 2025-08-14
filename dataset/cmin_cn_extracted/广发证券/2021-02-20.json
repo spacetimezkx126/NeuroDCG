@@ -1,0 +1,71 @@
+{
+    "2021-02-20": [
+        [
+            {
+                "time": "",
+                "original_text": "《深化改革 稳步推进高水平资本项目开放》点评：证券市场高水平开放大势定 券商跨境综合金融服务将再下一城",
+                "features": {
+                    "keywords": [
+                        "深化改革",
+                        "高水平开放",
+                        "证券市场",
+                        "跨境金融服务"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "券商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "这类投资突然火了！傅鹏博等顶流基金经理集体出手",
+                "features": {
+                    "keywords": [
+                        "顶流基金经理",
+                        "投资",
+                        "突然火了"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "20家抽查企业6家撤回，严查“入口关”将常态化",
+                "features": {
+                    "keywords": [
+                        "抽查企业",
+                        "撤回",
+                        "严查",
+                        "入口关",
+                        "常态化"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "企业监管"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

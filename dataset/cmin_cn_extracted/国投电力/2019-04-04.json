@@ -1,0 +1,71 @@
+{
+    "2019-04-04": [
+        [
+            {
+                "time": "2018-01-01",
+                "original_text": "电力：2018全年用电增速达8.5% 荐5股",
+                "features": {
+                    "keywords": [
+                        "电力",
+                        "用电增速",
+                        "荐股"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-04-03",
+                "original_text": "【晨会聚焦】社保减持交行缘由几何？个股推荐：青岛啤酒",
+                "features": {
+                    "keywords": [
+                        "社保减持",
+                        "交通银行",
+                        "青岛啤酒"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "银行",
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-04-03",
+                "original_text": "【电力-国投电力(600886)】李俊松、张绪成：年报点评：水火并济，年报业绩同比大增",
+                "features": {
+                    "keywords": [
+                        "国投电力",
+                        "年报",
+                        "水火并济",
+                        "业绩同比大增"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

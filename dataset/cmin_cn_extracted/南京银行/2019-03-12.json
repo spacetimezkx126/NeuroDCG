@@ -1,0 +1,50 @@
+{
+    "2019-03-12": [
+        [
+            {
+                "time": "",
+                "original_text": "南京银行今日大宗交易成交340万股，成交价7.05元折价10.31%.",
+                "features": {
+                    "keywords": [
+                        "南京银行",
+                        "大宗交易",
+                        "成交价",
+                        "折价"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "上市银行“年报时间”开启：平安率先报喜 至少25家银行净利润增长.",
+                "features": {
+                    "keywords": [
+                        "上市银行",
+                        "年报",
+                        "净利润增长",
+                        "平安"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

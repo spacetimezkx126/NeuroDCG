@@ -1,0 +1,72 @@
+{
+    "2021-03-04": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "Mark Zuckerberg raised $35 million from Facebook stock trades this week",
+                "features": {
+                    "keywords": [
+                        "Zuckerberg",
+                        "Facebook",
+                        "stock trades",
+                        "raised"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Re-opening rotation trades are rocking the market: Morning Brief",
+                "features": {
+                    "keywords": [
+                        "re-opening",
+                        "rotation trades",
+                        "rocking",
+                        "market"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "5 Stocks to Invest in Virtual and Augmented Reality",
+                "features": {
+                    "keywords": [
+                        "stocks",
+                        "invest",
+                        "virtual",
+                        "augmented reality"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "2021-01-28": [
+        [
+            {
+                "time": "2021-02-00",
+                "original_text": "研究所2021年2月精选组合",
+                "features": {
+                    "keywords": [
+                        "研究所",
+                        "精选组合"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-02-01",
+                "original_text": "证监会：东方盛虹、杭州银行、帝欧家居发行可转债事项将于2月1日上会",
+                "features": {
+                    "keywords": [
+                        "证监会",
+                        "东方盛虹",
+                        "杭州银行",
+                        "帝欧家居",
+                        "可转债",
+                        "上会"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工",
+                        "银行",
+                        "家居"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-02-00",
+                "original_text": "银行-工业企业利润数据点评：制造业拉动作用明显 稳杠杆下风险下降",
+                "features": {
+                    "keywords": [
+                        "银行",
+                        "工业企业",
+                        "利润数据",
+                        "制造业",
+                        "稳杠杆",
+                        "风险下降"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "银行",
+                        "工业",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

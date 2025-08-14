@@ -1,0 +1,52 @@
+{
+    "2020-03-17": [
+        [
+            {
+                "time": "2020-03-10",
+                "original_text": "What Apple, Microsoft, GE and other U.S. companies are saying about the coronavirus outbreak",
+                "features": {
+                    "keywords": [
+                        "Apple",
+                        "Microsoft",
+                        "GE",
+                        "coronavirus",
+                        "outbreak"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "industrial",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-03-10",
+                "original_text": "3M Stock Rises 4%",
+                "features": {
+                    "keywords": [
+                        "3M",
+                        "Stock",
+                        "Rises"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

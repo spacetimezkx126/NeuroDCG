@@ -1,0 +1,53 @@
+{
+    "2020-06-30": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "Macy’s launches ‘unannounced’ July 4th fireworks this week — but who’s behind the surprise fireworks boom across the country?",
+                "features": {
+                    "keywords": [
+                        "Macy's",
+                        "launches",
+                        "fireworks",
+                        "surprise"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "entertainment"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "High volatility is here to stay in 2020. Goldman names 31 stocks to deliver the best returns amid the turbulence",
+                "features": {
+                    "keywords": [
+                        "high volatility",
+                        "Goldman",
+                        "stocks",
+                        "best returns",
+                        "turbulence"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "investment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

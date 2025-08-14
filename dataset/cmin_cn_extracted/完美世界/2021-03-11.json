@@ -1,0 +1,51 @@
+{
+    "2021-03-11": [
+        [
+            {
+                "time": "",
+                "original_text": "完美世界今日大宗交易成交50万股，成交价20.5元折价11.06%",
+                "features": {
+                    "keywords": [
+                        "完美世界",
+                        "大宗交易",
+                        "成交",
+                        "折价"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "传媒",
+                        "游戏"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "游戏板块显著回暖，世纪华通、游族网络先后涨停",
+                "features": {
+                    "keywords": [
+                        "游戏板块",
+                        "回暖",
+                        "涨停"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "传媒",
+                        "游戏"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

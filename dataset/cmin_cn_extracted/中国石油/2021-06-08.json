@@ -1,0 +1,75 @@
+{
+    "2021-06-08": [
+        [
+            {
+                "time": "",
+                "original_text": "央企人事调整：中国石油、华能集团外部董事职务任免 董监高成员变化",
+                "features": {
+                    "keywords": [
+                        "央企人事调整",
+                        "中国石油",
+                        "华能集团",
+                        "外部董事",
+                        "董监高"
+                    ],
+                    "sentiment_score": -0.1,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "油价进一步下跌，中国石油进口下降引发需求反弹脆弱担忧",
+                "features": {
+                    "keywords": [
+                        "油价下跌",
+                        "中国石油",
+                        "进口下降",
+                        "需求反弹",
+                        "脆弱担忧"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "融资客青睐11股，金杯汽车买入占比高达40.41%",
+                "features": {
+                    "keywords": [
+                        "融资客",
+                        "金杯汽车",
+                        "买入占比",
+                        "40.41%"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

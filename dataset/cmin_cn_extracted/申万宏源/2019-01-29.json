@@ -1,0 +1,51 @@
+{
+    "2019-01-29": [
+        [
+            {
+                "time": "",
+                "original_text": "申万宏源点评标普正式获批进入中国信用评级市场",
+                "features": {
+                    "keywords": [
+                        "申万宏源",
+                        "标普",
+                        "信用评级",
+                        "中国市场"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "申万宏源赴港上市 手续费及佣金收入萎缩拖累业绩",
+                "features": {
+                    "keywords": [
+                        "申万宏源",
+                        "赴港上市",
+                        "手续费",
+                        "佣金收入",
+                        "业绩萎缩"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

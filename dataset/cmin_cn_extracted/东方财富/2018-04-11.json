@@ -1,0 +1,51 @@
+{
+    "2018-04-11": [
+        [
+            {
+                "time": "",
+                "original_text": "此刻的蓄势就是为接下的震撼涨停一击",
+                "features": {
+                    "keywords": [
+                        "蓄势",
+                        "震撼",
+                        "涨停"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "证券、金融服务行业动态：3月业绩环比显著改善、同比高基数有所承压",
+                "features": {
+                    "keywords": [
+                        "证券",
+                        "金融服务",
+                        "3月业绩",
+                        "环比改善",
+                        "同比承压"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

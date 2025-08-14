@@ -1,0 +1,50 @@
+{
+    "2019-12-30": [
+        [
+            {
+                "time": "",
+                "original_text": "伊利股份现1笔大宗交易 ，共成交875.57万元",
+                "features": {
+                    "keywords": [
+                        "伊利股份",
+                        "大宗交易",
+                        "成交金额"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-12-29",
+                "original_text": "【酒企密集定调明年，行业趋势上行中与好公司共同成长—方正食品饮料191229】",
+                "features": {
+                    "keywords": [
+                        "酒企",
+                        "行业趋势",
+                        "上行",
+                        "方正食品饮料"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料",
+                        "酒类"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

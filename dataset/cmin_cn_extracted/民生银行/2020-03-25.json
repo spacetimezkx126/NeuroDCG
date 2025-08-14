@@ -1,0 +1,74 @@
+{
+    "2020-03-25": [
+        [
+            {
+                "time": "",
+                "original_text": "民生银行(600016.SH)：东方股份解除质押及重新质押8400万股",
+                "features": {
+                    "keywords": [
+                        "民生银行",
+                        "东方股份",
+                        "解除质押",
+                        "重新质押",
+                        "8400万股"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "民生银行：已发放抗击疫情期间信贷资金635.73亿元",
+                "features": {
+                    "keywords": [
+                        "民生银行",
+                        "抗击疫情",
+                        "信贷资金",
+                        "635.73亿元"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-03-24",
+                "original_text": "A股融资融券日报：两融余额减少4.98亿元（3月24日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "减少",
+                        "4.98亿元"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "市场整体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

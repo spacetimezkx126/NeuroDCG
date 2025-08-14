@@ -1,0 +1,55 @@
+{
+    "2020-06-24": [
+        [
+            {
+                "time": "",
+                "original_text": "证券Ⅱ行业2020年中期策略：政策红利正不断累积，顺周期孕育投资机会",
+                "features": {
+                    "keywords": [
+                        "证券",
+                        "行业",
+                        "2020年中期策略",
+                        "政策红利",
+                        "顺周期",
+                        "投资机会"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2020-06-23",
+                "original_text": "A股融资融券日报：两融余额增加50.04亿元（6月23日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "增加",
+                        "50.04亿元"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "A股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

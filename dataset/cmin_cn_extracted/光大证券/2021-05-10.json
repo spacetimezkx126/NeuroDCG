@@ -1,0 +1,54 @@
+{
+    "2021-05-10": [
+        [
+            {
+                "time": "",
+                "original_text": "券商“炒股”红黑榜：国泰君安增长50倍，三家券商陷入亏损，为何收益率低于基金、私募？",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "国泰君安",
+                        "增长",
+                        "亏损",
+                        "收益率",
+                        "基金",
+                        "私募"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-05-10",
+                "original_text": "中国债券市场金融债发行日程一览(5月10日)",
+                "features": {
+                    "keywords": [
+                        "债券市场",
+                        "金融债",
+                        "发行日程"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "债券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "2020-11-16": [
+        [
+            {
+                "time": "",
+                "original_text": "港股航运港口板块上行，大连港涨超4%，天津港发展、中远海发涨近4%，中集集团、中远海控涨近3%",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "航运港口",
+                        "大连港",
+                        "天津港发展",
+                        "中远海发",
+                        "中集集团",
+                        "中远海控"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航运",
+                        "港口"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-11-13",
+                "original_text": "A股融资融券日报：两融余额减少8.08亿元（11月13日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "港股盘前必读：RCEP正式签署，美国三大股指均收涨逾1%",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "RCEP",
+                        "美国三大股指"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "国际贸易"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

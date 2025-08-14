@@ -1,0 +1,51 @@
+{
+    "2018-03-05": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "John Deere Credit Compania Financiera S.A. -- Moody's assigns foreign currency debt ratings to John Deere Credit Compania Financiera S.A.'s expected senior issuances",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "debt ratings",
+                        "John Deere Credit",
+                        "foreign currency",
+                        "senior issuances"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "agriculture"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Deere (DE) on Acquisition Spree, Inks Deal to Buy King Agro",
+                "features": {
+                    "keywords": [
+                        "Deere",
+                        "acquisition",
+                        "King Agro"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "agriculture"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

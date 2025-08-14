@@ -1,0 +1,54 @@
+{
+    "2021-03-16": [
+        [
+            {
+                "time": "2023-03-16",
+                "original_text": "生，意，社，：，3，月，16，日，山，东，华，鲁，恒，升，液，氨，价，格，持，稳",
+                "features": {
+                    "keywords": [
+                        "山东",
+                        "华鲁恒升",
+                        "液氨",
+                        "价格",
+                        "持稳"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-01-01",
+                "original_text": "1，月，券，商，金，股，名，单，出，炉，！，白，酒，降，温，，，顺，周，期，仍，受，捧，，，这，些，股，票，有，看，头",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "金股",
+                        "白酒",
+                        "降温",
+                        "顺周期",
+                        "股票"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "白酒",
+                        "顺周期行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

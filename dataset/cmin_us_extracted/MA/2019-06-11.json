@@ -1,0 +1,95 @@
+{
+    "2019-06-11": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "The Market Is Upset -- But It's Heading Higher",
+                "features": {
+                    "keywords": [
+                        "Market",
+                        "Upset",
+                        "Heading",
+                        "Higher"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general_market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Visa Stock May Not Be the Best Credit-Card Name",
+                "features": {
+                    "keywords": [
+                        "Visa",
+                        "Stock",
+                        "Credit-Card"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "U.S. Tourists in Europe May Soon Pay Foreign-Exchange Fees Again",
+                "features": {
+                    "keywords": [
+                        "U.S.",
+                        "Tourists",
+                        "Europe",
+                        "Foreign-Exchange",
+                        "Fees"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "travel",
+                        "currency"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "See what the IHS Markit Score report has to say about MasterCard Inc.",
+                "features": {
+                    "keywords": [
+                        "IHS",
+                        "Markit",
+                        "Score",
+                        "MasterCard"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

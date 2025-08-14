@@ -1,0 +1,75 @@
+{
+    "2018-05-23": [
+        [
+            {
+                "time": "",
+                "original_text": "【解盘论市】黄金石油，仍有伊人在等她的盖世英雄",
+                "features": {
+                    "keywords": [
+                        "黄金",
+                        "石油",
+                        "盖世英雄"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "贵金属"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国神华:一体化龙头业绩稳健,负债与资本开支继续下降",
+                "features": {
+                    "keywords": [
+                        "中国神华",
+                        "一体化",
+                        "业绩稳健",
+                        "负债下降",
+                        "资本开支下降"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "煤炭股整体下跌，发改委要求煤企将现货煤价降至570元以下",
+                "features": {
+                    "keywords": [
+                        "煤炭股",
+                        "发改委",
+                        "现货煤价",
+                        "570元"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

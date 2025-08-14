@@ -1,0 +1,53 @@
+{
+    "2018-08-20": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Ken Heebner Trims Citigroup, Vale Positions",
+                "features": {
+                    "keywords": [
+                        "Ken Heebner",
+                        "Trims",
+                        "Citigroup",
+                        "Vale",
+                        "Positions"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "basic materials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Has VALE (VALE) Outpaced Other Basic Materials Stocks This Year?",
+                "features": {
+                    "keywords": [
+                        "VALE",
+                        "Outpaced",
+                        "Basic Materials",
+                        "Stocks",
+                        "Year"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "basic materials"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

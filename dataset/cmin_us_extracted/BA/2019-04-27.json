@@ -1,0 +1,55 @@
+{
+    "2019-04-27": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Barron's Picks And Pans: Boeing, Chevron, Netflix, Tesla And More",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "Chevron",
+                        "Netflix",
+                        "Tesla",
+                        "Picks",
+                        "Pans"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "aerospace",
+                        "energy",
+                        "technology",
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Industrial Bellwethers Sending Mixed Signals: The Market Guide",
+                "features": {
+                    "keywords": [
+                        "Industrial",
+                        "Bellwethers",
+                        "Mixed Signals",
+                        "Market Guide"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

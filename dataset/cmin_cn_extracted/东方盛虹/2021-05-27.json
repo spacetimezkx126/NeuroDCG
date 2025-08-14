@@ -1,0 +1,51 @@
+{
+    "2021-05-27": [
+        [
+            {
+                "time": "",
+                "original_text": "大盘站上3600点！国君高呼：蓝筹空间打开",
+                "features": {
+                    "keywords": [
+                        "大盘",
+                        "3600点",
+                        "国君",
+                        "蓝筹",
+                        "空间打开"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "蓝筹股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "多只中大盘股尾盘集合竞价大幅波动",
+                "features": {
+                    "keywords": [
+                        "中大盘股",
+                        "尾盘",
+                        "集合竞价",
+                        "大幅波动"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "中大盘股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

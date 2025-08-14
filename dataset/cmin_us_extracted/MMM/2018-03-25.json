@@ -1,0 +1,49 @@
+{
+    "2018-03-25": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Stocks to Help You Make Money in Retirement",
+                "features": {
+                    "keywords": [
+                        "stocks",
+                        "retirement",
+                        "make money"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Why Manufacturing Stocks Soared During Trump's First Year in Office",
+                "features": {
+                    "keywords": [
+                        "manufacturing",
+                        "soared",
+                        "Trump",
+                        "first year"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "manufacturing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

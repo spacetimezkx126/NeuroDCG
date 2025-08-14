@@ -1,0 +1,73 @@
+{
+    "2019-11-21": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Ohio Power Siting Board gives Duke Energy Ohio's Central Corridor natural gas pipeline a green light",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "natural gas pipeline",
+                        "green light"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "infrastructure"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Duke Energy announces closing of common stock offering with a forward component",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "common stock offering",
+                        "forward component"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "Delay for Duke Energy's solar-storage microgrid project likely means cost increase",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "solar-storage microgrid",
+                        "delay",
+                        "cost increase"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "renewable energy",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

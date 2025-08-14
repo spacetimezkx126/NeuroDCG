@@ -1,0 +1,93 @@
+{
+    "2019-12-15": [
+        [
+            {
+                "time": "2018-12-16",
+                "original_text": "A股头条之上市公司（12.16）",
+                "features": {
+                    "keywords": [
+                        "上市公司",
+                        "A股"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-12-16",
+                "original_text": "公告精选：珠海市政府批复同意格力股权转让；中装建设拟在澳门设立合资公司",
+                "features": {
+                    "keywords": [
+                        "格力",
+                        "股权转让",
+                        "珠海市政府",
+                        "中装建设",
+                        "澳门",
+                        "合资公司"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家电",
+                        "建筑"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-12-16",
+                "original_text": "中航飞机：部分国有股份无偿划转",
+                "features": {
+                    "keywords": [
+                        "中航飞机",
+                        "国有股份",
+                        "无偿划转"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-12-16",
+                "original_text": "中航飞机(000768.SZ)：10.95%的股份无偿划转至中航飞机有限责任公司 资产异常",
+                "features": {
+                    "keywords": [
+                        "中航飞机",
+                        "无偿划转",
+                        "资产异常"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

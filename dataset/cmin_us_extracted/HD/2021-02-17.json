@@ -1,0 +1,51 @@
+{
+    "2021-02-17": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "We are long overdue for an infrastructure bill: PPG Industries CEO",
+                "features": {
+                    "keywords": [
+                        "infrastructure bill",
+                        "PPG Industries",
+                        "CEO"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "construction",
+                        "materials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Why Home Depot and Lowe’s Stock Don’t Need A Pandemic to Rally",
+                "features": {
+                    "keywords": [
+                        "Home Depot",
+                        "Lowe's",
+                        "pandemic",
+                        "rally"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "home improvement"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

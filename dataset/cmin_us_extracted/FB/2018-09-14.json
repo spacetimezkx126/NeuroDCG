@@ -1,0 +1,109 @@
+{
+    "2018-09-14": [
+        [
+            {
+                "time": "2018-09-14",
+                "original_text": "['Internet', 'Content', 'Stock', 'Outlook:', 'Regulations', 'to', 'Dull', 'Growth']",
+                "features": {
+                    "keywords": [
+                        "Regulations",
+                        "Dull Growth"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "internet",
+                        "content"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-09-14",
+                "original_text": "['Tentative', 'agreement', 'reached', 'on', 'driver', 'contracts', 'with', 'tech', 'bus', 'companies']",
+                "features": {
+                    "keywords": [
+                        "Tentative agreement",
+                        "Driver contracts"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "transportation",
+                        "tech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-09-14",
+                "original_text": "['Snap Stock Is the ‘Proverbial Falling Knife’: Oppenheimer']",
+                "features": {
+                    "keywords": [
+                        "Falling Knife",
+                        "Oppenheimer"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "social media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-09-14",
+                "original_text": "['Facebook to Start Fact-Checking Photos, Videos']",
+                "features": {
+                    "keywords": [
+                        "Fact-Checking",
+                        "Photos, Videos"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "social media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-09-14",
+                "original_text": "['Google Expands Its Neighbourly App in India']",
+                "features": {
+                    "keywords": [
+                        "Google",
+                        "Neighbourly App",
+                        "India"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

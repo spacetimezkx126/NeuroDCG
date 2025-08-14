@@ -1,0 +1,82 @@
+{
+    "2021-12-23": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Sit Mutual Funds Inc Buys Truist Financial Corp, Baxter International Inc, The AES Corp, Sells ...",
+                "features": {
+                    "keywords": [
+                        "Truist Financial Corp",
+                        "Baxter International Inc",
+                        "The AES Corp",
+                        "Buys",
+                        "Sells"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "healthcare",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "MainStay VP Natural Resources Portfolio Buys Exxon Mobil Corp, Alcoa Corp, Nutrien, Sells ...",
+                "features": {
+                    "keywords": [
+                        "Exxon Mobil Corp",
+                        "Alcoa Corp",
+                        "Nutrien",
+                        "Buys",
+                        "Sells"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "materials",
+                        "agriculture"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Mainstay Vp Funds Trust Buys Cigna Corp, Dominion Energy Inc, Siemens AG, Sells PNC Financial ...",
+                "features": {
+                    "keywords": [
+                        "Cigna Corp",
+                        "Dominion Energy Inc",
+                        "Siemens AG",
+                        "PNC Financial",
+                        "Buys",
+                        "Sells"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "energy",
+                        "financial services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

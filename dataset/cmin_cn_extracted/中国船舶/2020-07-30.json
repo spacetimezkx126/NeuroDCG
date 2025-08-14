@@ -1,0 +1,52 @@
+{
+    "2020-07-30": [
+        [
+            {
+                "time": "",
+                "original_text": "上半年 全球 造船业 中国 成绩 最好",
+                "features": {
+                    "keywords": [
+                        "造船业",
+                        "中国",
+                        "成绩",
+                        "全球"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "工业",
+                        "船舶制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "上半年 船舶 工业 经济 运行 分析",
+                "features": {
+                    "keywords": [
+                        "船舶工业",
+                        "经济",
+                        "运行",
+                        "分析"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "工业",
+                        "船舶制造"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

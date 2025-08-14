@@ -1,0 +1,92 @@
+{
+    "2018-05-21": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "E*TRADE Has the Backing of Wall Street",
+                "features": {
+                    "keywords": [
+                        "E*TRADE",
+                        "Wall Street",
+                        "Backing"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Charles Schwab to Court Tech Workers at Recruiting Event",
+                "features": {
+                    "keywords": [
+                        "Charles Schwab",
+                        "Tech Workers",
+                        "Recruiting Event"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Schwab Volunteer Week Kicks Off Its 15th Year With Service to More Than 300 Nonprofits Nationwide",
+                "features": {
+                    "keywords": [
+                        "Schwab",
+                        "Volunteer Week",
+                        "Nonprofits"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "nonprofit"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "8 Stocks to Outperform a 'Rolling Bear Market'",
+                "features": {
+                    "keywords": [
+                        "Stocks",
+                        "Outperform",
+                        "Bear Market"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

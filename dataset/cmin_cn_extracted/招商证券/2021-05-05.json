@@ -1,0 +1,47 @@
+{
+    "2021-05-05": [
+        [
+            {
+                "time": "",
+                "original_text": "明天开盘了！盘前作业，哪些板块赢面大？",
+                "features": {
+                    "keywords": [
+                        "开盘",
+                        "盘前作业",
+                        "板块"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "招商证券：招商证券国际有限公司为其全资子公司提供担保 大额借贷担保",
+                "features": {
+                    "keywords": [
+                        "招商证券",
+                        "全资子公司",
+                        "担保",
+                        "大额借贷"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

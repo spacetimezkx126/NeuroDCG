@@ -1,0 +1,76 @@
+{
+    "2020-12-07": [
+        [
+            {
+                "time": "",
+                "original_text": "南京银行：“20扬州化工SCP001”持有人会议审议通过相关议案",
+                "features": {
+                    "keywords": [
+                        "南京银行",
+                        "扬州化工",
+                        "SCP001",
+                        "持有人会议",
+                        "议案"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "银行专题-银行核心资本前瞻：补充的规模与方式",
+                "features": {
+                    "keywords": [
+                        "银行",
+                        "核心资本",
+                        "补充",
+                        "规模",
+                        "方式"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "银行股大幅杀跌 机构：板块内部补涨行情值得关注丨牛熊眼",
+                "features": {
+                    "keywords": [
+                        "银行股",
+                        "杀跌",
+                        "机构",
+                        "补涨",
+                        "行情"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "2019-03-20": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "This Indicator Suggests All Is Not Well for Oil",
+                "features": {
+                    "keywords": [
+                        "Indicator",
+                        "Not Well",
+                        "Oil"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-03-30",
+                "original_text": "Noble Energy Has Outperformed Upstream Stocks in March",
+                "features": {
+                    "keywords": [
+                        "Noble Energy",
+                        "Outperformed",
+                        "Upstream Stocks",
+                        "March"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

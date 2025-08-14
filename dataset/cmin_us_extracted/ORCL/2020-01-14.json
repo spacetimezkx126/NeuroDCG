@@ -1,0 +1,75 @@
+{
+    "2020-01-14": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Tech companies are fighting and working around new laws",
+                "features": {
+                    "keywords": [
+                        "Tech companies",
+                        "fighting",
+                        "working around",
+                        "new laws"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Amazon Seeks to Halt Work on Microsoft & DoD's JEDI Contract",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "halt work",
+                        "Microsoft",
+                        "DoD",
+                        "JEDI Contract"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "defense"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "IBM Plans to Boost Digitalization Solutions for Retailers",
+                "features": {
+                    "keywords": [
+                        "IBM",
+                        "Boost",
+                        "Digitalization Solutions",
+                        "Retailers"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "2020-01-05": [
+        [
+            {
+                "time": "2020-01-05",
+                "original_text": "周末要闻2020年1月5日星期日",
+                "features": {
+                    "keywords": [
+                        "周末要闻",
+                        "城市市值排行",
+                        "北京",
+                        "深圳",
+                        "上海",
+                        "杭州",
+                        "广州"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "经济"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-01-05",
+                "original_text": "【城市市值排行榜】北京抵2个深圳3个上海4个杭州10个广州；剔除央企，深圳全国第一",
+                "features": {
+                    "keywords": [
+                        "城市市值排行榜",
+                        "北京",
+                        "深圳",
+                        "上海",
+                        "杭州",
+                        "广州",
+                        "央企"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "经济",
+                        "政策"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-01-05",
+                "original_text": "A股周一见|今年首只黑天鹅飞来，A股牛市安好？",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "黑天鹅",
+                        "牛市"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "股票市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

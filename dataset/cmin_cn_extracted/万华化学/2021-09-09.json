@@ -1,0 +1,52 @@
+{
+    "2021-09-09": [
+        [
+            {
+                "time": "",
+                "original_text": "北向资金减持市值超亿元股票（附名单） 减持股份",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "减持",
+                        "市值",
+                        "股票"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "投资"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "“双碳”主题激活能源资源",
+                "features": {
+                    "keywords": [
+                        "双碳",
+                        "主题",
+                        "激活",
+                        "能源资源"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "环保"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

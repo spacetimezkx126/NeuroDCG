@@ -1,0 +1,52 @@
+{
+    "2019-11-14": [
+        [
+            {
+                "time": "2018-10-01",
+                "original_text": "Wallace Weitz Adds 3 Stocks to Portfolio in 3rd Quarter",
+                "features": {
+                    "keywords": [
+                        "Wallace Weitz",
+                        "adds stocks",
+                        "portfolio",
+                        "3rd quarter"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "investing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-05-15",
+                "original_text": "Oracle Cloud Applications Achieves Department of Defense Impact Level 4 Provisional Authorization",
+                "features": {
+                    "keywords": [
+                        "Oracle Cloud",
+                        "Department of Defense",
+                        "Impact Level 4",
+                        "Provisional Authorization"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "cloud computing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

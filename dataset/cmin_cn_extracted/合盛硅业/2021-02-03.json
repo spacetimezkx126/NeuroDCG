@@ -1,0 +1,54 @@
+{
+    "2021-02-03": [
+        [
+            {
+                "time": "",
+                "original_text": "解盘：消费、金融拉指数，稀土、疫苗、猪肉领涨",
+                "features": {
+                    "keywords": [
+                        "消费",
+                        "金融",
+                        "稀土",
+                        "疫苗",
+                        "猪肉"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "消费",
+                        "金融",
+                        "稀土",
+                        "疫苗",
+                        "农业（猪肉）"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "快讯：新材料板块表现活跃 合盛硅业涨停",
+                "features": {
+                    "keywords": [
+                        "新材料",
+                        "合盛硅业",
+                        "涨停"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新材料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

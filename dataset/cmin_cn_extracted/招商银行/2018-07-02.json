@@ -1,0 +1,74 @@
+{
+    "2018-07-02": [
+        [
+            {
+                "time": "2018-07-02",
+                "original_text": "安邦集团内部划转所持A股公司股权，涉及万科同仁堂招行等",
+                "features": {
+                    "keywords": [
+                        "安邦集团",
+                        "股权划转",
+                        "万科",
+                        "同仁堂",
+                        "招商银行"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "房地产",
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-07-02",
+                "original_text": "招商银行：安邦财险拟将12.59亿股A股转让给一致人和谐健康保险",
+                "features": {
+                    "keywords": [
+                        "招商银行",
+                        "安邦财险",
+                        "股权转让",
+                        "和谐健康保险"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-07-02",
+                "original_text": "招商银行跌3.21%，创年度新低，报25.59元",
+                "features": {
+                    "keywords": [
+                        "招商银行",
+                        "股价下跌",
+                        "年度新低"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

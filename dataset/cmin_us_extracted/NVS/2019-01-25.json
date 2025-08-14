@@ -1,0 +1,84 @@
+{
+    "2019-01-25": [
+        [
+            {
+                "time": "2019-01-25",
+                "original_text": "Pre-Market Most Active for Jan 25, 2019: PCG, INTC, AMD, CHL, CGC, ERIC, BP, CRON, SQQQ, QQQ, NVS, NOK",
+                "features": {
+                    "keywords": [
+                        "Pre-Market",
+                        "Most Active",
+                        "PCG",
+                        "INTC",
+                        "AMD",
+                        "CHL",
+                        "CGC",
+                        "ERIC",
+                        "BP",
+                        "CRON",
+                        "SQQQ",
+                        "QQQ",
+                        "NVS",
+                        "NOK"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "energy",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-01-25",
+                "original_text": "Novartis urges Britain to secure drug supplies before Brexit",
+                "features": {
+                    "keywords": [
+                        "Novartis",
+                        "Britain",
+                        "drug supplies",
+                        "Brexit"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-01-25",
+                "original_text": "Davos 2019: Novartis CEO on company's focus",
+                "features": {
+                    "keywords": [
+                        "Davos",
+                        "Novartis",
+                        "CEO",
+                        "company's focus"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

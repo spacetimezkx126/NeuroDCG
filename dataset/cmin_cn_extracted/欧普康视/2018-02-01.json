@@ -1,0 +1,51 @@
+{
+    "2018-02-01": [
+        [
+            {
+                "time": "2023-02-01",
+                "original_text": "A股共发生52宗大宗交易成交19.6亿元（2月1日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "大宗交易",
+                        "52宗",
+                        "19.6亿元"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-02-01",
+                "original_text": "欧普康视今日大宗交易成交33.56万股，成交价44.12元折价8.94%",
+                "features": {
+                    "keywords": [
+                        "欧普康视",
+                        "大宗交易",
+                        "33.56万股",
+                        "44.12元",
+                        "折价8.94%"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医疗健康"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2021-11-12": [
+        [
+            {
+                "time": "",
+                "original_text": "海大集团现1笔大宗交易 ，共成交1,823.36万元",
+                "features": {
+                    "keywords": [
+                        "海大集团",
+                        "大宗交易",
+                        "成交金额"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "食品加工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "海大集团(002311)三季报点评：养殖承压 主业稳健",
+                "features": {
+                    "keywords": [
+                        "海大集团",
+                        "三季报",
+                        "养殖承压",
+                        "主业稳健"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "养殖业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

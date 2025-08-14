@@ -1,0 +1,71 @@
+{
+    "2020-11-28": [
+        [
+            {
+                "time": "",
+                "original_text": "咋回事？葱姜蒜都在涨价！这些股票也跟着涨了",
+                "features": {
+                    "keywords": [
+                        "葱姜蒜",
+                        "涨价",
+                        "股票"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "消费品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "向钱葱、姜你军、蒜你狠来了！这些股票跟着一起涨",
+                "features": {
+                    "keywords": [
+                        "向钱葱",
+                        "姜你军",
+                        "蒜你狠",
+                        "股票"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "消费品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "沪深300、上证50等指数 将调整样本股",
+                "features": {
+                    "keywords": [
+                        "沪深300",
+                        "上证50",
+                        "指数",
+                        "样本股"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "2019-06-12": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "How men and women differ when it comes to buying shoes",
+                "features": {
+                    "keywords": [
+                        "men",
+                        "women",
+                        "buying",
+                        "shoes"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "VCR, NKE, MAR, F: ETF Inflow Alert",
+                "features": {
+                    "keywords": [
+                        "VCR",
+                        "NKE",
+                        "MAR",
+                        "F",
+                        "ETF",
+                        "Inflow",
+                        "Alert"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer discretionary",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

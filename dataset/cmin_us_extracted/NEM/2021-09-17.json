@@ -1,0 +1,51 @@
+{
+    "2021-09-17": [
+        [
+            {
+                "time": "2021-01-01",
+                "original_text": "Gold Stocks Sinking Like a Stone",
+                "features": {
+                    "keywords": [
+                        "Gold",
+                        "Stocks",
+                        "Sinking",
+                        "Stone"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "commodities",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-01-01",
+                "original_text": "Stocks That Raised Their Dividend in 2021",
+                "features": {
+                    "keywords": [
+                        "Stocks",
+                        "Raised",
+                        "Dividend",
+                        "2021"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

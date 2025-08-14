@@ -1,0 +1,50 @@
+{
+    "2021-05-19": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "AM Best Assigns Issue Credit Ratings to UnitedHealth Group Incorporated’s Senior Unsecured Notes",
+                "features": {
+                    "keywords": [
+                        "credit ratings",
+                        "unitedhealth",
+                        "senior unsecured notes"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-06-20",
+                "original_text": "UnitedHealthcare Introduces First-of-its-Kind Community-Based Collaborative to Improve Health Outcomes and Equity",
+                "features": {
+                    "keywords": [
+                        "unitedhealthcare",
+                        "community-based collaborative",
+                        "health outcomes",
+                        "equity"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

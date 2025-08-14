@@ -1,0 +1,69 @@
+{
+    "2020-05-26": [
+        [
+            {
+                "time": "",
+                "original_text": "董监高辞职4人、年报延期披露华凯保险存被停牌风险 董监高成员变化",
+                "features": {
+                    "keywords": [
+                        "董监高辞职",
+                        "年报延期",
+                        "华凯保险",
+                        "停牌风险"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-05-26",
+                "original_text": "5月26日A股龙虎榜揭秘",
+                "features": {
+                    "keywords": [
+                        "龙虎榜",
+                        "A股"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "《证券公司分类监管规定》大修！权益类资产配置加大，中信建投、招商证券、中信证券等头部公司优势明显",
+                "features": {
+                    "keywords": [
+                        "证券公司分类监管规定",
+                        "权益类资产配置",
+                        "中信建投",
+                        "招商证券",
+                        "中信证券"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2019-07-02": [
+        [
+            {
+                "time": "2023-07-08",
+                "original_text": "恩捷股份(002812.SZ)年报推10转7派3.79元 股权登记日7月8日",
+                "features": {
+                    "keywords": [
+                        "恩捷股份",
+                        "年报",
+                        "10转7",
+                        "派3.79元",
+                        "股权登记日"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-07-08",
+                "original_text": "电气设备和新能源行业:光伏竞价申报完毕,动力电池白名单废止",
+                "features": {
+                    "keywords": [
+                        "电气设备",
+                        "新能源",
+                        "光伏竞价",
+                        "动力电池",
+                        "白名单废止"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电气设备",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

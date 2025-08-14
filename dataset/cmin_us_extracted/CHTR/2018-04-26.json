@@ -1,0 +1,68 @@
+{
+    "2018-04-26": [
+        [
+            {
+                "time": "2018-04-27",
+                "original_text": "Pre-Market Earnings Report for April 27, 2018: XOM, CVX, CHTR, CL, PSX, SPG, D, LYB, TRP, MCO, WY, IMO",
+                "features": {
+                    "keywords": [
+                        "Earnings",
+                        "Report",
+                        "XOM",
+                        "CVX",
+                        "CHTR",
+                        "CL",
+                        "PSX",
+                        "SPG",
+                        "D",
+                        "LYB",
+                        "TRP",
+                        "MCO",
+                        "WY",
+                        "IMO"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "consumer goods",
+                        "real estate",
+                        "industrials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-27",
+                "original_text": "NEWS BITES: Michael Cohen to plead 5th in Stormy Daniels case, Congress to question EPA director Pruitt, teachers strike in Arizona & Colorado",
+                "features": {
+                    "keywords": [
+                        "Michael Cohen",
+                        "Stormy Daniels",
+                        "Congress",
+                        "EPA",
+                        "Pruitt",
+                        "teachers strike",
+                        "Arizona",
+                        "Colorado"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "government",
+                        "education"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

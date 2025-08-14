@@ -1,0 +1,72 @@
+{
+    "2019-04-29": [
+        [
+            {
+                "time": "2019-04-30",
+                "original_text": "Expected to Earn $1.02 a Share",
+                "features": {
+                    "keywords": [
+                        "Ecolab",
+                        "earnings",
+                        "expected"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-04-30",
+                "original_text": "Pre-Market Earnings Report for April 30, 2019: MA, PFE, MRK, MCD, LLY, CHTR, GE, COP, GM, SPG, ECL, HCA",
+                "features": {
+                    "keywords": [
+                        "pre-market",
+                        "earnings",
+                        "report"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "consumer goods",
+                        "energy",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-04-30",
+                "original_text": "XLB, ECL, DOW, APD: ETF Outflow Alert",
+                "features": {
+                    "keywords": [
+                        "ETF",
+                        "outflow",
+                        "alert"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "materials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

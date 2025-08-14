@@ -1,0 +1,70 @@
+{
+    "2019-02-11": [
+        [
+            {
+                "time": "2018-01-12",
+                "original_text": "A股头条之上市公司公告精选（2.12）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "上市公司",
+                        "公告"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-12",
+                "original_text": "申万宏源：十大金股组合",
+                "features": {
+                    "keywords": [
+                        "申万宏源",
+                        "金股组合"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-12",
+                "original_text": "大秦铁路1月完成货物运输量3901万吨 同比减少0.66%",
+                "features": {
+                    "keywords": [
+                        "大秦铁路",
+                        "货物运输量",
+                        "同比减少"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "交通运输",
+                        "铁路"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

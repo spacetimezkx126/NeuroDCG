@@ -1,0 +1,53 @@
+{
+    "2020-09-16": [
+        [
+            {
+                "time": "",
+                "original_text": "华夏银行全资子公司华夏理财已获批准开业",
+                "features": {
+                    "keywords": [
+                        "华夏银行",
+                        "全资子公司",
+                        "华夏理财",
+                        "获批",
+                        "开业"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "华夏银行一天领8张罚单，资产质量承压趋势不减，金融监管处罚",
+                "features": {
+                    "keywords": [
+                        "华夏银行",
+                        "罚单",
+                        "资产质量",
+                        "承压",
+                        "金融监管",
+                        "处罚"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

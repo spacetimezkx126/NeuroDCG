@@ -1,0 +1,111 @@
+{
+    "2021-04-09": [
+        [
+            {
+                "time": "2023-04-09",
+                "original_text": "生，意，社，：，4，月，9，日，山，东，华，鲁，恒，升，液，氨，价，格，持，稳",
+                "features": {
+                    "keywords": [
+                        "华鲁恒升",
+                        "液氨",
+                        "价格",
+                        "持稳"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-01-01",
+                "original_text": "华，鲁，恒，升，：，今，年，以，来，主，导，产，品，产，销，两，旺",
+                "features": {
+                    "keywords": [
+                        "华鲁恒升",
+                        "主导产品",
+                        "产销两旺"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2022-12-31",
+                "original_text": "5，4，股，去，年，四，季，度，获，社，保，基，金，扎，堆，持，有",
+                "features": {
+                    "keywords": [
+                        "社保基金",
+                        "持股"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-04-03",
+                "original_text": "化，工，行，业，周，报，：，化，工，一，季，度，业，绩，靓，丽， ， 化，工，品，景，气，度，持，续，回，升",
+                "features": {
+                    "keywords": [
+                        "化工行业",
+                        "一季度业绩",
+                        "景气度",
+                        "回升"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-01",
+                "original_text": "中，泰，证，券，：，碳，中，和，对，于，化，工，行，业，的，影，响，，，主，要，来，自，能，耗，和，材，料，两，个，方，面",
+                "features": {
+                    "keywords": [
+                        "碳中和",
+                        "化工行业",
+                        "能耗",
+                        "材料"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

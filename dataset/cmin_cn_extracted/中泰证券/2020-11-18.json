@@ -1,0 +1,75 @@
+{
+    "2020-11-18": [
+        [
+            {
+                "time": "2018-01-18",
+                "original_text": "1月18日深市创业板活跃股公开信息",
+                "features": {
+                    "keywords": [
+                        "深市",
+                        "创业板",
+                        "活跃股",
+                        "公开信息"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "创业板块"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-12-00",
+                "original_text": "【热点报告——股指期货】2020年12月主要规模指数成分股调整预测",
+                "features": {
+                    "keywords": [
+                        "股指期货",
+                        "指数成分股",
+                        "调整预测"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "期货市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-00-00",
+                "original_text": "中泰证券：预计2020年电解铝整体处于短缺状态 坚定看好电解铝的大周期",
+                "features": {
+                    "keywords": [
+                        "中泰证券",
+                        "电解铝",
+                        "短缺状态",
+                        "看好",
+                        "大周期"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "有色金属",
+                        "工业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

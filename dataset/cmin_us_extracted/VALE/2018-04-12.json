@@ -1,0 +1,52 @@
+{
+    "2018-04-12": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "iShares Latin America 40 ETF Experiences Big Inflow",
+                "features": {
+                    "keywords": [
+                        "iShares",
+                        "Latin America",
+                        "ETF",
+                        "Big Inflow"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "ETFs"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "US-China Trade War and Copper: Is there a Connection?",
+                "features": {
+                    "keywords": [
+                        "US-China",
+                        "Trade War",
+                        "Copper",
+                        "Connection"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "commodities",
+                        "trade"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

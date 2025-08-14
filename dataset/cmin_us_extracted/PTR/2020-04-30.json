@@ -1,0 +1,51 @@
+{
+    "2020-04-30": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "China's Oil Dream Dims as State Giants Cut Capex by $19 Billion",
+                "features": {
+                    "keywords": [
+                        "China",
+                        "Oil",
+                        "Capex",
+                        "Cut",
+                        "State Giants"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Oil Jumps Amid Output Cuts and Early Signs of Demand Recovery",
+                "features": {
+                    "keywords": [
+                        "Oil",
+                        "Jumps",
+                        "Output Cuts",
+                        "Demand Recovery"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

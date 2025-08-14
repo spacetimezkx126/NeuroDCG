@@ -1,0 +1,123 @@
+{
+    "2020-12-11": [
+        [
+            {
+                "time": "2020-12-10",
+                "original_text": "Moderna Stock Jumps After U.S. Doubles Order For Covid Vaccine Doses",
+                "features": {
+                    "keywords": [
+                        "Moderna",
+                        "vaccine",
+                        "order",
+                        "doses"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-12-11",
+                "original_text": "Dow Moves Higher as Senate Passes Bill to Avert Government Shutdown",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "Senate",
+                        "bill",
+                        "shutdown"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "government",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-12-12",
+                "original_text": "Pfizer Shares Jump Ahead of FDA Vaccine Approval, Dividend Boost",
+                "features": {
+                    "keywords": [
+                        "Pfizer",
+                        "FDA",
+                        "approval",
+                        "dividend"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-12-13",
+                "original_text": "Stocks Fall as Stimulus Talks Remain at a Stalemate",
+                "features": {
+                    "keywords": [
+                        "stocks",
+                        "stimulus",
+                        "talks",
+                        "stalemate"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-12-14",
+                "original_text": "Sanofi and Glaxo Delay Their Covid Vaccine. Pfizer and Moderna Extend Their Leads.",
+                "features": {
+                    "keywords": [
+                        "Sanofi",
+                        "Glaxo",
+                        "delay",
+                        "vaccine",
+                        "Pfizer",
+                        "Moderna"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

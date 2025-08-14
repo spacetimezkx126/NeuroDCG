@@ -1,0 +1,54 @@
+{
+    "2019-07-17": [
+        [
+            {
+                "time": "",
+                "original_text": "电力：6月份用电需求向好带动火电增速转正 荐8股",
+                "features": {
+                    "keywords": [
+                        "电力",
+                        "6月份",
+                        "用电需求",
+                        "火电",
+                        "增速转正"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电力",
+                        "火电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-07-13",
+                "original_text": "长城公用-公用事业行业周观点：浙江省下调燃煤标杆电价",
+                "features": {
+                    "keywords": [
+                        "长城公用",
+                        "公用事业",
+                        "浙江省",
+                        "下调",
+                        "燃煤标杆电价"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "公用事业",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

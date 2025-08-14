@@ -1,0 +1,75 @@
+{
+    "2021-05-11": [
+        [
+            {
+                "time": "",
+                "original_text": "监管出手降温显效，黑色系冲高回落，铁矿石不再强势",
+                "features": {
+                    "keywords": [
+                        "监管",
+                        "黑色系",
+                        "铁矿石",
+                        "冲高回落"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "黑色金属",
+                        "矿业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "Mysteel早读：宝钢上调6月出厂价，三大期货交易所发布通知",
+                "features": {
+                    "keywords": [
+                        "宝钢",
+                        "出厂价",
+                        "期货",
+                        "交易所",
+                        "通知"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "钢铁",
+                        "期货市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "央地严控“两高”项目，助推产业绿色转型",
+                "features": {
+                    "keywords": [
+                        "央地",
+                        "两高项目",
+                        "绿色转型"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "环保",
+                        "工业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

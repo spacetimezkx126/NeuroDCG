@@ -1,0 +1,56 @@
+{
+    "2020-07-01": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "COSTCO AUTO PROGRAM ANNOUNCES AUDI EMPLOYEE PRICING",
+                "features": {
+                    "keywords": [
+                        "COSTCO",
+                        "AUTO",
+                        "PROGRAM",
+                        "ANNOUNCES",
+                        "AUDI",
+                        "EMPLOYEE",
+                        "PRICING"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "5 Warren Buffett Stocks You Can Buy and Hold for the Next Decade",
+                "features": {
+                    "keywords": [
+                        "Warren",
+                        "Buffett",
+                        "Stocks",
+                        "Buy",
+                        "Hold",
+                        "Decade"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "financial advice"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

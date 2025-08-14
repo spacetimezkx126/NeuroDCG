@@ -1,0 +1,159 @@
+{
+    "2020-07-23": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Asia markets to fall on China vow to retaliate against U.S.",
+                "features": {
+                    "keywords": [
+                        "markets",
+                        "fall",
+                        "China",
+                        "retaliate",
+                        "U.S."
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2018-01-03",
+                "original_text": "Jim Cramer: These Stocks Look Too High, Too Hot",
+                "features": {
+                    "keywords": [
+                        "Jim Cramer",
+                        "stocks",
+                        "high",
+                        "hot"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "false",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "S&P 500 Index Falls 40 Points: Worst Day Since June as Surge in Unemployment Claims, Coronavirus Cases Sends Apple, Tesla, Microsoft Stocks Down Sharply",
+                "features": {
+                    "keywords": [
+                        "S&P 500",
+                        "falls",
+                        "unemployment claims",
+                        "coronavirus",
+                        "Apple",
+                        "Tesla",
+                        "Microsoft"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-05",
+                "original_text": "Box Announces Tighter Integration With Google Cloud",
+                "features": {
+                    "keywords": [
+                        "Box",
+                        "Google Cloud",
+                        "integration"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2018-01-06",
+                "original_text": "The Dow Dropped 354 Points Because Tech Stocks Tanked. It’s About Time.",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "dropped",
+                        "tech stocks",
+                        "tanked"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-07",
+                "original_text": "Analysts Discuss Microsoft Downgrade And Tech Space",
+                "features": {
+                    "keywords": [
+                        "analysts",
+                        "Microsoft",
+                        "downgrade",
+                        "tech space"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-08",
+                "original_text": "Stock Market Today: Tech Stocks Take a Tumble",
+                "features": {
+                    "keywords": [
+                        "stock market",
+                        "tech stocks",
+                        "tumble"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

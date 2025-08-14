@@ -1,0 +1,53 @@
+{
+    "2020-09-19": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Benzinga's Bulls And Bears Of The Week: Amazon, Boeing, Kroger And More",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "Boeing",
+                        "Kroger",
+                        "Bulls",
+                        "Bears"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "aerospace",
+                        "grocery"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-11-12",
+                "original_text": "Wildfires Leave Insurers With a Bill for $3 Billion—and Counting",
+                "features": {
+                    "keywords": [
+                        "Wildfires",
+                        "Insurers",
+                        "Bill",
+                        "Losses"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "insurance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

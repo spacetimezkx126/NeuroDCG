@@ -1,0 +1,68 @@
+{
+    "2018-04-20": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "My 7 Must-Own Stocks to Build Up Your Retirement",
+                "features": {
+                    "keywords": [
+                        "Must-Own Stocks",
+                        "Retirement"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Is FedEx Corporation a Buy?",
+                "features": {
+                    "keywords": [
+                        "FedEx Corporation",
+                        "Buy"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "transportation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "The Real Threat To FedEx Corporation Is Not Amazon.com",
+                "features": {
+                    "keywords": [
+                        "Threat",
+                        "FedEx Corporation",
+                        "Amazon.com"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "transportation",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

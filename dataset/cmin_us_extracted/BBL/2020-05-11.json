@@ -1,0 +1,104 @@
+{
+    "2020-05-11": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "Chile mining trade group sees copper supply glut of 200,000 tonnes in 2020",
+                "features": {
+                    "keywords": [
+                        "copper",
+                        "supply",
+                        "glut",
+                        "mining",
+                        "Chile"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "mining",
+                        "metals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "Top Research Reports for Amgen, BHP, Altria & Others",
+                "features": {
+                    "keywords": [
+                        "Amgen",
+                        "BHP",
+                        "Altria",
+                        "research",
+                        "reports"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals",
+                        "mining",
+                        "tobacco"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "Petra Diamonds US$ Treasury Plc -- Moody's downgrades Petra Diamonds CFR to Caa3 and PDR to Ca-PD; negative outlook",
+                "features": {
+                    "keywords": [
+                        "Petra Diamonds",
+                        "Moody's",
+                        "downgrades",
+                        "Caa3",
+                        "Ca-PD",
+                        "negative outlook"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "diamonds",
+                        "mining"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "BHP-backed SolGold agrees funding of up to $150 mln from Franco-Nevada",
+                "features": {
+                    "keywords": [
+                        "BHP",
+                        "SolGold",
+                        "funding",
+                        "Franco-Nevada",
+                        "$150 mln"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "mining",
+                        "gold"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

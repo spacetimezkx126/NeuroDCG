@@ -1,0 +1,74 @@
+{
+    "2020-07-10": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Dow's 182-point climb highlighted by gains in JPMorgan Chase, Goldman Sachs stocks",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "182-point climb",
+                        "JPMorgan Chase",
+                        "Goldman Sachs"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-06",
+                "original_text": "Dow's 113-point climb led by gains in shares of Raytheon Technologies Corp., Dow Inc.",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "113-point climb",
+                        "Raytheon Technologies Corp.",
+                        "Dow Inc."
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial",
+                        "chemicals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-07",
+                "original_text": "Raytheon's stock bounces after Vertical Research turns bullish",
+                "features": {
+                    "keywords": [
+                        "Raytheon",
+                        "stock bounces",
+                        "Vertical Research",
+                        "bullish"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "defense",
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "2020-10-12": [
+        [
+            {
+                "time": "2018-12-01",
+                "original_text": "This holiday season will be like 'putting a rat down a boa's mouth': retail CEO",
+                "features": {
+                    "keywords": [
+                        "holiday season",
+                        "retail",
+                        "CEO"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-07-15",
+                "original_text": "Amazon Prime Day mania will crush dying retailers: Strategist",
+                "features": {
+                    "keywords": [
+                        "Amazon Prime Day",
+                        "retailers",
+                        "Strategist"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-06-20",
+                "original_text": "3 Hot Stocks Earning Their New Highs",
+                "features": {
+                    "keywords": [
+                        "Hot Stocks",
+                        "New Highs"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "3 Stocks Robinhood Investors Aren't in Love With Anymore",
+                "features": {
+                    "keywords": [
+                        "Robinhood",
+                        "Investors",
+                        "Stocks"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

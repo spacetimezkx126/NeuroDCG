@@ -1,0 +1,77 @@
+{
+    "2020-09-22": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Wells Fargo Bank, N.A. -- Moody's affirms Wells Fargo Home Lending's prime jumbo originator assessment as Strong",
+                "features": {
+                    "keywords": [
+                        "Wells Fargo",
+                        "Moody's",
+                        "affirms",
+                        "prime jumbo",
+                        "originator assessment",
+                        "Strong"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Winners of Nationwide Housing Affordability Breakthrough Challenge Named",
+                "features": {
+                    "keywords": [
+                        "Nationwide",
+                        "Housing Affordability",
+                        "Breakthrough Challenge",
+                        "Winners"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate",
+                        "housing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "Carnava Soars on Record Sales, Analyst Accolades",
+                "features": {
+                    "keywords": [
+                        "Carnava",
+                        "Soars",
+                        "Record Sales",
+                        "Analyst Accolades"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automotive",
+                        "sales"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

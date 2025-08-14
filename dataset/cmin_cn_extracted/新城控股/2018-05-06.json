@@ -1,0 +1,51 @@
+{
+    "2018-05-06": [
+        [
+            {
+                "time": "",
+                "original_text": "阿里18Q1：收入增长61%，成本上涨110%，均创历史新高",
+                "features": {
+                    "keywords": [
+                        "阿里",
+                        "18Q1",
+                        "收入增长",
+                        "成本上涨",
+                        "历史新高"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "互联网"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "一季报曝光社保、QFII、私募投资图谱",
+                "features": {
+                    "keywords": [
+                        "一季报",
+                        "社保",
+                        "QFII",
+                        "私募",
+                        "投资图谱"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

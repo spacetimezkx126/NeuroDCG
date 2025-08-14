@@ -1,0 +1,48 @@
+{
+    "2020-03-11": [
+        [
+            {
+                "time": "2020-01-02",
+                "original_text": "Could Warren Buffett Be Considering Buying Energy Stocks?",
+                "features": {
+                    "keywords": [
+                        "Warren Buffett",
+                        "Energy Stocks",
+                        "Considering Buying"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-01-02",
+                "original_text": "Big Oil Prepares To Suffer In 2020",
+                "features": {
+                    "keywords": [
+                        "Big Oil",
+                        "Suffer",
+                        "2020"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

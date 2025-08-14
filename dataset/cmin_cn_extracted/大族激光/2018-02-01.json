@@ -1,0 +1,113 @@
+{
+    "2018-02-01": [
+        [
+            {
+                "time": "",
+                "original_text": "你以为聪明钱在逃顶，其实他们正在抄底这些个股",
+                "features": {
+                    "keywords": [
+                        "聪明钱",
+                        "逃顶",
+                        "抄底"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "N股连环炸，你以为聪明钱在逃顶，其实他们正在抄底这些个股……",
+                "features": {
+                    "keywords": [
+                        "N股",
+                        "连环炸",
+                        "聪明钱",
+                        "逃顶",
+                        "抄底"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-02-01",
+                "original_text": "【华泰电子】每日视角&投资组合（2月1日）",
+                "features": {
+                    "keywords": [
+                        "华泰电子",
+                        "每日视角",
+                        "投资组合"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电子"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "半导体、电子设备：苹果HOMEPOD已开放预定 荐11股",
+                "features": {
+                    "keywords": [
+                        "半导体",
+                        "电子设备",
+                        "苹果",
+                        "HOMEPOD",
+                        "预定"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "半导体",
+                        "电子设备"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "平安证券：业绩普遍向好 主流房企靓丽",
+                "features": {
+                    "keywords": [
+                        "平安证券",
+                        "业绩",
+                        "向好",
+                        "主流房企"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

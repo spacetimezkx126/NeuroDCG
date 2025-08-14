@@ -1,0 +1,51 @@
+{
+    "2021-02-25": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Dunkin' avocado toast is here — and so are these other 7 new fast foods",
+                "features": {
+                    "keywords": [
+                        "Dunkin'",
+                        "avocado toast",
+                        "new fast foods"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food_and_beverage",
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Costco to boost minimum wage to $16 per hour next week, CEO says",
+                "features": {
+                    "keywords": [
+                        "Costco",
+                        "minimum wage",
+                        "boost",
+                        "$16 per hour"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "human_resources"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

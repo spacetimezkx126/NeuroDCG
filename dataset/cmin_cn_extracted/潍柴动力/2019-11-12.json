@@ -1,0 +1,51 @@
+{
+    "2019-11-12": [
+        [
+            {
+                "time": "2023-10-10",
+                "original_text": "陆股通为何北上买入溢价的A股？",
+                "features": {
+                    "keywords": [
+                        "陆股通",
+                        "北上资金",
+                        "溢价",
+                        "A股"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "投资"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "恒生指数涨0.08% 电讯设备板块表现活跃",
+                "features": {
+                    "keywords": [
+                        "恒生指数",
+                        "电讯设备",
+                        "上涨",
+                        "活跃"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电讯设备"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "2019-07-02": [
+        [
+            {
+                "time": "",
+                "original_text": "加 油 加 氢 充 电 一 站 搞 定  氢 燃 料 公 交 4 分 钟 加 满",
+                "features": {
+                    "keywords": [
+                        "氢燃料",
+                        "公交",
+                        "加油",
+                        "充电"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "公共交通"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "石 油 化 工 行 业 周 报 : 原 油 紧 张 及 关 注 O P E C + 会 议 动 态 , P T A 高 盈 利 下 的 长 周 期 价 格 回 顾 与 展 望",
+                "features": {
+                    "keywords": [
+                        "原油",
+                        "紧张",
+                        "OPEC+",
+                        "PTA",
+                        "高盈利",
+                        "价格回顾",
+                        "展望"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "石油化工",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

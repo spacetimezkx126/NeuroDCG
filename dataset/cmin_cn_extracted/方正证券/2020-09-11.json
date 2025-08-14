@@ -1,0 +1,50 @@
+{
+    "2020-09-11": [
+        [
+            {
+                "time": "",
+                "original_text": "陈显顺升任国君策略首席；黄燕铭：是我最得意的弟子之一",
+                "features": {
+                    "keywords": [
+                        "陈显顺",
+                        "国君策略首席",
+                        "黄燕铭",
+                        "得意弟子"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "全力回补疫情缺口，寿险公司研究部署明年开门红",
+                "features": {
+                    "keywords": [
+                        "疫情缺口",
+                        "寿险公司",
+                        "开门红"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

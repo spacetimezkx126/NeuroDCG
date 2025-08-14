@@ -1,0 +1,53 @@
+{
+    "2018-03-29": [
+        [
+            {
+                "time": "2018-04-11",
+                "original_text": "Trump escalates attack on Amazon, focusing on tax, shipping",
+                "features": {
+                    "keywords": [
+                        "Trump",
+                        "attack",
+                        "Amazon",
+                        "tax",
+                        "shipping"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-11",
+                "original_text": "Why Did Amazon (AMZN) Stock Tumble This Week?",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "Stock",
+                        "Tumble",
+                        "Week"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

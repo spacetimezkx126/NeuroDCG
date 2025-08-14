@@ -1,0 +1,56 @@
+{
+    "2019-09-12": [
+        [
+            {
+                "time": "2019-09-15",
+                "original_text": "Oil spill clean-up at Equinor's Bahamas terminal underway after Dorian damage",
+                "features": {
+                    "keywords": [
+                        "Oil spill",
+                        "clean-up",
+                        "Equinor",
+                        "Bahamas",
+                        "Dorian",
+                        "damage"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "oil"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-09-15",
+                "original_text": "Norway's Equinor sells two new crude grades from North Sea fields",
+                "features": {
+                    "keywords": [
+                        "Equinor",
+                        "sells",
+                        "crude",
+                        "grades",
+                        "North Sea",
+                        "fields"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "oil"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

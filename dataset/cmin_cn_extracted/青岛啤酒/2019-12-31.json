@@ -1,0 +1,53 @@
+{
+    "2019-12-31": [
+        [
+            {
+                "time": "",
+                "original_text": "百威亚太跌近3%破发并创新低，较高位已跌掉一个青啤 连续下跌",
+                "features": {
+                    "keywords": [
+                        "百威亚太",
+                        "破发",
+                        "创新低",
+                        "连续下跌"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "消费品",
+                        "啤酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "食品饮料 | 茅台2020 规划出台，稳发展坚定市场信心",
+                "features": {
+                    "keywords": [
+                        "食品饮料",
+                        "茅台",
+                        "规划出台",
+                        "稳发展",
+                        "市场信心"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "消费品",
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

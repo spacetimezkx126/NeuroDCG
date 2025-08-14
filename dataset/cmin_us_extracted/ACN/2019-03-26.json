@@ -1,0 +1,53 @@
+{
+    "2019-03-26": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "XLK, PYPL, AVGO, ACN: Large Outflows Detected at ETF",
+                "features": {
+                    "keywords": [
+                        "XLK",
+                        "PYPL",
+                        "AVGO",
+                        "ACN",
+                        "Large Outflows",
+                        "ETF"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "financial services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "What To Expect From Accenture’s Q2?",
+                "features": {
+                    "keywords": [
+                        "Accenture",
+                        "Q2",
+                        "Expect"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consulting",
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

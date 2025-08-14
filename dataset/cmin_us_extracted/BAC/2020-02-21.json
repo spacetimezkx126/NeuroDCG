@@ -1,0 +1,89 @@
+{
+    "2020-02-21": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Financial stocks in broad decline as 10-year Treasury yield falls below 1.5%",
+                "features": {
+                    "keywords": [
+                        "Financial stocks",
+                        "decline",
+                        "Treasury yield",
+                        "falls"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Mentoring Monday: Local businesswomen share career advice",
+                "features": {
+                    "keywords": [
+                        "Mentoring",
+                        "businesswomen",
+                        "career advice"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "What Warren Buffett Might Tell Investors in His Annual Letter Tomorrow",
+                "features": {
+                    "keywords": [
+                        "Warren Buffett",
+                        "Investors",
+                        "Annual Letter"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Top banks' 2019 commodities revenue climbs 11% - consultancy Coalition",
+                "features": {
+                    "keywords": [
+                        "banks",
+                        "commodities revenue",
+                        "climbs",
+                        "consultancy Coalition"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "commodities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

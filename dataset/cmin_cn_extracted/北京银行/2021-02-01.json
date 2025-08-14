@@ -1,0 +1,52 @@
+{
+    "2021-02-01": [
+        [
+            {
+                "time": "",
+                "original_text": "新华联控股所持5.23亿股北京银行股票将进行网拍",
+                "features": {
+                    "keywords": [
+                        "新华联控股",
+                        "北京银行",
+                        "股票",
+                        "网拍"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "北京银行金融科技按下“快进键” 文化金融跑出“加速度”",
+                "features": {
+                    "keywords": [
+                        "北京银行",
+                        "金融科技",
+                        "快进键",
+                        "文化金融",
+                        "加速度"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "2020-05-15": [
+        [
+            {
+                "time": "2023-05-15",
+                "original_text": "A股龙虎榜揭秘，机构抢筹10股",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "龙虎榜",
+                        "机构",
+                        "抢筹"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-05-15",
+                "original_text": "“降息”意外落空！央行释放3000亿流动性，MLF利率不变",
+                "features": {
+                    "keywords": [
+                        "降息",
+                        "央行",
+                        "流动性",
+                        "MLF",
+                        "利率"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-05-15",
+                "original_text": "监管部门向券商提示风险，应明确与第三方平台责任边界",
+                "features": {
+                    "keywords": [
+                        "监管部门",
+                        "券商",
+                        "风险",
+                        "第三方平台",
+                        "责任边界"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "券商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

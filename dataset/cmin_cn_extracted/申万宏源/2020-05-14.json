@@ -1,0 +1,51 @@
+{
+    "2020-05-14": [
+        [
+            {
+                "time": "",
+                "original_text": "M L F 暂 未 续 做 ， 逆 回 购 暂 停 3 0 天 ， 机 构 点 评 背 后 深 意",
+                "features": {
+                    "keywords": [
+                        "MLF",
+                        "逆回购",
+                        "暂停",
+                        "机构点评"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "券 业 喜 迎 红 四 月 ： 4 6 家 券 商 业 绩 环 比 增 五 成",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "业绩增长",
+                        "环比增加"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

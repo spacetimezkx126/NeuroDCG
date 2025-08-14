@@ -1,0 +1,70 @@
+{
+    "2021-01-11": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Retailers Growing Fast",
+                "features": {
+                    "keywords": [
+                        "retailers",
+                        "growing",
+                        "fast"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Home Depot (HD) Gains As Market Dips: What You Should Know",
+                "features": {
+                    "keywords": [
+                        "home depot",
+                        "hd",
+                        "gains",
+                        "market dips"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "construction"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Why big donors are giving more radical Republicans a pass",
+                "features": {
+                    "keywords": [
+                        "big donors",
+                        "radical republicans",
+                        "giving",
+                        "pass"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

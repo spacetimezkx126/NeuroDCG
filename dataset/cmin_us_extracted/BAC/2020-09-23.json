@@ -1,0 +1,116 @@
+{
+    "2020-09-23": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Bank of America Corp. stock falls Wednesday, underperforms market",
+                "features": {
+                    "keywords": [
+                        "Bank of America",
+                        "stock falls",
+                        "underperforms market"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-09-05",
+                "original_text": "U.S. business borrowing for equipment falls 24% in August- ELFA",
+                "features": {
+                    "keywords": [
+                        "U.S.",
+                        "business borrowing",
+                        "falls",
+                        "equipment",
+                        "August"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "INVESTIGATION REMINDER: The Schall Law Firm Announces it is Investigating Claims Against Bank of America Corporation and Encourages Investors with Losses of $100,000 to Contact the Firm",
+                "features": {
+                    "keywords": [
+                        "Investigation",
+                        "Schall Law Firm",
+                        "Bank of America",
+                        "Claims",
+                        "Losses"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-06-10",
+                "original_text": "Citigroup pledges over $1 billion to combat racial inequality",
+                "features": {
+                    "keywords": [
+                        "Citigroup",
+                        "pledges",
+                        "racial inequality",
+                        "$1 billion"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-07-20",
+                "original_text": "Better Buy: Bank of America vs. US Bancorp",
+                "features": {
+                    "keywords": [
+                        "Better Buy",
+                        "Bank of America",
+                        "US Bancorp"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

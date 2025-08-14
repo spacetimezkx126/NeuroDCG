@@ -1,0 +1,98 @@
+{
+    "2020-02-24": [
+        [
+            {
+                "time": "2020-03-15",
+                "original_text": "Fear that the coronavirus will turn into a global economic pandemic is building",
+                "features": {
+                    "keywords": [
+                        "coronavirus",
+                        "global",
+                        "economic",
+                        "pandemic",
+                        "fear"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-03-16",
+                "original_text": "Coronavirus Is Cratering the Stock Market. Why It Can Always Get Worse.",
+                "features": {
+                    "keywords": [
+                        "coronavirus",
+                        "stock market",
+                        "cratering",
+                        "worse"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-08-10",
+                "original_text": "Shake Shack Earnings Miss As Burger Chain Deals With Delivery Woes",
+                "features": {
+                    "keywords": [
+                        "Shake Shack",
+                        "earnings miss",
+                        "burger chain",
+                        "delivery woes"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food service",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-08-11",
+                "original_text": "Shake Shack Earnings Due As Burger Chain Deals With Delivery Woes",
+                "features": {
+                    "keywords": [
+                        "Shake Shack",
+                        "earnings due",
+                        "burger chain",
+                        "delivery woes"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food service",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "2019-02-06": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Boeing Partnered with Aerion to Help Fly the AS2 Supersonic Jet",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "Aerion",
+                        "AS2",
+                        "Supersonic",
+                        "Partnership"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace",
+                        "defense"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "The 3M Company Announces Leadership Changes",
+                "features": {
+                    "keywords": [
+                        "3M",
+                        "Leadership",
+                        "Changes"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "French Government Fined GE $57 Million for Not Meeting Job Target",
+                "features": {
+                    "keywords": [
+                        "French",
+                        "Government",
+                        "GE",
+                        "Fine",
+                        "Job",
+                        "Target"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

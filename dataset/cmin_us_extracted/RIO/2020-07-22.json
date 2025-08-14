@@ -1,0 +1,55 @@
+{
+    "2020-07-22": [
+        [
+            {
+                "time": "2023-11-15",
+                "original_text": "Rio Tinto files complaint with Icelandic Competition Authority over ISAL smelter power agreement",
+                "features": {
+                    "keywords": [
+                        "Rio Tinto",
+                        "complaint",
+                        "Icelandic Competition Authority",
+                        "ISAL",
+                        "smelter",
+                        "power agreement"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "mining",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-11-15",
+                "original_text": "Australia shares fall as record virus cases dent investor sentiment",
+                "features": {
+                    "keywords": [
+                        "Australia",
+                        "shares",
+                        "fall",
+                        "record virus cases",
+                        "investor sentiment"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

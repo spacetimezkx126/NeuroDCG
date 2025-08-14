@@ -1,0 +1,54 @@
+{
+    "2021-08-20": [
+        [
+            {
+                "time": "",
+                "original_text": "医药消费惨跌，A股却扛住北上资金200亿抛压",
+                "features": {
+                    "keywords": [
+                        "医药",
+                        "消费",
+                        "惨跌",
+                        "A股",
+                        "北上资金",
+                        "抛压"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药",
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-08-20",
+                "original_text": "生意社：8月20日华鲁恒升异辛醇报价暂稳",
+                "features": {
+                    "keywords": [
+                        "生意社",
+                        "华鲁恒升",
+                        "异辛醇",
+                        "报价",
+                        "暂稳"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

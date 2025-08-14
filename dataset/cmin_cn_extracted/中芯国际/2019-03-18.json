@@ -1,0 +1,72 @@
+{
+    "2019-03-18": [
+        [
+            {
+                "time": "",
+                "original_text": "上海新阳：拟将所持上海新昇26.06%股权转让给上海硅产业集团",
+                "features": {
+                    "keywords": [
+                        "上海新阳",
+                        "上海新昇",
+                        "股权转让",
+                        "上海硅产业集团"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【半导体设备】国内半导体企业2018年营收大幅增长，预计2019年设备需求持续扩张【东吴机械陈显帆】",
+                "features": {
+                    "keywords": [
+                        "半导体设备",
+                        "营收增长",
+                        "设备需求",
+                        "扩张"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "半导体",
+                        "设备制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "《沽空数据》今天截至全日收市主板之证券卖空成交量(1)",
+                "features": {
+                    "keywords": [
+                        "沽空数据",
+                        "卖空成交量",
+                        "主板"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

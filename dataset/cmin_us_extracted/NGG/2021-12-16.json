@@ -1,0 +1,73 @@
+{
+    "2021-12-16": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "$5.3B Narragansett Electric sale to PPL up before R.I. regulators",
+                "features": {
+                    "keywords": [
+                        "Narragansett Electric",
+                        "sale",
+                        "PPL",
+                        "regulators"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Barilla America Aided by Energy Efficiency Incentives",
+                "features": {
+                    "keywords": [
+                        "Barilla America",
+                        "Energy Efficiency",
+                        "Incentives"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "National Grid Restores Power to Nearly 180,000 Upstate New York Customers Impacted by Damaging Windstorm",
+                "features": {
+                    "keywords": [
+                        "National Grid",
+                        "Power Restoration",
+                        "Windstorm",
+                        "Customers"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

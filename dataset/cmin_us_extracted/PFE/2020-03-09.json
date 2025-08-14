@@ -1,0 +1,97 @@
+{
+    "2020-03-09": [
+        [
+            {
+                "time": "2020-03-15",
+                "original_text": "Trump, White House officials to discuss economic response to coronavirus: Rpt",
+                "features": {
+                    "keywords": [
+                        "Trump",
+                        "White House",
+                        "economic response",
+                        "coronavirus"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-04-10",
+                "original_text": "GSK's HIV combo treatment meets main goal in late-stage study",
+                "features": {
+                    "keywords": [
+                        "GSK",
+                        "HIV",
+                        "combo treatment",
+                        "late-stage study"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-03-20",
+                "original_text": "Mylan-Upjohn Merger in Focus, Coronavirus Might Hit Supply",
+                "features": {
+                    "keywords": [
+                        "Mylan",
+                        "Upjohn",
+                        "merger",
+                        "coronavirus",
+                        "supply"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-05-08",
+                "original_text": "AbbVie Is Nearing Its Massive Allergan Buyout — But Is ABBV Stock A Buy?",
+                "features": {
+                    "keywords": [
+                        "AbbVie",
+                        "Allergan",
+                        "buyout",
+                        "ABBV Stock"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

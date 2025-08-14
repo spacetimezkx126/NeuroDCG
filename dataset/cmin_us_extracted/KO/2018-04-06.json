@@ -1,0 +1,71 @@
+{
+    "2018-04-06": [
+        [
+            {
+                "time": "2018-04-01",
+                "original_text": "Safe Dividend Stocks for the Second Quarter",
+                "features": {
+                    "keywords": [
+                        "dividend",
+                        "safe",
+                        "stocks"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-07-06",
+                "original_text": "A Look at the Potential Collateral Damage in US-China Trade War",
+                "features": {
+                    "keywords": [
+                        "US-China",
+                        "trade war",
+                        "collateral damage"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "global trade",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-04-06",
+                "original_text": "Britain's sugar tax on soft drinks comes into effect",
+                "features": {
+                    "keywords": [
+                        "sugar tax",
+                        "soft drinks",
+                        "Britain"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

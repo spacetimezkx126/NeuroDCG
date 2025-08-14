@@ -1,0 +1,56 @@
+{
+    "2020-02-19": [
+        [
+            {
+                "time": "2020-02-10",
+                "original_text": "厂家赔钱仍生产口罩抗疫，微商却把4000只救援物资卖到外地",
+                "features": {
+                    "keywords": [
+                        "厂家",
+                        "赔钱",
+                        "生产口罩",
+                        "抗疫",
+                        "微商",
+                        "救援物资",
+                        "卖到外地"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医疗",
+                        "零售"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-02-15",
+                "original_text": "与稳健医疗携手抗“疫”的那些税务“996”",
+                "features": {
+                    "keywords": [
+                        "稳健医疗",
+                        "携手",
+                        "抗疫",
+                        "税务",
+                        "996"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医疗",
+                        "税务"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

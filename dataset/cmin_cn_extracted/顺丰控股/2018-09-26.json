@@ -1,0 +1,73 @@
+{
+    "2018-09-26": [
+        [
+            {
+                "time": "",
+                "original_text": "顺 丰 拓 展 新 业 务 有 多 难 ？ 顺 丰 优 选 6 年 换 了 7 个 C E O",
+                "features": {
+                    "keywords": [
+                        "顺丰",
+                        "新业务",
+                        "拓展",
+                        "CEO"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流",
+                        "快递"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "双 十 一 逼 近 ！ 物 流 股 还 用 问 吗 ？ 一 个 字 ， 买 ！",
+                "features": {
+                    "keywords": [
+                        "双十一",
+                        "物流股",
+                        "买入"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "物流",
+                        "电商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "双 1 1 前 夕 圆 通 快 递 宣 布 全 面 涨 价 5 股 一 衣 带 水",
+                "features": {
+                    "keywords": [
+                        "双11",
+                        "圆通快递",
+                        "涨价"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流",
+                        "快递"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

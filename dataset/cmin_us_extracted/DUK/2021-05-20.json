@@ -1,0 +1,50 @@
+{
+    "2021-05-20": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Biggest Coal Plants in the US",
+                "features": {
+                    "keywords": [
+                        "Biggest",
+                        "Coal",
+                        "Plants",
+                        "US"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Dividend Stocks Perfect for Retirees",
+                "features": {
+                    "keywords": [
+                        "Dividend",
+                        "Stocks",
+                        "Perfect",
+                        "Retirees"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

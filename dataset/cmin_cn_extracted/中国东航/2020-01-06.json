@@ -1,0 +1,51 @@
+{
+    "2020-01-06": [
+        [
+            {
+                "time": "",
+                "original_text": "受油价上涨因素影响，航空股走低",
+                "features": {
+                    "keywords": [
+                        "油价",
+                        "上涨",
+                        "航空股",
+                        "走低"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "东方航空(00670)：旗下物流公司力争在今年上半年在A股上市",
+                "features": {
+                    "keywords": [
+                        "东方航空",
+                        "物流公司",
+                        "A股",
+                        "上市"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "航空",
+                        "物流"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

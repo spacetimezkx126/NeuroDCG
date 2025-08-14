@@ -1,0 +1,74 @@
+{
+    "2020-06-29": [
+        [
+            {
+                "time": "",
+                "original_text": "股每股成交量增超50%",
+                "features": {
+                    "keywords": [
+                        "成交量",
+                        "增长",
+                        "50%"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-06-21",
+                "original_text": "618电商需求旺盛，东航推出“随心飞”产品【安信交运丨周报0621】",
+                "features": {
+                    "keywords": [
+                        "618",
+                        "电商",
+                        "需求旺盛",
+                        "东航",
+                        "随心飞"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "航空",
+                        "电商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "韩航空公司仁川至北京航线7月仍停飞",
+                "features": {
+                    "keywords": [
+                        "韩航空",
+                        "仁川",
+                        "北京",
+                        "停飞",
+                        "7月"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2021-06-15": [
+        [
+            {
+                "time": "",
+                "original_text": "大族激光：2020年已实现白车身焊装生产线的交付，客户包括长城汽车、山东豪驰智能等汽车制造商",
+                "features": {
+                    "keywords": [
+                        "大族激光",
+                        "白车身焊装生产线",
+                        "长城汽车",
+                        "山东豪驰智能",
+                        "汽车制造商"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "制造业",
+                        "汽车行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "大族激光：公司业务不涉及激光雷达领域",
+                "features": {
+                    "keywords": [
+                        "大族激光",
+                        "激光雷达"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "高科技行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

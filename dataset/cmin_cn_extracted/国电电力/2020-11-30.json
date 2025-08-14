@@ -1,0 +1,51 @@
+{
+    "2020-11-30": [
+        [
+            {
+                "time": "",
+                "original_text": "国电电力精准施策力保风电项目按期投产",
+                "features": {
+                    "keywords": [
+                        "国电电力",
+                        "精准施策",
+                        "风电项目",
+                        "按期投产"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2022-11-27",
+                "original_text": "A股融资融券日报：两融余额减少34.75亿元（11月27日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "减少"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

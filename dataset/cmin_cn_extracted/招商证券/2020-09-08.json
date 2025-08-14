@@ -1,0 +1,103 @@
+{
+    "2020-09-08": [
+        [
+            {
+                "time": "",
+                "original_text": "招、商、证、券、(、0、6、0、9、9、.、H、K、)、获、法、院、裁、定、优、先、受、偿、拍、卖、南、京、第、一、农、药、集、团、持、有、的、红、太、阳、股、票、收、益",
+                "features": {
+                    "keywords": [
+                        "招商证券",
+                        "法院裁定",
+                        "优先受偿",
+                        "南京第一农药集团",
+                        "红太阳股票"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "招、商、证、券、：、法、院、裁、定、，、公、司、在、本、金、4、1、,、8、1、0、万、元、及、利、息、、违、约、金、、律、师、费、范、围、内、优、先、受、偿、 、未、按、时、兑、付、本、息",
+                "features": {
+                    "keywords": [
+                        "招商证券",
+                        "法院裁定",
+                        "本金",
+                        "利息",
+                        "违约金",
+                        "律师费",
+                        "优先受偿"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "什、么、信、号、？、中、信、、海、通、、招、商、同、时、披、露、借、款、规、模、，、下、半、年、2、3、家、新、增、借、款、占、比、超、净、资、本、2、0、%、 大、额、借、贷、担、保",
+                "features": {
+                    "keywords": [
+                        "中信",
+                        "海通",
+                        "招商",
+                        "借款规模",
+                        "新增借款",
+                        "净资本",
+                        "大额借贷担保"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "港、股、盘、前、公、告、精、选、：、农、夫、山、泉、今、日、港、股、挂、牌、，、发、行、价、2、1、.、5、港、元、/、股",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "盘前公告",
+                        "农夫山泉",
+                        "挂牌",
+                        "发行价"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "消费品"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

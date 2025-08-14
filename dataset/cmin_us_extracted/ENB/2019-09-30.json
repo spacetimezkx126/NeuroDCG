@@ -1,0 +1,72 @@
+{
+    "2019-09-30": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Stock Market Outlook: Energy Sector Again Looks Undervalued",
+                "features": {
+                    "keywords": [
+                        "Energy",
+                        "Sector",
+                        "Undervalued"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Don't Ignore The Fact That This Insider Just Sold Some Shares In Enbridge Inc. (TSE:ENB)",
+                "features": {
+                    "keywords": [
+                        "Insider",
+                        "Sold",
+                        "Shares",
+                        "Enbridge"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Enbridge Mainline Toll Shift Stopped",
+                "features": {
+                    "keywords": [
+                        "Enbridge",
+                        "Mainline",
+                        "Toll",
+                        "Shift",
+                        "Stopped"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

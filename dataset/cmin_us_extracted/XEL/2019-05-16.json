@@ -1,0 +1,55 @@
+{
+    "2019-05-16": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "Daily Dividend Report: CB, MMC, MDLZ, APC, XEL",
+                "features": {
+                    "keywords": [
+                        "Dividend",
+                        "CB",
+                        "MMC",
+                        "MDLZ",
+                        "APC",
+                        "XEL"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "energy",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "Ameren (AEE) to Add 300 MW Third Wind Facility in Missouri",
+                "features": {
+                    "keywords": [
+                        "Ameren",
+                        "AEE",
+                        "Wind Facility",
+                        "Missouri"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "renewables"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

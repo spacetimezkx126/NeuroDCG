@@ -1,0 +1,73 @@
+{
+    "2018-11-16": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Sears gets OK to sell profitable stores",
+                "features": {
+                    "keywords": [
+                        "Sears",
+                        "sell",
+                        "profitable",
+                        "stores"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Simon's Toronto Premium Outlets Now Brings in Luxury Line-Up",
+                "features": {
+                    "keywords": [
+                        "Simon's",
+                        "Toronto",
+                        "Premium Outlets",
+                        "Luxury",
+                        "Line-Up"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "See what the IHS Markit Score report has to say about Simon Property Group Inc.",
+                "features": {
+                    "keywords": [
+                        "IHS Markit Score",
+                        "report",
+                        "Simon Property Group Inc."
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "real estate"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

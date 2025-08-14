@@ -1,0 +1,73 @@
+{
+    "2021-09-03": [
+        [
+            {
+                "time": "2018-09-01",
+                "original_text": "Top Stock Reports for Verizon, CVS Health & BHP",
+                "features": {
+                    "keywords": [
+                        "Verizon",
+                        "CVS Health",
+                        "BHP"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunication",
+                        "healthcare",
+                        "mining"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-09-01",
+                "original_text": "Why BHP Group Stock Fell 15% in August",
+                "features": {
+                    "keywords": [
+                        "BHP Group",
+                        "Stock Fell",
+                        "15%",
+                        "August"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "mining"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-09-01",
+                "original_text": "Miners Investing in Autonomous Operations to Improve Efficiency",
+                "features": {
+                    "keywords": [
+                        "Miners",
+                        "Investing",
+                        "Autonomous Operations",
+                        "Efficiency"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

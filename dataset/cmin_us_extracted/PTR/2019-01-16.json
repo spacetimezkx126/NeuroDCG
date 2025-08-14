@@ -1,0 +1,50 @@
+{
+    "2019-01-16": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "China Stock Market May Add To Its Winnings",
+                "features": {
+                    "keywords": [
+                        "China",
+                        "Stock",
+                        "Market",
+                        "Winnings"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Where Do Analysts’ Ratings for Shell Stand ahead of Its Earnings?",
+                "features": {
+                    "keywords": [
+                        "Analysts",
+                        "Ratings",
+                        "Shell",
+                        "Earnings"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

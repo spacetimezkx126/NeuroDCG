@@ -1,0 +1,54 @@
+{
+    "2020-03-01": [
+        [
+            {
+                "time": "",
+                "original_text": "疫情全球化下的投资机会",
+                "features": {
+                    "keywords": [
+                        "疫情",
+                        "全球化",
+                        "投资机会"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医疗",
+                        "科技",
+                        "消费品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "国产两巨头强强合作！华为海思麒麟 710A 使用中芯国际 14nm 工艺",
+                "features": {
+                    "keywords": [
+                        "华为",
+                        "海思",
+                        "麒麟",
+                        "中芯国际",
+                        "14nm",
+                        "国产化"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "半导体",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

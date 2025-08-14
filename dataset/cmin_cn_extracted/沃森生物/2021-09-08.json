@@ -1,0 +1,48 @@
+{
+    "2021-09-08": [
+        [
+            {
+                "time": "",
+                "original_text": "沃森生物：公司专注于疫苗领域，目前未涉及生长激素业务",
+                "features": {
+                    "keywords": [
+                        "沃森生物",
+                        "疫苗",
+                        "生长激素"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "生物医药"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-09-07",
+                "original_text": "A股融资融券日报：两融余额增加100.34亿元（9月7日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

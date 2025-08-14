@@ -1,0 +1,50 @@
+{
+    "2020-01-03": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Why a N.J. town changed its mind about selling its sewer system to American Water",
+                "features": {
+                    "keywords": [
+                        "N.J. town",
+                        "sewer system",
+                        "American Water",
+                        "sale decision"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "American Water Arm to Buy Long Hill Township Sewer System",
+                "features": {
+                    "keywords": [
+                        "American Water",
+                        "Long Hill Township",
+                        "sewer system",
+                        "acquisition"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

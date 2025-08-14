@@ -1,0 +1,57 @@
+{
+    "2020-06-30": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Supermajors Are Flocking To This Booming Oil Frontier",
+                "features": {
+                    "keywords": [
+                        "supermajors",
+                        "flocking",
+                        "booming",
+                        "oil frontier"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "oil"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Oil & Gas Stock Roundup: Chesapeake's Bankruptcy, Eni's Renewable Push & More",
+                "features": {
+                    "keywords": [
+                        "oil",
+                        "gas",
+                        "stock roundup",
+                        "chesapeake",
+                        "bankruptcy",
+                        "eni",
+                        "renewable push"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "oil",
+                        "gas",
+                        "renewables"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "2020-01-20": [
+        [
+            {
+                "time": "2023-01-20",
+                "original_text": "A股共发生124宗大宗交易成交25.39亿元（1月20日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "大宗交易",
+                        "成交额"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-01-20",
+                "original_text": "科沃斯现2笔大宗交易 共成交5,040.95万元",
+                "features": {
+                    "keywords": [
+                        "科沃斯",
+                        "大宗交易",
+                        "成交额"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家用电器"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-01-20",
+                "original_text": "科沃斯今日大宗交易成交245.90万股，成交价20.5元折价7.87%",
+                "features": {
+                    "keywords": [
+                        "科沃斯",
+                        "大宗交易",
+                        "折价",
+                        "成交价"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家用电器"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-01-20",
+                "original_text": "与其正向投资石头世纪科技，不如逆向投资科沃斯",
+                "features": {
+                    "keywords": [
+                        "科沃斯",
+                        "石头世纪科技",
+                        "逆向投资"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "家用电器",
+                        "科技"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

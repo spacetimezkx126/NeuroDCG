@@ -1,0 +1,89 @@
+{
+    "2018-03-27": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Dunkin' Donuts Promotes 3, Adds 1 Executive",
+                "features": {
+                    "keywords": [
+                        "Dunkin'",
+                        "Donuts",
+                        "Promotes",
+                        "Executive"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "3 Chart Patterns That Suggest Prices Are Headed Lower",
+                "features": {
+                    "keywords": [
+                        "Chart Patterns",
+                        "Prices",
+                        "Headed Lower"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "How Rich Would You Be If You Followed Warren Buffett into Coca-Cola?",
+                "features": {
+                    "keywords": [
+                        "Warren Buffett",
+                        "Coca-Cola"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Better Buy: International Business Machines Corporation vs. Coca-Cola",
+                "features": {
+                    "keywords": [
+                        "Better Buy",
+                        "International Business Machines Corporation",
+                        "Coca-Cola"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

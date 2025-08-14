@@ -1,0 +1,103 @@
+{
+    "2021-07-17": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "I’ve used Apple AirPods for years now. Here’s what happened when I tried these $40 competitors (psst: they’re good)",
+                "features": {
+                    "keywords": [
+                        "Apple",
+                        "AirPods",
+                        "competitors",
+                        "good"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "consumer electronics"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "How HBO Max, Netflix, Disney+ secured 'dominance' over cable — and the Emmys",
+                "features": {
+                    "keywords": [
+                        "HBO Max",
+                        "Netflix",
+                        "Disney+",
+                        "dominance",
+                        "cable",
+                        "Emmys"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment",
+                        "streaming services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Is This Apple Supplier a Buy Before Its Next Earnings Report?",
+                "features": {
+                    "keywords": [
+                        "Apple",
+                        "Supplier",
+                        "Buy",
+                        "Earnings Report"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "supply chain"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Big Contrarian Investor Sold Apple, Microsoft Stock, Bought Pfizer and Merck",
+                "features": {
+                    "keywords": [
+                        "Contrarian Investor",
+                        "Sold",
+                        "Apple",
+                        "Microsoft",
+                        "Bought",
+                        "Pfizer",
+                        "Merck"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

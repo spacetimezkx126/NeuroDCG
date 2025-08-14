@@ -1,0 +1,47 @@
+{
+    "2018-09-11": [
+        [
+            {
+                "time": "2018-09-11",
+                "original_text": "【晨会纪要】策略丁文 银河证券晨会纪要—20180911",
+                "features": {
+                    "keywords": [
+                        "晨会纪要",
+                        "策略",
+                        "银河证券"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-03-30",
+                "original_text": "煤炭行业周报第130期（201833）：用电需求回落 焦煤社会库存回升",
+                "features": {
+                    "keywords": [
+                        "煤炭行业",
+                        "用电需求",
+                        "焦煤",
+                        "社会库存"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

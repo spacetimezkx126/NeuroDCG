@@ -1,0 +1,50 @@
+{
+    "2019-05-08": [
+        [
+            {
+                "time": "",
+                "original_text": "牧原股份：4月份商品猪销售收入环比增加16%",
+                "features": {
+                    "keywords": [
+                        "牧原股份",
+                        "商品猪",
+                        "销售收入",
+                        "环比增加"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "畜牧业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "股市上的“飞天猪”会回到凡间吗？",
+                "features": {
+                    "keywords": [
+                        "飞天猪",
+                        "回到凡间"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "股市整体"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

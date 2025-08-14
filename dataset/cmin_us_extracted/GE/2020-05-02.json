@@ -1,0 +1,52 @@
+{
+    "2020-05-02": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "U.S. aviation sector cuts more jobs amid travel meltdown",
+                "features": {
+                    "keywords": [
+                        "aviation",
+                        "cuts",
+                        "jobs",
+                        "travel meltdown"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aviation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Here’s Warren Buffett’s chance to offer coronavirus-shaken investors his insights on a topsy-turvy stock market",
+                "features": {
+                    "keywords": [
+                        "Warren Buffett",
+                        "coronavirus",
+                        "investors",
+                        "insights",
+                        "topsy-turvy",
+                        "stock market"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

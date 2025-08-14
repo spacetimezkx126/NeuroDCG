@@ -1,0 +1,72 @@
+{
+    "2021-05-15": [
+        [
+            {
+                "time": "2021-05-14",
+                "original_text": "Here Is What You Can Expect At Major US Stores Following CDC's New Mask Guidance",
+                "features": {
+                    "keywords": [
+                        "CDC",
+                        "mask guidance",
+                        "US Stores"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-05-18",
+                "original_text": "Walmart Q1 Earnings: What to Watch",
+                "features": {
+                    "keywords": [
+                        "Walmart",
+                        "Q1 Earnings"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-05-20",
+                "original_text": "A Top Pension Bought Tesla and GM Stock, and Sold GE and Walmart Stock",
+                "features": {
+                    "keywords": [
+                        "Pension",
+                        "Tesla",
+                        "GM",
+                        "GE",
+                        "Walmart"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automotive",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

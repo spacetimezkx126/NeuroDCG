@@ -1,0 +1,93 @@
+{
+    "2019-06-20": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Drugs Under FDA Review With Blockbuster Potential",
+                "features": {
+                    "keywords": [
+                        "Drugs",
+                        "FDA",
+                        "Review",
+                        "Blockbuster"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "AbbVie Declares Quarterly Dividend",
+                "features": {
+                    "keywords": [
+                        "AbbVie",
+                        "Quarterly",
+                        "Dividend"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Is AbbVie (ABBV) a Great Value Stock Right Now?",
+                "features": {
+                    "keywords": [
+                        "AbbVie",
+                        "Value",
+                        "Stock"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "These New Product Launches Could Partially Offset Humira’s Losses",
+                "features": {
+                    "keywords": [
+                        "New",
+                        "Product",
+                        "Launches",
+                        "Humira",
+                        "Losses"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

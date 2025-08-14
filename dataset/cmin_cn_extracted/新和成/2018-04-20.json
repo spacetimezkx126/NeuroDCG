@@ -1,0 +1,52 @@
+{
+    "2018-04-20": [
+        [
+            {
+                "time": "",
+                "original_text": "新和成：博鳌新和成度假中心是全资子公司开发",
+                "features": {
+                    "keywords": [
+                        "新和成",
+                        "博鳌",
+                        "度假中心",
+                        "全资子公司"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "旅游"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "127家药企发布一季报预告：3家首亏26家净利润预增超100%",
+                "features": {
+                    "keywords": [
+                        "药企",
+                        "一季报",
+                        "首亏",
+                        "净利润",
+                        "预增"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

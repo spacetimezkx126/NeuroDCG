@@ -1,0 +1,73 @@
+{
+    "2021-04-01": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Citigroup Declares Common Stock Dividend; Citigroup Declares Preferred Dividends",
+                "features": {
+                    "keywords": [
+                        "Citigroup",
+                        "Dividend",
+                        "Common Stock",
+                        "Preferred"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Would Citigroup Ever Consider Buying Another U.S. Bank?",
+                "features": {
+                    "keywords": [
+                        "Citigroup",
+                        "Buying",
+                        "U.S. Bank"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Deliveroo IPO stock flop raises questions for Goldman and JP Morgan",
+                "features": {
+                    "keywords": [
+                        "Deliveroo",
+                        "IPO",
+                        "stock flop",
+                        "Goldman",
+                        "JP Morgan"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

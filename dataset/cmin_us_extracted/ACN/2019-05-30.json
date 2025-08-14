@@ -1,0 +1,76 @@
+{
+    "2019-05-30": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "GDIT, Leidos among those on $49M AI contract for HHS",
+                "features": {
+                    "keywords": [
+                        "GDIT",
+                        "Leidos",
+                        "AI contract",
+                        "HHS"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-06-20",
+                "original_text": "Accenture Earns Top Position in 2019 HFS Top Ten Finance & Accounting Service Providers Report",
+                "features": {
+                    "keywords": [
+                        "Accenture",
+                        "Top Position",
+                        "Finance & Accounting",
+                        "Service Providers"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "accounting"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-02-10",
+                "original_text": "Entrepreneur and Futurist will.i.am and Accenture’s Omar Abbosh Co-Host Podcast Series About Continuous Business Re-invention",
+                "features": {
+                    "keywords": [
+                        "will.i.am",
+                        "Accenture",
+                        "Omar Abbosh",
+                        "Podcast Series",
+                        "Business Re-invention"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "business",
+                        "innovation"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

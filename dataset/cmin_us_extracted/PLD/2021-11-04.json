@@ -1,0 +1,95 @@
+{
+    "2021-11-04": [
+        [
+            {
+                "time": "2023-11-01",
+                "original_text": "Jim Cramer Talks Labor With Prologis CEO",
+                "features": {
+                    "keywords": [
+                        "Jim Cramer",
+                        "Labor",
+                        "Prologis",
+                        "CEO"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate",
+                        "logistics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-11-01",
+                "original_text": "Forecasted strong holiday spending propels creative strategies in logistics, real estate",
+                "features": {
+                    "keywords": [
+                        "holiday spending",
+                        "logistics",
+                        "real estate"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "logistics",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-11-01",
+                "original_text": "Equinix (EQIX) Beats on FFO, Misses Revenue Estimates in Q3",
+                "features": {
+                    "keywords": [
+                        "Equinix",
+                        "FFO",
+                        "Revenue",
+                        "Q3"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "data centers"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-11-01",
+                "original_text": "Mack-Cali Realty (CLI) Q3 FFO & Revenues Beat Estimates",
+                "features": {
+                    "keywords": [
+                        "Mack-Cali Realty",
+                        "FFO",
+                        "Revenues",
+                        "Q3"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

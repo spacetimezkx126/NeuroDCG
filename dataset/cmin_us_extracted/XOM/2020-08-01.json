@@ -1,0 +1,49 @@
+{
+    "2020-08-01": [
+        [
+            {
+                "time": "2020-07-31",
+                "original_text": "This Technology Is Big Oil's Best Chance to Become Carbon Neutral",
+                "features": {
+                    "keywords": [
+                        "Technology",
+                        "Big Oil",
+                        "Carbon Neutral"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-07-31",
+                "original_text": "ExxonMobil (XOM) Q2 2020 Earnings Call Transcript",
+                "features": {
+                    "keywords": [
+                        "ExxonMobil",
+                        "Q2 2020",
+                        "Earnings",
+                        "Call Transcript"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

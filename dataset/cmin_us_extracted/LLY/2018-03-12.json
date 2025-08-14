@@ -1,0 +1,101 @@
+{
+    "2018-03-12": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "East Bay company's stock plummets 81% as drug for cystic fibrosis patients fails",
+                "features": {
+                    "keywords": [
+                        "plummets",
+                        "drug",
+                        "cystic fibrosis",
+                        "fails"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "Noteworthy Monday Option Activity: LLY, SWKS, HCA",
+                "features": {
+                    "keywords": [
+                        "Option Activity",
+                        "LLY",
+                        "SWKS",
+                        "HCA"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "technology",
+                        "hospitality"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "The Zacks Analyst Blog Highlights: Coca-Cola, Eli Lilly, Occidental Petroleum, Ross Stores and Wynn Resorts",
+                "features": {
+                    "keywords": [
+                        "Zacks Analyst Blog",
+                        "Coca-Cola",
+                        "Eli Lilly",
+                        "Occidental Petroleum",
+                        "Ross Stores",
+                        "Wynn Resorts"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods",
+                        "healthcare",
+                        "energy",
+                        "retail",
+                        "hospitality"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "What Were AstraZeneca’s Growth Platforms in 4Q17?",
+                "features": {
+                    "keywords": [
+                        "AstraZeneca",
+                        "Growth Platforms",
+                        "4Q17"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

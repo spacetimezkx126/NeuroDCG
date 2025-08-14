@@ -1,0 +1,52 @@
+{
+    "2020-11-30": [
+        [
+            {
+                "time": "2020-12-01",
+                "original_text": "Cisco Announces December 2020 Events with the Financial Community",
+                "features": {
+                    "keywords": [
+                        "Cisco",
+                        "December",
+                        "Financial Community",
+                        "Events"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-12-01",
+                "original_text": "U.S. insurers dig into corporate diversity practices as lawsuits pile up",
+                "features": {
+                    "keywords": [
+                        "U.S.",
+                        "insurers",
+                        "corporate diversity",
+                        "lawsuits"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "insurance",
+                        "legal"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

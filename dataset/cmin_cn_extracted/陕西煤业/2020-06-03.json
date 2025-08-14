@@ -1,0 +1,51 @@
+{
+    "2020-06-03": [
+        [
+            {
+                "time": "2020-06-03",
+                "original_text": "产地热、港口冷现象将再度上演!",
+                "features": {
+                    "keywords": [
+                        "产地热",
+                        "港口冷",
+                        "再度上演"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流",
+                        "港口",
+                        "大宗商品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-06-03",
+                "original_text": "生意社热点商品发现（2020年6月3日）",
+                "features": {
+                    "keywords": [
+                        "生意社",
+                        "热点商品",
+                        "发现"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "消费品",
+                        "工业品"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

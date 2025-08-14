@@ -1,0 +1,99 @@
+{
+    "2020-10-01": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Pool Set to Join S&P 500; Neogen & Simpson Manufacturing to Join S&P MidCap 400; Others to Join S&P SmallCap 600",
+                "features": {
+                    "keywords": [
+                        "S&P 500",
+                        "Neogen",
+                        "Simpson Manufacturing",
+                        "S&P MidCap 400",
+                        "S&P SmallCap 600"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "index_funds",
+                        "financial_services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Tesla will have zero sales in China by 2030: analyst",
+                "features": {
+                    "keywords": [
+                        "Tesla",
+                        "zero sales",
+                        "China",
+                        "analyst"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automotive",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Wall Street banks net $64 billion in fees in bumper year for M&A and IPOs",
+                "features": {
+                    "keywords": [
+                        "Wall Street",
+                        "banks",
+                        "fees",
+                        "M&A",
+                        "IPOs"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "financial_services",
+                        "investment_banking"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Morgan Stanley-E*Trade Financial Deal Gets Regulatory Nod",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "E*Trade",
+                        "Financial Deal",
+                        "Regulatory Nod"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "financial_services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

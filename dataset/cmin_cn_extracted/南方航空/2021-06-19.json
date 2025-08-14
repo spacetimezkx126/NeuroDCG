@@ -1,0 +1,51 @@
+{
+    "2021-06-19": [
+        [
+            {
+                "time": "",
+                "original_text": "广州疫情30天：广州本地股整体走弱，首发IPO在“家”敲钟",
+                "features": {
+                    "keywords": [
+                        "广州疫情",
+                        "本地股",
+                        "走弱",
+                        "首发IPO"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "本地股",
+                        "IPO"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "航空行业5月报：疫情反复不改国内民航恢复趋势",
+                "features": {
+                    "keywords": [
+                        "航空行业",
+                        "疫情反复",
+                        "民航恢复趋势"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空行业",
+                        "民航"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

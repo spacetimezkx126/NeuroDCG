@@ -1,0 +1,71 @@
+{
+    "2019-01-21": [
+        [
+            {
+                "time": "2018-01-21",
+                "original_text": "涨，停，板，解，密，：，三，大，板，块，个，股，火，爆，上，攻，！，（，1，月，2，1，日，）",
+                "features": {
+                    "keywords": [
+                        "涨停板",
+                        "三大板块",
+                        "个股",
+                        "火爆上攻"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合板块"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-21",
+                "original_text": "兆，易，创，新，股，价，大，涨，5，.,1，2，%",
+                "features": {
+                    "keywords": [
+                        "兆易创新",
+                        "股价大涨"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-21",
+                "original_text": "半，导，体，板，块，午，前，冲，高，，，易，成，新，能，再，封，涨，停",
+                "features": {
+                    "keywords": [
+                        "半导体板块",
+                        "冲高",
+                        "易成新能",
+                        "涨停"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

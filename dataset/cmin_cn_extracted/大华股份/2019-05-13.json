@@ -1,0 +1,73 @@
+{
+    "2019-05-13": [
+        [
+            {
+                "time": "",
+                "original_text": "明早宣布扩容安排，外资短期关注估值和盈利增速",
+                "features": {
+                    "keywords": [
+                        "扩容安排",
+                        "外资",
+                        "估值",
+                        "盈利增速"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "投资"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "165亿主力资金近三日大量撤出中小创",
+                "features": {
+                    "keywords": [
+                        "主力资金",
+                        "撤出",
+                        "中小创"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "中小创"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【中金电子与通信】科技硬件周报（5/12）：市场大幅调整，关注中美贸易摩擦影响",
+                "features": {
+                    "keywords": [
+                        "科技硬件",
+                        "市场调整",
+                        "中美贸易摩擦"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "电子",
+                        "通信"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

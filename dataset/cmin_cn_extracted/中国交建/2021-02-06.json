@@ -1,0 +1,51 @@
+{
+    "2021-02-06": [
+        [
+            {
+                "time": "",
+                "original_text": "中交集团主要领导会见安永中国主席兼大中华区首席执行官陈凯",
+                "features": {
+                    "keywords": [
+                        "中交集团",
+                        "安永中国",
+                        "陈凯",
+                        "会见"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "建筑",
+                        "咨询"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "混改“模范生”绿城中国，是否有国资流失嫌疑？",
+                "features": {
+                    "keywords": [
+                        "混改",
+                        "绿城中国",
+                        "国资流失",
+                        "嫌疑"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

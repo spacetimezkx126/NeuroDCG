@@ -1,0 +1,77 @@
+{
+    "2021-09-06": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "Fastest Animals in the World",
+                "features": {
+                    "keywords": [
+                        "Fastest",
+                        "Animals"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Hollywood investments boom in Central Europe despite pandemic",
+                "features": {
+                    "keywords": [
+                        "Hollywood",
+                        "investments",
+                        "boom",
+                        "Central Europe",
+                        "pandemic"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "entertainment",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Ping An Insurance enters top 10 most-admired companies as Apple, Nike, Netflix slip in global perception ranking",
+                "features": {
+                    "keywords": [
+                        "Ping An Insurance",
+                        "top 10",
+                        "most-admired",
+                        "Apple",
+                        "Nike",
+                        "Netflix",
+                        "slip",
+                        "global perception ranking"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "insurance",
+                        "technology",
+                        "retail",
+                        "streaming"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "2021-01-22": [
+        [
+            {
+                "time": "",
+                "original_text": "明 星 经 理 四 季 报 大 曝 光   董 承 非 说 市 场 已 经 演 变 为 “ 口 号 式 ” 投 资",
+                "features": {
+                    "keywords": [
+                        "明星经理",
+                        "四季报",
+                        "董承非",
+                        "口号式投资"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基金",
+                        "投资策略"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "古 井 贡 酒 挥 发 了 地 产 味",
+                "features": {
+                    "keywords": [
+                        "古井贡酒",
+                        "地产味"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "白酒",
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-01-22",
+                "original_text": "【 白 酒 投 资 日 报 】 白 酒 再 度 大 涨   劲 牌 欲 借 壳 青 青 稞 酒 ？ 2 0 2 1 . 1 . 2 2",
+                "features": {
+                    "keywords": [
+                        "白酒",
+                        "大涨",
+                        "劲牌",
+                        "借壳",
+                        "青青稞酒"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "白酒",
+                        "资产重组"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

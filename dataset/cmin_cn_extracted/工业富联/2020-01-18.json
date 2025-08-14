@@ -1,0 +1,75 @@
+{
+    "2020-01-18": [
+        [
+            {
+                "time": "2017-01-01",
+                "original_text": "富士康要造电动车；佛山建筑机器人项目入选住建部科技计划",
+                "features": {
+                    "keywords": [
+                        "富士康",
+                        "电动车",
+                        "佛山",
+                        "建筑机器人",
+                        "住建部",
+                        "科技计划"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "制造业",
+                        "汽车行业",
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2017-01-01",
+                "original_text": "视频|富士康造车 马斯克曾称：他们造不了",
+                "features": {
+                    "keywords": [
+                        "富士康",
+                        "造车",
+                        "马斯克"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2017-01-01",
+                "original_text": "FCA证实与富士康的商讨",
+                "features": {
+                    "keywords": [
+                        "FCA",
+                        "富士康",
+                        "商讨"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "汽车行业",
+                        "国际合作"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "2019-12-26": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "McDonald's Expansion Strategy Strong, Slow Asia Growth a Woe",
+                "features": {
+                    "keywords": [
+                        "McDonald's",
+                        "Expansion",
+                        "Strategy",
+                        "Strong",
+                        "Asia",
+                        "Growth"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "food_service",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-11-07",
+                "original_text": "Trump's tax plan will hurt restaurants again in 2020: Dunkin' chair",
+                "features": {
+                    "keywords": [
+                        "Trump",
+                        "tax",
+                        "plan",
+                        "hurt",
+                        "restaurants",
+                        "Dunkin'"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food_service",
+                        "policy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-12-31",
+                "original_text": "2019 Review: Most Favored Hedge Fund Stocks vs. McDonald’s Corporation (MCD)",
+                "features": {
+                    "keywords": [
+                        "2019",
+                        "Review",
+                        "Favored",
+                        "Hedge",
+                        "Fund",
+                        "Stocks",
+                        "McDonald’s",
+                        "Corporation"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "food_service"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

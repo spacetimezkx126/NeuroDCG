@@ -1,0 +1,51 @@
+{
+    "2021-04-24": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "格力电器内部变动，“铁娘子”董明珠退休要提上日程了？",
+                "features": {
+                    "keywords": [
+                        "格力电器",
+                        "董明珠",
+                        "内部变动",
+                        "退休"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "北向资金回流A股，创业板指周涨逾7%",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "回流",
+                        "A股",
+                        "创业板指",
+                        "周涨"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

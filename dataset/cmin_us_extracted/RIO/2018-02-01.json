@@ -1,0 +1,73 @@
+{
+    "2018-02-01": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Iron Ore and China’s Industrial Production and Asset Investment",
+                "features": {
+                    "keywords": [
+                        "Iron Ore",
+                        "China",
+                        "Industrial Production",
+                        "Asset Investment"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Will China’s Credit Growth Crackdown Mean Weakness in Iron Ore?",
+                "features": {
+                    "keywords": [
+                        "Credit Growth",
+                        "Crackdown",
+                        "Weakness",
+                        "Iron Ore"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "What Does The 'Smart Money' Think Of Copper Now?",
+                "features": {
+                    "keywords": [
+                        "Smart Money",
+                        "Copper"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "metals",
+                        "trading"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "2020-03-11": [
+        [
+            {
+                "time": "2020-03-15",
+                "original_text": "Cost of General Electric credit insurance rises along with coronavirus concerns",
+                "features": {
+                    "keywords": [
+                        "General Electric",
+                        "credit insurance",
+                        "coronavirus",
+                        "concerns"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "insurance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-02-20",
+                "original_text": "SunExpress Selects GE Aviation for Digital Agreement",
+                "features": {
+                    "keywords": [
+                        "SunExpress",
+                        "GE Aviation",
+                        "Digital Agreement"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aviation",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-03-10",
+                "original_text": "Boeing's Max Crisis Meets Coronavirus",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "Max Crisis",
+                        "Coronavirus"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aviation",
+                        "transportation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-03-25",
+                "original_text": "After the Market Rout, Preferred Stocks Are Yielding an Appealing 5%",
+                "features": {
+                    "keywords": [
+                        "Market Rout",
+                        "Preferred Stocks",
+                        "Yielding",
+                        "5%"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "stocks"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

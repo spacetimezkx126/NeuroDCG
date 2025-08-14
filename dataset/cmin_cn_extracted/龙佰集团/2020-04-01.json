@@ -1,0 +1,74 @@
+{
+    "2020-04-01": [
+        [
+            {
+                "time": "",
+                "original_text": "[路演]龙蟒佰利：钛白粉需求整体相对稳定 钛白粉价格将在一定区间内小幅波动",
+                "features": {
+                    "keywords": [
+                        "钛白粉",
+                        "需求",
+                        "价格",
+                        "波动"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "[路演]龙蟒佰利：一季度生产正常 疫情对公司国内销售运输造成影响 海外需求保持增长",
+                "features": {
+                    "keywords": [
+                        "疫情",
+                        "国内销售",
+                        "运输",
+                        "海外需求",
+                        "增长"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工",
+                        "国际贸易"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "[路演]龙蟒佰利：未来公司将更加重视环保节能 积极发展循环经济",
+                "features": {
+                    "keywords": [
+                        "环保",
+                        "节能",
+                        "循环经济"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "化工",
+                        "可持续发展"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

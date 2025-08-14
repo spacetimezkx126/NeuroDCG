@@ -1,0 +1,53 @@
+{
+    "2021-01-30": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "2020中免净利润增长超30%；仁川机场T1免税店招标；巴林机场新航站楼启用",
+                "features": {
+                    "keywords": [
+                        "中免",
+                        "净利润增长",
+                        "仁川机场",
+                        "免税店",
+                        "巴林机场",
+                        "新航站楼"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "旅游零售",
+                        "航空运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "得益于海南离岛免税新政 2020中国中免净利润增长32.07%",
+                "features": {
+                    "keywords": [
+                        "海南离岛免税",
+                        "新政",
+                        "中国中免",
+                        "净利润增长"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "旅游零售"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

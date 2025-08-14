@@ -1,0 +1,48 @@
+{
+    "2021-07-19": [
+        [
+            {
+                "time": "",
+                "original_text": "商业银行行业：商业银行日报",
+                "features": {
+                    "keywords": [
+                        "商业银行",
+                        "日报"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "银行行业周报：积极关注银行中报行情",
+                "features": {
+                    "keywords": [
+                        "银行",
+                        "周报",
+                        "积极关注",
+                        "中报行情"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

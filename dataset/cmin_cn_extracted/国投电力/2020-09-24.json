@@ -1,0 +1,52 @@
+{
+    "2020-09-24": [
+        [
+            {
+                "time": "",
+                "original_text": "股每笔成交量增超50%",
+                "features": {
+                    "keywords": [
+                        "成交量",
+                        "增长",
+                        "50%"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "交易"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "上半年抛售电站400MW江山控股电站持有量显著下滑",
+                "features": {
+                    "keywords": [
+                        "抛售",
+                        "电站",
+                        "400MW",
+                        "江山控股",
+                        "下滑"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

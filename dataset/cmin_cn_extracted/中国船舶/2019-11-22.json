@@ -1,0 +1,53 @@
+{
+    "2019-11-22": [
+        [
+            {
+                "time": "",
+                "original_text": "中国船舶集团高层集体调研渤船集团",
+                "features": {
+                    "keywords": [
+                        "中国船舶集团",
+                        "高层",
+                        "调研",
+                        "渤船集团"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "船舶制造",
+                        "国防军工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "罕见！央企下属中船科技重组照样被否 并购重组异常",
+                "features": {
+                    "keywords": [
+                        "央企",
+                        "中船科技",
+                        "重组",
+                        "被否",
+                        "并购重组"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "船舶制造",
+                        "资本运作"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "2020-09-10": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Dow's 211-point fall led by losses for Apple Inc., Caterpillar stocks",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "211-point fall",
+                        "Apple Inc.",
+                        "Caterpillar",
+                        "losses"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-02",
+                "original_text": "Caterpillar, UnitedHealth share losses lead Dow's 133-point drop",
+                "features": {
+                    "keywords": [
+                        "Caterpillar",
+                        "UnitedHealth",
+                        "share losses",
+                        "Dow",
+                        "133-point drop"
+                    ],
+                    "sentiment_score": -0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-03",
+                "original_text": "Dow's 60-point drop led by losses for shares of Caterpillar, Johnson & Johnson",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "60-point drop",
+                        "Caterpillar",
+                        "Johnson & Johnson",
+                        "losses"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial",
+                        "pharmaceutical"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

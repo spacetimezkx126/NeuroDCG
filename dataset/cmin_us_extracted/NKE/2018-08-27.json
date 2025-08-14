@@ -1,0 +1,146 @@
+{
+    "2018-08-27": [
+        [
+            {
+                "time": "2018-07-13",
+                "original_text": "[['[$$]', '$300', 'Million', 'for', 'an', 'Aging', 'Tennis', 'Star?', 'Roger', 'Federer', 'Is', 'Worth', 'It,', 'Uniqlo', 'Says']",
+                "features": {
+                    "keywords": [
+                        "endorsement deal",
+                        "Roger Federer",
+                        "Uniqlo"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "sports"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-08-16",
+                "original_text": "[['Foot', 'Locker', 'Stock', 'Slides', '9.2%', 'after', 'Its', 'Fiscal', 'Q2', '2018', 'Results']",
+                "features": {
+                    "keywords": [
+                        "Foot Locker",
+                        "stock decline",
+                        "fiscal Q2 results"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "sports"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-08-15",
+                "original_text": "[['Sports', 'Retail', 'Roundup:', 'Foot', 'Locker,', 'Dick&apos;s', '&', 'Lululemon']",
+                "features": {
+                    "keywords": [
+                        "sports retail",
+                        "Foot Locker",
+                        "Dick's",
+                        "Lululemon"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "sports"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-08-20",
+                "original_text": "[['Why', 'Nike', '(NKE)', 'is', 'Poised', 'to', 'Beat', 'Earnings', 'Estimates', 'Again']",
+                "features": {
+                    "keywords": [
+                        "Nike",
+                        "earnings estimates",
+                        "beat expectations"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "sports",
+                        "apparel"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-08-21",
+                "original_text": "[['The', 'Zacks', 'Analyst', 'Blog', 'Highlights:', 'Johnson', '&', 'Johnson,', 'Nike,', 'BP,', 'eBay', 'and', 'BCE']",
+                "features": {
+                    "keywords": [
+                        "Zacks Analyst Blog",
+                        "Johnson & Johnson",
+                        "Nike",
+                        "BP",
+                        "eBay",
+                        "BCE"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "sports",
+                        "energy",
+                        "e-commerce",
+                        "telecommunications"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-08-22",
+                "original_text": "[['[$$]', 'Daily', 'briefing:', 'Nafta', 'revamp,', 'Buffett', 'in', 'India,', '‘Nike', 'of', 'the', 'mind’']",
+                "features": {
+                    "keywords": [
+                        "NAFTA revamp",
+                        "Warren Buffett",
+                        "Nike of the mind"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "international trade",
+                        "investments",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

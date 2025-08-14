@@ -1,0 +1,54 @@
+{
+    "2021-10-26": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Should I Avoid Diageo plc (DEO)?",
+                "features": {
+                    "keywords": [
+                        "Diageo",
+                        "plc",
+                        "DEO",
+                        "avoid"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "beverages",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Covid-19 relief grants available to Seattle minority-owned businesses",
+                "features": {
+                    "keywords": [
+                        "Covid-19",
+                        "relief",
+                        "grants",
+                        "Seattle",
+                        "minority-owned",
+                        "businesses"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "services",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

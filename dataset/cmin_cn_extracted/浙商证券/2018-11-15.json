@@ -1,0 +1,49 @@
+{
+    "2018-11-15": [
+        [
+            {
+                "time": "2022-11-15",
+                "original_text": "A股共发生70宗大宗交易成交8.75亿元（11月15日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "大宗交易",
+                        "成交额"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2022-11-15",
+                "original_text": "浙商证券今日大宗交易成交80万股，成交价6.7元折价12.87%",
+                "features": {
+                    "keywords": [
+                        "浙商证券",
+                        "大宗交易",
+                        "折价",
+                        "成交价"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

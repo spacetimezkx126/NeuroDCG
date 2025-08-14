@@ -1,0 +1,50 @@
+{
+    "2020-04-02": [
+        [
+            {
+                "time": "2023-04-02",
+                "original_text": "A股龙虎榜揭秘，机构抛售13股",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "龙虎榜",
+                        "机构",
+                        "抛售"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-04-02",
+                "original_text": "个股无端连续跌停，哪路资金在“兴风作浪”？",
+                "features": {
+                    "keywords": [
+                        "个股",
+                        "连续跌停",
+                        "资金",
+                        "兴风作浪"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "个股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

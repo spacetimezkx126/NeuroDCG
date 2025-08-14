@@ -1,0 +1,55 @@
+{
+    "2019-07-05": [
+        [
+            {
+                "time": "",
+                "original_text": "大宗交易披露机构动向！突击卖股、溢价买入两相宜",
+                "features": {
+                    "keywords": [
+                        "大宗交易",
+                        "机构动向",
+                        "突击卖股",
+                        "溢价买入"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "快讯：港股恒指低开0.04% 新城系反弹中烟香港涨3%",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "恒指",
+                        "低开",
+                        "新城系",
+                        "反弹",
+                        "中烟香港",
+                        "涨3%"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "港股",
+                        "房地产",
+                        "烟草"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

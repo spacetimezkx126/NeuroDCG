@@ -1,0 +1,98 @@
+{
+    "2021-02-15": [
+        [
+            {
+                "time": "2021-03-01",
+                "original_text": "Morgan Stanley Bases Global Capital Markets Head in Germany",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "Global Capital Markets",
+                        "Germany"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "capital markets"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-03-01",
+                "original_text": "Palantir’s 340% Rally Faces Key Tests in Earnings, Lockup’s End",
+                "features": {
+                    "keywords": [
+                        "Palantir",
+                        "Rally",
+                        "Earnings",
+                        "Lockup"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-03-01",
+                "original_text": "Bitcoin’s Epic Run Is Winning More Attention on Wall Street",
+                "features": {
+                    "keywords": [
+                        "Bitcoin",
+                        "Epic Run",
+                        "Wall Street"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "cryptocurrency",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-03-01",
+                "original_text": "Bitcoin Nears $50k, Texas Blackouts Lift Oil, Nissan-Apple – What’s up in Markets",
+                "features": {
+                    "keywords": [
+                        "Bitcoin",
+                        "$50k",
+                        "Texas Blackouts",
+                        "Oil",
+                        "Nissan-Apple"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "cryptocurrency",
+                        "energy",
+                        "automotive",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

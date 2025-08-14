@@ -1,0 +1,98 @@
+{
+    "2019-08-17": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Stocks Warren Buffett Is Buying or Selling",
+                "features": {
+                    "keywords": [
+                        "Warren Buffett",
+                        "Buying",
+                        "Selling"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "The Berkshire Hathaway Portfolio: All the Buffett Stocks Ranked",
+                "features": {
+                    "keywords": [
+                        "Berkshire Hathaway",
+                        "Portfolio",
+                        "Buffett Stocks"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "U.S. Weighs Selling 50- and 100-Year Bonds After Yields Plummet",
+                "features": {
+                    "keywords": [
+                        "U.S.",
+                        "Selling",
+                        "50-year Bonds",
+                        "100-year Bonds",
+                        "Yields Plummet"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "government bonds"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "5 Top Stock Trades for Monday: AMD, BAC, FB, GE, DE",
+                "features": {
+                    "keywords": [
+                        "Top Stock Trades",
+                        "AMD",
+                        "BAC",
+                        "FB",
+                        "GE",
+                        "DE"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "finance",
+                        "consumer goods",
+                        "industrial goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

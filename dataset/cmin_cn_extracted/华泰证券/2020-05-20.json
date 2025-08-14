@@ -1,0 +1,51 @@
+{
+    "2020-05-20": [
+        [
+            {
+                "time": "2023-05-20",
+                "original_text": "A股龙虎榜揭秘，机构抛售12股",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "龙虎榜",
+                        "机构",
+                        "抛售"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-05-20",
+                "original_text": "上交所同意华泰证券为500成长等三只基金提供主流动性服务",
+                "features": {
+                    "keywords": [
+                        "上交所",
+                        "华泰证券",
+                        "500成长",
+                        "流动性服务"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

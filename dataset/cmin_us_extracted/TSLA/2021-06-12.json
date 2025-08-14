@@ -1,0 +1,49 @@
+{
+    "2021-06-12": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Here Come the Teens: They Can’t Vote, but They’re Old Enough to Buy Stocks.",
+                "features": {
+                    "keywords": [
+                        "teens",
+                        "buy stocks"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail investors",
+                        "stocks"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "These 3 EV Companies Are Set to Thrive Over the Long Term",
+                "features": {
+                    "keywords": [
+                        "EV companies",
+                        "thrive",
+                        "long term"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "electric vehicles",
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

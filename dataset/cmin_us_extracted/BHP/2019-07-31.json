@@ -1,0 +1,54 @@
+{
+    "2019-07-31": [
+        [
+            {
+                "time": "2019-07-31",
+                "original_text": "Pre-Market Most Active for Jul 31, 2019: GE, NOK, AMD, BHP, AAPL, AMRN, EIX, QQQ, SPOT, MU, ENPH, ITUB",
+                "features": {
+                    "keywords": [
+                        "Pre-Market",
+                        "Most Active",
+                        "GE",
+                        "NOK",
+                        "AMD",
+                        "BHP",
+                        "AAPL"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "energy",
+                        "materials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-07-31",
+                "original_text": "Why You Should Like BHP Group’s (ASX:BHP) ROCE",
+                "features": {
+                    "keywords": [
+                        "BHP Group",
+                        "ROCE"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "materials",
+                        "mining"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

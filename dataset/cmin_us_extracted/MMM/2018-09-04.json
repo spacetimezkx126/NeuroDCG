@@ -1,0 +1,101 @@
+{
+    "2018-09-04": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Dow cuts session loss in afternoon trade, but Nike and 3M's stocks keep index in the red",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "cuts",
+                        "session loss",
+                        "afternoon trade",
+                        "Nike",
+                        "3M"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "XLI, MMM, HON, UNP: ETF Inflow Alert",
+                "features": {
+                    "keywords": [
+                        "XLI",
+                        "MMM",
+                        "HON",
+                        "UNP",
+                        "ETF",
+                        "Inflow"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "3M and Holmes Collaborated on Roof Solutions",
+                "features": {
+                    "keywords": [
+                        "3M",
+                        "Holmes",
+                        "Roof Solutions"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "construction",
+                        "materials"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-06-05",
+                "original_text": "Caterpillar to Divest Its Purpose-Built Forestry Business",
+                "features": {
+                    "keywords": [
+                        "Caterpillar",
+                        "Divest",
+                        "Purpose-Built",
+                        "Forestry",
+                        "Business"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial",
+                        "forestry"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2020-03-16": [
+        [
+            {
+                "time": "",
+                "original_text": "避险情绪升温，北上资金本月400亿出逃，白马股首当其冲",
+                "features": {
+                    "keywords": [
+                        "避险情绪",
+                        "北上资金",
+                        "出逃",
+                        "白马股"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【家电】美的回购彰显信心，北向资金流出短期股价承压",
+                "features": {
+                    "keywords": [
+                        "美的",
+                        "回购",
+                        "北向资金",
+                        "流出",
+                        "股价承压",
+                        "家电"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

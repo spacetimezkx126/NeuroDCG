@@ -1,0 +1,56 @@
+{
+    "2019-08-27": [
+        [
+            {
+                "time": "",
+                "original_text": "港股通北水追捧建行、腾讯、舜宇光学、吉利",
+                "features": {
+                    "keywords": [
+                        "港股通",
+                        "北水",
+                        "建行",
+                        "腾讯",
+                        "舜宇光学",
+                        "吉利"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "科技",
+                        "汽车",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "债委会苦等 青投集团偿债方案迟到两月",
+                "features": {
+                    "keywords": [
+                        "债委会",
+                        "青投集团",
+                        "偿债方案",
+                        "迟到"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "债务",
+                        "企业信用"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

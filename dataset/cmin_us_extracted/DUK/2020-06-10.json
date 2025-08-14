@@ -1,0 +1,53 @@
+{
+    "2020-06-10": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "New pollinator garden at Duke Energy Tippecanoe Solar Power Plant in Indiana helps pollinator species thrive",
+                "features": {
+                    "keywords": [
+                        "pollinator garden",
+                        "Duke Energy",
+                        "Tippecanoe Solar Power Plant",
+                        "Indiana",
+                        "pollinator species"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "renewable energy",
+                        "environmental sustainability"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Duke Energy Progress proposes lower monthly bills for North Carolina customers",
+                "features": {
+                    "keywords": [
+                        "Duke Energy Progress",
+                        "lower monthly bills",
+                        "North Carolina",
+                        "customers"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "customer relations"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

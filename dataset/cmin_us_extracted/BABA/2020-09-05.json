@@ -1,0 +1,52 @@
+{
+    "2020-09-05": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Warren Buffett Is Betting on Japanese Stocks. Here’s How You Can Too.",
+                "features": {
+                    "keywords": [
+                        "Warren Buffett",
+                        "Japanese Stocks",
+                        "Betting"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "stocks",
+                        "international"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "What will China's central bank digital currency mean for Alipay and WeChat Pay?",
+                "features": {
+                    "keywords": [
+                        "China",
+                        "central bank",
+                        "digital currency",
+                        "Alipay",
+                        "WeChat Pay"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "fintech",
+                        "payments"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

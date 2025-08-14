@@ -1,0 +1,49 @@
+{
+    "2020-06-13": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "'I am still the only person of colour on the team'",
+                "features": {
+                    "keywords": [
+                        "diversity",
+                        "representation"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "human_resources",
+                        "corporate_culture"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Watch out: This is the age where you should definitely stop trading stocks",
+                "features": {
+                    "keywords": [
+                        "trading_advice",
+                        "risk_aversion",
+                        "age_factor"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail_investors",
+                        "personal_finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

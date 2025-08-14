@@ -1,0 +1,48 @@
+{
+    "2020-07-16": [
+        [
+            {
+                "time": "",
+                "original_text": "温氏股份现1笔大宗交易 ，共成交1,945.18万元",
+                "features": {
+                    "keywords": [
+                        "温氏股份",
+                        "大宗交易"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "食品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "127股获券商买入评级，长安汽车目标涨幅达75.23%",
+                "features": {
+                    "keywords": [
+                        "券商买入评级",
+                        "长安汽车",
+                        "目标涨幅"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

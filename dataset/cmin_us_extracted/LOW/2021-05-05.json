@@ -1,0 +1,53 @@
+{
+    "2021-05-05": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Wall Street Is Pumped for Home Depot and Lowe’s Earnings. What That Means for the Stocks.",
+                "features": {
+                    "keywords": [
+                        "Wall Street",
+                        "Home Depot",
+                        "Lowe's",
+                        "Earnings",
+                        "Stocks"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "home improvement"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Why buying a house will cost even more than you think",
+                "features": {
+                    "keywords": [
+                        "buying",
+                        "house",
+                        "cost",
+                        "more"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate",
+                        "housing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

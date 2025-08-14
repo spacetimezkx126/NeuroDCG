@@ -1,0 +1,50 @@
+{
+    "2021-11-01": [
+        [
+            {
+                "time": "",
+                "original_text": "【公司点评报告】桐昆股份（601233.SH）",
+                "features": {
+                    "keywords": [
+                        "桐昆股份",
+                        "公司点评",
+                        "601233.SH"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "洋河股份投资亏损1.6亿 未到期资金重仓恒大、宝能 投资失误",
+                "features": {
+                    "keywords": [
+                        "洋河股份",
+                        "投资亏损",
+                        "恒大",
+                        "宝能",
+                        "投资失误"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

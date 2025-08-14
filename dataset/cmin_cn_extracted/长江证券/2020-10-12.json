@@ -1,0 +1,54 @@
+{
+    "2020-10-12": [
+        [
+            {
+                "time": "",
+                "original_text": "【行情】证券板块异动拉升，国海证券涨超5％，长城证券、国信证券、招商证券、长江证券等跟涨",
+                "features": {
+                    "keywords": [
+                        "证券板块",
+                        "异动拉升",
+                        "国海证券",
+                        "长城证券",
+                        "国信证券",
+                        "招商证券",
+                        "长江证券"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "新三板督导券商挑选指南——献给所有新三板公司",
+                "features": {
+                    "keywords": [
+                        "新三板",
+                        "督导券商",
+                        "挑选指南"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "新三板"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "2018-02-24": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Cyclical Fears For Semis Are Rising, Says Deutsche Bank",
+                "features": {
+                    "keywords": [
+                        "Cyclical",
+                        "Fears",
+                        "Semis",
+                        "Deutsche Bank"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "semiconductors"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Recession is Coming! Not",
+                "features": {
+                    "keywords": [
+                        "Recession",
+                        "Coming"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

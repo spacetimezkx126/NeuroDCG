@@ -1,0 +1,71 @@
+{
+    "2020-01-23": [
+        [
+            {
+                "time": "2020-01-23",
+                "original_text": "Gilead, Bristol-Myers Pumped More Into R&D Than Shareholder Enrichments",
+                "features": {
+                    "keywords": [
+                        "Gilead",
+                        "Bristol-Myers",
+                        "R&D",
+                        "Shareholder Enrichments"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-01-23",
+                "original_text": "The one value strategy that wasn’t a disaster now favors commodity sector over techs",
+                "features": {
+                    "keywords": [
+                        "value strategy",
+                        "commodity sector",
+                        "techs"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "commodities",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-01-23",
+                "original_text": "How Trading Your Own Retirement Can Fleeces Your Financial Future",
+                "features": {
+                    "keywords": [
+                        "Trading",
+                        "Retirement",
+                        "Financial Future"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

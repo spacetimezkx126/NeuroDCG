@@ -1,0 +1,50 @@
+{
+    "2020-12-15": [
+        [
+            {
+                "time": "",
+                "original_text": "跌停潮！20只ST股跌停，5000亿大白马却飙升",
+                "features": {
+                    "keywords": [
+                        "跌停潮",
+                        "ST股",
+                        "大白马",
+                        "飙升"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "ST股",
+                        "白马股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "22股获券商买入评级，多伦科技目标涨幅达68.97%",
+                "features": {
+                    "keywords": [
+                        "券商买入评级",
+                        "多伦科技",
+                        "目标涨幅"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "个股推荐"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

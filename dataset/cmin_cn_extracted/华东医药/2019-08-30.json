@@ -1,0 +1,91 @@
+{
+    "2019-08-30": [
+        [
+            {
+                "time": "2023-08-30",
+                "original_text": "上市公司晚间公告速递",
+                "features": {
+                    "keywords": [
+                        "公告",
+                        "速递"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-08-30",
+                "original_text": "华东医药：二季度研发投入最高 料全年研发费用将达10亿元",
+                "features": {
+                    "keywords": [
+                        "华东医药",
+                        "研发投入",
+                        "研发费用",
+                        "10亿元"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-08-30",
+                "original_text": "华东医药：国家对集采政策后续的进一步扩大和推进相对较谨慎",
+                "features": {
+                    "keywords": [
+                        "华东医药",
+                        "集采政策",
+                        "谨慎"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-08-30",
+                "original_text": "机构扫货星网锐捷 猪肉股倍受游资青睐",
+                "features": {
+                    "keywords": [
+                        "机构",
+                        "扫货",
+                        "星网锐捷",
+                        "猪肉股",
+                        "游资"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "农业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

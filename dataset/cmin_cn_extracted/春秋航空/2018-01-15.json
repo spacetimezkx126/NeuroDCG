@@ -1,0 +1,95 @@
+{
+    "2018-01-15": [
+        [
+            {
+                "time": "",
+                "original_text": "春,秋,航,空,：,首,次,公,开,发,行,限,售,股,上,市,流,通,公,告",
+                "features": {
+                    "keywords": [
+                        "春秋航空",
+                        "首次公开发行",
+                        "限售股",
+                        "上市流通"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "航,空,票,价,市,场,化,落,地, , 三,大,航,明,显,受,益",
+                "features": {
+                    "keywords": [
+                        "航空票价市场化",
+                        "三大航",
+                        "明显受益"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "交,通,运,输,行,业,周,报,：,出,口,增,速,较,快,集,运,运,价,强,劲",
+                "features": {
+                    "keywords": [
+                        "交通运输行业",
+                        "出口增速较快",
+                        "集运运价强劲"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "交通运输",
+                        "集运"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "春,运,高,铁,飞,机,齐,加,码, , 挑,好,时,机,机,票,打,对,折",
+                "features": {
+                    "keywords": [
+                        "春运",
+                        "高铁",
+                        "飞机",
+                        "加码",
+                        "机票打折"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "高铁",
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

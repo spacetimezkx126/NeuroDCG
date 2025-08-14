@@ -1,0 +1,73 @@
+{
+    "2019-04-05": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Friday Sector Laggards: Materials, Financial",
+                "features": {
+                    "keywords": [
+                        "laggards",
+                        "materials",
+                        "financial"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "materials",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Week’s Best: Wells CEO Search, Schwab’s Game Changer",
+                "features": {
+                    "keywords": [
+                        "Wells",
+                        "CEO",
+                        "Schwab",
+                        "game changer"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Schwab's Intelligent Portfolio Is Top Robo-Advisor in Q3: Backend Benchmarking",
+                "features": {
+                    "keywords": [
+                        "Schwab",
+                        "intelligent portfolio",
+                        "robo-advisor",
+                        "Q3",
+                        "backend benchmarking"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

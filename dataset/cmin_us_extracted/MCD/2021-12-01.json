@@ -1,0 +1,120 @@
+{
+    "2021-12-01": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Cargill Reaches Tentative Deal with Union for Canadian Plant",
+                "features": {
+                    "keywords": [
+                        "Cargill",
+                        "deal",
+                        "union",
+                        "Canadian plant"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "agriculture",
+                        "food processing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-03",
+                "original_text": "Chick-fil-A, Smithfield's Bar-B-Q planned for growing Triad corridor",
+                "features": {
+                    "keywords": [
+                        "Chick-fil-A",
+                        "Smithfield",
+                        "Bar-B-Q",
+                        "Triad corridor"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "fast food",
+                        "restaurant expansion"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "Byron Allen's $10 billion McDonald's discrimination lawsuit is thrown out",
+                "features": {
+                    "keywords": [
+                        "Byron Allen",
+                        "McDonald's",
+                        "discrimination lawsuit",
+                        "thrown out"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "fast food",
+                        "legal issues"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-05",
+                "original_text": "McDonald’s Struggles to Fix Its Massive Methane Problem",
+                "features": {
+                    "keywords": [
+                        "McDonald’s",
+                        "methane problem",
+                        "environmental issue"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "fast food",
+                        "sustainability"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-06",
+                "original_text": "Bill Ackman: Don’t panic over the omicron plunge — the truth could be ‘bullish not bearish’ for stocks like these",
+                "features": {
+                    "keywords": [
+                        "Bill Ackman",
+                        "omicron plunge",
+                        "bullish",
+                        "stocks"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "financial markets",
+                        "investor sentiment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

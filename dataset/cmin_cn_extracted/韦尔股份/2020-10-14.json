@@ -1,0 +1,51 @@
+{
+    "2020-10-14": [
+        [
+            {
+                "time": "",
+                "original_text": "韦尔股份现1笔大宗交易 ，共成交4,842.32万元",
+                "features": {
+                    "keywords": [
+                        "韦尔股份",
+                        "大宗交易",
+                        "成交金额"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "半导体",
+                        "电子元件"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "科技行业日报：苹果将发布IPHONE12 小米公布UWB技术",
+                "features": {
+                    "keywords": [
+                        "苹果",
+                        "IPHONE12",
+                        "小米",
+                        "UWB技术"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "消费电子"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

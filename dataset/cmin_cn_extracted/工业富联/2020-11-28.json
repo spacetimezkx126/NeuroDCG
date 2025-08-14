@@ -1,0 +1,52 @@
+{
+    "2020-11-28": [
+        [
+            {
+                "time": "",
+                "original_text": "消息称为苹果已将折叠iPhone送样至富士康测试",
+                "features": {
+                    "keywords": [
+                        "苹果",
+                        "折叠iPhone",
+                        "富士康",
+                        "测试"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "消费电子"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "富士康果然“变心了”，未来几百万流水线工人，只能回家当农民？",
+                "features": {
+                    "keywords": [
+                        "富士康",
+                        "流水线工人",
+                        "变心",
+                        "自动化"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "制造业",
+                        "劳动力市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

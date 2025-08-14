@@ -1,0 +1,69 @@
+{
+    "2020-09-16": [
+        [
+            {
+                "time": "2021-03-15",
+                "original_text": "Johnson & Johnson stock falls Wednesday, still outperforms market",
+                "features": {
+                    "keywords": [
+                        "Johnson & Johnson",
+                        "stock falls",
+                        "outperforms market"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-03-15",
+                "original_text": "Cos. with a real vaccine history will have their data sets in early 2021: Expert",
+                "features": {
+                    "keywords": [
+                        "vaccine history",
+                        "data sets",
+                        "early 2021"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-03-15",
+                "original_text": "3 Steady Stocks to Buy in a Highly Volatile Market",
+                "features": {
+                    "keywords": [
+                        "Steady Stocks",
+                        "Buy",
+                        "Volatile Market"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

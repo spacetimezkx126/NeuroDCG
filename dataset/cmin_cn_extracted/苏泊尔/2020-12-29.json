@@ -1,0 +1,52 @@
+{
+    "2020-12-29": [
+        [
+            {
+                "time": "",
+                "original_text": "是否涉利益输送？炊具龙头苏泊尔年报存疑 归母净利增速乏力 欺诈造假",
+                "features": {
+                    "keywords": [
+                        "苏泊尔",
+                        "年报",
+                        "归母净利",
+                        "增速乏力",
+                        "欺诈造假"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家电",
+                        "炊具"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "安信证券：预计家电出口仍将受疫情影响保持快速增长",
+                "features": {
+                    "keywords": [
+                        "安信证券",
+                        "家电出口",
+                        "疫情影响",
+                        "快速增长"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

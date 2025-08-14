@@ -1,0 +1,76 @@
+{
+    "2018-11-06": [
+        [
+            {
+                "time": "",
+                "original_text": "天风证券首次开板，华泰深圳益田路荣超商务中心买入6806万元",
+                "features": {
+                    "keywords": [
+                        "天风证券",
+                        "首次开板",
+                        "华泰",
+                        "益田路",
+                        "买入"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "券商股逆势攀升，华鑫股份冲击涨停",
+                "features": {
+                    "keywords": [
+                        "券商股",
+                        "逆势攀升",
+                        "华鑫股份",
+                        "涨停"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "新股天风证券开板，现涨6%",
+                "features": {
+                    "keywords": [
+                        "新股",
+                        "天风证券",
+                        "开板",
+                        "涨6%"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

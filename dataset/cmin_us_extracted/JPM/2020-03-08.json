@@ -1,0 +1,48 @@
+{
+    "2020-03-08": [
+        [
+            {
+                "time": "2020-03-10",
+                "original_text": "Citigroup splits Buffalo, NY, trading staff as coronavirus precaution",
+                "features": {
+                    "keywords": [
+                        "Citigroup",
+                        "trading staff",
+                        "coronavirus precaution"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-03-15",
+                "original_text": "5 High-Yield Financial Stocks to Buy Thanks to the Coronavirus",
+                "features": {
+                    "keywords": [
+                        "High-Yield",
+                        "Financial Stocks",
+                        "Coronavirus"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

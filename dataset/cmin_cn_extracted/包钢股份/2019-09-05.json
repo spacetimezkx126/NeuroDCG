@@ -1,0 +1,50 @@
+{
+    "2019-09-05": [
+        [
+            {
+                "time": "2023-09-05",
+                "original_text": "A股共发生83宗大宗交易成交25.51亿元（9月5日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "大宗交易",
+                        "成交额",
+                        "市场活跃度"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-09-05",
+                "original_text": "包钢股份今日大宗交易成交29895.12万股，成交价1.45元折价5.84%",
+                "features": {
+                    "keywords": [
+                        "包钢股份",
+                        "大宗交易",
+                        "折价",
+                        "个股表现"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "钢铁"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

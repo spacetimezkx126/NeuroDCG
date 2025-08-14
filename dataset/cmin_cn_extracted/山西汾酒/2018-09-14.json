@@ -1,0 +1,51 @@
+{
+    "2018-09-14": [
+        [
+            {
+                "time": "",
+                "original_text": "午后开盘，港口个股集体拉升, 海南板块异动拉升",
+                "features": {
+                    "keywords": [
+                        "港口",
+                        "个股",
+                        "拉升",
+                        "海南板块",
+                        "异动"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "港口",
+                        "海南"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【盘中动态】消费旺季即将来临 白酒板块投资价值几何？",
+                "features": {
+                    "keywords": [
+                        "消费旺季",
+                        "白酒板块",
+                        "投资价值"
+                    ],
+                    "sentiment_score": 0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

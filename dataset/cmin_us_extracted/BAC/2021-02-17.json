@@ -1,0 +1,92 @@
+{
+    "2021-02-17": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "BofA, Goldman Sign Leases at Tower Owned by Vornado, Trump",
+                "features": {
+                    "keywords": [
+                        "BofA",
+                        "Goldman",
+                        "Leases",
+                        "Vornado",
+                        "Trump"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-07-22",
+                "original_text": "JPMorgan (JPM) Breaks Out to All-Time High",
+                "features": {
+                    "keywords": [
+                        "JPMorgan",
+                        "All-Time High"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-04-10",
+                "original_text": "Analyzing Bank of America's Unusual Options Activity",
+                "features": {
+                    "keywords": [
+                        "Bank of America",
+                        "Options Activity"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-02-28",
+                "original_text": "JD.com Plans to List Shipping Unit to Ride E-Commerce Boom",
+                "features": {
+                    "keywords": [
+                        "JD.com",
+                        "Shipping Unit",
+                        "E-Commerce Boom"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "e-commerce",
+                        "logistics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

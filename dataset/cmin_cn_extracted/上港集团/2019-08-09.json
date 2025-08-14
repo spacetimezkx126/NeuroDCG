@@ -1,0 +1,52 @@
+{
+    "2019-08-09": [
+        [
+            {
+                "time": "",
+                "original_text": "沪指早盘重返2800点！A股涨幅收窄，沪指涨0.27%",
+                "features": {
+                    "keywords": [
+                        "沪指",
+                        "早盘",
+                        "2800点",
+                        "A股",
+                        "涨幅收窄"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "大盘指数"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "快讯：自由贸易港板块异动上涨 ST安通涨逾4%",
+                "features": {
+                    "keywords": [
+                        "自由贸易港",
+                        "板块异动",
+                        "ST安通",
+                        "涨逾4%"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "自由贸易港",
+                        "个股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

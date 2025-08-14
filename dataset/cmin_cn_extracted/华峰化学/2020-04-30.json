@@ -1,0 +1,53 @@
+{
+    "2020-04-30": [
+        [
+            {
+                "time": "2023-04-30",
+                "original_text": "生，意，社，：，4，月，3，0，日，浙，江，华，峰，氨，纶，价，格，动，态",
+                "features": {
+                    "keywords": [
+                        "浙江华峰",
+                        "氨纶",
+                        "价格动态"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工",
+                        "纺织"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-04-30",
+                "original_text": "氨，纶，项，目，高，投，入，“，低，收，益，” ，新，乡，化，纤，拟，用，定，增，4，亿，元，偿，债",
+                "features": {
+                    "keywords": [
+                        "氨纶项目",
+                        "高投入",
+                        "低收益",
+                        "新乡化纤",
+                        "定增",
+                        "偿债"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "化工",
+                        "纺织"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

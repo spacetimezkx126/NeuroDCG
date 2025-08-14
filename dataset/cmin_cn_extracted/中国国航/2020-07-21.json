@@ -1,0 +1,76 @@
+{
+    "2020-07-21": [
+        [
+            {
+                "time": "",
+                "original_text": "新三天板日报：恒拓开源：从事行业应用软件开发和专业技术服务的供应商",
+                "features": {
+                    "keywords": [
+                        "新三板",
+                        "恒拓开源",
+                        "行业应用软件",
+                        "技术服务"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "软件",
+                        "信息技术"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "一季度民航业累计亏损398亿 旅客运输量同比下降54% 亏损",
+                "features": {
+                    "keywords": [
+                        "民航业",
+                        "亏损",
+                        "旅客运输量",
+                        "同比下降"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "交运行业周报：快递行业逆势上扬 跨省跟团游放开",
+                "features": {
+                    "keywords": [
+                        "交运行业",
+                        "快递行业",
+                        "逆势上扬",
+                        "跨省跟团游",
+                        "放开"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流",
+                        "旅游"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

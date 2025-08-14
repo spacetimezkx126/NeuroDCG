@@ -1,0 +1,94 @@
+{
+    "2019-09-01": [
+        [
+            {
+                "time": "2019-09-15",
+                "original_text": "Panama Papers revisited in Soderbergh's star-studded &quot;The Laundromat&quot;",
+                "features": {
+                    "keywords": [
+                        "Panama Papers",
+                        "Soderbergh",
+                        "The Laundromat"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "legal"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-09-18",
+                "original_text": "ROSEN, A HIGHLY RANKED LAW FIRM, Reminds Netflix, Inc. Investors of Important September 20th Deadline in Securities Class Action First Filed by the Firm – NFLX",
+                "features": {
+                    "keywords": [
+                        "Rosen",
+                        "Netflix",
+                        "Securities Class Action",
+                        "NFLX"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "entertainment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-09-16",
+                "original_text": "Disney Gives Amazon the Cold Shoulder",
+                "features": {
+                    "keywords": [
+                        "Disney",
+                        "Amazon",
+                        "Cold Shoulder"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment",
+                        "media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-09-17",
+                "original_text": "Netflix Is Still Worth Buying Despite Its Recent Subscriber Whiff",
+                "features": {
+                    "keywords": [
+                        "Netflix",
+                        "Subscriber Whiff"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "entertainment"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

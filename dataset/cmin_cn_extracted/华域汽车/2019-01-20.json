@@ -1,0 +1,49 @@
+{
+    "2019-01-20": [
+        [
+            {
+                "time": "",
+                "original_text": "长 江 策 略 联 合 大 消 费 行 业 | 是 外 资 的 力 量 还 是 行 业 的 力 量 ？",
+                "features": {
+                    "keywords": [
+                        "长江策略",
+                        "大消费行业",
+                        "外资",
+                        "行业力量"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "汽 车 ： 汽 车 板 块 整 体 下 跌 0 . 3 5 % 荐 6 股",
+                "features": {
+                    "keywords": [
+                        "汽车板块",
+                        "下跌",
+                        "荐股"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

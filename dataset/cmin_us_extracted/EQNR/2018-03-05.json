@@ -1,0 +1,76 @@
+{
+    "2018-03-05": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Statoil (STO) Hires West Phoenix Rig to Drill 4 Wells",
+                "features": {
+                    "keywords": [
+                        "Statoil",
+                        "West Phoenix Rig",
+                        "Drill",
+                        "Wells"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Aker BP ASA -- Moody's upgrades Aker BP's rating to Ba1, stable outlook",
+                "features": {
+                    "keywords": [
+                        "Aker BP",
+                        "Moody's",
+                        "upgrades",
+                        "rating",
+                        "Ba1",
+                        "stable outlook"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "As its wealth fund goes green, Norway's firms struggle to keep up",
+                "features": {
+                    "keywords": [
+                        "wealth fund",
+                        "green",
+                        "Norway",
+                        "firms",
+                        "struggle"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "environment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

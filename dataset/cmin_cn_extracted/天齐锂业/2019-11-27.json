@@ -1,0 +1,53 @@
+{
+    "2019-11-27": [
+        [
+            {
+                "time": "",
+                "original_text": "天齐锂业大幅拉升1.98% 股价创近2个月新高",
+                "features": {
+                    "keywords": [
+                        "天齐锂业",
+                        "大幅拉升",
+                        "股价",
+                        "新高"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "锂电池"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "比茅台还暴利！这只大牛股4天跌20%，好股票又被外资抄底了？",
+                "features": {
+                    "keywords": [
+                        "茅台",
+                        "暴利",
+                        "大牛股",
+                        "下跌",
+                        "外资抄底"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "消费",
+                        "高端制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

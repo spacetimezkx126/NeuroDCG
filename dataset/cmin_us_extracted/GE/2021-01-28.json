@@ -1,0 +1,77 @@
+{
+    "2021-01-28": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Controladora Mabe, S.A. de C.V. -- Moody's changes Mabe's outlook to stable; affirms Baa3 ratings",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "outlook",
+                        "stable",
+                        "Baa3",
+                        "ratings"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-02-28",
+                "original_text": "GE's Turnaround Is Just Getting Started",
+                "features": {
+                    "keywords": [
+                        "GE",
+                        "turnaround",
+                        "started"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "Zacks Market Edge Highlights: Cisco, Microsoft, Monster Beverage, Amazon and General Electric",
+                "features": {
+                    "keywords": [
+                        "Zacks",
+                        "Market",
+                        "Edge",
+                        "Cisco",
+                        "Microsoft",
+                        "Monster Beverage",
+                        "Amazon",
+                        "General Electric"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

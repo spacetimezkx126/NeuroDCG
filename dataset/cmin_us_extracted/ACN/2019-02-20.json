@@ -1,0 +1,53 @@
+{
+    "2019-02-20": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Accenture Partners with and Invests in Splice Machine to Help Bring Operational Artificial Intelligence to Critical Business Applications",
+                "features": {
+                    "keywords": [
+                        "Accenture",
+                        "Invests",
+                        "Splice Machine",
+                        "Operational Artificial Intelligence",
+                        "Critical Business Applications"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "AI"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "[$$] UK struggles to give business customers more banking choice",
+                "features": {
+                    "keywords": [
+                        "UK",
+                        "struggles",
+                        "business customers",
+                        "banking choice"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "banking"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

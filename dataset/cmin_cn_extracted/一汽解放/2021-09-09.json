@@ -1,0 +1,56 @@
+{
+    "2021-09-09": [
+        [
+            {
+                "time": "",
+                "original_text": "卡家看财报：一汽解放重卡累销30.7万辆",
+                "features": {
+                    "keywords": [
+                        "一汽解放",
+                        "重卡",
+                        "累销",
+                        "30.7万辆"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "一汽解放：近几年公司结合国六对现有产品平台进行升级和全新的构建，基于发动机国六排放的升级，在全面构建平台的技术，品质，成本的综合领先优势",
+                "features": {
+                    "keywords": [
+                        "一汽解放",
+                        "国六",
+                        "产品平台",
+                        "技术",
+                        "品质",
+                        "成本",
+                        "领先优势"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车",
+                        "环保",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

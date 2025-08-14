@@ -1,0 +1,53 @@
+{
+    "2018-12-31": [
+        [
+            {
+                "time": "",
+                "original_text": "徐工机械股东泰元投资质押2101万股，占其所持股份的6.42%",
+                "features": {
+                    "keywords": [
+                        "徐工机械",
+                        "泰元投资",
+                        "质押",
+                        "2101万股",
+                        "6.42%"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "机械"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【徐工机械】徐工信息增资扩股，关注徐工集团混改进展【国金机械军工】",
+                "features": {
+                    "keywords": [
+                        "徐工机械",
+                        "徐工信息",
+                        "增资扩股",
+                        "混改",
+                        "国金机械军工"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "机械",
+                        "军工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

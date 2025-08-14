@@ -1,0 +1,52 @@
+{
+    "2020-05-20": [
+        [
+            {
+                "time": "",
+                "original_text": "流动负债占比99%，应付账款30亿！苏泊尔主营业务成本较高 偿债能力下降",
+                "features": {
+                    "keywords": [
+                        "流动负债",
+                        "应付账款",
+                        "苏泊尔",
+                        "主营业务成本",
+                        "偿债能力"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家电",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "双线渠道融合成为小家电发展趋势",
+                "features": {
+                    "keywords": [
+                        "双线渠道",
+                        "小家电",
+                        "发展趋势"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "家电",
+                        "零售业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

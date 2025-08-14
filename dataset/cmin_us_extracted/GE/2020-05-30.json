@@ -1,0 +1,56 @@
+{
+    "2020-05-30": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "GE’s stock loses nearly 10% in 2 days after CEO Larry Culp warns cash burn will increase",
+                "features": {
+                    "keywords": [
+                        "GE",
+                        "stock",
+                        "loses",
+                        "CEO",
+                        "Larry Culp",
+                        "cash burn",
+                        "increase"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "A Giant Pension Bought Citigroup and CVS Stock. Here’s What It’s Selling.",
+                "features": {
+                    "keywords": [
+                        "Giant Pension",
+                        "Bought",
+                        "Citigroup",
+                        "CVS",
+                        "Stock",
+                        "Selling"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "2018-02-20": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Three bold market calls on where to go from here",
+                "features": {
+                    "keywords": [
+                        "market calls",
+                        "bold",
+                        "direction"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "How Wall Street Analysts View Goldman Sachs",
+                "features": {
+                    "keywords": [
+                        "Wall Street",
+                        "Analysts",
+                        "Goldman Sachs"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "Goldman's (GS) CEO Blankfein's Pay Raised by 9% in 2017",
+                "features": {
+                    "keywords": [
+                        "Goldman Sachs",
+                        "CEO",
+                        "Pay Raised",
+                        "9%"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "Rising Inflation 'Worrying' in Weaker Eco Data, Says Sheets",
+                "features": {
+                    "keywords": [
+                        "Rising Inflation",
+                        "Worrying",
+                        "Weaker Eco Data"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

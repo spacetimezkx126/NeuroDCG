@@ -1,0 +1,82 @@
+{
+    "2021-11-30": [
+        [
+            {
+                "time": "",
+                "original_text": "A股资金流向：新能源分歧加大，外资尾盘被动配置加剧波动",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "资金流向",
+                        "新能源",
+                        "分歧",
+                        "外资",
+                        "尾盘",
+                        "被动配置",
+                        "波动"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "科创板第一高价股PK：思瑞浦的模拟芯片VS石头科技的扫地机",
+                "features": {
+                    "keywords": [
+                        "科创板",
+                        "高价股",
+                        "思瑞浦",
+                        "模拟芯片",
+                        "石头科技",
+                        "扫地机"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "半导体",
+                        "消费电子"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "机械设备行业专题研究：电力交易市场化加速电网智能／数字化",
+                "features": {
+                    "keywords": [
+                        "机械设备",
+                        "行业研究",
+                        "电力交易",
+                        "市场化",
+                        "电网智能",
+                        "数字化"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "机械设备",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

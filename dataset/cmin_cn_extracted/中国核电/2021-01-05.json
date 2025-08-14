@@ -1,0 +1,76 @@
+{
+    "2021-01-05": [
+        [
+            {
+                "time": "",
+                "original_text": "中国核电(601985.SH)：2020年全年累计商运发电量1539.76亿千瓦时、2021年全年发电量目标为1700亿千瓦时",
+                "features": {
+                    "keywords": [
+                        "中国核电",
+                        "发电量",
+                        "2020年",
+                        "2021年",
+                        "商运"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电力",
+                        "核电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "“十三五”期间中国共投运21台核电机组，未达到装机目标",
+                "features": {
+                    "keywords": [
+                        "十三五",
+                        "核电机组",
+                        "投运",
+                        "装机目标"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "核电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "公用事业行业周报：水电四季度业绩有望正增长 火电预计有所下降",
+                "features": {
+                    "keywords": [
+                        "公用事业",
+                        "水电",
+                        "火电",
+                        "四季度",
+                        "业绩"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "水电",
+                        "火电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

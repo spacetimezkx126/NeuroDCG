@@ -1,0 +1,51 @@
+{
+    "2020-11-02": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "Lowe's to Hire 20,000 Staff, Pay Bonuses of $100 million",
+                "features": {
+                    "keywords": [
+                        "Hire",
+                        "20,000 Staff",
+                        "Bonuses",
+                        "$100 million"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "construction"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "Why Lowe's (LOW) is Poised to Beat Earnings Estimates Again",
+                "features": {
+                    "keywords": [
+                        "Poised",
+                        "Beat",
+                        "Earnings Estimates"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "home improvement"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

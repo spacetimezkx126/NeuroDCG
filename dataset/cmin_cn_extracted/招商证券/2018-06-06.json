@@ -1,0 +1,75 @@
+{
+    "2018-06-06": [
+        [
+            {
+                "time": "",
+                "original_text": "关于核准豁免深圳市招融投资控股有限公司要约收购招商证券股份有限公司股份义务的批复",
+                "features": {
+                    "keywords": [
+                        "核准",
+                        "豁免",
+                        "招融投资",
+                        "招商证券"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-05-01",
+                "original_text": "招商证券(06099-HK)5月净利润约3.47亿元 同比增34.5%",
+                "features": {
+                    "keywords": [
+                        "招商证券",
+                        "5月",
+                        "净利润",
+                        "同比增长"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-05-01",
+                "original_text": "招商证券：母公司5月净利3.47亿元",
+                "features": {
+                    "keywords": [
+                        "招商证券",
+                        "母公司",
+                        "5月",
+                        "净利润"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

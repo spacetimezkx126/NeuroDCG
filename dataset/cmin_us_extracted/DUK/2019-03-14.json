@@ -1,0 +1,50 @@
+{
+    "2019-03-14": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Report: Ex-CEO of Duke Energy, Progress appears headed to troubled PG&E",
+                "features": {
+                    "keywords": [
+                        "Ex-CEO",
+                        "Duke Energy",
+                        "Progress",
+                        "PG&E",
+                        "troubled"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "What Analysts Currently Think of Southern Company Stock",
+                "features": {
+                    "keywords": [
+                        "Analysts",
+                        "Southern Company",
+                        "Stock"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

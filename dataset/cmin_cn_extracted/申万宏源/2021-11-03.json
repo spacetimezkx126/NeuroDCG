@@ -1,0 +1,54 @@
+{
+    "2021-11-03": [
+        [
+            {
+                "time": "",
+                "original_text": "北交所开市倒计时，券商都在忙什么？交易系统改造是基建，投行、投资、研究全业务链已集结，深挖北交所业务机会",
+                "features": {
+                    "keywords": [
+                        "北交所",
+                        "开市",
+                        "券商",
+                        "交易系统改造",
+                        "投行",
+                        "投资",
+                        "研究",
+                        "业务机会"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2021-10-29",
+                "original_text": "中泰化学：申万宏源、申万宏源等22家机构于10月29日调研我司",
+                "features": {
+                    "keywords": [
+                        "中泰化学",
+                        "申万宏源",
+                        "机构调研"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2018-10-13": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Tech Leaders Carefully Back Away From Saudi Government",
+                "features": {
+                    "keywords": [
+                        "Tech Leaders",
+                        "Carefully",
+                        "Back Away",
+                        "Saudi Government"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "government relations"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Apple (AAPL) Expands AR Capabilities Through Acquisitions",
+                "features": {
+                    "keywords": [
+                        "Apple",
+                        "AAPL",
+                        "Expands",
+                        "AR Capabilities",
+                        "Acquisitions"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "augmented reality"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

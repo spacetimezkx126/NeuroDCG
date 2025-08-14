@@ -1,0 +1,75 @@
+{
+    "2020-09-02": [
+        [
+            {
+                "time": "2023-08-01",
+                "original_text": "ADP National Employment Report: Private Sector Employment Increased by 428,000 Jobs in August",
+                "features": {
+                    "keywords": [
+                        "ADP",
+                        "National Employment Report",
+                        "Private Sector",
+                        "Increased",
+                        "Jobs"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "employment",
+                        "private sector"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-08-01",
+                "original_text": "Do Automatic Data Processing's (NASDAQ:ADP) Earnings Warrant Your Attention?",
+                "features": {
+                    "keywords": [
+                        "Automatic Data Processing",
+                        "Earnings",
+                        "Attention"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "financial services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-08-01",
+                "original_text": "Up 16% This Year, Accenture Stock Headed Back Down?",
+                "features": {
+                    "keywords": [
+                        "Accenture",
+                        "Stock",
+                        "Up 16%",
+                        "Headed Back Down"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consulting",
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

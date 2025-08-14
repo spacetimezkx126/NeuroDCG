@@ -1,0 +1,121 @@
+{
+    "2020-06-22": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "The Company Behind Asia's Richest Man",
+                "features": {
+                    "keywords": [
+                        "Asia",
+                        "richest man",
+                        "company"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-06-10",
+                "original_text": "Microsoft Expands IoT Capabilities With Acquisition of CyberX",
+                "features": {
+                    "keywords": [
+                        "Microsoft",
+                        "IoT",
+                        "acquisition",
+                        "CyberX"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-04-22",
+                "original_text": "The Zacks Analyst Blog Highlights: AbbVie, Oracle, GlaxoSmithKline, Kroger and Southern",
+                "features": {
+                    "keywords": [
+                        "Zacks",
+                        "analyst",
+                        "blog",
+                        "AbbVie",
+                        "Oracle",
+                        "GlaxoSmithKline",
+                        "Kroger",
+                        "Southern"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "retail",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2017-11-05",
+                "original_text": "Opower Reimagines the Home Energy Report",
+                "features": {
+                    "keywords": [
+                        "Opower",
+                        "home energy",
+                        "report"
+                    ],
+                    "sentiment_score": 0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-08-12",
+                "original_text": "NYSE: ORCL Investor Notice: Update in Lawsuit against Oracle Corporation announced by Shareholders Foundation",
+                "features": {
+                    "keywords": [
+                        "NYSE",
+                        "ORCL",
+                        "lawsuit",
+                        "Oracle",
+                        "shareholders"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "2018-07-17": [
+        [
+            {
+                "time": "",
+                "original_text": "下,跌,何,所,惧,！,2,9,公,司,近,三,年,股,息,率,均,超,4,%",
+                "features": {
+                    "keywords": [
+                        "下跌",
+                        "股息率",
+                        "近三年",
+                        "超4%"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "建,材,家,居,行,业,创,新,“,互,联,网,+ ,金,融,”,模,式",
+                "features": {
+                    "keywords": [
+                        "建材家居",
+                        "创新",
+                        "互联网+金融"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "建材",
+                        "家居"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "农,行,湖,南,分,行,为,5,1,个,贫,困,县,发,放,贷,款,5,3,0,亿,元",
+                "features": {
+                    "keywords": [
+                        "农行湖南分行",
+                        "贫困县",
+                        "贷款",
+                        "530亿元"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "扶贫"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

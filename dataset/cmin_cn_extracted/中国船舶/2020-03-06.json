@@ -1,0 +1,72 @@
+{
+    "2020-03-06": [
+        [
+            {
+                "time": "",
+                "original_text": "选股当衡量股东整体回报率",
+                "features": {
+                    "keywords": [
+                        "选股",
+                        "股东",
+                        "回报率"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "交通运输部回应其他国家对中国船舶进行管控",
+                "features": {
+                    "keywords": [
+                        "交通运输部",
+                        "船舶",
+                        "管控"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【报道】针对一些国家对中国船舶采取管控措施，交通运输部副部长刘小明说，一些远洋船舶到了目的国家早过了14天隔离观察期，是安全的",
+                "features": {
+                    "keywords": [
+                        "报道",
+                        "交通运输部",
+                        "船舶",
+                        "管控",
+                        "隔离观察期",
+                        "安全"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "2020-01-16": [
+        [
+            {
+                "time": "",
+                "original_text": "三桶油走高 中海油上涨2%暂为最佳蓝筹中石化上涨1%",
+                "features": {
+                    "keywords": [
+                        "三桶油",
+                        "中海油",
+                        "上涨",
+                        "中石化"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "石油"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "光大证券：中海油资本支出持续增加，旗下油服子公司有望持续受益",
+                "features": {
+                    "keywords": [
+                        "光大证券",
+                        "中海油",
+                        "资本支出",
+                        "油服",
+                        "子公司",
+                        "受益"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "石油服务"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "2019-10-18": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "红,旗,连,锁,：,展,店,提,速,与,投,资,收,益,助,推,规,模,与,业,绩,超,预,期,增,长",
+                "features": {
+                    "keywords": [
+                        "红旗连锁",
+                        "展店提速",
+                        "投资收益",
+                        "规模增长",
+                        "业绩增长"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "零售",
+                        "超市"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "从,永,辉,生,活,到,永,辉,买,菜,业,务,雷,同,为,哪,般",
+                "features": {
+                    "keywords": [
+                        "永辉生活",
+                        "永辉买菜",
+                        "业务模式"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "零售",
+                        "生鲜电商"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "麦,德,龙,中,国,终,卖,身, , 外,资,商,超,迎,来,大,败,局,？",
+                "features": {
+                    "keywords": [
+                        "麦德龙中国",
+                        "外资收购",
+                        "商超行业",
+                        "败局"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "零售",
+                        "外资企业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "2019-11-26": [
+        [
+            {
+                "time": "2019-10-15",
+                "original_text": "Equinor CEO sees oil prices staying at around $60 a barrel",
+                "features": {
+                    "keywords": [
+                        "oil prices",
+                        "staying",
+                        "$60",
+                        "barrel"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-10-15",
+                "original_text": "UPDATE 1-Equinor to drill 30-40 exploration wells and target Brazil in 2020",
+                "features": {
+                    "keywords": [
+                        "drill",
+                        "exploration wells",
+                        "target",
+                        "Brazil",
+                        "2020"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-10-15",
+                "original_text": "Equinor to drill 30-40 exploration wells in 2020 -exploration head",
+                "features": {
+                    "keywords": [
+                        "drill",
+                        "exploration wells",
+                        "2020",
+                        "exploration head"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

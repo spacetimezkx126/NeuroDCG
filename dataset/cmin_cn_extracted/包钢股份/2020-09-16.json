@@ -1,0 +1,47 @@
+{
+    "2020-09-16": [
+        [
+            {
+                "time": "",
+                "original_text": "A股平均股价11.38元77股股价不足2元",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "平均股价",
+                        "股价不足2元"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "股票市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-09-16",
+                "original_text": "生意社热点商品发现（2020年9月16日）",
+                "features": {
+                    "keywords": [
+                        "生意社",
+                        "热点商品"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "商品市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

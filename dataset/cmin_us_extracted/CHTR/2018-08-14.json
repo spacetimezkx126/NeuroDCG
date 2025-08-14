@@ -1,0 +1,54 @@
+{
+    "2018-08-14": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Berkshire boosts Goldman, Teva stakes; buys more Apple",
+                "features": {
+                    "keywords": [
+                        "Berkshire",
+                        "Goldman",
+                        "Teva",
+                        "stakes",
+                        "Apple"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "technology",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "The AT&T–Time Warner Deal Continues to Face Challenges",
+                "features": {
+                    "keywords": [
+                        "AT&T",
+                        "Time Warner",
+                        "Deal",
+                        "Challenges"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications",
+                        "media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

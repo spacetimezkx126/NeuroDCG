@@ -1,0 +1,53 @@
+{
+    "2020-07-02": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "涨，停，股，复，盘，：，1，9，股，封，单，超，亿，元",
+                "features": {
+                    "keywords": [
+                        "涨停",
+                        "股",
+                        "封单",
+                        "亿元"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "B，i，o，N，T，e，c，h，获，2，.，5，亿，美，元，投，资，；，甘，李，药，业，成，功，登，陆，上，交，所，|，投，融，资，速，递",
+                "features": {
+                    "keywords": [
+                        "BioNTech",
+                        "投资",
+                        "甘李药业",
+                        "上市",
+                        "上交所"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药",
+                        "生物科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

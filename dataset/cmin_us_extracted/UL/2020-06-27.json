@@ -1,0 +1,53 @@
+{
+    "2020-06-27": [
+        [
+            {
+                "time": "2020-06-25",
+                "original_text": "Dow closes 730 points lower after spike in coronavirus cases forces Texas and Florida to close bars again, while bank stocks sink on stress tests",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "coronavirus",
+                        "Texas",
+                        "Florida",
+                        "bars",
+                        "bank stocks",
+                        "stress tests"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-06-26",
+                "original_text": "Facebook Ad Boycott Sinks Stock, Raises Pressure on Zuckerberg",
+                "features": {
+                    "keywords": [
+                        "Facebook",
+                        "Ad Boycott",
+                        "Zuckerberg"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

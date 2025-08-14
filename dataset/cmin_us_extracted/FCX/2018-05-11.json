@@ -1,0 +1,52 @@
+{
+    "2018-05-11": [
+        [
+            {
+                "time": "2018-04-01",
+                "original_text": "The Fear Factor That Sent Freeport-McMoRan Stock Crashing 13.4% in April",
+                "features": {
+                    "keywords": [
+                        "Fear Factor",
+                        "Stock Crashing",
+                        "13.4%",
+                        "April"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "mining",
+                        "commodities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-04-01",
+                "original_text": "Today's Research Reports on Trending Tickers: Vale S.A. and Freeport-McMoRan",
+                "features": {
+                    "keywords": [
+                        "Research Reports",
+                        "Trending Tickers",
+                        "Vale S.A.",
+                        "Freeport-McMoRan"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining",
+                        "commodities"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

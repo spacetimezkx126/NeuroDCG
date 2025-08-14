@@ -1,0 +1,76 @@
+{
+    "2020-04-29": [
+        [
+            {
+                "time": "2020-07-15",
+                "original_text": "China's Luckin Coffee Cannot Be the Next Starbucks",
+                "features": {
+                    "keywords": [
+                        "Luckin Coffee",
+                        "Starbucks",
+                        "comparison"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-07-15",
+                "original_text": "Horizon Kinetics is Bullish on Archer Daniels Midland (ADM), Bearish on Mcdonald (MCD)",
+                "features": {
+                    "keywords": [
+                        "Horizon Kinetics",
+                        "Archer Daniels Midland",
+                        "Mcdonald",
+                        "bullish",
+                        "bearish"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "agriculture",
+                        "food services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-07-15",
+                "original_text": "Coronavirus: McDonald’s trials UK branch reopening in lockdown",
+                "features": {
+                    "keywords": [
+                        "Coronavirus",
+                        "McDonald’s",
+                        "UK",
+                        "reopening",
+                        "lockdown"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "hospitality",
+                        "food services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2021-02-07": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Billionaire Paul Singer’s Top 10 Stock Picks",
+                "features": {
+                    "keywords": [
+                        "Billionaire",
+                        "Paul Singer",
+                        "Top 10",
+                        "Stock Picks"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "investing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "10 Biggest Companies Competing With Netflix",
+                "features": {
+                    "keywords": [
+                        "Biggest Companies",
+                        "Competing",
+                        "Netflix"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "entertainment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

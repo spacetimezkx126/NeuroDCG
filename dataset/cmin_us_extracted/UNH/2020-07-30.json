@@ -1,0 +1,119 @@
+{
+    "2020-07-30": [
+        [
+            {
+                "time": "2021-03-15",
+                "original_text": "Biggest Health Care Companies",
+                "features": {
+                    "keywords": [
+                        "health",
+                        "care",
+                        "companies"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-03-15",
+                "original_text": "UnitedHealth Group Inc. stock falls Thursday, underperforms market",
+                "features": {
+                    "keywords": [
+                        "UnitedHealth",
+                        "falls",
+                        "underperforms",
+                        "market"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-03-15",
+                "original_text": "UnitedHealth Group Publishes Inaugural Sustainability Report",
+                "features": {
+                    "keywords": [
+                        "UnitedHealth",
+                        "sustainability",
+                        "report"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-03-15",
+                "original_text": "How a Biden Win Would Affect Different Market Sectors—and Stock Picks for Both Election Outcomes",
+                "features": {
+                    "keywords": [
+                        "Biden",
+                        "win",
+                        "affect",
+                        "market",
+                        "sectors",
+                        "election",
+                        "outcomes"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "multiple"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-03-15",
+                "original_text": "Cigna profit jumps nearly 25% as people delay surgeries during pandemic",
+                "features": {
+                    "keywords": [
+                        "Cigna",
+                        "profit",
+                        "jumps",
+                        "delay",
+                        "surgeries",
+                        "pandemic"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

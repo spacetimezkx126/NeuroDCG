@@ -1,0 +1,52 @@
+{
+    "2020-03-20": [
+        [
+            {
+                "time": "2020-04-15",
+                "original_text": "Lowe's Commits $25 Million, Updates Operations in Response to COVID-19",
+                "features": {
+                    "keywords": [
+                        "Lowe's",
+                        "commits",
+                        "$25 million",
+                        "updates",
+                        "operations",
+                        "COVID-19"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "construction"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-03-20",
+                "original_text": "Lowe's Companies, Inc. Declares Cash Dividend",
+                "features": {
+                    "keywords": [
+                        "Lowe's Companies, Inc.",
+                        "declares",
+                        "cash dividend"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

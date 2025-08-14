@@ -1,0 +1,53 @@
+{
+    "2021-01-08": [
+        [
+            {
+                "time": "",
+                "original_text": "晨会聚焦210120重点关注银行流动性月报、稀土行业快评、宝钢股份、冀东水泥",
+                "features": {
+                    "keywords": [
+                        "银行流动性",
+                        "稀土行业",
+                        "宝钢股份",
+                        "冀东水泥"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "稀土",
+                        "钢铁",
+                        "水泥"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国铝业、中国宏桥上榜“中国上市企业市值500强”榜单",
+                "features": {
+                    "keywords": [
+                        "中国铝业",
+                        "中国宏桥",
+                        "市值500强"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "铝业",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

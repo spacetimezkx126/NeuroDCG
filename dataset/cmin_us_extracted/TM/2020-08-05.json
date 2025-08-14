@@ -1,0 +1,51 @@
+{
+    "2020-08-05": [
+        [
+            {
+                "time": "2021-01-01",
+                "original_text": "The All-New 2021 Sienna is Already Winning Awards",
+                "features": {
+                    "keywords": [
+                        "Sienna",
+                        "Winning",
+                        "Awards"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automobile"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-01-01",
+                "original_text": "Electric vehicle charge network ChargePoint bags $127 mln from investors",
+                "features": {
+                    "keywords": [
+                        "Electric",
+                        "vehicle",
+                        "ChargePoint",
+                        "bags",
+                        "investors"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

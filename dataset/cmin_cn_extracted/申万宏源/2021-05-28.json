@@ -1,0 +1,52 @@
+{
+    "2021-05-28": [
+        [
+            {
+                "time": "",
+                "original_text": "申万宏源收到股东告知函 参与转融通证券出借业务",
+                "features": {
+                    "keywords": [
+                        "申万宏源",
+                        "股东告知函",
+                        "转融通",
+                        "证券出借业务"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-05-27",
+                "original_text": "A股融资融券日报：两融余额增加73.28亿元（5月27日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

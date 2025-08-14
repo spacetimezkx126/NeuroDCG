@@ -1,0 +1,51 @@
+{
+    "2021-03-01": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "IBM Expands Hybrid Cloud Service, Targeting Banks, Health Care",
+                "features": {
+                    "keywords": [
+                        "IBM",
+                        "Hybrid Cloud",
+                        "Banks",
+                        "Health Care"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Better Buy: Arista Networks vs. Juniper Networks",
+                "features": {
+                    "keywords": [
+                        "Arista Networks",
+                        "Juniper Networks",
+                        "Better Buy"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

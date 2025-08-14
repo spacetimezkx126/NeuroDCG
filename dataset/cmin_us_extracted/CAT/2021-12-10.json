@@ -1,0 +1,87 @@
+{
+    "2021-12-10": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Franklin Strategic Real Return Fund Buys Walgreens Boots Alliance Inc, Caterpillar Inc, ...",
+                "features": {
+                    "keywords": [
+                        "Franklin",
+                        "Strategic",
+                        "Real",
+                        "Return",
+                        "Fund",
+                        "Buys",
+                        "Walgreens",
+                        "Boots",
+                        "Alliance",
+                        "Caterpillar"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-07-20",
+                "original_text": "Husco plans to double revenue, but Trump tariffs engender plant expansion outside U.S.: CEO Ramirez",
+                "features": {
+                    "keywords": [
+                        "Husco",
+                        "plans",
+                        "double",
+                        "revenue",
+                        "Trump",
+                        "tariffs",
+                        "plant",
+                        "expansion",
+                        "outside",
+                        "U.S.",
+                        "CEO",
+                        "Ramirez"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "manufacturing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-09-10",
+                "original_text": "11 Best Manufacturing Stocks to Invest In",
+                "features": {
+                    "keywords": [
+                        "Best",
+                        "Manufacturing",
+                        "Stocks",
+                        "Invest"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "manufacturing"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

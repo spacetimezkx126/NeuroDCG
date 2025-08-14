@@ -1,0 +1,53 @@
+{
+    "2019-03-05": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "San Diego Gas & Electric Company -- Moody's downgrades San Diego Gas & Electric to Baa1 from A2; outlook negative",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "downgrades",
+                        "Baa1",
+                        "A2",
+                        "outlook negative"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-06-20",
+                "original_text": "SoCalGas Offers Assistance to Local Fleet Owners Seeking to Purchase New Near-Zero Emissions Natural Gas Trucks",
+                "features": {
+                    "keywords": [
+                        "SoCalGas",
+                        "Assistance",
+                        "Fleet Owners",
+                        "Near-Zero Emissions",
+                        "Natural Gas Trucks"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "transportation"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

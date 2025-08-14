@@ -1,0 +1,49 @@
+{
+    "2018-03-10": [
+        [
+            {
+                "time": "2018-11-27",
+                "original_text": "Cigna’s $67 billion acquisition of Express Scripts will change the way drug prices get calculated",
+                "features": {
+                    "keywords": [
+                        "Cigna",
+                        "acquisition",
+                        "Express Scripts",
+                        "drug prices"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-03-15",
+                "original_text": "Insurers get into care, but is it good for your health?",
+                "features": {
+                    "keywords": [
+                        "Insurers",
+                        "care",
+                        "health"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

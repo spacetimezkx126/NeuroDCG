@@ -1,0 +1,71 @@
+{
+    "2019-11-11": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "A Court Ruling Makes Mortgages Vanish Into Thin Air",
+                "features": {
+                    "keywords": [
+                        "court ruling",
+                        "mortgages",
+                        "vanish"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-06-20",
+                "original_text": "Citi Announces Partnership With Roberts & Ryan Investments",
+                "features": {
+                    "keywords": [
+                        "Citi",
+                        "partnership",
+                        "Roberts & Ryan Investments"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "investments"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-04-10",
+                "original_text": "Homework Time, Singapore Banks. You’re Grounded",
+                "features": {
+                    "keywords": [
+                        "homework",
+                        "Singapore banks",
+                        "grounded"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "banking"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

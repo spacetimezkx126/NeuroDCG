@@ -1,0 +1,52 @@
+{
+    "2021-02-20": [
+        [
+            {
+                "time": "2021-02-15",
+                "original_text": "The Johnson & Johnson Vaccine Has Competition in the Race to Treat New Strains",
+                "features": {
+                    "keywords": [
+                        "Johnson & Johnson",
+                        "Vaccine",
+                        "Competition",
+                        "New Strains"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-02-15",
+                "original_text": "Will AstraZeneca's Pain Be Johnson & Johnson's Gain?",
+                "features": {
+                    "keywords": [
+                        "AstraZeneca",
+                        "Pain",
+                        "Johnson & Johnson",
+                        "Gain"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2020-12-04": [
+        [
+            {
+                "time": "2021-11-30",
+                "original_text": "Why Federal Realty, STORE Capital, and Simon Property Group All Rocketed More Than 25% in November",
+                "features": {
+                    "keywords": [
+                        "Federal Realty",
+                        "STORE Capital",
+                        "Simon Property Group",
+                        "Rocketed",
+                        "25%",
+                        "November"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-11-30",
+                "original_text": "Covid-19 Lawsuits Are Running Into Skeptical Judges",
+                "features": {
+                    "keywords": [
+                        "Covid-19",
+                        "Lawsuits",
+                        "Skeptical Judges"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "legal",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

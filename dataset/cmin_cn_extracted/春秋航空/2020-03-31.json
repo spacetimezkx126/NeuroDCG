@@ -1,0 +1,77 @@
+{
+    "2020-03-31": [
+        [
+            {
+                "time": "",
+                "original_text": "信用评级被中诚信调降 西部航空账面可用资金不足以覆盖即将回售的债券 主体评级下调",
+                "features": {
+                    "keywords": [
+                        "信用评级",
+                        "中诚信",
+                        "调降",
+                        "西部航空",
+                        "资金不足",
+                        "债券",
+                        "主体评级下调"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-31",
+                "original_text": "交通运输行业3月31日资金流向日报",
+                "features": {
+                    "keywords": [
+                        "交通运输",
+                        "资金流向",
+                        "日报"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "交通运输"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "25家航司超百条湖北相关航线复航 机票搜索量暴涨数倍",
+                "features": {
+                    "keywords": [
+                        "航司",
+                        "湖北",
+                        "航线复航",
+                        "机票搜索量",
+                        "暴涨"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "2020-06-19": [
+        [
+            {
+                "time": "",
+                "original_text": "陈豪会见企业家代表",
+                "features": {
+                    "keywords": [
+                        "陈豪",
+                        "企业家",
+                        "会见"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "上海莱士被问询函：要求公司说明为防范商誉减值的主要措施 询问",
+                "features": {
+                    "keywords": [
+                        "上海莱士",
+                        "问询函",
+                        "商誉减值",
+                        "防范措施"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

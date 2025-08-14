@@ -1,0 +1,50 @@
+{
+    "2018-01-08": [
+        [
+            {
+                "time": "",
+                "original_text": "深南电路今日大宗交易成交2.38万股，成交价90.09元折价9.0%",
+                "features": {
+                    "keywords": [
+                        "深南电路",
+                        "大宗交易",
+                        "成交",
+                        "折价"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电子",
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "次新股拉升，多股涨停",
+                "features": {
+                    "keywords": [
+                        "次新股",
+                        "拉升",
+                        "涨停"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "次新股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "2020-06-08": [
+        [
+            {
+                "time": "",
+                "original_text": "墨西哥总统洛佩斯出席玛雅铁路第一标段开工仪式",
+                "features": {
+                    "keywords": [
+                        "墨西哥",
+                        "总统",
+                        "洛佩斯",
+                        "玛雅铁路",
+                        "开工仪式"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "基建",
+                        "交通"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "基建狂魔再度穿越无人区，在建世界最长、最难沙漠公路！",
+                "features": {
+                    "keywords": [
+                        "基建",
+                        "无人区",
+                        "沙漠公路",
+                        "世界最长",
+                        "最难"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "基建",
+                        "交通"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国公司夺得2020全球最有价值的50大工程和建设品牌榜首！",
+                "features": {
+                    "keywords": [
+                        "中国公司",
+                        "2020",
+                        "全球最有价值",
+                        "工程",
+                        "建设品牌榜",
+                        "榜首"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基建",
+                        "工程"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "2020-12-12": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Forget AT&T: This Telecom Is a Better Dividend Stock",
+                "features": {
+                    "keywords": [
+                        "AT&T",
+                        "Telecom",
+                        "Better Dividend Stock"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "AT&T Skips Annual Dividend Raise for the First Time Since 2005",
+                "features": {
+                    "keywords": [
+                        "AT&T",
+                        "Skips",
+                        "Annual Dividend Raise",
+                        "2005"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

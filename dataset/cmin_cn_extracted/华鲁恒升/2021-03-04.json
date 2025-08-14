@@ -1,0 +1,76 @@
+{
+    "2021-03-04": [
+        [
+            {
+                "time": "2021-03-04",
+                "original_text": "生，意，社，：，3，月，4，日，山，东，华，鲁，恒，升，液，氨，价，格，调，涨",
+                "features": {
+                    "keywords": [
+                        "液氨",
+                        "价格上涨",
+                        "山东华鲁恒升"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "涨价主线联合报告：寻找供需错配驱动持续涨价的品种",
+                "features": {
+                    "keywords": [
+                        "供需错配",
+                        "涨价",
+                        "品种"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "化工",
+                        "大宗商品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021",
+                "original_text": "石油，化工，＆，基础，化工，行业，2，0，2，1，年，春，季，策略，报告，：，后，疫，情，时，代，下，四，大，投，资，主，线， ， 龙，头，白，马，、，周，期，成，长，、，周，期，反，转，与，成，长，突，破",
+                "features": {
+                    "keywords": [
+                        "石油化工",
+                        "基础化工",
+                        "投资主线",
+                        "后疫情时代",
+                        "龙头白马",
+                        "周期成长",
+                        "周期反转",
+                        "成长突破"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "石油化工",
+                        "基础化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

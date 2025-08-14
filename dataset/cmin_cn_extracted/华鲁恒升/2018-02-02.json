@@ -1,0 +1,52 @@
+{
+    "2018-02-02": [
+        [
+            {
+                "time": "",
+                "original_text": "气荒又来了？国内LNG最高报价达8500元/吨",
+                "features": {
+                    "keywords": [
+                        "气荒",
+                        "LNG",
+                        "报价",
+                        "8500元/吨"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "化工行业周报:油价继续上攻,双氧水、合成氨价格持续上涨",
+                "features": {
+                    "keywords": [
+                        "化工行业",
+                        "油价",
+                        "双氧水",
+                        "合成氨",
+                        "价格上涨"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

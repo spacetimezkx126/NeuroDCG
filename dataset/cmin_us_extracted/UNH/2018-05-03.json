@@ -1,0 +1,74 @@
+{
+    "2018-05-03": [
+        [
+            {
+                "time": "2018-04-15",
+                "original_text": "Construction Begins for The Elisabetta, a New Community That Will Bring High-Quality, Affordable Housing to the Globeville Neighborhood of Denver",
+                "features": {
+                    "keywords": [
+                        "construction begins",
+                        "affordable housing",
+                        "Globeville",
+                        "Denver"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Cigna Q1 Earnings Top on Higher Enrollment, 2018 View Up",
+                "features": {
+                    "keywords": [
+                        "Cigna",
+                        "Q1 earnings",
+                        "higher enrollment",
+                        "view up"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-01",
+                "original_text": "Scholarship Program for Native Americans to Create Pipeline of Mental Health and Substance Abuse Professionals in North Dakota",
+                "features": {
+                    "keywords": [
+                        "scholarship program",
+                        "native americans",
+                        "mental health",
+                        "substance abuse",
+                        "North Dakota"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "education",
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

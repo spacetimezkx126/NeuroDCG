@@ -1,0 +1,70 @@
+{
+    "2020-03-19": [
+        [
+            {
+                "time": "2020-03-15",
+                "original_text": "Wells Fargo to close some branches in Bay Area and beyond amid coronavirus outbreak",
+                "features": {
+                    "keywords": [
+                        "Wells Fargo",
+                        "branch closure",
+                        "coronavirus"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-03-15",
+                "original_text": "INTERVIEW: From Nebraska to Wall Street – How TD Ameritrade Founder Joe Ricketts Revolutionized the Brokerage Industry",
+                "features": {
+                    "keywords": [
+                        "TD Ameritrade",
+                        "Joe Ricketts",
+                        "brokerage industry"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-03-15",
+                "original_text": "Rate Cut to Hurt Online Brokers Amid Coronavirus Concerns",
+                "features": {
+                    "keywords": [
+                        "rate cut",
+                        "online brokers",
+                        "coronavirus"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

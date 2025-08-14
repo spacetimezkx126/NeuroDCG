@@ -1,0 +1,52 @@
+{
+    "2020-03-31": [
+        [
+            {
+                "time": "2020-04-15",
+                "original_text": "Two Lowe's employees test positive for COVID-19; stores remain open",
+                "features": {
+                    "keywords": [
+                        "Lowe's",
+                        "employees",
+                        "COVID-19",
+                        "positive",
+                        "stores",
+                        "remain open"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-05-20",
+                "original_text": "Lowe's invites DIYers to join together in thanking frontline heroes",
+                "features": {
+                    "keywords": [
+                        "Lowe's",
+                        "DIYers",
+                        "frontline",
+                        "heroes"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

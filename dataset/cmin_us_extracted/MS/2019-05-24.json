@@ -1,0 +1,56 @@
+{
+    "2019-05-24": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Pennsylvania accuses financial firms of bond price-fixing",
+                "features": {
+                    "keywords": [
+                        "Pennsylvania",
+                        "accuses",
+                        "financial firms",
+                        "bond",
+                        "price-fixing"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "Stocks - Foot Locker Slumps Premarket; Amazon, Boeing Rise",
+                "features": {
+                    "keywords": [
+                        "Stocks",
+                        "Foot Locker",
+                        "Slumps",
+                        "Premarket",
+                        "Amazon",
+                        "Boeing",
+                        "Rise"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "technology",
+                        "aerospace"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

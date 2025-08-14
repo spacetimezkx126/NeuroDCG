@@ -1,0 +1,98 @@
+{
+    "2020-03-10": [
+        [
+            {
+                "time": "2020-03-15",
+                "original_text": "Morgan Stanley confirms New York employee tests positive for coronavirus",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "employee",
+                        "coronavirus",
+                        "positive"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-04-01",
+                "original_text": "The Argus Wish List of Stocks for Bargain Hunters",
+                "features": {
+                    "keywords": [
+                        "Argus",
+                        "Wish List",
+                        "Stocks",
+                        "Bargain Hunters"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-05-10",
+                "original_text": "Musk’s Top Concern Now Is SpaceX Getting to Mars Before He Dies",
+                "features": {
+                    "keywords": [
+                        "Musk",
+                        "SpaceX",
+                        "Mars",
+                        "concern"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "aerospace"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-06-20",
+                "original_text": "So What Will Europe’s Oil Majors Look Like at $35 a Barrel? Morgan Stanley Has Run the Numbers",
+                "features": {
+                    "keywords": [
+                        "Europe",
+                        "Oil Majors",
+                        "Barrel",
+                        "Morgan Stanley",
+                        "Numbers"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "oil"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "2020-07-02": [
+        [
+            {
+                "time": "",
+                "original_text": "煤价又起舞！后续还会涨吗？主要看天气",
+                "features": {
+                    "keywords": [
+                        "煤价",
+                        "上涨",
+                        "天气"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "能源行业日报：甘肃省拟退出煤矿产能156万吨",
+                "features": {
+                    "keywords": [
+                        "能源",
+                        "甘肃省",
+                        "退出产能",
+                        "煤矿"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "A股收盘综述：上证指数涨逾2%剑指3100点，大金融核心爆发",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "上证指数",
+                        "大金融",
+                        "上涨"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "2018-08-07": [
+        [
+            {
+                "time": "2018-08-01",
+                "original_text": "Jim Cramer: It's Wrong That Apple Be a Bargaining Chip in the China Trade War",
+                "features": {
+                    "keywords": [
+                        "Apple",
+                        "bargaining chip",
+                        "trade war"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2018-08-01",
+                "original_text": "Cramer says index fund buying and buybacks are creating a...",
+                "features": {
+                    "keywords": [
+                        "index fund",
+                        "buybacks"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2018-08-01",
+                "original_text": "Market Close Report: NASDAQ Composite index closes at 7,883.66 up 23.98 points",
+                "features": {
+                    "keywords": [
+                        "NASDAQ",
+                        "Composite",
+                        "index",
+                        "closes",
+                        "up"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-08-01",
+                "original_text": "Close Update: S&P 500 Perched Near All-Time High on Gains in Energy and Financial Shares",
+                "features": {
+                    "keywords": [
+                        "S&P 500",
+                        "All-Time High",
+                        "Energy",
+                        "Financial Shares"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-08-01",
+                "original_text": "Chinese state media: Apple could be used as 'bargaining c... ",
+                "features": {
+                    "keywords": [
+                        "Apple",
+                        "Chinese state media",
+                        "bargaining chip"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false"
+                }
+            }
+        ]
+    ]
+}

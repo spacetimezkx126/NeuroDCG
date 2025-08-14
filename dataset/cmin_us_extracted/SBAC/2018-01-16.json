@@ -1,0 +1,50 @@
+{
+    "2018-01-16": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "Tuesday Sector Leaders: Healthcare, Financial",
+                "features": {
+                    "keywords": [
+                        "Sector Leaders",
+                        "Healthcare",
+                        "Financial"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "Tuesday's ETF Movers: IYR, XBI",
+                "features": {
+                    "keywords": [
+                        "ETF Movers",
+                        "IYR",
+                        "XBI"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "real estate",
+                        "biotechnology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

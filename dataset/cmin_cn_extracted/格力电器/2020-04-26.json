@@ -1,0 +1,138 @@
+{
+    "2020-04-26": [
+        [
+            {
+                "time": "2020-04-24",
+                "original_text": "原油宝停了，影响开始逼近股市",
+                "features": {
+                    "keywords": [
+                        "原油宝",
+                        "股市",
+                        "影响"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-04-25",
+                "original_text": "格力电器澄清称一季度净利润13.3亿-17.1亿元非媒体报道亏损300亿",
+                "features": {
+                    "keywords": [
+                        "格力电器",
+                        "澄清",
+                        "净利润",
+                        "亏损"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-04-26",
+                "original_text": "董明珠直播首秀只卖出22万，但霸气承诺：技术人员每人一套房不变",
+                "features": {
+                    "keywords": [
+                        "董明珠",
+                        "直播",
+                        "销售",
+                        "承诺"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家电",
+                        "电商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-04-27",
+                "original_text": "预计今年国内在线直播市场规模将破9000亿元",
+                "features": {
+                    "keywords": [
+                        "直播",
+                        "市场规模",
+                        "增长"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电商",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-04-28",
+                "original_text": "华尔街之狼精准抄底负油价",
+                "features": {
+                    "keywords": [
+                        "华尔街",
+                        "抄底",
+                        "负油价"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-04-29",
+                "original_text": "美国新冠肺炎确诊病例突破93万，全球死亡病例超过20万",
+                "features": {
+                    "keywords": [
+                        "疫情",
+                        "确诊病例",
+                        "死亡病例"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医疗",
+                        "全球经济"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

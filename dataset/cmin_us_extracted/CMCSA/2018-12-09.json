@@ -1,0 +1,78 @@
+{
+    "2018-12-09": [
+        [
+            {
+                "time": "2018-12-14",
+                "original_text": "Disney's Acquisition of Fox Nears the Finish Line",
+                "features": {
+                    "keywords": [
+                        "Disney",
+                        "Acquisition",
+                        "Fox",
+                        "Finish Line"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment",
+                        "media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-11-20",
+                "original_text": "Movie Review: 'Green Book' is, unexpectedly, one of best — if not the best — movies of the year",
+                "features": {
+                    "keywords": [
+                        "Movie",
+                        "Review",
+                        "Green Book",
+                        "best",
+                        "movies",
+                        "year"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-12-10",
+                "original_text": "Wall Street is expecting a two-year pause in big media and telecom deals after a crazy 2018",
+                "features": {
+                    "keywords": [
+                        "Wall Street",
+                        "pause",
+                        "media",
+                        "telecom",
+                        "deals",
+                        "2018"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "media",
+                        "telecom"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

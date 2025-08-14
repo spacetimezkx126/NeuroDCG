@@ -1,0 +1,54 @@
+{
+    "2020-10-23": [
+        [
+            {
+                "time": "",
+                "original_text": "韦尔股份(603501.SH)：控股股东虞仁荣质押2858万股",
+                "features": {
+                    "keywords": [
+                        "韦尔股份",
+                        "控股股东",
+                        "虞仁荣",
+                        "质押",
+                        "2858万股"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "半导体",
+                        "电子"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中信证券点评Mate40系列发布会：建议关注芯片国产替代厂商",
+                "features": {
+                    "keywords": [
+                        "中信证券",
+                        "Mate40系列",
+                        "发布会",
+                        "芯片",
+                        "国产替代"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "半导体",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2018-12-05": [
+        [
+            {
+                "time": "",
+                "original_text": "厦门国贸发行5亿元永续债务融资工具 利率6.5%",
+                "features": {
+                    "keywords": [
+                        "厦门国贸",
+                        "永续债务",
+                        "融资工具",
+                        "利率"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "巴拿马总统和刘起涛共同出席巴拿马四桥开工典礼",
+                "features": {
+                    "keywords": [
+                        "巴拿马",
+                        "总统",
+                        "刘起涛",
+                        "四桥",
+                        "开工典礼"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "基建",
+                        "国际关系"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

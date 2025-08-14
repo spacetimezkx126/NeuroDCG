@@ -1,0 +1,54 @@
+{
+    "2018-06-11": [
+        [
+            {
+                "time": "",
+                "original_text": "北方稀土今日大宗交易成交19万股，成交价11.75元折价0.0%.",
+                "features": {
+                    "keywords": [
+                        "北方稀土",
+                        "大宗交易",
+                        "成交",
+                        "19万股",
+                        "11.75元",
+                        "折价0.0%"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "稀土",
+                        "资源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国东盟中心驻华使节团到北方稀土参观.",
+                "features": {
+                    "keywords": [
+                        "中国东盟中心",
+                        "驻华使节团",
+                        "北方稀土",
+                        "参观"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "稀土",
+                        "国际合作"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

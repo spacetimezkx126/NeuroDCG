@@ -1,0 +1,70 @@
+{
+    "2019-05-23": [
+        [
+            {
+                "time": "2019-05-14",
+                "original_text": "Oil Suffers Worst Day of 2019 as Trade Turmoil Swamps Confidence",
+                "features": {
+                    "keywords": [
+                        "Oil",
+                        "Worst Day",
+                        "Trade Turmoil",
+                        "Confidence"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-05-14",
+                "original_text": "U.S. Crude Slips on Inventory Buildup, Fuel Stocks Rise Too",
+                "features": {
+                    "keywords": [
+                        "U.S. Crude",
+                        "Inventory Buildup",
+                        "Fuel Stocks"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-05-14",
+                "original_text": "ConocoPhillips: Outperformer among Oil-Weighted Stocks",
+                "features": {
+                    "keywords": [
+                        "ConocoPhillips",
+                        "Outperformer",
+                        "Oil-Weighted Stocks"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

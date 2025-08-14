@@ -1,0 +1,82 @@
+{
+    "2019-09-09": [
+        [
+            {
+                "time": "2019-09-09",
+                "original_text": "Consumer Sector Update for 09/09/2019: DG, WRK, WILC, WMT, MCD, DIS, CVS, KO",
+                "features": {
+                    "keywords": [
+                        "Consumer Sector",
+                        "DG",
+                        "WRK",
+                        "WILC",
+                        "WMT",
+                        "MCD",
+                        "DIS",
+                        "CVS",
+                        "KO"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-09-09",
+                "original_text": "Analyst Breaks Down Popeye's Chicken Sandwich, Impact On Rivals",
+                "features": {
+                    "keywords": [
+                        "Analyst",
+                        "Popeye's",
+                        "Chicken Sandwich",
+                        "Impact",
+                        "Rivals"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food service",
+                        "fast food"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-09-09",
+                "original_text": "3 Big Reasons I’m Worried Starbucks Stock Is About to Go Cold",
+                "features": {
+                    "keywords": [
+                        "Big Reasons",
+                        "Worried",
+                        "Starbucks",
+                        "Stock",
+                        "Cold"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "beverage",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

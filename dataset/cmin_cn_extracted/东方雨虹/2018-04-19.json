@@ -1,0 +1,101 @@
+{
+    "2018-04-19": [
+        [
+            {
+                "time": "",
+                "original_text": "东, 方, 雨, 虹, 斥, 资, 2, 0, 亿, 打, 造, 西, 南, 基, 地, , “, 渗, 透, 全, 国, ”, 战, 略, 多, 点, 开, 花",
+                "features": {
+                    "keywords": [
+                        "东方雨虹",
+                        "斥资",
+                        "20亿",
+                        "西南基地",
+                        "渗透全国",
+                        "战略"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "建筑",
+                        "基础设施"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "广, 东, 东, 方, 雨, 虹, 与, 广, 州, 地, 铁, 集, 团, 举, 办, 技, 术, 交, 流, 会",
+                "features": {
+                    "keywords": [
+                        "广东东方雨虹",
+                        "广州地铁集团",
+                        "技术交流会"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "建筑",
+                        "交通"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "东, 方, 雨, 虹, 拟, 建, 设, 西, 南, 总, 部, 基, 地, 及, 西, 南, 生, 产, 基, 地, 项, 目",
+                "features": {
+                    "keywords": [
+                        "东方雨虹",
+                        "拟建设",
+                        "西南总部基地",
+                        "西南生产基地"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "建筑",
+                        "生产制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "午, 间, 公, 告, ：, 岭, 南, 股, 份, 预, 中, 标, P, P, P, 项, 目, 总, 投, 资, 7, ., 9, 亿, 元, ，, 金, 新, 农, 下, 修, 年, 度, 业, 绩",
+                "features": {
+                    "keywords": [
+                        "岭南股份",
+                        "中标",
+                        "PPP项目",
+                        "总投资7.9亿元",
+                        "金新农",
+                        "下修年度业绩"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基建",
+                        "农业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "2021-08-18": [
+        [
+            {
+                "time": "2023-07-01",
+                "original_text": "中煤能源：7月份公司完成商品煤销量2478万吨，其中自产商品煤销量947万吨，买断贸易煤销量1531万吨",
+                "features": {
+                    "keywords": [
+                        "中煤能源",
+                        "商品煤销量",
+                        "自产商品煤",
+                        "买断贸易煤"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive",
+                    "volume_metrics": {
+                        "total_sales": 2478,
+                        "self_production_sales": 947,
+                        "trade_sales": 1531
+                    }
+                }
+            },
+            {
+                "time": "2023-07-01",
+                "original_text": "7月煤炭行业数据点评：旺季很旺",
+                "features": {
+                    "keywords": [
+                        "煤炭行业",
+                        "数据点评",
+                        "旺季"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive",
+                    "seasonal_factor": "high_demand"
+                }
+            }
+        ]
+    ]
+}

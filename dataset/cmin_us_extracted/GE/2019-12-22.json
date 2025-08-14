@@ -1,0 +1,49 @@
+{
+    "2019-12-22": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "How The Dow Jones Industrial Average Changed Over The Past Decade",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Industrial Average",
+                        "Changed",
+                        "Past Decade"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Stock Picking Is Hard. Deciding What Kind of Investor You Are Is the First Step.",
+                "features": {
+                    "keywords": [
+                        "Stock Picking",
+                        "Hard",
+                        "Investor",
+                        "First Step"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

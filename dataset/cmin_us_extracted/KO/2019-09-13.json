@@ -1,0 +1,51 @@
+{
+    "2019-09-13": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Friday’s Vital Data: Coca-Cola, Square and Intel",
+                "features": {
+                    "keywords": [
+                        "Coca-Cola",
+                        "Square",
+                        "Intel"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods",
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Growing Up in a Trade War: China Is Off Limits for This Startup",
+                "features": {
+                    "keywords": [
+                        "trade war",
+                        "China",
+                        "startup"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "international trade",
+                        "startups"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

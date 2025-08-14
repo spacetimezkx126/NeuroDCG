@@ -1,0 +1,53 @@
+{
+    "2021-01-05": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "Accenture Named a Leader for Application and Digital Services in Life & Annuities Insurance by Analyst Firm Everest Group",
+                "features": {
+                    "keywords": [
+                        "Accenture",
+                        "Leader",
+                        "Application",
+                        "Digital Services",
+                        "Life & Annuities Insurance",
+                        "Everest Group"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "IT Services",
+                        "Insurance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "15 Largest IT Services Companies in the World",
+                "features": {
+                    "keywords": [
+                        "Largest",
+                        "IT Services",
+                        "Companies",
+                        "World"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "IT Services"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

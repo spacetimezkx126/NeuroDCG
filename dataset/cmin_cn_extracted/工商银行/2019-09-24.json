@@ -1,0 +1,54 @@
+{
+    "2019-09-24": [
+        [
+            {
+                "time": "",
+                "original_text": "茅 台 刷 屏 ！ 股 价 又 又 又 创 新 高 了   首 登 A 股 流 通 市 值 之 冠",
+                "features": {
+                    "keywords": [
+                        "茅台",
+                        "股价",
+                        "新高",
+                        "A股",
+                        "流通市值"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "白酒",
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "扬 州 一 市 民 工 行 、 华 夏 等 六 张 信 用 卡 “ 被 盗 刷 ” 近 1 1 万   安 全 事 故",
+                "features": {
+                    "keywords": [
+                        "信用卡",
+                        "盗刷",
+                        "安全事故",
+                        "工商银行",
+                        "华夏银行"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "银行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

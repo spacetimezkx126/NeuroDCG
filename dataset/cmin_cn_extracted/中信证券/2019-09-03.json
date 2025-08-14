@@ -1,0 +1,52 @@
+{
+    "2019-09-03": [
+        [
+            {
+                "time": "",
+                "original_text": "[路演]中信证券：公司在手IPO项目排名靠前",
+                "features": {
+                    "keywords": [
+                        "中信证券",
+                        "IPO项目",
+                        "排名靠前"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-09-12",
+                "original_text": "中信证券(06030.HK)“17中信03”将于9月12日兑付并摘牌 退市",
+                "features": {
+                    "keywords": [
+                        "中信证券",
+                        "17中信03",
+                        "兑付",
+                        "摘牌",
+                        "退市"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "债券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

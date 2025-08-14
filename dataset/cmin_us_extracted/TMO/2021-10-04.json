@@ -1,0 +1,76 @@
+{
+    "2021-10-04": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Henrietta Lacks' estate says pharma company profited from stolen cells",
+                "features": {
+                    "keywords": [
+                        "Henrietta Lacks",
+                        "pharma company",
+                        "profited",
+                        "stolen cells"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Thermo Fisher Scientific Inc. poised for $10.5 million Tennessee grant tied to 1,400 jobs in Lebanon",
+                "features": {
+                    "keywords": [
+                        "Thermo Fisher",
+                        "grant",
+                        "jobs",
+                        "Lebanon"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Thermo Fisher (TMO) Expands Biologics Network With New Facility",
+                "features": {
+                    "keywords": [
+                        "Thermo Fisher",
+                        "TMO",
+                        "Expands",
+                        "Biologics",
+                        "New Facility"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "biotech",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

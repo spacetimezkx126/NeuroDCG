@@ -1,0 +1,53 @@
+{
+    "2021-06-09": [
+        [
+            {
+                "time": "",
+                "original_text": "民生银行今日大宗交易成交45.98万股，成交价4.67元溢价0.0%",
+                "features": {
+                    "keywords": [
+                        "民生银行",
+                        "大宗交易",
+                        "成交",
+                        "45.98万股",
+                        "4.67元",
+                        "溢价0.0%"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "银行行业周报：理财净值波动持续分化",
+                "features": {
+                    "keywords": [
+                        "银行行业",
+                        "周报",
+                        "理财净值",
+                        "波动",
+                        "分化"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

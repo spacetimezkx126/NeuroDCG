@@ -1,0 +1,50 @@
+{
+    "2019-10-30": [
+        [
+            {
+                "time": "",
+                "original_text": "保 利 地 产 现 1 笔 大 宗 交 易  ， 共 成 交 233.44 万 元",
+                "features": {
+                    "keywords": [
+                        "保利地产",
+                        "大宗交易",
+                        "成交金额"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中 国 银 河 证 券 ： 公 募 基 金 对 房 地 产 板 块 连 续 三 季 度 持 仓 下 降 ， 对 二 线 成 长 类 标 的 偏 好 降 低",
+                "features": {
+                    "keywords": [
+                        "公募基金",
+                        "房地产板块",
+                        "持仓下降",
+                        "二线成长类标的",
+                        "偏好降低"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

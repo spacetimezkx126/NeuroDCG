@@ -1,0 +1,109 @@
+{
+    "2019-03-15": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Bank CEOs’ Pay Finally Surpasses Crisis-Era Level",
+                "features": {
+                    "keywords": [
+                        "CEOs' pay",
+                        "Crisis-Era Level"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-03",
+                "original_text": "JPMorgan, Citigroup Disband Odd-Lot Trading Desks",
+                "features": {
+                    "keywords": [
+                        "JPMorgan",
+                        "Citigroup",
+                        "Odd-Lot Trading Desks"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "Pisani: S&P rebalancing as some companies aggressively buy back stock",
+                "features": {
+                    "keywords": [
+                        "S&P rebalancing",
+                        "buy back stock"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-05",
+                "original_text": "Bank Stock Roundup: U.S-China Trade Talks Progress, Citi & JPMorgan in Focus",
+                "features": {
+                    "keywords": [
+                        "U.S-China Trade Talks",
+                        "Citi",
+                        "JPMorgan"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "international trade"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-06",
+                "original_text": "It Was a Costco Christmas Last Year",
+                "features": {
+                    "keywords": [
+                        "Costco",
+                        "Christmas"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

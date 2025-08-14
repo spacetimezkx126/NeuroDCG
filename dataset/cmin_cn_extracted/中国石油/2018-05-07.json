@@ -1,0 +1,50 @@
+{
+    "2018-05-07": [
+        [
+            {
+                "time": "",
+                "original_text": "香 港 恒 生 指 数 收 盘 涨 0 . 23 % ， 三 万 点 大 关 得 而 复 失",
+                "features": {
+                    "keywords": [
+                        "恒生指数",
+                        "收盘涨",
+                        "三万点大关"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "石 油 化 工 行 业 周 报 ： 涤 纶 价 格 上 涨  关 注 伊 朗 地 缘 变 化",
+                "features": {
+                    "keywords": [
+                        "石油化工",
+                        "涤纶价格",
+                        "伊朗",
+                        "地缘变化"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "化工",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

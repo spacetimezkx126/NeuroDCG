@@ -1,0 +1,51 @@
+{
+    "2020-02-03": [
+        [
+            {
+                "time": "",
+                "original_text": "科创板拟上市公司天合光能暂缓审议",
+                "features": {
+                    "keywords": [
+                        "科创板",
+                        "天合光能",
+                        "暂缓审议"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "光伏"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "天合光能：创新技术助力光伏行业降本增效",
+                "features": {
+                    "keywords": [
+                        "天合光能",
+                        "创新技术",
+                        "光伏",
+                        "降本增效"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "光伏"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

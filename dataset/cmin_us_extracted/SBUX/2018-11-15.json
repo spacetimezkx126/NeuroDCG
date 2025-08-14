@@ -1,0 +1,119 @@
+{
+    "2018-11-15": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Women of Influence: Rosalind Brewer, Starbucks",
+                "features": {
+                    "keywords": [
+                        "Rosalind Brewer",
+                        "Starbucks",
+                        "influence"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "coffee"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "Bill Ackman Comments on Starbucks",
+                "features": {
+                    "keywords": [
+                        "Bill Ackman",
+                        "Starbucks",
+                        "comments"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "coffee"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-09-25",
+                "original_text": "Bill Ackman's Pershing Square 3rd Quarter Letter to Investors",
+                "features": {
+                    "keywords": [
+                        "Bill Ackman",
+                        "Pershing Square",
+                        "investors",
+                        "letter"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-11-05",
+                "original_text": "Dunkin's westward expansion may include return to Starbucks turf",
+                "features": {
+                    "keywords": [
+                        "Dunkin",
+                        "Starbucks",
+                        "expansion",
+                        "competition"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "coffee"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-12-10",
+                "original_text": "Starbucks (SBUX) Stock Moves -0.55%: What You Should Know",
+                "features": {
+                    "keywords": [
+                        "Starbucks",
+                        "stock",
+                        "moves",
+                        "-0.55%"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "coffee"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

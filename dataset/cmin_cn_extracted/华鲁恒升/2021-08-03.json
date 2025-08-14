@@ -1,0 +1,52 @@
+{
+    "2021-08-03": [
+        [
+            {
+                "time": "2023-08-03",
+                "original_text": "生，意，社，：，8，月，3，日，山，东，华，鲁，恒，升，液，氨，报，价，下，调",
+                "features": {
+                    "keywords": [
+                        "液氨",
+                        "报价",
+                        "下调",
+                        "山东华鲁恒升"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-08-03",
+                "original_text": "深，度，*，行，业，*，化，工，行，业，周，报，：，原，油，震，荡，上，行， ，发，改，委，约，谈，重，点，化，肥，企，业",
+                "features": {
+                    "keywords": [
+                        "原油",
+                        "震荡上行",
+                        "发改委",
+                        "约谈",
+                        "重点化肥企业"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

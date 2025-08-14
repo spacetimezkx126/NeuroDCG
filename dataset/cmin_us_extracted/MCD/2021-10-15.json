@@ -1,0 +1,97 @@
+{
+    "2021-10-15": [
+        [
+            {
+                "time": "2022-11-01",
+                "original_text": "The Great Resignation is ripping through the restaurant industry",
+                "features": {
+                    "keywords": [
+                        "Great Resignation",
+                        "restaurant industry"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "hospitality",
+                        "food service"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2022-11-01",
+                "original_text": "McDonald's to test McPlant vegan burger in eight U.S. cities",
+                "features": {
+                    "keywords": [
+                        "McDonald's",
+                        "McPlant",
+                        "vegan burger"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food service",
+                        "fast food"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2022-11-01",
+                "original_text": "The Zacks Analyst Blog Highlights: Visa, Comcast, McDonald's, Intercontinental Exchange and State Street Corp",
+                "features": {
+                    "keywords": [
+                        "Zacks Analyst Blog",
+                        "Visa",
+                        "Comcast",
+                        "McDonald's",
+                        "Intercontinental Exchange",
+                        "State Street Corp"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "technology",
+                        "food service",
+                        "exchange"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2022-11-01",
+                "original_text": "Domino's Pizza is getting eaten alive by the worker shortage",
+                "features": {
+                    "keywords": [
+                        "Domino's Pizza",
+                        "worker shortage"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food service",
+                        "pizza"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2019-01-22": [
+        [
+            {
+                "time": "2019-02-20",
+                "original_text": "ADP Recognized on FORTUNE Magazine's 2019 List of \"The World's Most Admired Companies\" for 13 Consecutive Years",
+                "features": {
+                    "keywords": [
+                        "ADP",
+                        "FORTUNE Magazine",
+                        "Most Admired Companies",
+                        "13 Consecutive Years"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "human resources",
+                        "business services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-02-20",
+                "original_text": "See what the IHS Markit Score report has to say about Automatic Data Processing Inc.",
+                "features": {
+                    "keywords": [
+                        "IHS Markit Score",
+                        "Automatic Data Processing Inc."
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "financial services",
+                        "data analysis"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

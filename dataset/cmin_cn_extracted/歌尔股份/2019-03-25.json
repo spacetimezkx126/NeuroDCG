@@ -1,0 +1,52 @@
+{
+    "2019-03-25": [
+        [
+            {
+                "time": "",
+                "original_text": "歌尔股份：小米和华为均为公司重要客户",
+                "features": {
+                    "keywords": [
+                        "歌尔股份",
+                        "小米",
+                        "华为",
+                        "重要客户"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电子",
+                        "消费电子"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "电子行业: 面板需求强劲, 关注相关产业链",
+                "features": {
+                    "keywords": [
+                        "电子行业",
+                        "面板",
+                        "需求强劲",
+                        "产业链"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电子",
+                        "面板制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

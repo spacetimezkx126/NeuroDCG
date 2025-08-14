@@ -1,0 +1,100 @@
+{
+    "2019-12-28": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Bulls And Bears Of The Week: Amazon, Apple, Boeing, Netflix, Tesla And More",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "Apple",
+                        "Boeing",
+                        "Netflix",
+                        "Tesla"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "aerospace",
+                        "entertainment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-07-22",
+                "original_text": "Tesla’s stock continues record-setting run after analyst raises share-price target by $100",
+                "features": {
+                    "keywords": [
+                        "Tesla",
+                        "record-setting",
+                        "analyst",
+                        "share-price",
+                        "raises"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automotive",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-04-10",
+                "original_text": "Fed study finds Trump tariffs backfired",
+                "features": {
+                    "keywords": [
+                        "Fed",
+                        "Trump",
+                        "tariffs",
+                        "backfired"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "trade"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-11-05",
+                "original_text": "Carnival’s Ship Could Come In Next Year",
+                "features": {
+                    "keywords": [
+                        "Carnival",
+                        "Ship",
+                        "next year"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "travel",
+                        "hospitality"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

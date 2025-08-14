@@ -1,0 +1,52 @@
+{
+    "2021-11-03": [
+        [
+            {
+                "time": "",
+                "original_text": "太难了！券商自营炒股还不如买理财，前三季度投资收益率不到4%。",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "自营",
+                        "炒股",
+                        "理财",
+                        "投资收益率"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-28",
+                "original_text": "盛和资源：交银施罗德基金管理有限公司、国信证券等19家机构于10月28日调研我司。",
+                "features": {
+                    "keywords": [
+                        "盛和资源",
+                        "交银施罗德基金",
+                        "国信证券",
+                        "机构调研"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "资源",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

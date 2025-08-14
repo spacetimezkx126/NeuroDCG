@@ -1,0 +1,55 @@
+{
+    "2021-03-25": [
+        [
+            {
+                "time": "",
+                "original_text": "云，南，区，域，股，市，周，报，：，总，市，值，跌，1，1，5，亿， ，9，8，4，7，万，融，资，买，入，锡，业，股，份",
+                "features": {
+                    "keywords": [
+                        "云南",
+                        "区域股市",
+                        "总市值",
+                        "下跌",
+                        "融资买入",
+                        "锡业股份"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "有色金属"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "分，众，传，媒，：，2，0，Q，4，创，历，史，单，季，收，入，新，高，，，2，1，Q，1，净，利，略，超，预，期，，，持，续，看，好，有，效，品，牌，媒，体，的，稀，缺，价，值，｜，方，正，传，媒，姚，蕾",
+                "features": {
+                    "keywords": [
+                        "分众传媒",
+                        "20Q4",
+                        "历史单季收入新高",
+                        "21Q1净利润",
+                        "略超预期",
+                        "品牌媒体",
+                        "稀缺价值"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "传媒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

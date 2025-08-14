@@ -1,0 +1,80 @@
+{
+    "2020-07-07": [
+        [
+            {
+                "time": "2020-07-14",
+                "original_text": "EMERGING MARKETS-Brazil's real falls, Bolsonaro tests positive for coronavirus",
+                "features": {
+                    "keywords": [
+                        "Brazil's real",
+                        "falls",
+                        "Bolsonaro",
+                        "positive",
+                        "coronavirus"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "currency",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-07-15",
+                "original_text": "EMERGING MARKETS-Latam stocks retreat after risk rally; Mexican peso leads FX losses",
+                "features": {
+                    "keywords": [
+                        "Latam stocks",
+                        "retreat",
+                        "risk rally",
+                        "Mexican peso",
+                        "FX losses"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "stocks",
+                        "currency"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-07-16",
+                "original_text": "Zacks.com featured highlights include: Bristol-Myers Squibb, Vale, Gilead Sciences, Kroger and Delek Logistics Partners",
+                "features": {
+                    "keywords": [
+                        "Bristol-Myers Squibb",
+                        "Vale",
+                        "Gilead Sciences",
+                        "Kroger",
+                        "Delek Logistics Partners"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals",
+                        "mining",
+                        "retail",
+                        "logistics"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

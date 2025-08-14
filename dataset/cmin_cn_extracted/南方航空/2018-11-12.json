@@ -1,0 +1,50 @@
+{
+    "2018-11-12": [
+        [
+            {
+                "time": "",
+                "original_text": "春,秋,航,空,:,业,绩,一,枝,独,秀,,,三,费,下,降,助,力,成,本,控,制",
+                "features": {
+                    "keywords": [
+                        "春秋航空",
+                        "业绩",
+                        "三费下降",
+                        "成本控制"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "南,方,航,空,：,同,意,厦,航,发,行,超,短,融,不,超,1,0,0,亿,元, , 公,司,债,不,超,6,0,亿,元",
+                "features": {
+                    "keywords": [
+                        "南方航空",
+                        "厦门航空",
+                        "发行超短融",
+                        "公司债"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "航空"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "2020-05-25": [
+        [
+            {
+                "time": "",
+                "original_text": "中国银行(03988)决议提名王纬为执行董事候选人",
+                "features": {
+                    "keywords": [
+                        "中国银行",
+                        "执行董事",
+                        "候选人",
+                        "王纬"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中行上海市分行在新天地成立私人银行中心",
+                "features": {
+                    "keywords": [
+                        "中国银行",
+                        "上海市分行",
+                        "私人银行中心",
+                        "新天地"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国银行广西分行制糖业贷款增长73.39%",
+                "features": {
+                    "keywords": [
+                        "中国银行",
+                        "广西分行",
+                        "制糖业",
+                        "贷款增长"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "制糖业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-05-22",
+                "original_text": "A股融资融券日报：两融余额减少55.85亿元（5月22日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "减少"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "证券市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

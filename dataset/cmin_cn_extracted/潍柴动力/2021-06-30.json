@@ -1,0 +1,50 @@
+{
+    "2021-06-30": [
+        [
+            {
+                "time": "",
+                "original_text": "徐工机械股价半年涨18.6%，居工程机械板块涨幅榜首",
+                "features": {
+                    "keywords": [
+                        "徐工机械",
+                        "股价上涨",
+                        "工程机械",
+                        "板块涨幅榜"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "工程机械"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-06",
+                "original_text": "汽车行业的6月月报：5月汽车销量同比略降 盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "汽车行业",
+                        "汽车销量",
+                        "同比下降",
+                        "盈利能力下降"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "2018-04-30": [
+        [
+            {
+                "time": "2018-05-01",
+                "original_text": "Pre-Market Earnings Report for May 1, 2018: PFE, MRK, AMT, AET, EMR, ECL, BP, MPC, HCA, ETN, JCI, FIS",
+                "features": {
+                    "keywords": [
+                        "Earnings",
+                        "PFE",
+                        "MRK",
+                        "AMT",
+                        "AET",
+                        "EMR",
+                        "ECL",
+                        "BP",
+                        "MPC",
+                        "HCA",
+                        "ETN",
+                        "JCI",
+                        "FIS"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals",
+                        "real estate",
+                        "energy",
+                        "healthcare",
+                        "industrials",
+                        "technology",
+                        "financial services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-01",
+                "original_text": "Chemical Stock Earnings Slated on May 1: ECL, OLN, ASH & CMP",
+                "features": {
+                    "keywords": [
+                        "Chemical",
+                        "Earnings",
+                        "ECL",
+                        "OLN",
+                        "ASH",
+                        "CMP"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "chemicals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-01",
+                "original_text": "Should You Invest in the First Trust Water ETF (FIW)?",
+                "features": {
+                    "keywords": [
+                        "Invest",
+                        "First Trust Water ETF",
+                        "FIW"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities",
+                        "environmental"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

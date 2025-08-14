@@ -1,0 +1,98 @@
+{
+    "2021-07-30": [
+        [
+            {
+                "time": "",
+                "original_text": "河 南 新 乡 走 出 4 位 富 豪 ， 财 富 都 超 过 500 亿 ， 他 曾 是 首 富 ， 他 祖 籍 山 东",
+                "features": {
+                    "keywords": [
+                        "河南",
+                        "新乡",
+                        "富豪",
+                        "财富",
+                        "首富",
+                        "山东"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "21 现 场 丨 新 乡 化 纤 部 分 厂 区 仍 在 排 水 ， 损 失 暂 无 法 估 计 瑞 丰 新 材 、 华 兰 生 物 受 影 响 较 小",
+                "features": {
+                    "keywords": [
+                        "新乡化纤",
+                        "排水",
+                        "损失",
+                        "瑞丰新材",
+                        "华兰生物"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工",
+                        "生物医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "什 么 信 号 ？ 张 坤 管 理 基 金 要 更 名 ， 有 4 大 变 化",
+                "features": {
+                    "keywords": [
+                        "张坤",
+                        "基金",
+                        "更名",
+                        "变化"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【 行 业 深 度 】 洞 察 2021 ： 中 国 人 血 白 蛋 白 行 业 竞 争 格 局 及 市 场 份 额 （ 附 市 场 集 中 度 、 企 业 竞 争 力 评 价 等 ）",
+                "features": {
+                    "keywords": [
+                        "行业深度",
+                        "中国人血白蛋白",
+                        "竞争格局",
+                        "市场份额",
+                        "市场集中度",
+                        "企业竞争力"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "生物医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

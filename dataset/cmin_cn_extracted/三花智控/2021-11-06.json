@@ -1,0 +1,48 @@
+{
+    "2021-11-06": [
+        [
+            {
+                "time": "",
+                "original_text": "食, 品, 饮, 料, 和, 家, 用, 电, 器, “, 比, 价, ”, ，, 部, 分, 细, 分, 赛, 道, 或, 出, 现, “, 戴, 维, 斯, 双, 击, ”",
+                "features": {
+                    "keywords": [
+                        "食品饮料",
+                        "家用电器",
+                        "比价",
+                        "戴维斯双击"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料",
+                        "家用电器"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "下, 周, 3, 4, 1, 亿, 市, 值, 限, 售, 股, 解, 禁, ，, 迈, 为, 股, 份, 解, 禁, 超, 百, 亿, 居, 首,  , 解, 禁",
+                "features": {
+                    "keywords": [
+                        "限售股解禁",
+                        "迈为股份",
+                        "百亿解禁"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

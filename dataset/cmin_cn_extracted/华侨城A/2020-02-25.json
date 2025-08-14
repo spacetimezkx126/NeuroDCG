@@ -1,0 +1,52 @@
+{
+    "2020-02-25": [
+        [
+            {
+                "time": "",
+                "original_text": "当人为管控再遇上天灾，当下融资现状能撑多久？",
+                "features": {
+                    "keywords": [
+                        "人为管控",
+                        "天灾",
+                        "融资现状"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "经济政策"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "康佳“追风”之路：彩电营收缩至两成，卖20万元芯片增155亿市值",
+                "features": {
+                    "keywords": [
+                        "康佳",
+                        "彩电",
+                        "芯片",
+                        "营收减少",
+                        "市值增长"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电子",
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

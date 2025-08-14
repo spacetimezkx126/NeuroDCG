@@ -1,0 +1,73 @@
+{
+    "2021-09-03": [
+        [
+            {
+                "time": "",
+                "original_text": "锂，不，香，了，，新能源批量跌停，北上资金却逆势抄底",
+                "features": {
+                    "keywords": [
+                        "锂",
+                        "新能源",
+                        "跌停",
+                        "北上资金",
+                        "抄底"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "锂电池"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "伊利股份2021年前三季度净利润79.44亿元，同比增加31.87%",
+                "features": {
+                    "keywords": [
+                        "伊利股份",
+                        "净利润",
+                        "同比增加"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "被传计划收购澳优乳业，伊利：未收到相关信息",
+                "features": {
+                    "keywords": [
+                        "伊利",
+                        "收购",
+                        "澳优乳业",
+                        "传闻"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2021-12-20": [
+        [
+            {
+                "time": "",
+                "original_text": "中金：政策发力行业渐稳，中资美债风险可控",
+                "features": {
+                    "keywords": [
+                        "政策",
+                        "行业渐稳",
+                        "中资美债",
+                        "风险可控"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "债券",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "地产板块领涨两市，地产ETF（159707）涨近2%！两部发文鼓励并购出险房企优质项目",
+                "features": {
+                    "keywords": [
+                        "地产板块",
+                        "领涨",
+                        "地产ETF",
+                        "并购",
+                        "出险房企",
+                        "优质项目"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

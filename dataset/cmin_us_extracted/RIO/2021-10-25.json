@@ -1,0 +1,52 @@
+{
+    "2021-10-25": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "Hedge Funds Are Souring On Rio Tinto Group (RIO)",
+                "features": {
+                    "keywords": [
+                        "Hedge Funds",
+                        "Souring",
+                        "Rio Tinto Group"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining",
+                        "metals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "Supply-Chain Disruptions Encourage Rio Tinto to Mine Its Own Sludge for Critical Minerals",
+                "features": {
+                    "keywords": [
+                        "Supply-Chain Disruptions",
+                        "Rio Tinto",
+                        "Mine",
+                        "Sludge",
+                        "Critical Minerals"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "mining",
+                        "materials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

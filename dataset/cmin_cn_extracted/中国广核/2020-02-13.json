@@ -1,0 +1,51 @@
+{
+    "2020-02-13": [
+        [
+            {
+                "time": "2019-12",
+                "original_text": "2019年12月全国核电运行机组共47台",
+                "features": {
+                    "keywords": [
+                        "核电",
+                        "运行机组",
+                        "47台"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "核电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-12",
+                "original_text": "中国广核公司深度报告：国内核电龙头 核电重启打开行业空间",
+                "features": {
+                    "keywords": [
+                        "中国广核",
+                        "核电龙头",
+                        "核电重启",
+                        "行业空间"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "核电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

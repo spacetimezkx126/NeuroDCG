@@ -1,0 +1,52 @@
+{
+    "2020-02-21": [
+        [
+            {
+                "time": "",
+                "original_text": "联合资信：关注法院裁定受理方正证券控股股东北大方正集团重整 减资破产",
+                "features": {
+                    "keywords": [
+                        "方正证券",
+                        "北大方正集团",
+                        "重整",
+                        "减资",
+                        "破产"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中证报头版：LPR非对称下降传递两大信号",
+                "features": {
+                    "keywords": [
+                        "LPR",
+                        "非对称下降",
+                        "信号"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "宏观经济",
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

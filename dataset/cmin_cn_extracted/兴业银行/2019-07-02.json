@@ -1,0 +1,51 @@
+{
+    "2019-07-02": [
+        [
+            {
+                "time": "2023-07-02",
+                "original_text": "A股共发生95宗大宗交易成交21.81亿元（7月2日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "大宗交易",
+                        "成交额"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-07-02",
+                "original_text": "林晓金融观察：不良率持续上升 信用卡业务应该“回归本源” 资产异常",
+                "features": {
+                    "keywords": [
+                        "不良率",
+                        "信用卡",
+                        "回归本源",
+                        "资产异常"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "银行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

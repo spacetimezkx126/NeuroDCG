@@ -1,0 +1,49 @@
+{
+    "2018-01-17": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "AbbVie Named Top Dividend Stock With Insider Buying and 2.77% Yield (ABBV)",
+                "features": {
+                    "keywords": [
+                        "AbbVie",
+                        "Top Dividend Stock",
+                        "Insider Buying",
+                        "2.77% Yield"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Is Gilead Sciences, Inc. a Buy in 2018?",
+                "features": {
+                    "keywords": [
+                        "Gilead Sciences",
+                        "Buy",
+                        "2018"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

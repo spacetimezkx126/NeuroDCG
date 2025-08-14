@@ -1,0 +1,97 @@
+{
+    "2019-08-12": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "UPS appoints new CFO",
+                "features": {
+                    "keywords": [
+                        "CFO",
+                        "appoints",
+                        "new"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "logistics",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "UPS Announces CFO Succession Plan",
+                "features": {
+                    "keywords": [
+                        "CFO",
+                        "succession",
+                        "plan"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "logistics",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-07-10",
+                "original_text": "UPS Worldwide Forwarding, Inc. -- Moody's downgrades UPS' senior unsecured rating to A2; outlook remains negative",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "downgrades",
+                        "rating",
+                        "A2",
+                        "outlook",
+                        "negative"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "logistics",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-02-12",
+                "original_text": "Does United Parcel Service, Inc.’s (NYSE:UPS) ROCE Reflect Well On The Business?",
+                "features": {
+                    "keywords": [
+                        "ROCE",
+                        "reflect",
+                        "business"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "logistics",
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

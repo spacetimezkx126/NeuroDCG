@@ -1,0 +1,53 @@
+{
+    "2021-04-17": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Air Force One subcontractor GDC countersues Boeing",
+                "features": {
+                    "keywords": [
+                        "Air Force One",
+                        "subcontractor",
+                        "GDC",
+                        "countersues",
+                        "Boeing"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace",
+                        "defense"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Boeing suffers more electrical issues with 737 Max",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "suffers",
+                        "electrical",
+                        "issues",
+                        "737 Max"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2021-08-28": [
+        [
+            {
+                "time": "",
+                "original_text": "广东区域股市周报：6亿融资买入保利地产 迈瑞医疗跌23.79%跌幅第一",
+                "features": {
+                    "keywords": [
+                        "广东",
+                        "股市周报",
+                        "融资买入",
+                        "保利地产",
+                        "迈瑞医疗",
+                        "跌幅"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产",
+                        "医疗"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "房企融资“三道红线”一周年，“变绿”成行业目标",
+                "features": {
+                    "keywords": [
+                        "房企融资",
+                        "三道红线",
+                        "变绿",
+                        "行业目标"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

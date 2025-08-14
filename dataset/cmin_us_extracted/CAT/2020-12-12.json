@@ -1,0 +1,50 @@
+{
+    "2020-12-12": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "'Halftime Report' Traders See Upsides In Caterpillar, General Motors And Honeywell",
+                "features": {
+                    "keywords": [
+                        "traders",
+                        "upsides",
+                        "Caterpillar",
+                        "General Motors",
+                        "Honeywell"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial",
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "5 Things to Know About Brexit",
+                "features": {
+                    "keywords": [
+                        "Brexit"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "global trade",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

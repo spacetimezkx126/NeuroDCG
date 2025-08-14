@@ -1,0 +1,51 @@
+{
+    "2018-10-30": [
+        [
+            {
+                "time": "",
+                "original_text": "潍柴动力：前三季度净利润同比增30.37%",
+                "features": {
+                    "keywords": [
+                        "潍柴动力",
+                        "净利润",
+                        "同比增长"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "一只股票引发的震荡！机构集中抛售白酒股，白马股受挫系调仓？",
+                "features": {
+                    "keywords": [
+                        "白酒股",
+                        "白马股",
+                        "机构抛售",
+                        "调仓"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "消费品",
+                        "白酒行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

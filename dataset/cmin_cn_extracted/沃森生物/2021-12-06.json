@@ -1,0 +1,68 @@
+{
+    "2021-12-06": [
+        [
+            {
+                "time": "2021-09-10",
+                "original_text": "沃森生物跌4.78% 中信证券九月上旬喊买入",
+                "features": {
+                    "keywords": [
+                        "沃森生物",
+                        "中信证券",
+                        "买入"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "生物医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-12-01",
+                "original_text": "“奥密克戎”疫苗加速研发！国内企业应对几何？",
+                "features": {
+                    "keywords": [
+                        "奥密克戎",
+                        "疫苗",
+                        "加速研发"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "生物医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-12-31",
+                "original_text": "2021年基金，买了个“寂寞”",
+                "features": {
+                    "keywords": [
+                        "基金",
+                        "寂寞"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

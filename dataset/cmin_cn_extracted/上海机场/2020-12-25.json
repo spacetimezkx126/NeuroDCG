@@ -1,0 +1,46 @@
+{
+    "2020-12-25": [
+        [
+            {
+                "time": "",
+                "original_text": "股市分析：圣诞节北向休息，市场缩量探底回升",
+                "features": {
+                    "keywords": [
+                        "圣诞节",
+                        "北向休息",
+                        "市场缩量",
+                        "探底回升"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-12-21至2020-12-25",
+                "original_text": "两融业务周报（20201221-20201225）",
+                "features": {
+                    "keywords": [
+                        "两融业务",
+                        "周报"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

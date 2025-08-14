@@ -1,0 +1,50 @@
+{
+    "2020-09-18": [
+        [
+            {
+                "time": "2020-09-18",
+                "original_text": "恒邦股份现3笔大宗交易 共成交1,323.00万元",
+                "features": {
+                    "keywords": [
+                        "恒邦股份",
+                        "大宗交易",
+                        "成交金额"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "有色金属"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-09-18",
+                "original_text": "中泰证券：维持锂钴三季度拐点判断",
+                "features": {
+                    "keywords": [
+                        "中泰证券",
+                        "锂钴",
+                        "三季度",
+                        "拐点"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

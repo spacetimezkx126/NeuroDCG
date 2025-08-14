@@ -1,0 +1,51 @@
+{
+    "2021-07-03": [
+        [
+            {
+                "time": "",
+                "original_text": "疫情期间这两个赚疯了，一个卖猪肉赚千亿，一个卖排插赚千亿",
+                "features": {
+                    "keywords": [
+                        "疫情",
+                        "猪肉",
+                        "排插",
+                        "千亿"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "消费品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "养猪户卖一头猪至少亏1500块 探寻猪价涨跌“密码”",
+                "features": {
+                    "keywords": [
+                        "养猪户",
+                        "亏损",
+                        "猪价",
+                        "涨跌"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "2021-11-01": [
+        [
+            {
+                "time": "2021-11-01",
+                "original_text": "新三板重要公告汇总（2021年11月1日）",
+                "features": {
+                    "keywords": [
+                        "新三板",
+                        "公告",
+                        "汇总"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-11-01",
+                "original_text": "上海底特：股东振江股份增持公司股份，持股比例变为95%",
+                "features": {
+                    "keywords": [
+                        "上海底特",
+                        "振江股份",
+                        "增持",
+                        "持股比例"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-11-01",
+                "original_text": "图解长江证券三季报：第三季度单季净利润同比减21.74% 盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "长江证券",
+                        "三季报",
+                        "净利润",
+                        "同比下降"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

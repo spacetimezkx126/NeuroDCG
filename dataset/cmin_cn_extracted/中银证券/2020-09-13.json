@@ -1,0 +1,54 @@
+{
+    "2020-09-13": [
+        [
+            {
+                "time": "",
+                "original_text": "兴业信托拍卖东海证券2000万股股份，500多人围观，3人有意",
+                "features": {
+                    "keywords": [
+                        "兴业信托",
+                        "拍卖",
+                        "东海证券",
+                        "2000万股",
+                        "围观",
+                        "有意"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中银证券*晨会聚焦20200914",
+                "features": {
+                    "keywords": [
+                        "中银证券",
+                        "晨会",
+                        "聚焦",
+                        "20200914"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

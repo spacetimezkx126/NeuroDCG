@@ -1,0 +1,72 @@
+{
+    "2020-08-20": [
+        [
+            {
+                "time": "2023-07-01",
+                "original_text": "四大报：7月新增投资者创5年新高，新基建持续升温",
+                "features": {
+                    "keywords": [
+                        "新增投资者",
+                        "5年新高",
+                        "新基建",
+                        "升温"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基建",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-07-01",
+                "original_text": "非医药基金上位，权益类基金年内业绩冠军易主",
+                "features": {
+                    "keywords": [
+                        "非医药基金",
+                        "权益类基金",
+                        "业绩冠军",
+                        "易主"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "权益类基金"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-07-01",
+                "original_text": "冠军基金易主了！",
+                "features": {
+                    "keywords": [
+                        "冠军基金",
+                        "易主"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基金"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

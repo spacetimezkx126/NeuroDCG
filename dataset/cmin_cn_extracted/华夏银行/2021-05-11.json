@@ -1,0 +1,51 @@
+{
+    "2021-05-11": [
+        [
+            {
+                "time": "",
+                "original_text": "城商行三强：13年沧海桑田",
+                "features": {
+                    "keywords": [
+                        "城商行",
+                        "三强",
+                        "13年",
+                        "沧海桑田"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "*ST华资：目前持有恒泰证券3.08亿股，华夏银行69504001股",
+                "features": {
+                    "keywords": [
+                        "*ST华资",
+                        "恒泰证券",
+                        "华夏银行",
+                        "持股"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "证券",
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

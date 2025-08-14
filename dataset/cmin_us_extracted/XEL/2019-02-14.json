@@ -1,0 +1,101 @@
+{
+    "2019-02-14": [
+        [
+            {
+                "time": "2019-02-14",
+                "original_text": "After Hours Most Active for Feb 14, 2019: ECA, ATO, SR, QCOM, CSCO, PGR, CAG, QEP, MSFT, QQQ, XEL, AAPL",
+                "features": {
+                    "keywords": [
+                        "Most Active",
+                        "ECA",
+                        "ATO",
+                        "SR",
+                        "QCOM",
+                        "CSCO",
+                        "PGR",
+                        "CAG",
+                        "QEP",
+                        "MSFT",
+                        "QQQ",
+                        "XEL",
+                        "AAPL"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "energy",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-02-14",
+                "original_text": "Xcel Energy exec wins DBJ's Top Women in Energy Trailblazer Award",
+                "features": {
+                    "keywords": [
+                        "Xcel Energy",
+                        "Trailblazer Award"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-02-14",
+                "original_text": "PPL Corporation's Q4 Earnings Top, Revenues Miss Estimates",
+                "features": {
+                    "keywords": [
+                        "PPL Corporation",
+                        "Q4 Earnings",
+                        "Revenues",
+                        "Miss Estimates"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-02-14",
+                "original_text": "Duke Energy (DUK) Q4 Earnings Miss Estimates, Revenues Beat",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "Q4 Earnings",
+                        "Miss Estimates",
+                        "Revenues Beat"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "2020-08-11": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Why JPMorgan, Bank of America, Wells Fargo, and Citigroup Stocks Rose Today",
+                "features": {
+                    "keywords": [
+                        "JPMorgan",
+                        "Bank of America",
+                        "Wells Fargo",
+                        "Citigroup",
+                        "Stocks Rose"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Black Knight, Inc. -- Moody's affirms Black Knight's Ba2 CFR, assigns Ba3 rating to proposed sr uns notes; outlook stable",
+                "features": {
+                    "keywords": [
+                        "Black Knight",
+                        "Moody's",
+                        "Ba2 CFR",
+                        "Ba3 rating",
+                        "outlook stable"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "German Bund trading volumes fall to 6-month low in July",
+                "features": {
+                    "keywords": [
+                        "German Bund",
+                        "trading volumes",
+                        "fall",
+                        "6-month low"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "government bonds"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

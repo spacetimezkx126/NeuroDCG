@@ -1,0 +1,72 @@
+{
+    "2021-05-12": [
+        [
+            {
+                "time": "",
+                "original_text": "银 行 股 回 暖 ？ 张 坤 谢 治 宇 都 在 买 ， 国 家 队 、 险 资 却 撤 离",
+                "features": {
+                    "keywords": [
+                        "银行股",
+                        "张坤",
+                        "谢治宇",
+                        "国家队",
+                        "险资",
+                        "撤离"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "热 搜 刷 屏 ！ 财 政 部 突 传 重 磅 ， 房 地 产 税 大 消 息 来 了 ！",
+                "features": {
+                    "keywords": [
+                        "财政部",
+                        "房地产税",
+                        "政策"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "一 季 度 业 绩 增 长 较 快 ， 银 行 股 承 蒙 明 星 基 金 经 理 抬 爱",
+                "features": {
+                    "keywords": [
+                        "一季度业绩",
+                        "银行股",
+                        "明星基金经理"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

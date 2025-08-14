@@ -1,0 +1,55 @@
+{
+    "2019-05-15": [
+        [
+            {
+                "time": "",
+                "original_text": "原合规经理起诉东方财富证券，称被违法免职讨要工资，诉讼纠纷",
+                "features": {
+                    "keywords": [
+                        "合规经理",
+                        "东方财富证券",
+                        "违法免职",
+                        "讨要工资",
+                        "诉讼纠纷"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "“组团大撤退”这两只“入摩”创业板个股遭巨额抛售套现",
+                "features": {
+                    "keywords": [
+                        "组团大撤退",
+                        "入摩",
+                        "创业板",
+                        "个股",
+                        "巨额抛售",
+                        "套现"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "创业板",
+                        "个股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

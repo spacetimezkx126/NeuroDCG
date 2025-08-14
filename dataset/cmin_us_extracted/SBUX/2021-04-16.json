@@ -1,0 +1,74 @@
+{
+    "2021-04-16": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "Why people are obsessed with chicken sandwiches: Wendy's CEO",
+                "features": {
+                    "keywords": [
+                        "chicken sandwiches",
+                        "Wendy's",
+                        "obsessed"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food_service",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Wendy's CEO: We are on our way to 8,000 restaurants by 2025",
+                "features": {
+                    "keywords": [
+                        "Wendy's",
+                        "8,000 restaurants",
+                        "2025"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food_service",
+                        "expansion"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "4 Stocks to Buy as Restaurant Sales Jump in March",
+                "features": {
+                    "keywords": [
+                        "stocks",
+                        "buy",
+                        "restaurant sales",
+                        "jump",
+                        "March"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "food_service",
+                        "stocks"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

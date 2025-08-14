@@ -1,0 +1,74 @@
+{
+    "2021-03-18": [
+        [
+            {
+                "time": "2021-11-15",
+                "original_text": "Don’t Lose Sight of Biogen’s Depression Drug. How It Could Send the Stock Much Higher.",
+                "features": {
+                    "keywords": [
+                        "Biogen",
+                        "depression drug",
+                        "stock higher"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-11-16",
+                "original_text": "Amid Variant Concern, US Government Stops Distribution Of Eli Lilly's Bamlanivimab In Three States",
+                "features": {
+                    "keywords": [
+                        "variant concern",
+                        "US government",
+                        "Eli Lilly",
+                        "Bamlanivimab",
+                        "distribution stop"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-11-16",
+                "original_text": "Lilly says its monoclonal antibody is no longer being ordered in 3 states due to variant concerns",
+                "features": {
+                    "keywords": [
+                        "Lilly",
+                        "monoclonal antibody",
+                        "variant concerns",
+                        "ordered"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "2021-02-02": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Even Before WallStreetBets, Shorting GameStop Didn't Make Sense",
+                "features": {
+                    "keywords": [
+                        "Shorting",
+                        "GameStop",
+                        "WallStreetBets"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "gaming"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Why Beyond Meat Stock Soared 43% in January",
+                "features": {
+                    "keywords": [
+                        "Beyond Meat",
+                        "Soared",
+                        "January"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food",
+                        "plant-based"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Super Bowl LV Gains Added Dimension with Doritos Campaign Starring Matthew McConaughey as #FlatMatthew",
+                "features": {
+                    "keywords": [
+                        "Super Bowl",
+                        "Doritos",
+                        "Matthew McConaughey"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment",
+                        "snacks"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Turned Off by the GameStop Hysteria? 3 Top Stocks to Buy Instead",
+                "features": {
+                    "keywords": [
+                        "GameStop",
+                        "Hysteria",
+                        "Top Stocks"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

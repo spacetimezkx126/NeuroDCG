@@ -1,0 +1,406 @@
+{
+    "2021-02-17": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Stock Market Today: Dow Marks New Highs, Tech Makes a Mess",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "new highs",
+                        "tech"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-03",
+                "original_text": "Warren Buffett Bought Chevron Stock — Should You?",
+                "features": {
+                    "keywords": [
+                        "Warren Buffett",
+                        "Chevron",
+                        "bought"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "EQT, IBD Stock Of The Day, Races Past Buy Point Amid Soaring Energy Prices",
+                "features": {
+                    "keywords": [
+                        "EQT",
+                        "IBD Stock of the Day",
+                        "energy prices"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-05",
+                "original_text": "US STOCKS-S&P 500, Nasdaq fall as tech slides and inflation concerns weigh",
+                "features": {
+                    "keywords": [
+                        "S&P 500",
+                        "Nasdaq",
+                        "fall",
+                        "inflation"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-06",
+                "original_text": "Dow Jones Dips As Buffett Boosts Verizon But Trims Apple; Nasdaq Stocks Sell Off",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Buffett",
+                        "Verizon",
+                        "Apple",
+                        "sell off"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-07",
+                "original_text": "22 additional dividend stocks that Warren Buffett might consider buying",
+                "features": {
+                    "keywords": [
+                        "dividend stocks",
+                        "Warren Buffett",
+                        "consider"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-08",
+                "original_text": "US STOCKS-Nasdaq falls as big tech slides; Fed minutes in focus",
+                "features": {
+                    "keywords": [
+                        "Nasdaq",
+                        "big tech",
+                        "Fed minutes"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-09",
+                "original_text": "Chevron Is Buffett’s Latest Billion-Dollar ‘Mystery’ Investment",
+                "features": {
+                    "keywords": [
+                        "Chevron",
+                        "Buffett",
+                        "investment"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-10",
+                "original_text": "Dow Jones Today, Stocks Slide As Buffett Pares Apple, Adds Chevron, Verizon",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Buffett",
+                        "Apple",
+                        "Chevron",
+                        "Verizon"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications",
+                        "energy",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-11",
+                "original_text": "Dow Hovers Near Record High as Rising Cyclicals Stem Blow From Tech",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "record high",
+                        "cyclicals",
+                        "tech"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-12",
+                "original_text": "Dow Jones Today Edges Up, Futures Slip As Buffett Pares Apple, Adds Chevron, Verizon",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "futures",
+                        "Buffett",
+                        "Apple",
+                        "Chevron",
+                        "Verizon"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications",
+                        "energy",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-13",
+                "original_text": "US STOCKS-Wall Street set for subdued open with Fed minutes in focus",
+                "features": {
+                    "keywords": [
+                        "Wall Street",
+                        "subdued open",
+                        "Fed minutes"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-14",
+                "original_text": "The Riskiest Stocks Are in Favor. Why That Probably Won’t Change Anytime Soon.",
+                "features": {
+                    "keywords": [
+                        "riskiest stocks",
+                        "favor",
+                        "change"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-15",
+                "original_text": "Freeze Could Keep Texans in the Dark for Days: Energy Update",
+                "features": {
+                    "keywords": [
+                        "freeze",
+                        "Texans",
+                        "energy update"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-16",
+                "original_text": "Warren Buffett's favorite indicator is at a dangerous level, but he just bought these stocks anyway",
+                "features": {
+                    "keywords": [
+                        "Warren Buffett",
+                        "indicator",
+                        "dangerous",
+                        "bought"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-17",
+                "original_text": "Premarket Movers Wednesday - Quantumscape, Slack, Shopify",
+                "features": {
+                    "keywords": [
+                        "premarket movers",
+                        "Quantumscape",
+                        "Slack",
+                        "Shopify"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-18",
+                "original_text": "Texas Freeze, Buffett Cuts Apple Stake, Retail Sales and IP - What's up in Markets",
+                "features": {
+                    "keywords": [
+                        "Texas freeze",
+                        "Buffett",
+                        "Apple",
+                        "retail sales"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-19",
+                "original_text": "Berkshire reveals confidential bets on Verizon and Chevron",
+                "features": {
+                    "keywords": [
+                        "Berkshire",
+                        "confidential bets",
+                        "Verizon",
+                        "Chevron"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

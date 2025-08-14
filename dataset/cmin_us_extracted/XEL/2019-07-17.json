@@ -1,0 +1,53 @@
+{
+    "2019-07-17": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "American Electric Seeks Approval to Buy 1,485 MW Wind Projects",
+                "features": {
+                    "keywords": [
+                        "American Electric",
+                        "Approval",
+                        "Buy",
+                        "Wind Projects"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "renewables"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "AES Corp. Unveils Uplight to Offer AI-Based Energy Services",
+                "features": {
+                    "keywords": [
+                        "AES Corp.",
+                        "Unveils",
+                        "Uplight",
+                        "AI-Based",
+                        "Energy Services"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

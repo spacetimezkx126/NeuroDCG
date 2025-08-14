@@ -1,0 +1,83 @@
+{
+    "2020-10-30": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "Danaher Is One of the Big Winners From COVID-19",
+                "features": {
+                    "keywords": [
+                        "Danaher",
+                        "Big Winners",
+                        "COVID-19"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Analyst Report: Danaher Corp.",
+                "features": {
+                    "keywords": [
+                        "Analyst Report",
+                        "Danaher Corp."
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "industrial"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Market Digest: BA, BYD, CTSH, DHR, MCO, PKG, RJF, RTX, WDC, NOW, SHOP",
+                "features": {
+                    "keywords": [
+                        "Market Digest",
+                        "BA",
+                        "BYD",
+                        "CTSH",
+                        "DHR",
+                        "MCO",
+                        "PKG",
+                        "RJF",
+                        "RTX",
+                        "WDC",
+                        "NOW",
+                        "SHOP"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace",
+                        "automotive",
+                        "technology",
+                        "healthcare",
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

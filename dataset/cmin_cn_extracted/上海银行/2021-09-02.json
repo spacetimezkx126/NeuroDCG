@@ -1,0 +1,56 @@
+{
+    "2021-09-02": [
+        [
+            {
+                "time": "",
+                "original_text": "上海银行行长带头增持 七名高管合计买入60.5万股自家股票",
+                "features": {
+                    "keywords": [
+                        "上海银行",
+                        "行长",
+                        "增持",
+                        "高管",
+                        "买入",
+                        "自家股票"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "银行涉房类贷款半年考：超六成占比下降，招行兴业等7家双指标越线",
+                "features": {
+                    "keywords": [
+                        "银行",
+                        "涉房类贷款",
+                        "半年考",
+                        "占比下降",
+                        "招行",
+                        "兴业",
+                        "双指标越线"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

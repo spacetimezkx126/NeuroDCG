@@ -1,0 +1,72 @@
+{
+    "2021-01-02": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Bold Prediction: General Motors Is the Next Apple Stock for Investors",
+                "features": {
+                    "keywords": [
+                        "General Motors",
+                        "Apple",
+                        "Investors"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automotive",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-12-31",
+                "original_text": "Benzinga's Final Bulls And Bears Of The Year: Alibaba, Apple, Intel, Tesla And More",
+                "features": {
+                    "keywords": [
+                        "Alibaba",
+                        "Apple",
+                        "Intel",
+                        "Tesla"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "electric vehicles"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-01-04",
+                "original_text": "Why Apple Rose 12.3% in December",
+                "features": {
+                    "keywords": [
+                        "Apple",
+                        "Rose",
+                        "December"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

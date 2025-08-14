@@ -1,0 +1,76 @@
+{
+    "2018-04-16": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "金融：银行与保险跑赢大盘 税延养老险试点终落地",
+                "features": {
+                    "keywords": [
+                        "银行",
+                        "保险",
+                        "跑赢大盘",
+                        "税延养老险",
+                        "试点"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "电广传媒从43跌到6元 中国人寿信泰人寿产品亏损惨",
+                "features": {
+                    "keywords": [
+                        "电广传媒",
+                        "股价下跌",
+                        "中国人寿",
+                        "信泰人寿",
+                        "产品亏损"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "传媒",
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "四上市险企首季“开门红”逆势增长：保费合计近6800亿元 同比增长9%",
+                "features": {
+                    "keywords": [
+                        "上市险企",
+                        "开门红",
+                        "逆势增长",
+                        "保费收入",
+                        "同比增长"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

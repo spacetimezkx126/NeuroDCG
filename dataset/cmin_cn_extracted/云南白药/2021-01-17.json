@@ -1,0 +1,72 @@
+{
+    "2021-01-17": [
+        [
+            {
+                "time": "2020-11",
+                "original_text": "2020年11月电视广告刊例花费同比减少1.3%",
+                "features": {
+                    "keywords": [
+                        "电视广告",
+                        "刊例花费",
+                        "同比减少"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "广告",
+                        "传媒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "A股新逻辑：赛道、指数与抱团",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "赛道",
+                        "指数",
+                        "抱团"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "医药行业每周医览药闻：如何看待医药零售板块的政策机遇",
+                "features": {
+                    "keywords": [
+                        "医药行业",
+                        "政策机遇",
+                        "医药零售"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "零售"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

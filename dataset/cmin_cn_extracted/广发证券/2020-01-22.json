@@ -1,0 +1,50 @@
+{
+    "2020-01-22": [
+        [
+            {
+                "time": "",
+                "original_text": "家属咳嗽员工自行隔离、武汉员工重点关注，金融机构防控升级",
+                "features": {
+                    "keywords": [
+                        "员工隔离",
+                        "武汉员工",
+                        "金融机构",
+                        "防控升级"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "证券行业：市场回暖 驱动业绩环比增长",
+                "features": {
+                    "keywords": [
+                        "证券行业",
+                        "市场回暖",
+                        "业绩环比增长"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

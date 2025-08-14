@@ -1,0 +1,54 @@
+{
+    "2019-12-11": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "Terra plans 1,400 apartments on recently purchased land",
+                "features": {
+                    "keywords": [
+                        "Terra",
+                        "apartments",
+                        "purchased land"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "The Zacks Analyst Blog Highlights: Spark Energy, Vertex, ResMed, Prologis and Boston Beer",
+                "features": {
+                    "keywords": [
+                        "Zacks Analyst Blog",
+                        "Spark Energy",
+                        "Vertex",
+                        "ResMed",
+                        "Prologis",
+                        "Boston Beer"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "healthcare",
+                        "real estate",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "2019-10-30": [
+        [
+            {
+                "time": "2018-11-01",
+                "original_text": "['Microsoft', 'wins', '$10', 'billion', 'Pentagon', 'contract']",
+                "features": {
+                    "keywords": [
+                        "Microsoft",
+                        "Pentagon",
+                        "contract"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "['USF', 'College', 'of', 'Medicine', 'teams', 'up', 'with', 'Microsoft', 'to', 'create', 'first-ever', 'Medical', 'School', 'of', 'Innovation']",
+                "features": {
+                    "keywords": [
+                        "USF",
+                        "Microsoft",
+                        "Medical School",
+                        "Innovation"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "['6', 'Stocks', 'to', 'Buy', 'for', 'Their', 'Massive', 'Stock', 'Buybacks']",
+                "features": {
+                    "keywords": [
+                        "Stocks",
+                        "Buybacks"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "['Apple', 'Earnings', 'After', 'The', 'Bell:', 'Will', 'It', 'Remain', 'The', \"World's\", 'Most', 'Valuable', 'Company?']",
+                "features": {
+                    "keywords": [
+                        "Apple",
+                        "Earnings",
+                        "Valuable"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "['AMD', 'Q3', 'Earnings', 'In', 'Line,', 'Revenues', 'Miss', 'Estimates,', 'Up', 'Y/Y']",
+                "features": {
+                    "keywords": [
+                        "AMD",
+                        "Earnings",
+                        "Revenues",
+                        "Estimates"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "['Activision', 'Stock', 'Rises', 'on', 'Record-Breaking', '‘Call', 'of', 'Duty’', 'Sales']",
+                "features": {
+                    "keywords": [
+                        "Activision",
+                        "Stock",
+                        "Sales"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "gaming"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "['StockBeat:', 'AMD', 'Stutters,', 'but', 'Wall', 'Street', 'Sees', 'Reason', 'for', 'Optimism']",
+                "features": {
+                    "keywords": [
+                        "AMD",
+                        "StockBeat",
+                        "Optimism"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "['Charts', 'Suggest', 'US', 'Large-Cap', 'Stocks', 'Are', 'Headed', 'Higher']",
+                "features": {
+                    "keywords": [
+                        "Charts",
+                        "Large-Cap",
+                        "Stocks"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "['Should', 'WisdomTree', 'U.S.', 'LargeCap', 'Fund', '(EPS)', 'Be', 'on', 'Your', 'Investing', 'Radar?']",
+                "features": {
+                    "keywords": [
+                        "WisdomTree",
+                        "LargeCap",
+                        "Fund"
+                    ],
+                    "sentiment_score": 0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "['AMD', 'Earnings:', 'Stock', 'Fell', 'despite', 'Exceptional', 'Growth']",
+                "features": {
+                    "keywords": [
+                        "AMD",
+                        "Earnings",
+                        "Stock",
+                        "Growth"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "['Norway's', 'sovereign', 'wealth', 'fund', 'earned', '$25.6', 'bln', 'in', 'Q3']",
+                "features": {
+                    "keywords": [
+                        "Norway",
+                        "Sovereign Wealth Fund",
+                        "Earnings"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "['Why', 'Microsoft', 'Will', 'Have', 'to', 'Race', 'to', 'Catch', 'Up', 'to', 'Amazon', 'in', 'Cloud', 'Sales']",
+                "features": {
+                    "keywords": [
+                        "Microsoft",
+                        "Amazon",
+                        "Cloud Sales"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

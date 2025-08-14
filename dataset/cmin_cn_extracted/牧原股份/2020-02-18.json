@@ -1,0 +1,50 @@
+{
+    "2020-02-18": [
+        [
+            {
+                "time": "",
+                "original_text": "牧原股份现1笔大宗交易 ，共成交286.88万元",
+                "features": {
+                    "keywords": [
+                        "牧原股份",
+                        "大宗交易",
+                        "286.88万元"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "食品加工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中信银行郑州分行承销河南省首单疫情防控债 ，助力企业复工复产",
+                "features": {
+                    "keywords": [
+                        "中信银行",
+                        "疫情防控债",
+                        "复工复产"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "债券市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

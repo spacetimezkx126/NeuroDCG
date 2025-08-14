@@ -1,0 +1,75 @@
+{
+    "2019-11-02": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "5 ways to beat the market — from a fund manager who’s done it for years",
+                "features": {
+                    "keywords": [
+                        "beat the market",
+                        "fund manager",
+                        "investment strategy"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Saudi Arabia Will Compromise on Valuation to Make Aramco IPO a Success",
+                "features": {
+                    "keywords": [
+                        "Saudi Arabia",
+                        "Aramco IPO",
+                        "valuation compromise"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Barron's Picks And Pans: AbbVie, Alibaba, Fiat Chrysler, Garmin And More",
+                "features": {
+                    "keywords": [
+                        "Barron's",
+                        "Picks And Pans",
+                        "AbbVie",
+                        "Alibaba",
+                        "Fiat Chrysler",
+                        "Garmin"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "technology",
+                        "automobile",
+                        "consumer electronics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

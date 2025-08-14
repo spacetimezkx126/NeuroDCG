@@ -1,0 +1,59 @@
+{
+    "2020-02-05": [
+        [
+            {
+                "time": "2022-03-15",
+                "original_text": "Tencent Music Antitrust Probe Suspended by China Authorities",
+                "features": {
+                    "keywords": [
+                        "Tencent",
+                        "Music",
+                        "Antitrust",
+                        "Probe",
+                        "Suspended",
+                        "China",
+                        "Authorities"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "entertainment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2022-04-20",
+                "original_text": "New Jersey’s Pension Sold Apple, AT&T, and Microsoft Stock. Here’s What It’s Buying.",
+                "features": {
+                    "keywords": [
+                        "New",
+                        "Jersey’s",
+                        "Pension",
+                        "Sold",
+                        "Apple",
+                        "AT&T",
+                        "Microsoft",
+                        "Stock"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

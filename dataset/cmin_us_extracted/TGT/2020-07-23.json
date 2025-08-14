@@ -1,0 +1,52 @@
+{
+    "2020-07-23": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "Bed Bath & Beyond Inc. -- Moody's downgrades Bed Bath's CFR to Ba3; outlook remains negative",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "downgrades",
+                        "CFR",
+                        "Ba3",
+                        "outlook",
+                        "negative"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Here’s why the toy industry will shake off the global pandemic",
+                "features": {
+                    "keywords": [
+                        "toy industry",
+                        "global pandemic",
+                        "shake off"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "toys",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

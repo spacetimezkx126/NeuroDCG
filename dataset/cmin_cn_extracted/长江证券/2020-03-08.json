@@ -1,0 +1,50 @@
+{
+    "2020-03-08": [
+        [
+            {
+                "time": "",
+                "original_text": "长江证券：第一大股东新理益集团将1.8亿股公司股份质押给中铁信托",
+                "features": {
+                    "keywords": [
+                        "长江证券",
+                        "第一大股东",
+                        "新理益集团",
+                        "股份质押",
+                        "中铁信托"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-12",
+                "original_text": "长江证券(000783.SZ)：“长证转债”3月12日付息",
+                "features": {
+                    "keywords": [
+                        "长江证券",
+                        "长证转债",
+                        "付息"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

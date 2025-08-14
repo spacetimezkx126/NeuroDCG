@@ -1,0 +1,54 @@
+{
+    "2018-01-02": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "Notable Tuesday Option Activity: UPS, IP, TSRO",
+                "features": {
+                    "keywords": [
+                        "Option Activity",
+                        "UPS",
+                        "IP",
+                        "TSRO"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "transportation",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "Noteworthy ETF Outflows: VUG, BMY, PYPL, UPS",
+                "features": {
+                    "keywords": [
+                        "ETF Outflows",
+                        "VUG",
+                        "BMY",
+                        "PYPL",
+                        "UPS"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "healthcare",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "2020-05-24": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "The Office You Left Behind Has to Change. Companies Are Trying to Figure Out How.",
+                "features": {
+                    "keywords": [
+                        "change",
+                        "companies",
+                        "figure out"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general business"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Hedge Funds Have Never Been This Bullish On JPMorgan Chase & Co. (JPM)",
+                "features": {
+                    "keywords": [
+                        "hedge funds",
+                        "bullish",
+                        "JPMorgan Chase",
+                        "JPM"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

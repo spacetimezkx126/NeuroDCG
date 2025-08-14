@@ -1,0 +1,54 @@
+{
+    "2021-07-14": [
+        [
+            {
+                "time": "",
+                "original_text": "中国铁建暂停办理H股股份过户登记，派发每股0.23元股息",
+                "features": {
+                    "keywords": [
+                        "中国铁建",
+                        "H股",
+                        "股份过户登记",
+                        "暂停办理",
+                        "派发股息"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "建筑",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国铁建“胜利号”在俄完成首条隧道贯通任务",
+                "features": {
+                    "keywords": [
+                        "中国铁建",
+                        "胜利号",
+                        "俄罗斯",
+                        "隧道贯通",
+                        "完成任务"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "建筑",
+                        "国际工程"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

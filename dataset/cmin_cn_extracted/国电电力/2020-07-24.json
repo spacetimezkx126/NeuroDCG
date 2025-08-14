@@ -1,0 +1,51 @@
+{
+    "2020-07-24": [
+        [
+            {
+                "time": "",
+                "original_text": "A股平均股价11.03元108股股价不足2元",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "平均股价",
+                        "不足2元"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-07-24",
+                "original_text": "7月24日午后两市机构大单抛盘40股(名单)",
+                "features": {
+                    "keywords": [
+                        "7月24日",
+                        "午后",
+                        "两市",
+                        "机构",
+                        "大单抛盘",
+                        "40股"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

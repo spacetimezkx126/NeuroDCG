@@ -1,0 +1,119 @@
+{
+    "2020-04-24": [
+        [
+            {
+                "time": "2021-04-15",
+                "original_text": "Petco Animal Supplies, Inc. -- Moody's downgrades Petco to Caa1; outlook negative",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "downgrades",
+                        "Caa1",
+                        "outlook negative"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "animal supplies"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-08-10",
+                "original_text": "Trump adviser Kudlow talks up limiting coronavirus liability for businesses: ‘I don’t think there should be a lawsuit’",
+                "features": {
+                    "keywords": [
+                        "Trump",
+                        "Kudlow",
+                        "coronavirus",
+                        "liability",
+                        "lawsuit"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "business services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-06-04",
+                "original_text": "As jobless claims spike, 78% of Americans expect their jobs to return when the pandemic is over",
+                "features": {
+                    "keywords": [
+                        "jobless claims",
+                        "spike",
+                        "pandemic",
+                        "jobs return"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "employment",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-02-20",
+                "original_text": "Walmart CEO's 2019 base is unchanged but total compensation slips 6.4%",
+                "features": {
+                    "keywords": [
+                        "Walmart",
+                        "CEO",
+                        "compensation",
+                        "slips"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-03-18",
+                "original_text": "Walmart Releases 2020 Annual Report and Proxy Statement",
+                "features": {
+                    "keywords": [
+                        "Walmart",
+                        "Annual Report",
+                        "Proxy Statement"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

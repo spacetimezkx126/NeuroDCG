@@ -1,0 +1,79 @@
+{
+    "2019-11-28": [
+        [
+            {
+                "time": "2014-09-19",
+                "original_text": "With foothold in Hong Kong's stock market, Alibaba sets itself lifespan goal of 102 years",
+                "features": {
+                    "keywords": [
+                        "Alibaba",
+                        "Hong Kong",
+                        "stock market",
+                        "lifespan goal",
+                        "102 years"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-05-15",
+                "original_text": "Alibaba CEO Daniel Zhang on how technology is reshaping consumer buying behaviour",
+                "features": {
+                    "keywords": [
+                        "Alibaba",
+                        "CEO",
+                        "Daniel Zhang",
+                        "technology",
+                        "consumer buying behaviour"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-09-10",
+                "original_text": "Alibaba Chairman Daniel Zhang on company’s IPO and global expansion during US-China trade",
+                "features": {
+                    "keywords": [
+                        "Alibaba",
+                        "Chairman",
+                        "Daniel Zhang",
+                        "IPO",
+                        "global expansion",
+                        "US-China trade"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "international trade"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

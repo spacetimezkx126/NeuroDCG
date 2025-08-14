@@ -1,0 +1,64 @@
+{
+    "2021-03-20": [
+        [
+            {
+                "time": "2021-03-20",
+                "original_text": "久立特材：产品差异化发展 高端领域天花极高",
+                "features": {
+                    "keywords": [
+                        "久立特材",
+                        "产品差异化",
+                        "高端领域"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "材料",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-03-20",
+                "original_text": "上市公司正面新闻",
+                "features": {
+                    "keywords": [
+                        "上市公司",
+                        "正面新闻"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-03-20",
+                "original_text": "上市公司负面新闻",
+                "features": {
+                    "keywords": [
+                        "上市公司",
+                        "负面新闻"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

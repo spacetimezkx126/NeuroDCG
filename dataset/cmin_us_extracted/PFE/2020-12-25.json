@@ -1,0 +1,49 @@
+{
+    "2020-12-25": [
+        [
+            {
+                "time": "2022-12-01",
+                "original_text": "New York Hospitalizations Rise, New Travel Rules: Virus Update",
+                "features": {
+                    "keywords": [
+                        "hospitalizations",
+                        "rise",
+                        "travel rules",
+                        "virus"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2022-12-01",
+                "original_text": "Here's What to Know About Pfizer's 'Extra' COVID Vaccine Doses",
+                "features": {
+                    "keywords": [
+                        "Pfizer",
+                        "extra doses",
+                        "COVID vaccine"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2020-09-14": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Market Digest: GNRC, AAP, CRL, LULU, RY, EXC",
+                "features": {
+                    "keywords": [
+                        "GNRC",
+                        "AAP",
+                        "CRL",
+                        "LULU",
+                        "RY",
+                        "EXC"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Analyst Report: Exelon Corp.",
+                "features": {
+                    "keywords": [
+                        "Exelon",
+                        "Corp."
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "2018-04-22": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Renewables Are Booming In Oil Country",
+                "features": {
+                    "keywords": [
+                        "Renewables",
+                        "Booming",
+                        "Oil Country"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "renewables"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Investing in the Retail Sector",
+                "features": {
+                    "keywords": [
+                        "Investing",
+                        "Retail",
+                        "Sector"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "[$$] Corporate wellbeing is no substitute for good management",
+                "features": {
+                    "keywords": [
+                        "Corporate",
+                        "wellbeing",
+                        "management"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "corporate governance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

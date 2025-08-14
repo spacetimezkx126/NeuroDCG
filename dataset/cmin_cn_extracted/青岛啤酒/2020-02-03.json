@@ -1,0 +1,52 @@
+{
+    "2020-02-03": [
+        [
+            {
+                "time": "2023-02-03",
+                "original_text": "截 至 2 月 3 日 A H 股 共 计 1 只 股 票 股 价 倒 挂",
+                "features": {
+                    "keywords": [
+                        "AH股",
+                        "股价倒挂"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-02-03",
+                "original_text": "海 底 捞 跌 近 2 % 兼 创 7 个 月 低 位 内 地 门 店 延 长 停 业 经 营 问 题",
+                "features": {
+                    "keywords": [
+                        "海底捞",
+                        "股价下跌",
+                        "7个月低位",
+                        "内地门店",
+                        "延长停业",
+                        "经营问题"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "餐饮",
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "2019-03-22": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "Mid-Morning Market Update: Markets Open Lower; Hibbett Sports Beats Q4 Estimates",
+                "features": {
+                    "keywords": [
+                        "Markets Open Lower",
+                        "Hibbett Sports",
+                        "Beats Q4 Estimates"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "sports goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Invesco S&P 500 Low Volatility ETF Experiences Big Inflow",
+                "features": {
+                    "keywords": [
+                        "Invesco",
+                        "S&P 500 Low Volatility ETF",
+                        "Big Inflow"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "financial services",
+                        "ETFs"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "2019-04-04": [
+        [
+            {
+                "time": "2023-04-04",
+                "original_text": "涨，停，板，解，密，：，化，工，股，火，爆，现，涨，停，潮，！，（，4，月，4，日，）",
+                "features": {
+                    "keywords": [
+                        "化工股",
+                        "涨停潮"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-04-04",
+                "original_text": "自，动，驾，驶，题，材，股，崛，起，，华，阳，集，团，一，笔，涨，停",
+                "features": {
+                    "keywords": [
+                        "自动驾驶",
+                        "题材股",
+                        "华阳集团",
+                        "涨停"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

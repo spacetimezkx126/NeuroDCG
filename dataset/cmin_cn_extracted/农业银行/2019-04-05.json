@@ -1,0 +1,48 @@
+{
+    "2019-04-05": [
+        [
+            {
+                "time": "",
+                "original_text": "信贷在放水？房价要普涨？看完这，就知道某些人想多了",
+                "features": {
+                    "keywords": [
+                        "信贷",
+                        "放水",
+                        "房价",
+                        "普涨"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-03-31 to 2019-04-04",
+                "original_text": "《海外掘金》业绩为王（2019年3月31日-4月4日）",
+                "features": {
+                    "keywords": [
+                        "海外掘金",
+                        "业绩"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "海外投资"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

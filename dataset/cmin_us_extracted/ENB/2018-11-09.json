@@ -1,0 +1,55 @@
+{
+    "2018-11-09": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Moody's affirms Enbridge and Enbridge Income Fund at Baa3; outlooks changed to positive",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "affirms",
+                        "Enbridge",
+                        "Income Fund",
+                        "Baa3",
+                        "outlooks",
+                        "positive"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "Canadian Stocks Are Falling As Commodities Weaken - Canadian Commentary",
+                "features": {
+                    "keywords": [
+                        "Canadian Stocks",
+                        "Falling",
+                        "Commodities",
+                        "Weaken"
+                    ],
+                    "sentiment_score": -0.65,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "commodities",
+                        "stocks"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

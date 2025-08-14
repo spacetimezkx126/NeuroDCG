@@ -1,0 +1,77 @@
+{
+    "2021-11-15": [
+        [
+            {
+                "time": "2021-11-15",
+                "original_text": "中国东航：10月公司客运运力投入（按可用座公里计）同比下降9.02%",
+                "features": {
+                    "keywords": [
+                        "中国东航",
+                        "客运运力",
+                        "同比下降"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-11-15",
+                "original_text": "交通运输物流周报：“双十一”期间快递量同比增长超两成",
+                "features": {
+                    "keywords": [
+                        "交通运输",
+                        "物流",
+                        "双十一",
+                        "快递量",
+                        "同比增长"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流",
+                        "电商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-11-15",
+                "original_text": "交通运输物流行业动态：民航局就737MAX适航指令征求意见 关注对行业供应增速潜在影响",
+                "features": {
+                    "keywords": [
+                        "交通运输",
+                        "物流",
+                        "民航局",
+                        "737MAX",
+                        "适航指令",
+                        "供应增速"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "航空",
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

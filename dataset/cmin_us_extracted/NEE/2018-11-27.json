@@ -1,0 +1,52 @@
+{
+    "2018-11-27": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "Ex-Dividend Reminder: Manchester United, Avista and NextEra Energy",
+                "features": {
+                    "keywords": [
+                        "Ex-Dividend",
+                        "Manchester United",
+                        "Avista",
+                        "NextEra Energy"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "XLU, NEE, D, SO: ETF Outflow Alert",
+                "features": {
+                    "keywords": [
+                        "XLU",
+                        "NEE",
+                        "D",
+                        "SO",
+                        "ETF Outflow"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

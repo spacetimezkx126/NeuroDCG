@@ -1,0 +1,78 @@
+{
+    "2020-07-22": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "Whirlpool beats Wall St estimates, CEO says staying at home during COVID-19 key driver",
+                "features": {
+                    "keywords": [
+                        "Whirlpool",
+                        "beats",
+                        "Wall St estimates",
+                        "CEO",
+                        "staying at home",
+                        "COVID-19",
+                        "key driver"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Top Research Reports for Home Depot, PayPal & Cisco",
+                "features": {
+                    "keywords": [
+                        "Top Research Reports",
+                        "Home Depot",
+                        "PayPal",
+                        "Cisco"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "fintech",
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Home Depot to Reset Product Category for Enhanced Portfolio",
+                "features": {
+                    "keywords": [
+                        "Home Depot",
+                        "Reset Product Category",
+                        "Enhanced Portfolio"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "home improvement"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

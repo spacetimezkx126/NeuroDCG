@@ -1,0 +1,72 @@
+{
+    "2020-01-10": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "Dogs of the Dow 2020: 10 Dividend Stocks to Watch",
+                "features": {
+                    "keywords": [
+                        "Dogs of the Dow",
+                        "Dividend Stocks",
+                        "Watch"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-11-30",
+                "original_text": "Energy Lag: Sector Earnings Seen Sagging Despite Crude Prices Rising In Q4",
+                "features": {
+                    "keywords": [
+                        "Energy",
+                        "Sector Earnings",
+                        "Sagging",
+                        "Crude Prices",
+                        "Rising",
+                        "Q4"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-02-15",
+                "original_text": "BlackRock Becomes a Populist Punching Bag",
+                "features": {
+                    "keywords": [
+                        "BlackRock",
+                        "Populist",
+                        "Punching Bag"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

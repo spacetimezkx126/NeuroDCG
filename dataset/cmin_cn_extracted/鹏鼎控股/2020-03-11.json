@@ -1,0 +1,49 @@
+{
+    "2020-03-11": [
+        [
+            {
+                "time": "",
+                "original_text": "每日公告：鹏鼎控股、沪电股份、八亿时空",
+                "features": {
+                    "keywords": [
+                        "鹏鼎控股",
+                        "沪电股份",
+                        "八亿时空"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电子",
+                        "科技"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "外防输入，内防扩散 鹏鼎控股集团“宏启胜精密电子”平稳推进复工复产",
+                "features": {
+                    "keywords": [
+                        "鹏鼎控股",
+                        "宏启胜精密电子",
+                        "复工复产"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电子制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

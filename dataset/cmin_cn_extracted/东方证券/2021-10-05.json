@@ -1,0 +1,56 @@
+{
+    "2021-10-05": [
+        [
+            {
+                "time": "2021-10-05",
+                "original_text": "第二批首家！东方证券公募基金投顾业务获准开业，行业格局生变",
+                "features": {
+                    "keywords": [
+                        "东方证券",
+                        "公募基金",
+                        "投顾业务",
+                        "行业格局"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2021-10-05",
+                "original_text": "美股又遭重挫！岸田文雄当选日本第100任首相；默沙东新冠口服药物无法取代疫苗；视频三巨头取消超前点播服务",
+                "features": {
+                    "keywords": [
+                        "美股",
+                        "重挫",
+                        "岸田文雄",
+                        "默沙东",
+                        "新冠口服药物",
+                        "疫苗",
+                        "视频三巨头",
+                        "超前点播"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药",
+                        "科技",
+                        "国际政治"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

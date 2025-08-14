@@ -1,0 +1,77 @@
+{
+    "2019-07-10": [
+        [
+            {
+                "time": "2019-06",
+                "original_text": "报告 | 2019年6月河南省A股上市公司市值TOP50",
+                "features": {
+                    "keywords": [
+                        "河南省",
+                        "A股",
+                        "上市公司",
+                        "市值",
+                        "TOP50"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-06",
+                "original_text": "猪肉股低开高走，龙大肉食领涨4%",
+                "features": {
+                    "keywords": [
+                        "猪肉股",
+                        "低开高走",
+                        "龙大肉食",
+                        "领涨"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "食品饮料",
+                        "农业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-07",
+                "original_text": "2019年下半年农林牧渔行业投资策略:聚焦生猪价格上涨,关注鸡肉消费增加",
+                "features": {
+                    "keywords": [
+                        "农林牧渔",
+                        "投资策略",
+                        "生猪价格",
+                        "上涨",
+                        "鸡肉消费",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

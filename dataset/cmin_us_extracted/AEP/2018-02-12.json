@@ -1,0 +1,69 @@
+{
+    "2018-02-12": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Biggest-Ever U.S. Wind Farm Suffers Blow From Oklahoma Judge",
+                "features": {
+                    "keywords": [
+                        "Wind Farm",
+                        "Oklahoma Judge",
+                        "Suffers Blow"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "renewable energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Grid Batteries Will Hurt Wholesale Power Generators",
+                "features": {
+                    "keywords": [
+                        "Grid Batteries",
+                        "Wholesale Power",
+                        "Generators"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy storage",
+                        "electricity generation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "See what the IHS Markit Score report has to say about American Electric Power Company Inc.",
+                "features": {
+                    "keywords": [
+                        "IHS Markit Score",
+                        "American Electric Power Company Inc."
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2018-03-07": [
+        [
+            {
+                "time": "2018-07-10",
+                "original_text": "中国石油天然气股份有限公司2013年公司债券(第一期)(10年期)2018年付息公告",
+                "features": {
+                    "keywords": [
+                        "中国石油",
+                        "公司债券",
+                        "第一期",
+                        "10年期",
+                        "2018年付息"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-07-10",
+                "original_text": "中国石油天然气股份有限公司2013年公司债券(第一期)(5年期)摘牌公告",
+                "features": {
+                    "keywords": [
+                        "中国石油",
+                        "公司债券",
+                        "第一期",
+                        "5年期",
+                        "摘牌"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

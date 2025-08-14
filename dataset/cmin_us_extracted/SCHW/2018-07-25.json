@@ -1,0 +1,88 @@
+{
+    "2018-07-25": [
+        [
+            {
+                "time": "2018-07-19",
+                "original_text": "Schwab Declares 30% Increase in Quarterly Common Stock Dividend and Declares Preferred Stock Dividends",
+                "features": {
+                    "keywords": [
+                        "Schwab",
+                        "dividend increase",
+                        "preferred stock dividends"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-07-26",
+                "original_text": "How Interactive Brokers Group Is Valued after Q2 Results",
+                "features": {
+                    "keywords": [
+                        "Interactive Brokers",
+                        "Q2 results",
+                        "valuation"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-07-27",
+                "original_text": "Why Interactive Brokers Group’s Commissions Fell",
+                "features": {
+                    "keywords": [
+                        "Interactive Brokers",
+                        "commissions fell"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-07-25",
+                "original_text": "Interactive Brokers Posted Strong Second-Quarter Results",
+                "features": {
+                    "keywords": [
+                        "Interactive Brokers",
+                        "strong second-quarter results"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

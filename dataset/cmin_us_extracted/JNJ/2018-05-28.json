@@ -1,0 +1,52 @@
+{
+    "2018-05-28": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Juries Weigh Cases Over Alleged Harms Of Johnson & Johnson Baby Powder",
+                "features": {
+                    "keywords": [
+                        "Juries",
+                        "Cases",
+                        "Alleged Harms",
+                        "Johnson & Johnson",
+                        "Baby Powder"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "[$$] Johnson & Johnson Gets Different Verdicts in Baby Powder Cases",
+                "features": {
+                    "keywords": [
+                        "Johnson & Johnson",
+                        "Different Verdicts",
+                        "Baby Powder Cases"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

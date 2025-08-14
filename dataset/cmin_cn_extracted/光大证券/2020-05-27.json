@@ -1,0 +1,48 @@
+{
+    "2020-05-27": [
+        [
+            {
+                "time": "2023-05-27",
+                "original_text": "A股龙虎榜揭秘",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "龙虎榜",
+                        "揭秘"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-05-27",
+                "original_text": "人民币一度跌超300点！央行连续释放暖意，下次降准降息在何时？",
+                "features": {
+                    "keywords": [
+                        "人民币",
+                        "下跌",
+                        "央行",
+                        "降准",
+                        "降息"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

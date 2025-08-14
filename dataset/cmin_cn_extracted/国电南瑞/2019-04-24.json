@@ -1,0 +1,68 @@
+{
+    "2019-04-24": [
+        [
+            {
+                "time": "2019-04-24",
+                "original_text": "上海证券交易市场大宗交易公开信息(2019-04-24)",
+                "features": {
+                    "keywords": [
+                        "上海证券交易",
+                        "大宗交易",
+                        "公开信息"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-04-24",
+                "original_text": "国电南瑞今日大宗交易成交214.81万股，成交价21.31元折价0.0%",
+                "features": {
+                    "keywords": [
+                        "国电南瑞",
+                        "大宗交易",
+                        "成交价",
+                        "折价"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电气设备"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-04-24",
+                "original_text": "电气设备：政策渐进落地 荐1股",
+                "features": {
+                    "keywords": [
+                        "电气设备",
+                        "政策",
+                        "渐进落地"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电气设备"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

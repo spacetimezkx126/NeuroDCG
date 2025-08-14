@@ -1,0 +1,66 @@
+{
+    "2020-09-04": [
+        [
+            {
+                "time": "",
+                "original_text": "东, 方, 雨, 虹, (, 0, 2, 2, 7, 1, ), ：, 业, 绩, 增, 长, 符, 合, 预, 期,  , 防, 水, 龙, 头, 强, 者, 恒, 强",
+                "features": {
+                    "keywords": [
+                        "东方雨虹",
+                        "业绩增长",
+                        "防水龙头",
+                        "强者恒强"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "建筑材料",
+                        "防水行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "股, 海, 导, 航,  , 9, 月, 4, 日, 沪, 深, 股, 市, 公, 告, 提, 示",
+                "features": {
+                    "keywords": [
+                        "股海导航",
+                        "沪深股市",
+                        "公告提示"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "A, 股, 中, 报, 季, 9, 0, 0, 只, 超, 预, 期, 个, 股, 名, 单",
+                "features": {
+                    "keywords": [
+                        "A股中报季",
+                        "超预期个股"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

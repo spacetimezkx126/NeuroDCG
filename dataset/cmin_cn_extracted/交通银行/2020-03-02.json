@@ -1,0 +1,53 @@
+{
+    "2020-03-02": [
+        [
+            {
+                "time": "",
+                "original_text": "国内债市盘前：中国2月官方制造业PMI为35.7",
+                "features": {
+                    "keywords": [
+                        "国内债市",
+                        "中国",
+                        "2月",
+                        "官方制造业PMI",
+                        "35.7"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "制造业",
+                        "债券市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "商业银行精准放贷，筑起战疫“金融后盾”",
+                "features": {
+                    "keywords": [
+                        "商业银行",
+                        "精准放贷",
+                        "战疫",
+                        "金融后盾"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "银行业",
+                        "金融业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

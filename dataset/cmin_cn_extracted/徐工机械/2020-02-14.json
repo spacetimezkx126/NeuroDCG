@@ -1,0 +1,53 @@
+{
+    "2020-02-14": [
+        [
+            {
+                "time": "",
+                "original_text": "6只可转债基金，节后涨幅超过10%！",
+                "features": {
+                    "keywords": [
+                        "可转债基金",
+                        "节后",
+                        "涨幅"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "债券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【读财报】工程机械年报前瞻：龙头企业高速增长 中小企业利润增速承压 盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "工程机械",
+                        "年报",
+                        "龙头企业",
+                        "中小企业",
+                        "利润增速",
+                        "盈利能力"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "工业",
+                        "机械制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

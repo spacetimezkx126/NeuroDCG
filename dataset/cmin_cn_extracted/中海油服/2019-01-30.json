@@ -1,0 +1,51 @@
+{
+    "2019-01-30": [
+        [
+            {
+                "time": "",
+                "original_text": "机械制造：把握中国页岩气革命带来的投资机遇 荐2股",
+                "features": {
+                    "keywords": [
+                        "机械制造",
+                        "页岩气",
+                        "投资机遇"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "机械制造",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "煤炭石油：低油价有望缓解经济增长放缓对需求的影响 荐3股",
+                "features": {
+                    "keywords": [
+                        "煤炭石油",
+                        "低油价",
+                        "经济增长放缓",
+                        "需求影响"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "煤炭",
+                        "石油"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

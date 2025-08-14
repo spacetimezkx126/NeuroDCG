@@ -1,0 +1,52 @@
+{
+    "2021-02-01": [
+        [
+            {
+                "time": "",
+                "original_text": "传音控股跌9% 长江证券申银万国今日刚喊买入",
+                "features": {
+                    "keywords": [
+                        "传音控股",
+                        "长江证券",
+                        "申银万国",
+                        "下跌",
+                        "买入"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "徐工机械放量涨停，机构买入近8000万元",
+                "features": {
+                    "keywords": [
+                        "徐工机械",
+                        "放量",
+                        "涨停",
+                        "机构买入"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "工程机械"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

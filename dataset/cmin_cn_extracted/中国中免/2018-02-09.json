@@ -1,0 +1,52 @@
+{
+    "2018-02-09": [
+        [
+            {
+                "time": "",
+                "original_text": "春,节,旅,游,概,念,股,中,国,国,旅,：,政,策,持,续,利,好",
+                "features": {
+                    "keywords": [
+                        "春节",
+                        "旅游",
+                        "概念股",
+                        "中国国旅",
+                        "政策",
+                        "利好"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "旅游"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "步,入,春,节,旺,季,旅,游,板,块,迎,春,风,六,股,将,受,益",
+                "features": {
+                    "keywords": [
+                        "春节",
+                        "旺季",
+                        "旅游板块",
+                        "受益"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "旅游"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

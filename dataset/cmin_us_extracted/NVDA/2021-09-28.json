@@ -1,0 +1,73 @@
+{
+    "2021-09-28": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Jim Simons’ Quant Hedge Fund is Buying These 10 Stocks",
+                "features": {
+                    "keywords": [
+                        "Jim Simons",
+                        "Quant Hedge Fund",
+                        "Buying",
+                        "Stocks"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Why Nvidia Stock Dropped Again Today",
+                "features": {
+                    "keywords": [
+                        "Nvidia",
+                        "Stock",
+                        "Dropped",
+                        "Today"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "3 Growth Stocks That Expect to Boost Sales by at least 180% in the Next 5 Years",
+                "features": {
+                    "keywords": [
+                        "Growth Stocks",
+                        "Boost Sales",
+                        "180%",
+                        "Next 5 Years"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "various"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

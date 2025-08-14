@@ -1,0 +1,70 @@
+{
+    "2021-09-15": [
+        [
+            {
+                "time": "",
+                "original_text": "恒瑞医药：公司在收到相关款项时将按照‘政府补助’的准则规定计入当期收益，不存在应披露而未披露的信息",
+                "features": {
+                    "keywords": [
+                        "恒瑞医药",
+                        "政府补助",
+                        "当期收益",
+                        "信息披露"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "恒瑞医药：二级市场的股价受多种因素的影响",
+                "features": {
+                    "keywords": [
+                        "恒瑞医药",
+                        "二级市场",
+                        "股价",
+                        "多种因素"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-09-14",
+                "original_text": "A股融资融券日报：两融余额减少10.55亿元（9月14日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "减少"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

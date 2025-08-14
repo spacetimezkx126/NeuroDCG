@@ -1,0 +1,54 @@
+{
+    "2019-05-31": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Hedge Funds Have Never Been This Bullish On The Walt Disney Company (DIS)",
+                "features": {
+                    "keywords": [
+                        "Hedge Funds",
+                        "Bullish",
+                        "Walt Disney Company",
+                        "DIS"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "entertainment",
+                        "media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Union Pacific, PepsiCo and others could see their sales take a hit in a US-Mexico trade war",
+                "features": {
+                    "keywords": [
+                        "Union Pacific",
+                        "PepsiCo",
+                        "sales",
+                        "hit",
+                        "US-Mexico",
+                        "trade war"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "transportation",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

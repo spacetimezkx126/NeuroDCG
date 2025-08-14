@@ -1,0 +1,53 @@
+{
+    "2020-07-17": [
+        [
+            {
+                "time": "",
+                "original_text": "A股平均股价11.07元104股股价不足2元",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "平均股价",
+                        "股价不足2元"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "开源晨会0224丨博威合金、道通科技、华峰测控；科华数据",
+                "features": {
+                    "keywords": [
+                        "开源晨会",
+                        "博威合金",
+                        "道通科技",
+                        "华峰测控",
+                        "科华数据"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "有色金属",
+                        "汽车电子",
+                        "半导体设备",
+                        "数据中心"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2021-11-22": [
+        [
+            {
+                "time": "",
+                "original_text": "国泰君安 | 信用债发行结果日报",
+                "features": {
+                    "keywords": [
+                        "国泰君安",
+                        "信用债",
+                        "发行结果",
+                        "日报"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "债券市场"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-11-22",
+                "original_text": "[新股]雅创电子11月22日登陆创业板 开盘上涨163.8%",
+                "features": {
+                    "keywords": [
+                        "新股",
+                        "雅创电子",
+                        "创业板",
+                        "开盘上涨",
+                        "163.8%"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "创业板"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

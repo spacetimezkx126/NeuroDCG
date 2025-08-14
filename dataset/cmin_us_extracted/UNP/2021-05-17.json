@@ -1,0 +1,50 @@
+{
+    "2021-05-17": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Union Pacific (UNP) Cheers Shareholders With 10% Dividend Hike",
+                "features": {
+                    "keywords": [
+                        "Union Pacific",
+                        "dividend hike",
+                        "shareholders"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "transportation",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Train in Iowa hauling hazardous materials derails, catches fire",
+                "features": {
+                    "keywords": [
+                        "train derailment",
+                        "hazardous materials",
+                        "Iowa"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "transportation",
+                        "environment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

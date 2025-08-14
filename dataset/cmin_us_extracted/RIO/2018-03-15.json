@@ -1,0 +1,84 @@
+{
+    "2018-03-15": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "After Hours Most Active for Mar 15, 2018: RIO, TEVA, MPLX, HPE, EPD, ETE, QQQ, USMC, MU, ETFC, MSFT, XEL",
+                "features": {
+                    "keywords": [
+                        "Most Active",
+                        "RIO",
+                        "TEVA",
+                        "MPLX",
+                        "HPE",
+                        "EPD",
+                        "ETE",
+                        "QQQ",
+                        "USMC",
+                        "MU",
+                        "ETFC",
+                        "MSFT",
+                        "XEL"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "technology",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "How Is Alcoa Likely To Grow In The Next 2 Years?",
+                "features": {
+                    "keywords": [
+                        "Alcoa",
+                        "Grow",
+                        "Next 2 Years"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "materials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "Former Lazard Banker’s Home Raided in Rio Tinto Probe",
+                "features": {
+                    "keywords": [
+                        "Lazard",
+                        "Banker",
+                        "Home Raided",
+                        "Rio Tinto",
+                        "Probe"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "mining",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

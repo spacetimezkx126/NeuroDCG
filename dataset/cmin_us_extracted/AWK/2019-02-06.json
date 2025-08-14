@@ -1,0 +1,54 @@
+{
+    "2019-02-06": [
+        [
+            {
+                "time": "2018-01-01",
+                "original_text": "Illinois American Water Invested over $122 Million in 2018 to Upgrade Critical Water and Wastewater Infrastructure",
+                "features": {
+                    "keywords": [
+                        "Illinois",
+                        "American Water",
+                        "Invested",
+                        "$122 Million",
+                        "Upgrade",
+                        "Critical Water",
+                        "Wastewater Infrastructure"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities",
+                        "infrastructure"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-02-07",
+                "original_text": "Artesian Resources Corporation (ARTNA) Ex-Dividend Date Scheduled for February 07, 2019",
+                "features": {
+                    "keywords": [
+                        "Artesian Resources Corporation",
+                        "ARTNA",
+                        "Ex-Dividend Date",
+                        "February 07, 2019"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2019-09-05": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "UPDATE 1-Texas power prices jump to record high as heat bakes state",
+                "features": {
+                    "keywords": [
+                        "Texas",
+                        "power prices",
+                        "record high",
+                        "heat"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "AEP Texas Restoration Funding, LLC - Senior Secured System Restoration Bonds -- Moody's assigns (P)Aaa (sf) to AEP Texas utility restoration charge bonds",
+                "features": {
+                    "keywords": [
+                        "AEP Texas",
+                        "Restoration Funding",
+                        "Moody's",
+                        "Aaa",
+                        "utility restoration",
+                        "bonds"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

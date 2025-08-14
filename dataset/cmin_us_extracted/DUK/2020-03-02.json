@@ -1,0 +1,53 @@
+{
+    "2020-03-02": [
+        [
+            {
+                "time": "2023-10-16",
+                "original_text": "World Markets Rebound on Monday",
+                "features": {
+                    "keywords": [
+                        "World",
+                        "Markets",
+                        "Rebound",
+                        "Monday"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "global markets"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-16",
+                "original_text": "Is Duke Energy (DUK) Outperforming Other Utilities Stocks This Year?",
+                "features": {
+                    "keywords": [
+                        "Duke",
+                        "Energy",
+                        "DUK",
+                        "Outperforming",
+                        "Utilities",
+                        "Stocks",
+                        "Year"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

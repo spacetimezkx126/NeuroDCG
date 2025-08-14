@@ -1,0 +1,49 @@
+{
+    "2020-09-25": [
+        [
+            {
+                "time": "",
+                "original_text": "创 业 板 注 册 制 满 月 ： 股 票 增 至 3 3 只 ， 市 值 超 3 7 5 0 亿",
+                "features": {
+                    "keywords": [
+                        "创业板",
+                        "注册制",
+                        "股票",
+                        "市值"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-09-24",
+                "original_text": "A 股 融 资 融 券 日 报 ： 两 融 余 额 减 少 2 1 . 8 4 亿 元 （ 9 月 2 4 日 ）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "减少"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

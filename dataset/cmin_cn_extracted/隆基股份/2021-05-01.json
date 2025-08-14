@@ -1,0 +1,53 @@
+{
+    "2021-05-01": [
+        [
+            {
+                "time": "2021-05-01",
+                "original_text": "北向资金一周动向曝光：买入“锂电茅”22亿元“光茅”20亿元，卖出茅台“本茅”14亿元",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "锂电茅",
+                        "光茅",
+                        "茅台",
+                        "买入",
+                        "卖出"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-05-01",
+                "original_text": "9000亿龙头又火了，白酒却被狂卖30亿",
+                "features": {
+                    "keywords": [
+                        "龙头",
+                        "白酒",
+                        "狂卖"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "其他行业",
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

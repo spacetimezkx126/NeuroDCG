@@ -1,0 +1,51 @@
+{
+    "2021-07-01": [
+        [
+            {
+                "time": "",
+                "orginal_text": "金龙鱼：公司目前正常向客户供应产品",
+                "features": {
+                    "keywords": [
+                        "金龙鱼",
+                        "正常供应",
+                        "客户"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "消费品",
+                        "食品加工"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "orginal_text": "金龙鱼入局，资本火热、消费低迷的植物肉赛道有救了吗？",
+                "features": {
+                    "keywords": [
+                        "金龙鱼",
+                        "植物肉",
+                        "资本火热",
+                        "消费低迷"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "消费品",
+                        "食品科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

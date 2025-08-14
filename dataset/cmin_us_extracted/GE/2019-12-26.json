@@ -1,0 +1,71 @@
+{
+    "2019-12-26": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Uber makes big land buy for new test track",
+                "features": {
+                    "keywords": [
+                        "Uber",
+                        "big land buy",
+                        "new test track"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "transportation",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "General Electric Could Propel 50% Higher",
+                "features": {
+                    "keywords": [
+                        "General Electric",
+                        "propel",
+                        "50% higher"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "General Electric Company (GE) vs. Hedge Fund Favorites in 2019",
+                "features": {
+                    "keywords": [
+                        "General Electric Company",
+                        "Hedge Fund Favorites",
+                        "2019"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial",
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

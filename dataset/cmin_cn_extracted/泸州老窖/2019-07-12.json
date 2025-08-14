@@ -1,0 +1,79 @@
+{
+    "2019-07-12": [
+        [
+            {
+                "time": "",
+                "original_text": "泸、州、老、窖、多、桩、问、题、缠、身 、董、事、长、刘、淼、‘、回、归、前、三、’、梦、想、似、遥、遥、无、期",
+                "features": {
+                    "keywords": [
+                        "泸州老窖",
+                        "问题缠身",
+                        "董事长",
+                        "刘淼",
+                        "回归前三",
+                        "梦想"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019",
+                "original_text": "2、0、1、9、年、四、川、白、酒、行、业、年、会、在、宜、举、行、，、川、酒、下、一、步、工、作、重、点、曝、光",
+                "features": {
+                    "keywords": [
+                        "2019年",
+                        "四川白酒",
+                        "行业年会",
+                        "宜宾",
+                        "下一步工作重点"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "券、商、年、内、近、2、0、0、0、次、调、研、消、费、板、块 、茅、台、五、粮、液、伊、利、包、揽、‘、被、关、注、’、前、三",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "调研",
+                        "消费板块",
+                        "茅台",
+                        "五粮液",
+                        "伊利",
+                        "关注度前三"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "白酒",
+                        "乳制品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "2018-07-06": [
+        [
+            {
+                "time": "",
+                "original_text": "顺 丰 牵 手 济 钢  3 万 平 方 米 仓 储 中 心 落 地 济 钢 厂 房",
+                "features": {
+                    "keywords": [
+                        "顺丰",
+                        "济钢",
+                        "仓储中心",
+                        "落地"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流",
+                        "仓储"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "物 流 竞 争 激 烈  顺 丰 帐 篷 搭 到 德 邦 门 口",
+                "features": {
+                    "keywords": [
+                        "物流",
+                        "竞争激烈",
+                        "顺丰",
+                        "德邦"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "这 些 昔 日 动 辄 十 数 涨 停 的 重 组 明 星 股  如 今 可 安 好 ？",
+                "features": {
+                    "keywords": [
+                        "重组明星股",
+                        "昔日涨停",
+                        "如今"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "股票"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "2019-08-14": [
+        [
+            {
+                "time": "2019-08-13",
+                "original_text": "After Hours Most Active for Aug 13, 2019: QQQ, PFE, INTC, AKRX, CLVS, AMD, CMCSA, DOW, KMI, KDP, HPQ, SQ",
+                "features": {
+                    "keywords": [
+                        "Most Active",
+                        "QQQ",
+                        "PFE",
+                        "INTC",
+                        "AKRX",
+                        "CLVS",
+                        "AMD",
+                        "CMCSA",
+                        "DOW",
+                        "KMI",
+                        "KDP",
+                        "HPQ",
+                        "SQ"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "healthcare",
+                        "pharmaceuticals",
+                        "entertainment"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-08-13",
+                "original_text": "Wall St. analyst says WWE is his top pick, expects shares to climb 49%",
+                "features": {
+                    "keywords": [
+                        "WWE",
+                        "top pick",
+                        "climb 49%"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "entertainment",
+                        "media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-08-13",
+                "original_text": "Salto Seeks to Loosen Netflix’s Grip on French Market",
+                "features": {
+                    "keywords": [
+                        "Salto",
+                        "Netflix",
+                        "French Market"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "streaming",
+                        "entertainment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-08-13",
+                "original_text": "Comcast's NBC closes gap in coverage of male, female Olympic athletes",
+                "features": {
+                    "keywords": [
+                        "Comcast",
+                        "NBC",
+                        "Olympic athletes",
+                        "coverage gap"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "media",
+                        "sports"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

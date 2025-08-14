@@ -1,0 +1,74 @@
+{
+    "2020-04-20": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Mayor Liccardo on his Economic Recovery council: 'We must be able to save lives and save livelihoods'",
+                "features": {
+                    "keywords": [
+                        "Economic Recovery",
+                        "save lives",
+                        "save livelihoods"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "public policy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-04-20",
+                "original_text": "CORRECTED-EXPLAINER-Zoom bombs make choosing video apps harder for lockdown chats (April 20)",
+                "features": {
+                    "keywords": [
+                        "Zoom bombs",
+                        "video apps",
+                        "lockdown chats"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "communications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-03-25",
+                "original_text": "The next 45 days are the ‘most critical period in U.S. financial history,’ says stock-market expert who profited in 1987 and 2008 crises",
+                "features": {
+                    "keywords": [
+                        "critical period",
+                        "U.S. financial history",
+                        "stock-market expert",
+                        "1987",
+                        "2008 crises"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "investing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

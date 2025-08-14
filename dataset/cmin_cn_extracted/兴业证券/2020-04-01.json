@@ -1,0 +1,53 @@
+{
+    "2020-04-01": [
+        [
+            {
+                "time": "2023-04-01",
+                "original_text": "A股龙虎榜揭秘，机构抛售8股",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "龙虎榜",
+                        "机构",
+                        "抛售"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "美联储再出重拳，白宫第四轮刺激也在路上！G20执行四大救市承诺",
+                "features": {
+                    "keywords": [
+                        "美联储",
+                        "重拳",
+                        "白宫",
+                        "刺激",
+                        "G20",
+                        "救市"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "宏观经济",
+                        "全球市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

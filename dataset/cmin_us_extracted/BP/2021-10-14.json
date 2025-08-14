@@ -1,0 +1,50 @@
+{
+    "2021-10-14": [
+        [
+            {
+                "time": "2022-10-15",
+                "original_text": "The future of energy? Giant solar power project in Colorado comes online",
+                "features": {
+                    "keywords": [
+                        "solar power",
+                        "project",
+                        "Colorado",
+                        "online"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "renewable energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2022-10-15",
+                "original_text": "Gas crisis: 250,000 customers hit as two more suppliers collapse",
+                "features": {
+                    "keywords": [
+                        "gas crisis",
+                        "customers",
+                        "suppliers",
+                        "collapse"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

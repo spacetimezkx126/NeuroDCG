@@ -1,0 +1,73 @@
+{
+    "2020-07-23": [
+        [
+            {
+                "time": "",
+                "original_text": "基 金 2 0 2 0 Q 2 券 商 持 仓 分 析 ： 券 商 配 置 占 比 下 滑 至 0 . 4 6 % 低 配 比 例 继 续 扩 大",
+                "features": {
+                    "keywords": [
+                        "基金",
+                        "券商持仓",
+                        "配置占比",
+                        "下滑",
+                        "低比例"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-07-23",
+                "original_text": "7 月 2 3 日 深 市 创 业 板 活 跃 股 公 开 信 息",
+                "features": {
+                    "keywords": [
+                        "深市",
+                        "创业板",
+                        "活跃股",
+                        "公开信息"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "成长股"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-07-22",
+                "original_text": "7 月 2 2 日 净 流 出 2 0 . 2 5 亿 — — A 股 E T F 基 金 每 日 资 金 动 向",
+                "features": {
+                    "keywords": [
+                        "净流出",
+                        "A股ETF",
+                        "资金动向"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "指数基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

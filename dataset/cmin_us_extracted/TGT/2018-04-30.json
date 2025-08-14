@@ -1,0 +1,73 @@
+{
+    "2018-04-30": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "Buffett: Todd Combs is spending most of his time on health care",
+                "features": {
+                    "keywords": [
+                        "Todd Combs",
+                        "health care"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "health care"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "MARKETS: Oil markets react to Iran latest, Apple stocks up ahead of earnings report, Walmart helps retails sector",
+                "features": {
+                    "keywords": [
+                        "Oil markets",
+                        "Iran",
+                        "Apple stocks",
+                        "earnings report",
+                        "Walmart",
+                        "retails sector"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "technology",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "How Much Does Walmart Pay Its Workers?",
+                "features": {
+                    "keywords": [
+                        "Walmart",
+                        "Workers",
+                        "Pay"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "2021-02-22": [
+        [
+            {
+                "time": "",
+                "original_text": "方正策略：资产价格何时见顶？兼论金融、经济、股市、商品周期",
+                "features": {
+                    "keywords": [
+                        "资产价格",
+                        "见顶",
+                        "金融",
+                        "经济",
+                        "股市",
+                        "商品周期"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "经济",
+                        "股市",
+                        "商品"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "民生军工行业周报：进入景气周期 军工配置价值显着",
+                "features": {
+                    "keywords": [
+                        "军工",
+                        "景气周期",
+                        "配置价值"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "军工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

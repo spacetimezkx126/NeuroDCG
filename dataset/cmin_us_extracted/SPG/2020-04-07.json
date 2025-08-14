@@ -1,0 +1,50 @@
+{
+    "2020-04-07": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Major US Indexes Close Slightly Lower Tuesday",
+                "features": {
+                    "keywords": [
+                        "Indexes",
+                        "Close",
+                        "Slightly Lower",
+                        "Tuesday"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Cell towers, warehouses look like safe plays in U.S. real estate",
+                "features": {
+                    "keywords": [
+                        "Cell towers",
+                        "warehouses",
+                        "safe plays",
+                        "U.S. real estate"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "real estate"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

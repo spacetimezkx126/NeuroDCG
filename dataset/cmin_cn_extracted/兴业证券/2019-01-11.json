@@ -1,0 +1,52 @@
+{
+    "2019-01-11": [
+        [
+            {
+                "time": "",
+                "original_text": "又 是 质 押 出 事 ： 券 商 被 这 9 只 股 票 坑 惨 了 计 提 减 值 1 0 亿 资 产 异 常",
+                "features": {
+                    "keywords": [
+                        "质押",
+                        "券商",
+                        "计提减值",
+                        "资产异常"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "实 控 人 父 女 出 让 股 权 抵 债 上 海 钜 成 入 主 晨 鑫 科 技 减 持 股 份",
+                "features": {
+                    "keywords": [
+                        "实际控制人",
+                        "股权出让",
+                        "抵债",
+                        "上海钜成",
+                        "晨鑫科技",
+                        "减持股份"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

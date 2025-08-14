@@ -1,0 +1,53 @@
+{
+    "2020-04-02": [
+        [
+            {
+                "time": "",
+                "original_text": "湖 北 机 场 复 航 四 日  湖 北 人 飞 去 哪 复 工 ？",
+                "features": {
+                    "keywords": [
+                        "湖北",
+                        "机场",
+                        "复航",
+                        "复工"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "全 球 航 空 业 “ 振 翅 难 飞 ”：7 成 航 企 现 金 撑 不 过 3 个 月",
+                "features": {
+                    "keywords": [
+                        "全球",
+                        "航空业",
+                        "振翅难飞",
+                        "现金流",
+                        "企业危机"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "航空",
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

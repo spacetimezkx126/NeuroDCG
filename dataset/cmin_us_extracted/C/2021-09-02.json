@@ -1,0 +1,50 @@
+{
+    "2021-09-02": [
+        [
+            {
+                "time": "2021-06-01",
+                "original_text": "Wall Street Tiptoes Around Texas Politics While Pushing Vaccines",
+                "features": {
+                    "keywords": [
+                        "Wall Street",
+                        "Texas Politics",
+                        "Vaccines"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "politics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-06-01",
+                "original_text": "Oil Holds Near $72 After OPEC+ Approves Planned Output Hike",
+                "features": {
+                    "keywords": [
+                        "Oil",
+                        "$72",
+                        "OPEC+",
+                        "Output Hike"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

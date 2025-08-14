@@ -1,0 +1,51 @@
+{
+    "2021-05-15": [
+        [
+            {
+                "time": "",
+                "original_text": "「快消周评榜」统一企业股价周跌10%，海天味业市值猛增469亿，中炬高新董事长换人 董监高成员变化",
+                "features": {
+                    "keywords": [
+                        "统一企业",
+                        "股价周跌",
+                        "海天味业",
+                        "市值猛增",
+                        "中炬高新",
+                        "董事长换人",
+                        "董监高成员变化"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中炬高新股价本周上涨近8%",
+                "features": {
+                    "keywords": [
+                        "中炬高新",
+                        "股价上涨"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

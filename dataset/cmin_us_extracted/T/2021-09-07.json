@@ -1,0 +1,51 @@
+{
+    "2021-09-07": [
+        [
+            {
+                "time": "2023-09-14",
+                "original_text": "AT&T to Webcast Pascal Desroches Keynote at Bank of America Conference on September 14",
+                "features": {
+                    "keywords": [
+                        "AT&T",
+                        "Webcast",
+                        "Pascal Desroches",
+                        "Bank of America Conference"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-09-15",
+                "original_text": "SoftBank Soars After Stock Swap Deal With Deutsche Telekom",
+                "features": {
+                    "keywords": [
+                        "SoftBank",
+                        "Soars",
+                        "Stock Swap",
+                        "Deutsche Telekom"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

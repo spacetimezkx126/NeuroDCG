@@ -1,0 +1,65 @@
+{
+    "2018-04-24": [
+        [
+            {
+                "time": "2018-04-24",
+                "original_text": "After Hours Most Active for Apr 24, 2018: QEP, NWL, CMCSA, BAC, MSFT, QQQ, PFE, SRE, FE, MCHI, FEYE, MU",
+                "features": {
+                    "keywords": [
+                        "Most Active",
+                        "QEP",
+                        "NWL",
+                        "CMCSA",
+                        "BAC",
+                        "MSFT",
+                        "QQQ",
+                        "PFE",
+                        "SRE",
+                        "FE",
+                        "MCHI",
+                        "FEYE",
+                        "MU"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "technology",
+                        "healthcare",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-24",
+                "original_text": "Notable ETF Outflow Detected - IWS, MPC, STI, SRE",
+                "features": {
+                    "keywords": [
+                        "ETF Outflow",
+                        "IWS",
+                        "MPC",
+                        "STI",
+                        "SRE"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "index funds",
+                        "utilities",
+                        "industrials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

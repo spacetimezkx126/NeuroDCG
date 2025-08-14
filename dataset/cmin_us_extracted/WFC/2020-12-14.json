@@ -1,0 +1,54 @@
+{
+    "2020-12-14": [
+        [
+            {
+                "time": "2023-10-10",
+                "original_text": "Ameriprise, CI Eyeing Wells Fargo Asset Management Arm",
+                "features": {
+                    "keywords": [
+                        "Ameriprise",
+                        "CI",
+                        "Wells Fargo",
+                        "Asset Management"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "DEADLINE ALERT for BMWYY, ZSAN, WFC, and EOLS: The Law Offices of Frank R. Cruz Reminds Investors of Class Actions on Behalf of Shareholders",
+                "features": {
+                    "keywords": [
+                        "DEADLINE ALERT",
+                        "BMWYY",
+                        "ZSAN",
+                        "WFC",
+                        "EOLS",
+                        "Class Actions",
+                        "Shareholders"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "legal",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

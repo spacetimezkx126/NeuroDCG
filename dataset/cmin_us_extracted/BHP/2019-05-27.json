@@ -1,0 +1,52 @@
+{
+    "2019-05-27": [
+        [
+            {
+                "time": "2019-06-28",
+                "original_text": "RBC Believes Vale Is Emerging from the Recent Tragedy, Upgrades",
+                "features": {
+                    "keywords": [
+                        "RBC",
+                        "Vale",
+                        "Emerging",
+                        "Tragedy",
+                        "Upgrades"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining",
+                        "materials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-06-28",
+                "original_text": "Asian markets mixed as Trump visits Japan",
+                "features": {
+                    "keywords": [
+                        "Asian markets",
+                        "mixed",
+                        "Trump",
+                        "Japan"
+                    ],
+                    "sentiment_score": -0.1,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

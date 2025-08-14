@@ -1,0 +1,50 @@
+{
+    "2020-10-16": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Stock Market Today With Jim Cramer: Boeing's Election Choice",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "Election",
+                        "Choice"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace",
+                        "defense"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "America badly needs more stimulus, former longtime Dunkin Donuts CEO says",
+                "features": {
+                    "keywords": [
+                        "stimulus",
+                        "Dunkin Donuts",
+                        "CEO"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

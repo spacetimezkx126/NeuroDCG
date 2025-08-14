@@ -1,0 +1,74 @@
+{
+    "2021-12-07": [
+        [
+            {
+                "time": "",
+                "original_text": "中国物流集团亮相，还有中国稀土集团…央企重组“不为大”",
+                "features": {
+                    "keywords": [
+                        "中国物流集团",
+                        "中国稀土集团",
+                        "央企重组"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流",
+                        "稀土",
+                        "央企"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "海关总署：11月中国船舶出口357艘，同比下降74%",
+                "features": {
+                    "keywords": [
+                        "海关总署",
+                        "船舶出口",
+                        "同比下降"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "船舶制造",
+                        "出口"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国船舶沪东中华再签3艘17.4万立方米LNG运输船建造合同",
+                "features": {
+                    "keywords": [
+                        "中国船舶",
+                        "沪东中华",
+                        "LNG运输船",
+                        "建造合同"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "船舶制造",
+                        "LNG运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

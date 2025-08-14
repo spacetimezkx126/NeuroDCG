@@ -1,0 +1,97 @@
+{
+    "2021-03-18": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Dow Jones Flat As Yields Spike; Apple, Microsoft Fall; Leaderboard Stock Jumps",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Flat",
+                        "Yields Spike",
+                        "Apple",
+                        "Microsoft",
+                        "Leaderboard Stock Jumps"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "Why Bank Stocks Are Rallying – and Why They Can Continue to Do So",
+                "features": {
+                    "keywords": [
+                        "Bank Stocks",
+                        "Rallying",
+                        "Continue"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-20",
+                "original_text": "Wells Fargo Investment Institute: The New Landscape",
+                "features": {
+                    "keywords": [
+                        "Wells Fargo",
+                        "Investment",
+                        "New Landscape"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-06-05",
+                "original_text": "Wall Street Opens Lower as Only Banks Escape Bond Worries; Nasdaq Down 1.3%",
+                "features": {
+                    "keywords": [
+                        "Wall Street",
+                        "Opens Lower",
+                        "Banks",
+                        "Bond Worries",
+                        "Nasdaq Down"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

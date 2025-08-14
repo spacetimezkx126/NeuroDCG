@@ -1,0 +1,95 @@
+{
+    "2018-03-10": [
+        [
+            {
+                "time": "2018-01-03",
+                "original_text": "How Biopharmas Battle for Billions",
+                "features": {
+                    "keywords": [
+                        "biopharmas",
+                        "battle",
+                        "billions"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "Top 5 Biotech Stocks for 2018",
+                "features": {
+                    "keywords": [
+                        "top",
+                        "biotech",
+                        "stocks",
+                        "2018"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-05",
+                "original_text": "3 Dividend Stocks That Are Perfect for Retirement",
+                "features": {
+                    "keywords": [
+                        "dividend",
+                        "stocks",
+                        "retirement"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-06",
+                "original_text": "[$$] More Prison Inmates Get Access to Hepatitis-C Drugs",
+                "features": {
+                    "keywords": [
+                        "prison",
+                        "inmates",
+                        "hepatitis-c",
+                        "drugs"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

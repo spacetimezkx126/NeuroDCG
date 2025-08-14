@@ -1,0 +1,95 @@
+{
+    "2020-10-20": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "O'Fallon (City of) MO -- Moody's assigns initial Aa1 issuer rating to O'Fallon, MO",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "Aa1",
+                        "issuer rating",
+                        "O'Fallon"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "government",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-11-01",
+                "original_text": "Saks Spotlights ‘This Is How We Celebrate’ for Holiday",
+                "features": {
+                    "keywords": [
+                        "Saks",
+                        "holiday campaign",
+                        "celebrate"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-07-20",
+                "original_text": "Visa and Mastercard accused of charging 'excessive' fees",
+                "features": {
+                    "keywords": [
+                        "Visa",
+                        "Mastercard",
+                        "excessive fees",
+                        "accused"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-09-10",
+                "original_text": "Priceless Planet Coalition Expands, Unites Businesses and Consumers Worldwide to Preserve the Environment",
+                "features": {
+                    "keywords": [
+                        "Priceless Planet Coalition",
+                        "environment",
+                        "businesses",
+                        "consumers"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "environment",
+                        "corporate social responsibility"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

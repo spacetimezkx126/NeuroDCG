@@ -1,0 +1,53 @@
+{
+    "2019-12-29": [
+        [
+            {
+                "time": "",
+                "original_text": "一颗埋了8年的雷爆了！这家国企上市公司利润虚增14亿 欺诈造假",
+                "features": {
+                    "keywords": [
+                        "国企",
+                        "上市公司",
+                        "利润虚增",
+                        "欺诈",
+                        "造假"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "企业治理"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "京东方A：投资硅基OLED 布局头显市场",
+                "features": {
+                    "keywords": [
+                        "京东方A",
+                        "投资",
+                        "硅基OLED",
+                        "头显市场"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "电子制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

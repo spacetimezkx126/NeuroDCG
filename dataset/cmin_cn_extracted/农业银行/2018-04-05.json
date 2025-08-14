@@ -1,0 +1,73 @@
+{
+    "2018-04-05": [
+        [
+            {
+                "time": "",
+                "original_text": "高盛上调工行H股评级至买入，下调农行H股评级至中性",
+                "features": {
+                    "keywords": [
+                        "高盛",
+                        "工行H股",
+                        "农行H股",
+                        "评级",
+                        "上调",
+                        "下调"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "五大行裁员近3万，哪些人铁饭碗不保？",
+                "features": {
+                    "keywords": [
+                        "五大行",
+                        "裁员",
+                        "铁饭碗"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "吉林：涉农贷款创立‘白名单’制度",
+                "features": {
+                    "keywords": [
+                        "吉林",
+                        "涉农贷款",
+                        "白名单",
+                        "制度"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2020-09-05": [
+        [
+            {
+                "time": "",
+                "original_text": "酱,油,跌,、,白,酒,跌,、,医,药,跌,！,外,资,跑,了,，,谁,是,幕,后,推,手",
+                "features": {
+                    "keywords": [
+                        "酱油",
+                        "白酒",
+                        "医药",
+                        "外资"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "消费",
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "电,新,行,业,周,报,：,光,伏,市,场,前,景,良,好, ,电,解,液,环,节,盈,利,有,望,修,复",
+                "features": {
+                    "keywords": [
+                        "光伏市场",
+                        "前景良好",
+                        "电解液",
+                        "盈利修复"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "光伏"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

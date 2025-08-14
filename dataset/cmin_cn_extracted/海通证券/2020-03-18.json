@@ -1,0 +1,51 @@
+{
+    "2020-03-18": [
+        [
+            {
+                "time": "",
+                "original_text": "红太阳股东红太阳集团被被动减持部分股票 减持股份",
+                "features": {
+                    "keywords": [
+                        "红太阳",
+                        "股东",
+                        "红太阳集团",
+                        "被动减持",
+                        "股份"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "完美世界今日出现三笔共计7.8亿元大宗交易",
+                "features": {
+                    "keywords": [
+                        "完美世界",
+                        "大宗交易",
+                        "7.8亿元"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "游戏",
+                        "娱乐"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

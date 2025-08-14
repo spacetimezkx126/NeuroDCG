@@ -1,0 +1,77 @@
+{
+    "2019-12-03": [
+        [
+            {
+                "time": "",
+                "original_text": "韦尔股份大幅拉升3.28% 股价创近2个月新高",
+                "features": {
+                    "keywords": [
+                        "韦尔股份",
+                        "大幅拉升",
+                        "股价",
+                        "新高"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "半导体",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "白马股罕见连续两跌停，暴涨20倍大牛股罕见翻车，它们还有机会吗 连续下跌",
+                "features": {
+                    "keywords": [
+                        "白马股",
+                        "连续两跌停",
+                        "大牛股",
+                        "翻车",
+                        "连续下跌"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "消费",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "机构抱团股翻车 8股创历史新高后回调超20%",
+                "features": {
+                    "keywords": [
+                        "机构抱团股",
+                        "翻车",
+                        "历史新高",
+                        "回调",
+                        "20%"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

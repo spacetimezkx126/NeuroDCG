@@ -1,0 +1,91 @@
+{
+    "2021-01-18": [
+        [
+            {
+                "time": "2018-01-18",
+                "original_text": "A股共发生139宗大宗交易成交35.69亿元（1月18日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "大宗交易",
+                        "成交额"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-18",
+                "original_text": "泰格医药现1笔大宗交易 共成交503.13万元",
+                "features": {
+                    "keywords": [
+                        "泰格医药",
+                        "大宗交易",
+                        "成交额"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-18",
+                "original_text": "医药生物：中国创新药是否到了国际化的拐点？",
+                "features": {
+                    "keywords": [
+                        "医药生物",
+                        "创新药",
+                        "国际化",
+                        "拐点"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-18",
+                "original_text": "港股盘前必读：香港金管局拟成立绿色商业银行联盟",
+                "features": {
+                    "keywords": [
+                        "港股",
+                        "香港金管局",
+                        "绿色商业银行联盟"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

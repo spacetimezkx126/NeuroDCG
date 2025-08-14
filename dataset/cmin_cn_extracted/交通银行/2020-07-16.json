@@ -1,0 +1,113 @@
+{
+    "2020-07-16": [
+        [
+            {
+                "time": "2020-07-16",
+                "original_text": "多家银行参投国家绿色发展基金，工农中各出资80亿元",
+                "features": {
+                    "keywords": [
+                        "绿色发展基金",
+                        "银行",
+                        "出资"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "环保"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2020-07-16",
+                "original_text": "社保基金会减持交通银行股份进程过半 减持股份数量超3.95亿股",
+                "features": {
+                    "keywords": [
+                        "社保基金会",
+                        "减持",
+                        "交通银行"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-07-16",
+                "original_text": "交通银行拟出资75亿参与设立国家绿色发展基金",
+                "features": {
+                    "keywords": [
+                        "交通银行",
+                        "绿色发展基金",
+                        "出资"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "环保"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2020-07-16",
+                "original_text": "强势板块集体杀跌，外资继续净流出，连续下跌",
+                "features": {
+                    "keywords": [
+                        "杀跌",
+                        "外资",
+                        "净流出",
+                        "连续下跌"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "市场整体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-07-16",
+                "original_text": "华南一家基金减仓10%，7月已有四城出手为楼市降温",
+                "features": {
+                    "keywords": [
+                        "基金",
+                        "减仓",
+                        "楼市降温"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产",
+                        "基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

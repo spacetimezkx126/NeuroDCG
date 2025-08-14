@@ -1,0 +1,55 @@
+{
+    "2018-11-12": [
+        [
+            {
+                "time": "2018-11-12",
+                "original_text": "Energy Sector Update for 11/12/2018: TOT,HCLP,CHK,NGL,TGE,OXY",
+                "features": {
+                    "keywords": [
+                        "Energy",
+                        "Sector",
+                        "TOT",
+                        "HCLP",
+                        "CHK",
+                        "NGL",
+                        "TGE",
+                        "OXY"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-11-13",
+                "original_text": "Black Stone Minerals, L.P. (BSM) Ex-Dividend Date Scheduled for November 13, 2018",
+                "features": {
+                    "keywords": [
+                        "Black Stone Minerals",
+                        "BSM",
+                        "Ex-Dividend",
+                        "Date",
+                        "Scheduled"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "minerals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

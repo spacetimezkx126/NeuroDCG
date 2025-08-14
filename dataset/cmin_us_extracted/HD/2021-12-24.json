@@ -1,0 +1,48 @@
+{
+    "2021-12-24": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Mutual Fund & Variable Insurance Trust Buys The Walt Disney Co, Goldman Sachs Group Inc,...",
+                "features": {
+                    "keywords": [
+                        "Mutual Fund",
+                        "Walt Disney",
+                        "Goldman Sachs"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "entertainment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Can This Top Blue Chip Stock Handle Soaring Inflation?",
+                "features": {
+                    "keywords": [
+                        "Blue Chip Stock",
+                        "Soaring Inflation"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

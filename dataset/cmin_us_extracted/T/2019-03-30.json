@@ -1,0 +1,71 @@
+{
+    "2019-03-30": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Barron's Picks And Pans: DowDuPont, Wells Fargo, Zoetis And More",
+                "features": {
+                    "keywords": [
+                        "DowDuPont",
+                        "Wells Fargo",
+                        "Zoetis"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial",
+                        "finance",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "Bragar Eagel & Squire, P.C. Announces That a Class Action Lawsuit Has Been Filed Against AT&T Inc. (T) and Encourages AT&T Investors to Contact the Firm",
+                "features": {
+                    "keywords": [
+                        "Class Action",
+                        "Lawsuit",
+                        "AT&T"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-05-20",
+                "original_text": "AT&T and Verizon Are Going In Opposite Directions. Here’s the One to Buy.",
+                "features": {
+                    "keywords": [
+                        "AT&T",
+                        "Verizon",
+                        "Opposite Directions"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

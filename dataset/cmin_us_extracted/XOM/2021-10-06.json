@@ -1,0 +1,103 @@
+{
+    "2021-10-06": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Union at Exxon Beaumont, Texas, refinery faces removal vote",
+                "features": {
+                    "keywords": [
+                        "Union",
+                        "Exxon",
+                        "Beaumont",
+                        "Texas",
+                        "refinery",
+                        "removal",
+                        "vote"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Don't rule out an energy crisis: Goldman Sachs",
+                "features": {
+                    "keywords": [
+                        "energy",
+                        "crisis",
+                        "Goldman",
+                        "Sachs"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "10 Best Oil Stocks To Buy According To Hedge Funds",
+                "features": {
+                    "keywords": [
+                        "Oil",
+                        "Stocks",
+                        "Buy",
+                        "Hedge",
+                        "Funds"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "ExxonMobil Increases Participation in Scotland Carbon Capture and Storage Project",
+                "features": {
+                    "keywords": [
+                        "ExxonMobil",
+                        "Increases",
+                        "Participation",
+                        "Scotland",
+                        "Carbon",
+                        "Capture",
+                        "Storage",
+                        "Project"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "environment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

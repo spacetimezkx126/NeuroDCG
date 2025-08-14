@@ -1,0 +1,57 @@
+{
+    "2021-09-15": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Dow Jones, Nasdaq Rise; Energy Stocks In Buy Zones As Oil Moves Higher",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Nasdaq",
+                        "Energy Stocks",
+                        "Oil",
+                        "Rise",
+                        "Buy Zones"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Dow Jones Advances As Apple Falls To Key Level; Microsoft Jumps On Buyback Plan",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Apple",
+                        "Microsoft",
+                        "Falls",
+                        "Key Level",
+                        "Buyback Plan",
+                        "Jumps"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "mixed",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

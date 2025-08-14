@@ -1,0 +1,94 @@
+{
+    "2019-01-14": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Dividend Stocks That Pay You More Than Pepsi Does",
+                "features": {
+                    "keywords": [
+                        "dividend",
+                        "stocks",
+                        "Pepsi"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Government shutdown may impact Super Bowl ads",
+                "features": {
+                    "keywords": [
+                        "government shutdown",
+                        "Super Bowl",
+                        "ads"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "media",
+                        "advertising"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Should You Invest in the Fidelity MSCI Consumer Staples Index ETF (FSTA)?",
+                "features": {
+                    "keywords": [
+                        "invest",
+                        "Fidelity",
+                        "MSCI",
+                        "Consumer Staples",
+                        "ETF"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer staples"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Atlanta rapper to join Maroon 5 on Super Bowl LIII halftime show",
+                "features": {
+                    "keywords": [
+                        "Atlanta rapper",
+                        "Maroon 5",
+                        "Super Bowl",
+                        "halftime show"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "2020-03-13": [
+        [
+            {
+                "time": "2018-02-01",
+                "original_text": "This Medical Giant Was Socked In February — Is Its Stock A Safe Bet?",
+                "features": {
+                    "keywords": [
+                        "Medical Giant",
+                        "Socked",
+                        "Safe Bet"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-02-01",
+                "original_text": "Abbott Labs Stock Rises 4%",
+                "features": {
+                    "keywords": [
+                        "Abbott Labs",
+                        "Stock Rises",
+                        "4%"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

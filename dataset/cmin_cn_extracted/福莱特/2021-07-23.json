@@ -1,0 +1,54 @@
+{
+    "2021-07-23": [
+        [
+            {
+                "time": "",
+                "original_text": "A股巨量调整：两融新高追逐热门股，医药消费批量新低",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "巨量调整",
+                        "两融新高",
+                        "热门股",
+                        "医药消费",
+                        "批量新低"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "建筑材料行业：基金减仓建材至低配 加仓玻璃",
+                "features": {
+                    "keywords": [
+                        "建筑材料",
+                        "基金减仓",
+                        "低配",
+                        "加仓玻璃"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "建筑材料",
+                        "玻璃"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

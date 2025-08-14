@@ -1,0 +1,57 @@
+{
+    "2021-11-16": [
+        [
+            {
+                "time": "",
+                "original_text": "A股资金流向：新能源连跌资金持续流出，大消费力扛指数",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "资金流向",
+                        "新能源",
+                        "连跌",
+                        "资金持续流出",
+                        "大消费",
+                        "力扛指数"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "大消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "光大证券：澜起科技(688008.SH)评级升至“买入” 内存接口及配套芯片打开成长新空间",
+                "features": {
+                    "keywords": [
+                        "光大证券",
+                        "澜起科技",
+                        "评级升至买入",
+                        "内存接口",
+                        "配套芯片",
+                        "成长新空间"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "半导体",
+                        "芯片"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

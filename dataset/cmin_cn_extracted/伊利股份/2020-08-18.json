@@ -1,0 +1,55 @@
+{
+    "2020-08-18": [
+        [
+            {
+                "time": "",
+                "original_text": "北向资金净流出超20亿元，中国卫星获净买入5.4亿元",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "净流出",
+                        "中国卫星",
+                        "净买入"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "航天",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "北向资金动向盘点：重手加仓金融，大幅减仓白酒、医药",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "加仓",
+                        "金融",
+                        "减仓",
+                        "白酒",
+                        "医药"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "白酒",
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

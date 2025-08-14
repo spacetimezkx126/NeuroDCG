@@ -1,0 +1,74 @@
+{
+    "2018-03-07": [
+        [
+            {
+                "time": "",
+                "original_text": "中国电建：关于召开2018年第一次临时股东大会的通知",
+                "features": {
+                    "keywords": [
+                        "中国电建",
+                        "股东大会",
+                        "通知"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "建筑",
+                        "能源"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "世界最大钢岔管群水电工程首台机组发电",
+                "features": {
+                    "keywords": [
+                        "钢岔管群",
+                        "水电工程",
+                        "首台机组",
+                        "发电"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "基础设施"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-03-07",
+                "original_text": "3月7日券商晨会研报汇编",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "晨会",
+                        "研报",
+                        "汇编"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "2019-04-26": [
+        [
+            {
+                "time": "2023-10-16",
+                "original_text": "SPY, BRK.B, WFC, C: Large Outflows Detected at ETF",
+                "features": {
+                    "keywords": [
+                        "SPY",
+                        "BRK.B",
+                        "WFC",
+                        "C",
+                        "Large Outflows",
+                        "ETF"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "ETFs"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-16",
+                "original_text": "Bank CEOs quiet on M&A ambitions as expectations for consolidation build",
+                "features": {
+                    "keywords": [
+                        "Bank",
+                        "CEOs",
+                        "M&A",
+                        "ambitions",
+                        "consolidation"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "banking"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-16",
+                "original_text": "Oil Heads for Longest Weekly Rally Since 2015 on Supply Crunch",
+                "features": {
+                    "keywords": [
+                        "Oil",
+                        "Weekly Rally",
+                        "Supply Crunch"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "commodities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

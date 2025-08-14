@@ -1,0 +1,50 @@
+{
+    "2019-09-10": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "新能源市场，赚到钱的不只是比亚迪和宁德时代",
+                "features": {
+                    "keywords": [
+                        "新能源",
+                        "比亚迪",
+                        "宁德时代"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "负债348.5亿元！天齐锂业再募70亿仍不够本！偿债能力下降",
+                "features": {
+                    "keywords": [
+                        "天齐锂业",
+                        "负债",
+                        "偿债能力"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "锂业",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "2019-08-26": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "Don’t Count on High Returns With Exxon Mobil",
+                "features": {
+                    "keywords": [
+                        "Exxon Mobil",
+                        "high returns",
+                        "count"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "Energy Stocks Fall: Right Time to Invest?",
+                "features": {
+                    "keywords": [
+                        "energy stocks",
+                        "fall",
+                        "invest"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "October 4th Options Now Available For BP",
+                "features": {
+                    "keywords": [
+                        "options",
+                        "BP",
+                        "available"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

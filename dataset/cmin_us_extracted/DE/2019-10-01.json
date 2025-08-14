@@ -1,0 +1,52 @@
+{
+    "2019-10-01": [
+        [
+            {
+                "time": "2018-09-15",
+                "original_text": "UPDATE 2-Deere to lay off 163 U.S. workers as trade war dents equipment demand",
+                "features": {
+                    "keywords": [
+                        "Deere",
+                        "lay off",
+                        "163 workers",
+                        "trade war",
+                        "equipment demand"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "manufacturing",
+                        "agriculture"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-09-15",
+                "original_text": "Deere to lay off 163 manufacturing workers in U.S.",
+                "features": {
+                    "keywords": [
+                        "Deere",
+                        "lay off",
+                        "163 manufacturing workers",
+                        "U.S."
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "manufacturing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

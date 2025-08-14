@@ -1,0 +1,71 @@
+{
+    "2021-02-10": [
+        [
+            {
+                "time": "2021-03-15",
+                "original_text": "Philip Morris aims to turn its smoke-free products into a billion-dollar business by 2025",
+                "features": {
+                    "keywords": [
+                        "Philip Morris",
+                        "smoke-free products",
+                        "billion-dollar business",
+                        "2025"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-03-15",
+                "original_text": "Philip Morris International Inc. Hosts 2021 Investor Day",
+                "features": {
+                    "keywords": [
+                        "Philip Morris International Inc.",
+                        "Investor Day",
+                        "2021"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-03-15",
+                "original_text": "3 Things to Watch During Philip Morris’ Investor Day",
+                "features": {
+                    "keywords": [
+                        "Philip Morris",
+                        "Investor Day",
+                        "Things to Watch"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

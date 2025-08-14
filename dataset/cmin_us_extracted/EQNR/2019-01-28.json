@@ -1,0 +1,73 @@
+{
+    "2019-01-28": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "New Houston VC, accelerator group partners with energy giants",
+                "features": {
+                    "keywords": [
+                        "Houston",
+                        "VC",
+                        "accelerator",
+                        "energy giants"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Germany’s Rush To Ditch Coal Is Great News For Norway",
+                "features": {
+                    "keywords": [
+                        "Germany",
+                        "Rush",
+                        "Ditch Coal",
+                        "Norway"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "renewable energy",
+                        "coal"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Test well boosts Valeura's confidence in Turkey gas project",
+                "features": {
+                    "keywords": [
+                        "Test well",
+                        "Valeura",
+                        "Turkey",
+                        "gas project"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "natural gas"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

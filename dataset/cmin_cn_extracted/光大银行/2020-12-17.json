@@ -1,0 +1,72 @@
+{
+    "2020-12-17": [
+        [
+            {
+                "time": "",
+                "original_text": "垃 圾 短 信 骚 扰 电 话 不 断 作 业 帮 、 贝 壳 、 光 大 银 行 、 V I P K I D 等 被 工 信 部 点 名",
+                "features": {
+                    "keywords": [
+                        "垃圾短信",
+                        "骚扰电话",
+                        "工信部",
+                        "光大银行"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "通信",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "银 行 行 业 月 度 报 告 ： 存 款 增 速 回 升 ， 资 金 利 率 下 行 ， 维 持 “ 同 步 大 市 ” 评 级",
+                "features": {
+                    "keywords": [
+                        "银行业",
+                        "存款增速",
+                        "资金利率",
+                        "同步大市"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-12-16",
+                "original_text": "A 股 融 资 融 券 日 报 ： 两 融 余 额 增 加 2 1 . 5 6 亿 元 （ 1 2 月 1 6 日 ）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

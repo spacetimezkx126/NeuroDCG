@@ -1,0 +1,78 @@
+{
+    "2020-11-02": [
+        [
+            {
+                "time": "2020-10-01",
+                "original_text": "【中信建投通信】2020年三季报综述：通信行业经营向好，但基金持仓创近年新低，关注反弹机会",
+                "features": {
+                    "keywords": [
+                        "通信行业",
+                        "经营向好",
+                        "基金持仓",
+                        "新低",
+                        "反弹机会"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "通信"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-10-01",
+                "original_text": "社保基金最新持仓动向：狂买周期股，减持医药科技",
+                "features": {
+                    "keywords": [
+                        "社保基金",
+                        "周期股",
+                        "狂买",
+                        "减持",
+                        "医药科技"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "周期股",
+                        "医药",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-11-01",
+                "original_text": "【中金科技】通信安防月报（11月）：安防继续保持景气，海外云计算需求持续",
+                "features": {
+                    "keywords": [
+                        "通信安防",
+                        "景气",
+                        "海外云计算",
+                        "需求持续"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "通信",
+                        "安防",
+                        "云计算"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

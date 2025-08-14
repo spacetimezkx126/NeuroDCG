@@ -1,0 +1,94 @@
+{
+    "2019-05-29": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "San Francisco coffee roasters sells a special blend coffee for $75 a cup",
+                "features": {
+                    "keywords": [
+                        "coffee",
+                        "special blend",
+                        "high price"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-03",
+                "original_text": "Tilray Stock Keeps Its Eyes on the Future",
+                "features": {
+                    "keywords": [
+                        "Tilray",
+                        "stock",
+                        "future outlook"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "cannabis"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "Impact of U.S. Trade War on global markets",
+                "features": {
+                    "keywords": [
+                        "U.S.",
+                        "Trade War",
+                        "global markets"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "international trade",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-05",
+                "original_text": "How the ban on plastics 'misses the mark' on sustainability: Trade group",
+                "features": {
+                    "keywords": [
+                        "ban",
+                        "plastics",
+                        "sustainability",
+                        "trade group"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "environmental policy",
+                        "manufacturing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

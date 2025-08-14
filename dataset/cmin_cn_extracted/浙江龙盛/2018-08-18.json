@@ -1,0 +1,53 @@
+{
+    "2018-08-18": [
+        [
+            {
+                "time": "",
+                "original_text": "【化工林评周观点】PTA现货价格突破8000，PO、CPL、甲烷氯化物价格上涨",
+                "features": {
+                    "keywords": [
+                        "PTA现货价格",
+                        "PO",
+                        "CPL",
+                        "甲烷氯化物",
+                        "价格上涨"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "雅运股份IPO获批，募资3.5亿建年产万吨纺织助剂等多个大项目",
+                "features": {
+                    "keywords": [
+                        "雅运股份",
+                        "IPO获批",
+                        "募资",
+                        "纺织助剂",
+                        "大项目"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "纺织",
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

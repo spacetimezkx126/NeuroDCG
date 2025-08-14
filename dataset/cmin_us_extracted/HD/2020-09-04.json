@@ -1,0 +1,70 @@
+{
+    "2020-09-04": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Salesforce.com, Inc., Microsoft share losses lead Dow's 225-point drop",
+                "features": {
+                    "keywords": [
+                        "Salesforce",
+                        "Microsoft",
+                        "share losses",
+                        "Dow's drop"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-08-31",
+                "original_text": "Why Lowe's Stock Rose 11% in August",
+                "features": {
+                    "keywords": [
+                        "Lowe's",
+                        "Stock Rose",
+                        "August"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-02",
+                "original_text": "Don’t Sweat the Sell-Off, Buy the Post-Earnings Dip in At Home Stock",
+                "features": {
+                    "keywords": [
+                        "Sell-Off",
+                        "Post-Earnings Dip",
+                        "At Home Stock"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

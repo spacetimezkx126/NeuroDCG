@@ -1,0 +1,50 @@
+{
+    "2019-06-02": [
+        [
+            {
+                "time": "",
+                "original_text": "这家公司获百家机构扎堆调研，一周却跌了11%，原因是…（附名单）",
+                "features": {
+                    "keywords": [
+                        "机构调研",
+                        "股价下跌",
+                        "原因分析"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "综合"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "汽车界\"救市\"来了！18万新车牌落户深圳广州，分给谁？怎么分？这类A股要火了",
+                "features": {
+                    "keywords": [
+                        "汽车救市",
+                        "车牌政策",
+                        "深圳广州",
+                        "A股受益"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "汽车",
+                        "政策受益"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

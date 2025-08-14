@@ -1,0 +1,56 @@
+{
+    "2020-06-22": [
+        [
+            {
+                "time": "",
+                "original_text": "材料行业日报：雨季扰动加剧成材出货回落幅度偏大",
+                "features": {
+                    "keywords": [
+                        "材料行业",
+                        "雨季",
+                        "扰动",
+                        "成材",
+                        "出货",
+                        "回落"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "材料",
+                        "钢铁"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "太平洋钢铁周报：“稳地产”+“强基建”特征显著",
+                "features": {
+                    "keywords": [
+                        "太平洋钢铁",
+                        "周报",
+                        "稳地产",
+                        "强基建",
+                        "特征显著"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "钢铁",
+                        "房地产",
+                        "基建"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2021-10-12": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "The Charles Schwab Corporation Announces the Promotion of Rick Wurster to President",
+                "features": {
+                    "keywords": [
+                        "Charles Schwab Corporation",
+                        "Promotion",
+                        "Rick Wurster",
+                        "President"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Is Schwab Health Care Fund (SWHFX) a Strong Mutual Fund Pick Right Now?",
+                "features": {
+                    "keywords": [
+                        "Schwab Health Care Fund",
+                        "Mutual Fund",
+                        "Strong",
+                        "Pick"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "health care",
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

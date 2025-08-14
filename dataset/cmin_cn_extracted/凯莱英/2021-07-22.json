@@ -1,0 +1,49 @@
+{
+    "2021-07-22": [
+        [
+            {
+                "time": "",
+                "original_text": "远没有利润表所呈现那么华丽 泰格医药千亿市值难以承受之重",
+                "features": {
+                    "keywords": [
+                        "泰格医药",
+                        "利润表",
+                        "市值"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "基金重仓股变化折射时代变迁，宁德时代晋升为公募基金第二大重仓股",
+                "features": {
+                    "keywords": [
+                        "基金",
+                        "重仓股",
+                        "宁德时代",
+                        "公募基金"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

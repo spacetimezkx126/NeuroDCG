@@ -1,0 +1,71 @@
+{
+    "2018-01-29": [
+        [
+            {
+                "time": "2023-01-29",
+                "original_text": "A股共发生67宗大宗交易成交29.11亿元(1月29日)",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "大宗交易",
+                        "成交额"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-01-29",
+                "original_text": "天赐材料今日大宗交易成交5万股，成交价40.34元折价7.88%",
+                "features": {
+                    "keywords": [
+                        "天赐材料",
+                        "大宗交易",
+                        "折价"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "化工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-01-29",
+                "original_text": "电力设备与新能源行业周报:电动车补贴政策接近落地,制造业投资加速利好工控",
+                "features": {
+                    "keywords": [
+                        "电动车",
+                        "补贴政策",
+                        "制造业投资",
+                        "工控"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电力设备",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

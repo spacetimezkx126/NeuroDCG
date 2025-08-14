@@ -1,0 +1,77 @@
+{
+    "2019-01-10": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "抢购家电汽车，北上资金净买入创今年新高",
+                "features": {
+                    "keywords": [
+                        "抢购",
+                        "家电",
+                        "汽车",
+                        "北上资金",
+                        "净买入",
+                        "新高"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "消费",
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "私行的2018：马太效应凸显 小银行热情减退",
+                "features": {
+                    "keywords": [
+                        "私行",
+                        "2018",
+                        "马太效应",
+                        "小银行",
+                        "热情减退"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "2019年1月银行业投资策略:景气度下行预期充分,维持超配评级",
+                "features": {
+                    "keywords": [
+                        "2019年",
+                        "银行业",
+                        "投资策略",
+                        "景气度下行",
+                        "超配评级"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "银行"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

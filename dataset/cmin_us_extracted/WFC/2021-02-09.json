@@ -1,0 +1,50 @@
+{
+    "2021-02-09": [
+        [
+            {
+                "time": "2023-10-17",
+                "original_text": "Wells Fargo Decides to Keep Its Private-Label Credit Card Unit",
+                "features": {
+                    "keywords": [
+                        "Wells Fargo",
+                        "Private-Label",
+                        "Credit Card",
+                        "Unit"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-17",
+                "original_text": "24 bank stocks with dividends of at least 3.57%, three times what 10-year Treasurys pay",
+                "features": {
+                    "keywords": [
+                        "bank stocks",
+                        "dividends",
+                        "3.57%",
+                        "10-year Treasurys"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "2021-03-12": [
+        [
+            {
+                "time": "2020-12-31",
+                "original_text": "科技(000100)2020年报点评：产业布局完成 面板进入业绩加速释放期",
+                "features": {
+                    "keywords": [
+                        "科技",
+                        "年报",
+                        "产业布局",
+                        "面板",
+                        "业绩加速释放"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "面板"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-03-15",
+                "original_text": "漩涡中的经营贷，违规入市或将被收回，漏网之鱼将越来越少 其他违规处罚",
+                "features": {
+                    "keywords": [
+                        "经营贷",
+                        "违规",
+                        "楼市",
+                        "收回",
+                        "处罚"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

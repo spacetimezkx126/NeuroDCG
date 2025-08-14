@@ -1,0 +1,77 @@
+{
+    "2019-10-28": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Dow Jones Today: Another Trade-Fueled Rally",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "Jones",
+                        "Trade-Fueled",
+                        "Rally"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "trade",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "3M’s Guidance Cut, Health-Care Weakness Keep Wall Street on the Sidelines",
+                "features": {
+                    "keywords": [
+                        "3M",
+                        "Guidance",
+                        "Cut",
+                        "Health-Care",
+                        "Weakness",
+                        "Wall",
+                        "Street",
+                        "Sidelines"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "health-care",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Corporate executives aren’t worried about the consumer — yet",
+                "features": {
+                    "keywords": [
+                        "Corporate",
+                        "executives",
+                        "consumer"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

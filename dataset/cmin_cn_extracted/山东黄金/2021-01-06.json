@@ -1,0 +1,72 @@
+{
+    "2021-01-06": [
+        [
+            {
+                "time": "2021-01-06",
+                "original_text": "生，意，社，热，点，商，品，发，现，（，2，0，2，1，年，1，月，6，日，）",
+                "features": {
+                    "keywords": [
+                        "生意社",
+                        "热点商品"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "消费品",
+                        "商业"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-01-06",
+                "original_text": "南，向，资，金，高，比，例，持，有，港，股，名，单",
+                "features": {
+                    "keywords": [
+                        "南向资金",
+                        "港股",
+                        "高比例持有"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "港股市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-01-06",
+                "original_text": "山，东，黄，金，收，购，失，败，的，加，拿，大，金，矿，商，被，出，售， ， 是，钱，不，到，位，还，是，身，份，不，对，？ ， 并，购，重，组，异，常",
+                "features": {
+                    "keywords": [
+                        "山东黄金",
+                        "收购失败",
+                        "加拿大金矿商",
+                        "并购重组异常"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "矿业",
+                        "黄金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

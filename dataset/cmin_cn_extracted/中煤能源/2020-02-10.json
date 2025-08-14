@@ -1,0 +1,69 @@
+{
+    "2020-02-10": [
+        [
+            {
+                "time": "2023-02-10",
+                "original_text": "截止至2月10日AH股共计1只股票股价倒挂",
+                "features": {
+                    "keywords": [
+                        "AH股",
+                        "股价倒挂"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "市场整体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-02-10",
+                "original_text": "两市破净股数量达403只（附股）",
+                "features": {
+                    "keywords": [
+                        "破净股",
+                        "数量达403只"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "市场整体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-02-10",
+                "original_text": "中国神华提高2月煤价 股价逆势涨近1%",
+                "features": {
+                    "keywords": [
+                        "中国神华",
+                        "煤价",
+                        "逆势上涨"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

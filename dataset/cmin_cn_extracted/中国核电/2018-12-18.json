@@ -1,0 +1,51 @@
+{
+    "2018-12-18": [
+        [
+            {
+                "time": "2018-12-18",
+                "original_text": "水电回落火电回升，核电持续高增长",
+                "features": {
+                    "keywords": [
+                        "水电",
+                        "火电",
+                        "核电",
+                        "高增长"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电力",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-12-18",
+                "original_text": "央行重启逆回购操作",
+                "features": {
+                    "keywords": [
+                        "央行",
+                        "逆回购",
+                        "操作"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "货币政策"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

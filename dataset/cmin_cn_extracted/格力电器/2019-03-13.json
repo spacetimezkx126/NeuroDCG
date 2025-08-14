@@ -1,0 +1,71 @@
+{
+    "2019-03-13": [
+        [
+            {
+                "time": "",
+                "original_text": "董明珠：不主张通过股市一次大幅波动受益",
+                "features": {
+                    "keywords": [
+                        "董明珠",
+                        "股市",
+                        "大幅波动"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "家用电器行业周报:值得重视的政策降本",
+                "features": {
+                    "keywords": [
+                        "家用电器",
+                        "政策",
+                        "降本"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "名字带“电”的股票全涨停 这波行情让文科生蒙了",
+                "features": {
+                    "keywords": [
+                        "名字带电",
+                        "股票",
+                        "涨停",
+                        "文科生"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "电力",
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

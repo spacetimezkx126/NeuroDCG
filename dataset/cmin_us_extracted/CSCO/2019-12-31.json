@@ -1,0 +1,73 @@
+{
+    "2019-12-31": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Dogs of the Dow Stock-Picking Strategy Was a Winner for the Decade",
+                "features": {
+                    "keywords": [
+                        "Dogs of the Dow",
+                        "Stock-Picking",
+                        "Winner",
+                        "Decade"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2019-12-31",
+                "original_text": "Cisco Stock Needs a Catalyst to Thrive in 2020 and Beyond",
+                "features": {
+                    "keywords": [
+                        "Cisco",
+                        "Catalyst",
+                        "Thrive",
+                        "2020",
+                        "Beyond"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-12-24",
+                "original_text": "The Santa Claus Rally Is in Full Effect in Tech, But One Name Has Been Left Behind",
+                "features": {
+                    "keywords": [
+                        "Santa Claus Rally",
+                        "Tech",
+                        "Full Effect",
+                        "Left Behind"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

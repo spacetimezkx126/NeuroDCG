@@ -1,0 +1,52 @@
+{
+    "2019-09-13": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "PG&E reaches $11 billion settlement with CA wildfire insurers",
+                "features": {
+                    "keywords": [
+                        "PG&E",
+                        "settlement",
+                        "wildfire",
+                        "insurers"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "insurance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Duke Energy Acquires Canadian Solar's Rambler Solar Project",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "acquires",
+                        "Rambler Solar Project",
+                        "Canadian Solar"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "renewables"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

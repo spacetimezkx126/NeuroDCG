@@ -1,0 +1,110 @@
+{
+    "2021-05-17": [
+        [
+            {
+                "time": "",
+                "original_text": "公,用,事,业,行,业,周,报,：,现,货,电,价,破,基,准,电,价, , 火,电,盈,利,低,点, , 或,估,值,修,复",
+                "features": {
+                    "keywords": [
+                        "现货电价",
+                        "基准电价",
+                        "火电盈利",
+                        "估值修复"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "公用事业",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "公,用,事,业,行,业,周,报,：,4,月,用,电,量,同,比,增,长,1,3,.,2,%, , 电,力,需,求,持,续,向,好",
+                "features": {
+                    "keywords": [
+                        "用电量",
+                        "同比增长",
+                        "电力需求"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "公用事业",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "国,内,首,批,长,江,电,力,成,功,发,行,可,持,续,发,展,挂,钩,债,券",
+                "features": {
+                    "keywords": [
+                        "长江电力",
+                        "可持续发展挂钩债券",
+                        "成功发行"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2021-05-14",
+                "original_text": "A,股,融,资,融,券,日,报,：,两,融,余,额,增,加,4,2,.,6,9,亿,元,（,5,月,1,4,日,）",
+                "features": {
+                    "keywords": [
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "2,0,2,1,年,第,一,季,度,机,构,持,仓,点,评,：,一,季,度,社,保,、,险,资,、,Q,F,I,I,基,金,三,类,机,构,更,青,睐,何,类,板,块,？",
+                "features": {
+                    "keywords": [
+                        "机构持仓",
+                        "社保",
+                        "险资",
+                        "QFII基金"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "2019-11-25": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Morgan Stanley Announces Redemption in Whole of Series G Preferred Stock and Depositary Shares Representing Series G Preferred Stock",
+                "features": {
+                    "keywords": [
+                        "Morgan Stanley",
+                        "Redemption",
+                        "Series G Preferred Stock"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-11-25",
+                "original_text": "Merger Monday roars back — LVMH buys Tiffany, Charles Schwab buys TD Ameritrade",
+                "features": {
+                    "keywords": [
+                        "Merger Monday",
+                        "LVMH",
+                        "Tiffany",
+                        "Charles Schwab",
+                        "TD Ameritrade"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "luxury goods",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-11-25",
+                "original_text": "FirstFT: Today’s top stories",
+                "features": {
+                    "keywords": [],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-10-08",
+                "original_text": "IMF Cuts Japan’s GDP Forecast for Third Time in 2019",
+                "features": {
+                    "keywords": [
+                        "IMF",
+                        "Japan",
+                        "GDP Forecast"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "macroeconomics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

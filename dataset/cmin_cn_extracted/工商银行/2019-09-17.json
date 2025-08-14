@@ -1,0 +1,52 @@
+{
+    "2019-09-17": [
+        [
+            {
+                "time": "",
+                "original_text": "港股通北水追捧工行、舜宇光学、中国石油",
+                "features": {
+                    "keywords": [
+                        "港股通",
+                        "北水",
+                        "工行",
+                        "舜宇光学",
+                        "中国石油"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "科技",
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "港股公告精选：中国平安前8月保费收入同比增长约9.43%至5542亿元",
+                "features": {
+                    "keywords": [
+                        "中国平安",
+                        "保费收入",
+                        "同比增长"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

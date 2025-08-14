@@ -1,0 +1,91 @@
+{
+    "2020-02-19": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Chris Davis' Firm Buys Intel, Sells Microsoft",
+                "features": {
+                    "keywords": [
+                        "Intel",
+                        "Microsoft",
+                        "Buys",
+                        "Sells"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Rise in private credit leads to boost in unitranche loans",
+                "features": {
+                    "keywords": [
+                        "private credit",
+                        "unitranche loans",
+                        "boost"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Chime Gives Users Paychecks Early. It Wants Their Savings, Too",
+                "features": {
+                    "keywords": [
+                        "Chime",
+                        "Paychecks Early",
+                        "Savings"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "fintech"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Laura Ashley says Wells Fargo to lend for immediate needs",
+                "features": {
+                    "keywords": [
+                        "Wells Fargo",
+                        "lend",
+                        "immediate needs"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "banking"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

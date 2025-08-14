@@ -1,0 +1,51 @@
+{
+    "2018-03-03": [
+        [
+            {
+                "time": "",
+                "original_text": "长安公布“机油门” 解决方案 将召回252087辆CS75",
+                "features": {
+                    "keywords": [
+                        "长安",
+                        "机油门",
+                        "召回",
+                        "CS75"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "全国人大代表、长安汽车总裁朱华荣两会提案：汽车品牌向上与汽车智能化",
+                "features": {
+                    "keywords": [
+                        "长安汽车",
+                        "朱华荣",
+                        "两会提案",
+                        "汽车品牌",
+                        "智能化"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

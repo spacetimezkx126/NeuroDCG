@@ -1,0 +1,76 @@
+{
+    "2019-05-06": [
+        [
+            {
+                "time": "2018-04-03",
+                "original_text": "How Corporate America is prepared for Trump’s 25% tariffs on China",
+                "features": {
+                    "keywords": [
+                        "Corporate America",
+                        "tariffs",
+                        "China"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "manufacturing",
+                        "trade"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-02-14",
+                "original_text": "Guide to Buying a Diamond Ring at Costco (COST, TIF)",
+                "features": {
+                    "keywords": [
+                        "Costco",
+                        "Diamond Ring",
+                        "TIF"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "luxury goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-05-01",
+                "original_text": "Amazon in prime position for 1-day shipping, Apple's identity crisis, Uber's IPO on deck and white wine emoji outrage",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "1-day shipping",
+                        "Apple",
+                        "identity crisis",
+                        "Uber",
+                        "IPO"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "transportation",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

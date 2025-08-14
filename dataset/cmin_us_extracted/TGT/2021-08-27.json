@@ -1,0 +1,95 @@
+{
+    "2021-08-27": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Look at Target, Lowe's, and Krispy Kreme",
+                "features": {
+                    "keywords": [
+                        "Target",
+                        "Lowe's",
+                        "Krispy Kreme"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "retail",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "'Buy it early!' Bank of America warns of supply issues this holiday season",
+                "features": {
+                    "keywords": [
+                        "Bank of America",
+                        "supply issues",
+                        "holiday season"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Toys R Us in Macy's or Disney Shops in Target: Which Will Have the Bigger Impact?",
+                "features": {
+                    "keywords": [
+                        "Toys R Us",
+                        "Macy's",
+                        "Disney Shops",
+                        "Target"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "entertainment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Ulta's Beautiful New Margin Target: 13% of Sales",
+                "features": {
+                    "keywords": [
+                        "Ulta",
+                        "margin target",
+                        "sales"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "cosmetics"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

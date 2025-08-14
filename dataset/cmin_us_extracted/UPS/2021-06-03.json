@@ -1,0 +1,50 @@
+{
+    "2021-06-03": [
+        [
+            {
+                "time": "2021-06-01",
+                "original_text": "Ryanair's (RYAAY) May Traffic Surges on Ramped-Up Vaccinations",
+                "features": {
+                    "keywords": [
+                        "Ryanair",
+                        "traffic surge",
+                        "vaccinations"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aviation",
+                        "travel"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-06-01",
+                "original_text": "Why Is Everyone Talking About Electric-Vehicle Stocks?",
+                "features": {
+                    "keywords": [
+                        "electric vehicles",
+                        "stocks",
+                        "market trend"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automotive",
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

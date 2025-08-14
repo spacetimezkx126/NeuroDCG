@@ -1,0 +1,54 @@
+{
+    "2018-08-01": [
+        [
+            {
+                "time": "",
+                "original_text": "[看好评级]农业中报业绩展望：行业整体平稳 养殖业景气分化明显",
+                "features": {
+                    "keywords": [
+                        "农业",
+                        "中报",
+                        "业绩",
+                        "养殖业",
+                        "景气分化"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "养殖业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "农林牧渔行业日报：北京市生猪存栏首次降至百万头以下",
+                "features": {
+                    "keywords": [
+                        "农林牧渔",
+                        "生猪",
+                        "存栏",
+                        "北京市",
+                        "百万头以下"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农林牧渔",
+                        "生猪养殖"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

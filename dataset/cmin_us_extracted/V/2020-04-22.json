@@ -1,0 +1,93 @@
+{
+    "2020-04-22": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Visa, Inc., Declares Quarterly Dividend",
+                "features": {
+                    "keywords": [
+                        "Visa",
+                        "Quarterly Dividend"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-03",
+                "original_text": "Dow's 388-point rally highlighted by gains in shares of Intel, McDonald's",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "rally",
+                        "Intel",
+                        "McDonald's"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "Hedge Funds’ #7 Stock Pick Debunked Naysayers",
+                "features": {
+                    "keywords": [
+                        "Hedge Funds",
+                        "Stock Pick",
+                        "Naysayers"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-05",
+                "original_text": "Blue Hawk Investment Group Has Mixed View on Intuit and Visa",
+                "features": {
+                    "keywords": [
+                        "Blue Hawk",
+                        "Investment Group",
+                        "Intuit",
+                        "Visa"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "software"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

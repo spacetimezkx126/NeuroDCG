@@ -1,0 +1,54 @@
+{
+    "2019-09-16": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "Duke Energy Florida customers' electric rates will drop in 2020",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "Florida",
+                        "electric rates",
+                        "drop",
+                        "2020"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "Duke Energy makes list of North America's top sustainable companies for 14th straight year",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "North America",
+                        "sustainable",
+                        "companies",
+                        "14th straight year"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "environmental"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

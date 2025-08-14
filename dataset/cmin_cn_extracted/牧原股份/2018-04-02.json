@@ -1,0 +1,52 @@
+{
+    "2018-04-02": [
+        [
+            {
+                "time": "",
+                "original_text": "[增, 持, 评, 级], 农, 业, 行, 业, 周, 报, ：, 关, 注, 一, 季, 报,  , 各, 子, 板, 块, 基, 本, 面, 梳, 理",
+                "features": {
+                    "keywords": [
+                        "农业行业",
+                        "一季度报",
+                        "子板块",
+                        "基本面"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "巨, 丰, 热, 点, ：, 对, 美, 出, 口, 猪, 肉, 类, 制, 品, 加, 收, 关, 税,  , 猪, 肉, 概, 念, 股, 走, 强",
+                "features": {
+                    "keywords": [
+                        "巨丰热点",
+                        "对美出口",
+                        "猪肉类制品",
+                        "加收关税",
+                        "猪肉概念股"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "猪肉",
+                        "农业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

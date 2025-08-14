@@ -1,0 +1,50 @@
+{
+    "2019-06-20": [
+        [
+            {
+                "time": "",
+                "original_text": "信用卡业务全盘点：2018年14家上市银行信用卡交易总额近32万",
+                "features": {
+                    "keywords": [
+                        "信用卡",
+                        "上市银行",
+                        "交易总额"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中行杭州率先上调首套房贷利率 基准利率从上浮5%增至8%",
+                "features": {
+                    "keywords": [
+                        "中行杭州",
+                        "首套房贷利率",
+                        "基准利率",
+                        "上浮"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

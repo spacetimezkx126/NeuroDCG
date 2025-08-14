@@ -1,0 +1,71 @@
+{
+    "2021-12-20": [
+        [
+            {
+                "time": "",
+                "original_text": "美的集团今日大宗交易成交20.05万股，成交价69.62元溢价0.0%.",
+                "features": {
+                    "keywords": [
+                        "美的集团",
+                        "大宗交易",
+                        "成交价",
+                        "溢价"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "美的集团：美空调与西安交通大学历时3年联合技术攻关，成功研制出世界首台家用空气制冷样机.",
+                "features": {
+                    "keywords": [
+                        "美的集团",
+                        "技术研发",
+                        "联合攻关",
+                        "家用空气制冷样机"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "家电",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2021-12-17",
+                "original_text": "A股融资融券日报：两融余额减少80.19亿元（12月17日）.",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "减少"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

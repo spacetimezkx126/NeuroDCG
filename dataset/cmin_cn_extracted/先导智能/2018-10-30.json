@@ -1,0 +1,50 @@
+{
+    "2018-10-30": [
+        [
+            {
+                "time": "",
+                "original_text": "创 业 板 九 周 年 逾 六 成 个 股 上 涨",
+                "features": {
+                    "keywords": [
+                        "创业板",
+                        "九周年",
+                        "个股上涨"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "创业板"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "汇 添 富 三 季 度 七 成 主 动 权 益 基 金 业 绩 亏 损 ， 净 亏 超 7 5 亿 元",
+                "features": {
+                    "keywords": [
+                        "汇添富",
+                        "三季度",
+                        "主动权益基金",
+                        "业绩亏损",
+                        "净亏超75亿元"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

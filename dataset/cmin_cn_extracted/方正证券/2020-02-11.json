@@ -1,0 +1,50 @@
+{
+    "2020-02-11": [
+        [
+            {
+                "time": "2020-02-03",
+                "original_text": "方正证券积极防控新冠肺炎疫情展示证券业温度",
+                "features": {
+                    "keywords": [
+                        "方正证券",
+                        "疫情防控",
+                        "新冠肺炎",
+                        "证券业"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-02-03",
+                "original_text": "券商板块几乎全线飘红",
+                "features": {
+                    "keywords": [
+                        "券商板块",
+                        "全线飘红"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "证券"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

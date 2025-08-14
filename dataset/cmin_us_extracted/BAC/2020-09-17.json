@@ -1,0 +1,75 @@
+{
+    "2020-09-17": [
+        [
+            {
+                "time": "2023-10-10",
+                "original_text": "Bank of America Corp. stock outperforms competitors despite losses on the day",
+                "features": {
+                    "keywords": [
+                        "Bank of America",
+                        "outperforms",
+                        "competitors",
+                        "losses"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "US STOCKS-Wall Street to open lower as labor market recovery stalls",
+                "features": {
+                    "keywords": [
+                        "Wall Street",
+                        "open lower",
+                        "labor market",
+                        "recovery stalls"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "US STOCKS-Futures slip with focus on jobless claims as Fed underwhelms",
+                "features": {
+                    "keywords": [
+                        "Futures",
+                        "slip",
+                        "jobless claims",
+                        "Fed",
+                        "underwhelms"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "2020-12-10": [
+        [
+            {
+                "time": "2021-12-01",
+                "original_text": "Dow Jones Futures: Stock Market Rally Sell-Off Is Good News; Airbnb IPO Prices High, Adobe Earnings Top; FDA Coronavirus Vaccine Decision Due",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Stock Market Rally",
+                        "Sell-Off",
+                        "Airbnb IPO",
+                        "Adobe Earnings",
+                        "FDA",
+                        "Coronavirus Vaccine"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "technology",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-12-01",
+                "original_text": "Why It's Smart to Buy This High-Quality Dividend Stock Right Now",
+                "features": {
+                    "keywords": [
+                        "High-Quality Dividend Stock",
+                        "Buy",
+                        "Smart"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-12-01",
+                "original_text": "A $4.5 Billion Chip Deal Shows Dark Side of the Boom",
+                "features": {
+                    "keywords": [
+                        "$4.5 Billion",
+                        "Chip Deal",
+                        "Dark Side",
+                        "Boom"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

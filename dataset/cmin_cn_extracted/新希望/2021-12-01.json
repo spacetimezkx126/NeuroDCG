@@ -1,0 +1,75 @@
+{
+    "2021-12-01": [
+        [
+            {
+                "time": "",
+                "original_text": "农 业 行 业 ： 紧 抱 生 猪   反 转 可 期",
+                "features": {
+                    "keywords": [
+                        "农业",
+                        "生猪",
+                        "反转"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "养殖"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "温 氏 股 份 ： 公 司 肉 猪 2 0 2 2 年 出 栏 初 步 规 划 为 1 8 0 0 - 2 0 0 0 万 头",
+                "features": {
+                    "keywords": [
+                        "温氏股份",
+                        "肉猪",
+                        "出栏",
+                        "规划"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "养殖"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "又 一 四 川 新 首 富 诞 生 ！   养 鱼 起 家 ， 却 靠 光 伏 一 年 赚 了 6 2 0 亿 ！",
+                "features": {
+                    "keywords": [
+                        "四川",
+                        "首富",
+                        "养鱼",
+                        "光伏",
+                        "盈利"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "光伏",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

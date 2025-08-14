@@ -1,0 +1,52 @@
+{
+    "2019-12-28": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "Bold stock-market calls for 2020: Begin with GE and Google",
+                "features": {
+                    "keywords": [
+                        "stock-market",
+                        "calls",
+                        "GE",
+                        "Google"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "Boeing Has a New CEO. It’s Still Not Time to Buy Its Stock.",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "CEO",
+                        "Not Time",
+                        "Buy",
+                        "Stock"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

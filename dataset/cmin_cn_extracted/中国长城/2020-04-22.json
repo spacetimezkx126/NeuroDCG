@@ -1,0 +1,51 @@
+{
+    "2020-04-22": [
+        [
+            {
+                "time": "2020-04-22",
+                "original_text": "债券重大事件",
+                "features": {
+                    "keywords": [
+                        "债券",
+                        "重大事件"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "债券市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-04-22",
+                "original_text": "阿里云两千亿加码新基建，产业链亟待爆发",
+                "features": {
+                    "keywords": [
+                        "阿里云",
+                        "两千亿",
+                        "新基建",
+                        "产业链",
+                        "爆发"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "科技",
+                        "云计算",
+                        "基础设施"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

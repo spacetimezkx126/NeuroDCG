@@ -1,0 +1,77 @@
+{
+    "2020-08-13": [
+        [
+            {
+                "time": "2018-07-01",
+                "original_text": "David Abrams Sells 2 Holdings, Drills Into Kinder Morgan in 2nd Quarter",
+                "features": {
+                    "keywords": [
+                        "David Abrams",
+                        "Sells",
+                        "Holdings",
+                        "Drills Into",
+                        "Kinder Morgan",
+                        "2nd Quarter"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-07-15",
+                "original_text": "Top Analyst Reports for Home Depot, AbbVie & Broadcom",
+                "features": {
+                    "keywords": [
+                        "Top Analyst Reports",
+                        "Home Depot",
+                        "AbbVie",
+                        "Broadcom"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "pharmaceuticals",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-07-20",
+                "original_text": "AbbVie Outperforms Large-Cap Pharma Industry Year to Date",
+                "features": {
+                    "keywords": [
+                        "AbbVie",
+                        "Outperforms",
+                        "Large-Cap Pharma",
+                        "Industry",
+                        "Year to Date"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

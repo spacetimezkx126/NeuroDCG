@@ -1,0 +1,71 @@
+{
+    "2019-09-01": [
+        [
+            {
+                "time": "",
+                "original_text": "棱镜|银行业发展交五年最好成绩单：零售优先策略显效，LPR影响小",
+                "features": {
+                    "keywords": [
+                        "银行业",
+                        "零售优先策略",
+                        "LPR",
+                        "业绩增长"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "农行不良贷款持续“双降” 将数字化转型作为第一经营战略",
+                "features": {
+                    "keywords": [
+                        "农行",
+                        "不良贷款",
+                        "双降",
+                        "数字化转型"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "公告解读：四大行上半年成绩单出炉：净利增幅均不超5% 日赚31亿元",
+                "features": {
+                    "keywords": [
+                        "四大行",
+                        "净利增幅",
+                        "日赚31亿元"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "2018-09-03": [
+        [
+            {
+                "time": "",
+                "original_text": "顺,丰,、,德,邦,、,圆,通,入,围,2,0,1,8,中,国,民,营,企,业,5,0,0,强,！",
+                "features": {
+                    "keywords": [
+                        "顺丰",
+                        "德邦",
+                        "圆通",
+                        "民营企业500强"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流",
+                        "快递"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "8,月,专,项,债,发,行,突,飞,猛,进,，,前,1,0,省,市,这,些,龙,头,企,业,更,受,益",
+                "features": {
+                    "keywords": [
+                        "专项债",
+                        "发行",
+                        "龙头",
+                        "企业",
+                        "省市"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "经济"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "顺,丰,控,股,午,后,异,动,重,挫,5,.,4,1,%,报,3,8,.,0,8,元, ,成,交,9,4,5,0,万,元",
+                "features": {
+                    "keywords": [
+                        "顺丰控股",
+                        "午后",
+                        "异动",
+                        "重挫"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流",
+                        "快递"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "资,本,扎,堆,同,城,配,送,，,行,业,蛋,糕,究,竟,有,多,大",
+                "features": {
+                    "keywords": [
+                        "资本",
+                        "同城配送",
+                        "行业规模"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "物流",
+                        "电商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

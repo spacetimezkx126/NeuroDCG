@@ -1,0 +1,78 @@
+{
+    "2021-11-17": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Citigroup to exit longtime downtown office, reduce S.F. office space",
+                "features": {
+                    "keywords": [
+                        "Citigroup",
+                        "exit",
+                        "downtown office",
+                        "reduce",
+                        "S.F. office space"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Citigroup Wins First Texas Muni-Bond Deal Since Gun Law Spat",
+                "features": {
+                    "keywords": [
+                        "Citigroup",
+                        "Wins",
+                        "Texas",
+                        "Muni-Bond",
+                        "Gun Law"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "government bonds"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "Citi’s Annual e for education Campaign Raises $9.6 Million",
+                "features": {
+                    "keywords": [
+                        "Citi",
+                        "Annual",
+                        "education",
+                        "Campaign",
+                        "$9.6 Million"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "philanthropy",
+                        "education"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

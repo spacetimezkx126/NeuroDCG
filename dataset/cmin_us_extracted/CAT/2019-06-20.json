@@ -1,0 +1,55 @@
+{
+    "2019-06-20": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Stock Gains Fade; Trump Calls Iran Attack 'A Very Big Mistake'",
+                "features": {
+                    "keywords": [
+                        "Stock Gains",
+                        "Fade",
+                        "Trump",
+                        "Iran",
+                        "Attack",
+                        "Big Mistake"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "politics",
+                        "international relations"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Forecast: How The Dow Reaches 28,708 In 18 Months",
+                "features": {
+                    "keywords": [
+                        "Forecast",
+                        "Dow",
+                        "Reaches",
+                        "28,708",
+                        "Months"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "market forecasting"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

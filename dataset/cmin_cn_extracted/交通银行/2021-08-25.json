@@ -1,0 +1,75 @@
+{
+    "2021-08-25": [
+        [
+            {
+                "time": "",
+                "original_text": "交通银行深圳分行特事特办快办为客户排忧",
+                "features": {
+                    "keywords": [
+                        "交通银行",
+                        "深圳分行",
+                        "特事特办",
+                        "客户排忧"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "交通银行主承销全国首批革命老区振兴发展债务融资工具",
+                "features": {
+                    "keywords": [
+                        "交通银行",
+                        "主承销",
+                        "革命老区",
+                        "振兴发展",
+                        "债务融资工具"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "政策支持"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2022-09-01",
+                "original_text": "监管出手！大行理财产品9月1日后所配资产不得采用成本法估值",
+                "features": {
+                    "keywords": [
+                        "监管",
+                        "大行理财",
+                        "成本法估值",
+                        "政策调整"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "监管政策"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

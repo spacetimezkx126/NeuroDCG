@@ -1,0 +1,75 @@
+{
+    "2021-12-08": [
+        [
+            {
+                "time": "",
+                "original_text": "面临着被摘牌的危机，美国人知道FF是造车骗局？",
+                "features": {
+                    "keywords": [
+                        "摘牌",
+                        "危机",
+                        "FF",
+                        "造车骗局"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2021-12-07",
+                "original_text": "A股融资融券日报：两融余额减少43.44亿元（12月7日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "减少"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "财信证券传媒行业2021年11月报：游戏版号有望近期重启，关注贺岁档跨年行情",
+                "features": {
+                    "keywords": [
+                        "财信证券",
+                        "传媒行业",
+                        "游戏版号",
+                        "重启",
+                        "贺岁档",
+                        "跨年行情"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "传媒",
+                        "游戏"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            }
+        ]
+    ]
+}

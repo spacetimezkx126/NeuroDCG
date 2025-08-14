@@ -1,0 +1,53 @@
+{
+    "2021-03-24": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "General Electric (GE) Arm Wins Wind Turbine Deal in Vietnam",
+                "features": {
+                    "keywords": [
+                        "General Electric",
+                        "GE",
+                        "Wind Turbine",
+                        "Deal",
+                        "Vietnam"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "renewables"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2019-06-20",
+                "original_text": "GE's Industrial Debt Will Balloon in 2021, but the Stock Is Still a Good Value",
+                "features": {
+                    "keywords": [
+                        "GE",
+                        "Industrial Debt",
+                        "Balloon",
+                        "Stock",
+                        "Value"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

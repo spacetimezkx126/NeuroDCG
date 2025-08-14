@@ -1,0 +1,75 @@
+{
+    "2019-11-11": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "US Indexes Close Mostly Lower Monday",
+                "features": {
+                    "keywords": [
+                        "Indexes",
+                        "Close",
+                        "Lower",
+                        "Monday"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Dow's 36-point fall led by losses in shares of IBM, 3M",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "36-point fall",
+                        "losses",
+                        "IBM",
+                        "3M"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "industrial goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "3M and sia Abrasives Industries AG Settle Patent Infringement Disputes",
+                "features": {
+                    "keywords": [
+                        "3M",
+                        "sia Abrasives Industries AG",
+                        "Settle",
+                        "Patent Infringement",
+                        "Disputes"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

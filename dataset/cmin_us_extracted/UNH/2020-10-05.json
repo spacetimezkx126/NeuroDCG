@@ -1,0 +1,74 @@
+{
+    "2020-10-05": [
+        [
+            {
+                "time": "2021-01-04",
+                "original_text": "UnitedHealth Group Inc. stock outperforms market on strong trading day",
+                "features": {
+                    "keywords": [
+                        "UnitedHealth",
+                        "outperforms",
+                        "strong trading day"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-11-15",
+                "original_text": "UnitedHealth Arm Rolls Out Enhanced Health Plans for 2021",
+                "features": {
+                    "keywords": [
+                        "UnitedHealth",
+                        "Enhanced Health Plans",
+                        "2021"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2020-10-05",
+                "original_text": "Dow Jones Today, Stocks Jump, Biotechs Rally On Trump Coronavirus Treatment; Quidel Gets FDA Test-Kit Nod",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Stocks Jump",
+                        "Biotechs Rally",
+                        "Trump Coronavirus Treatment",
+                        "FDA Test-Kit Nod"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

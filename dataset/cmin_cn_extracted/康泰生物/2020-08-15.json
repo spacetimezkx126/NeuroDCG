@@ -1,0 +1,53 @@
+{
+    "2020-08-15": [
+        [
+            {
+                "time": "",
+                "original_text": "两融交易活跃度显著降低，融资客集中了结热门股",
+                "features": {
+                    "keywords": [
+                        "两融交易",
+                        "活跃度",
+                        "降低",
+                        "融资客",
+                        "热门股"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "沃森生物净利减逾27% 此前股东套现买入康泰生物遭问询 减持股份数量",
+                "features": {
+                    "keywords": [
+                        "沃森生物",
+                        "净利减少",
+                        "股东套现",
+                        "康泰生物",
+                        "问询",
+                        "减持股份"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2019-11-12": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Trump’s Big Reveal on Trade Is a Big Letdown",
+                "features": {
+                    "keywords": [
+                        "Trump",
+                        "Trade",
+                        "Letdown"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "trade",
+                        "economy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Ex-Edoma trader homes in on ESG sector with hedge fund launch",
+                "features": {
+                    "keywords": [
+                        "Ex-Edoma",
+                        "trader",
+                        "ESG",
+                        "hedge fund",
+                        "launch"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "ESG",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

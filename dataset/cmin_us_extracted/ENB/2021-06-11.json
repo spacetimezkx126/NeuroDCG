@@ -1,0 +1,76 @@
+{
+    "2021-06-11": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Keystone-Quashing, Activists, Demand, Biden, Block, Other, Pipelines",
+                "features": {
+                    "keywords": [
+                        "Keystone",
+                        "Activists",
+                        "Biden",
+                        "Block",
+                        "Pipelines"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "10 Best Stocks to Invest in According to Bruce Berkowitz’s Fairholme Capital",
+                "features": {
+                    "keywords": [
+                        "Best Stocks",
+                        "Invest",
+                        "Bruce Berkowitz",
+                        "Fairholme Capital"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "various"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Enbridge U.S. TETCO natgas pipe likely to remain reduced until Q3",
+                "features": {
+                    "keywords": [
+                        "Enbridge",
+                        "U.S.",
+                        "TETCO",
+                        "natgas",
+                        "pipe",
+                        "reduced",
+                        "Q3"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

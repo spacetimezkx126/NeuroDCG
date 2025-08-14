@@ -1,0 +1,49 @@
+{
+    "2018-10-24": [
+        [
+            {
+                "time": "",
+                "original_text": "百点反弹，56股上涨逾20%，200股却逆势下跌",
+                "features": {
+                    "keywords": [
+                        "百点反弹",
+                        "上涨",
+                        "逆势下跌"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "油价跌超4%，能源板块全线杀跌",
+                "features": {
+                    "keywords": [
+                        "油价",
+                        "下跌",
+                        "能源板块",
+                        "杀跌"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

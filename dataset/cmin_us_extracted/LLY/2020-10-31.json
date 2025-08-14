@@ -1,0 +1,52 @@
+{
+    "2020-10-31": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "EADV 2020: Lilly and Incyte Showcase New Data for Baricitinib for the Treatment of Moderate to Severe Atopic Dermatitis",
+                "features": {
+                    "keywords": [
+                        "Lilly",
+                        "Incyte",
+                        "Baricitinib",
+                        "Atopic Dermatitis",
+                        "New Data",
+                        "Treatment"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "Point/Counterpoint: The Case for Eli Lilly",
+                "features": {
+                    "keywords": [
+                        "Eli Lilly",
+                        "Point/Counterpoint",
+                        "Case"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

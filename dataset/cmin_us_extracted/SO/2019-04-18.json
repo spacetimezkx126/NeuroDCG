@@ -1,0 +1,76 @@
+{
+    "2019-04-18": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Southern Power Reaches Agreement to Sell the Nacogdoches Generating Facility",
+                "features": {
+                    "keywords": [
+                        "Southern Power",
+                        "Agreement",
+                        "Sell",
+                        "Nacogdoches",
+                        "Generating Facility"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "Georgia Power names David Poroch executive vice president, chief financial officer and treasurer",
+                "features": {
+                    "keywords": [
+                        "Georgia Power",
+                        "David Poroch",
+                        "executive vice president",
+                        "chief financial officer",
+                        "treasurer"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-15",
+                "original_text": "Georgia Power continues to make progress on ash pond closure at Plant Yates with dewatering process to begin in mid-May",
+                "features": {
+                    "keywords": [
+                        "Georgia Power",
+                        "ash pond closure",
+                        "Plant Yates",
+                        "dewatering process"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "environmental",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

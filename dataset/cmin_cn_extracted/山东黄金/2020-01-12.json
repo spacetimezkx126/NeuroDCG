@@ -1,0 +1,55 @@
+{
+    "2020-01-12": [
+        [
+            {
+                "time": "",
+                "original_text": "本地大佬跌出Top20，青岛房企大“洗牌”！",
+                "features": {
+                    "keywords": [
+                        "本地大佬",
+                        "跌出",
+                        "Top20",
+                        "青岛房企",
+                        "洗牌"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "游资放弃转基因 主力钟情业绩股",
+                "features": {
+                    "keywords": [
+                        "游资",
+                        "放弃",
+                        "转基因",
+                        "主力",
+                        "钟情",
+                        "业绩股"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "生物科技",
+                        "绩优股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

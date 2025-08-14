@@ -1,0 +1,52 @@
+{
+    "2020-05-08": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "重磅！QFII和RQFII不再限购，‘抬轿子’的来了？",
+                "features": {
+                    "keywords": [
+                        "QFII",
+                        "RQFII",
+                        "限购取消",
+                        "外资流入"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "外资相关"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "比亚迪上半年纯利高于券商预期",
+                "features": {
+                    "keywords": [
+                        "比亚迪",
+                        "纯利",
+                        "券商预期",
+                        "业绩超预期"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

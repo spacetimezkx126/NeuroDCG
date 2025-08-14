@@ -1,0 +1,52 @@
+{
+    "2021-07-06": [
+        [
+            {
+                "time": "",
+                "original_text": "A股与港股行业首选：2021年7月",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "港股",
+                        "行业首选",
+                        "2021年7月"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "综合行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2021-07-06",
+                "original_text": "A股资金流向（7月6日）：超160亿元资金撤离医药、半导体行业",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "资金流向",
+                        "医药",
+                        "半导体",
+                        "撤离"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药",
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

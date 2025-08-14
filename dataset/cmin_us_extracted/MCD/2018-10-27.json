@@ -1,0 +1,70 @@
+{
+    "2018-10-27": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Here's How You Can Retire Like Warren Buffett",
+                "features": {
+                    "keywords": [
+                        "retirement",
+                        "Warren Buffett",
+                        "investment advice"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-04-10",
+                "original_text": "Mcdonald's Corp (MCD) President and CEO Stephen Easterbrook Sold $35.3 million of Shares",
+                "features": {
+                    "keywords": [
+                        "Mcdonald's",
+                        "Stephen Easterbrook",
+                        "share sale",
+                        "insider trading"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food service"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-08-22",
+                "original_text": "McDonald’s McRib (MCD) Is Back — See Where",
+                "features": {
+                    "keywords": [
+                        "McDonald's",
+                        "McRib",
+                        "product launch"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "food service"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

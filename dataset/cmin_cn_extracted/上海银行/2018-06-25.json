@@ -1,0 +1,51 @@
+{
+    "2018-06-25": [
+        [
+            {
+                "time": "",
+                "original_text": "上海银行召开2017年度股东大会 注册资本上升至109.28亿元",
+                "features": {
+                    "keywords": [
+                        "上海银行",
+                        "股东大会",
+                        "注册资本",
+                        "109.28亿元"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "上海银行2017年度股东大会召开 每10股派5元转增4股",
+                "features": {
+                    "keywords": [
+                        "上海银行",
+                        "股东大会",
+                        "派息",
+                        "转增",
+                        "每10股派5元转增4股"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

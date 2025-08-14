@@ -1,0 +1,75 @@
+{
+    "2021-07-26": [
+        [
+            {
+                "time": "",
+                "original_text": "六大券商周二看好的六大板块",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "看好",
+                        "板块"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "未明确提及具体行业，但可能涉及金融、科技、消费等"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "台风“烟花”减弱，南航计划恢复15点后上海机场进出港航班",
+                "features": {
+                    "keywords": [
+                        "台风",
+                        "烟花",
+                        "减弱",
+                        "南航",
+                        "恢复",
+                        "上海机场",
+                        "航班"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空",
+                        "运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "上海机场：26日上海两场通行能力仍大幅下降",
+                "features": {
+                    "keywords": [
+                        "上海机场",
+                        "通行能力",
+                        "下降"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "机场",
+                        "交通运输"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

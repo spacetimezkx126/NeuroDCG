@@ -1,0 +1,52 @@
+{
+    "2019-12-16": [
+        [
+            {
+                "time": "",
+                "original_text": "中银基金李业绩两极分化，债基优异混基倒数 盈利能力下降",
+                "features": {
+                    "keywords": [
+                        "中银基金",
+                        "业绩两极分化",
+                        "债基优异",
+                        "混基倒数",
+                        "盈利能力下降"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基金",
+                        "债券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "恒指低开0.57% 超市及便利店板块领跌",
+                "features": {
+                    "keywords": [
+                        "恒指低开",
+                        "超市及便利店",
+                        "板块领跌"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "零售",
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

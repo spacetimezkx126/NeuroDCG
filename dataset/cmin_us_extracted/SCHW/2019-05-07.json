@@ -1,0 +1,72 @@
+{
+    "2019-05-07": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "As golf business booms in DFW, Charles Schwab prepares for its debut",
+                "features": {
+                    "keywords": [
+                        "golf business",
+                        "booms",
+                        "Charles Schwab",
+                        "debut"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "recreation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "TD Ameritrade Unveils Big Expansion Of Commission-Free ETF Roster",
+                "features": {
+                    "keywords": [
+                        "TD Ameritrade",
+                        "Expansion",
+                        "Commission-Free",
+                        "ETF"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "See what the IHS Markit Score report has to say about Charles Schwab Corp.",
+                "features": {
+                    "keywords": [
+                        "IHS Markit Score",
+                        "report",
+                        "Charles Schwab Corp."
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

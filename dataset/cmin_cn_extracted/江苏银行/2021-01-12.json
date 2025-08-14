@@ -1,0 +1,47 @@
+{
+    "2021-01-12": [
+        [
+            {
+                "time": "",
+                "original_text": "江苏银行现1笔大宗交易 ，共成交484.00万元",
+                "features": {
+                    "keywords": [
+                        "江苏银行",
+                        "大宗交易",
+                        "成交金额"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "风向真的变了，涨到极致股东减持意愿也降低？",
+                "features": {
+                    "keywords": [
+                        "风向变化",
+                        "涨到极致",
+                        "股东减持",
+                        "意愿降低"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

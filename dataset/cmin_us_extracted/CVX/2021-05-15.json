@@ -1,0 +1,80 @@
+{
+    "2021-05-15": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Proxy advisor ISS recommends votes for Chevron CEO, directors",
+                "features": {
+                    "keywords": [
+                        "proxy",
+                        "advisor",
+                        "ISS",
+                        "Chevron",
+                        "CEO",
+                        "directors"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "JPMorgan, Caterpillar Lead Five Dow Jones Stocks Near Buy Points",
+                "features": {
+                    "keywords": [
+                        "JPMorgan",
+                        "Caterpillar",
+                        "Dow",
+                        "Jones",
+                        "buy",
+                        "points"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-20",
+                "original_text": "Shell (RDS.A) Hits Oil in Gulf of Mexico's Leopard Prospect",
+                "features": {
+                    "keywords": [
+                        "Shell",
+                        "RDS.A",
+                        "oil",
+                        "Gulf",
+                        "Mexico",
+                        "Leopard",
+                        "prospect"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

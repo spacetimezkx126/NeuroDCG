@@ -1,0 +1,94 @@
+{
+    "2018-12-20": [
+        [
+            {
+                "time": "2023-02-20",
+                "original_text": "未来五年内黑客攻击或导致汽车业折损240亿美元",
+                "features": {
+                    "keywords": [
+                        "黑客攻击",
+                        "汽车业",
+                        "折损",
+                        "240亿美元"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-02-20",
+                "original_text": "蓝思科技股东质押2462万股，占其所持股份的8.55%",
+                "features": {
+                    "keywords": [
+                        "蓝思科技",
+                        "股东质押",
+                        "2462万股",
+                        "8.55%"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-02-20",
+                "original_text": "光伏设备商上机数控二度上市成功，进攻中仍存疑点",
+                "features": {
+                    "keywords": [
+                        "光伏设备",
+                        "上机数控",
+                        "二度上市",
+                        "疑点"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "光伏"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-12-20",
+                "original_text": "天风研究·固收转债日报",
+                "features": {
+                    "keywords": [
+                        "天风研究",
+                        "固收",
+                        "转债日报"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "债券市场"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

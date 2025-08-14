@@ -1,0 +1,76 @@
+{
+    "2020-09-23": [
+        [
+            {
+                "time": "",
+                "original_text": "开盘：恒指低开0.07% 乐享互动在港上市跌6.25%破发 连续下跌",
+                "features": {
+                    "keywords": [
+                        "恒指",
+                        "低开",
+                        "乐享互动",
+                        "破发",
+                        "连续下跌"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "港股",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-09-23",
+                "original_text": "智通港股早知道|(9月23日)中国广电成立或加速5G建设，留意中国铁塔(00788)等股价变化",
+                "features": {
+                    "keywords": [
+                        "中国广电",
+                        "5G建设",
+                        "中国铁塔",
+                        "加速"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "通信",
+                        "基建"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "申洲国际下半年订单高于预期",
+                "features": {
+                    "keywords": [
+                        "申洲国际",
+                        "下半年",
+                        "订单",
+                        "高于预期"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "纺织",
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

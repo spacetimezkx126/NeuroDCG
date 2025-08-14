@@ -1,0 +1,75 @@
+{
+    "2018-02-13": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Zacks.com highlights: Jones Lang LaSalle, Intel, Dollar General, AbbVie and Owens Corning",
+                "features": {
+                    "keywords": [
+                        "Jones Lang LaSalle",
+                        "Intel",
+                        "Dollar General",
+                        "AbbVie",
+                        "Owens Corning"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate",
+                        "technology",
+                        "retail",
+                        "pharmaceuticals",
+                        "materials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Better Buy: Eli Lilly and Company vs. Johnson & Johnson",
+                "features": {
+                    "keywords": [
+                        "Eli Lilly",
+                        "Johnson & Johnson",
+                        "Better Buy"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-02",
+                "original_text": "Bristol-Myers Squibb’s Virology Products in 4Q17",
+                "features": {
+                    "keywords": [
+                        "Bristol-Myers Squibb",
+                        "Virology Products",
+                        "4Q17"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

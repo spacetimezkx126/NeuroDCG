@@ -1,0 +1,80 @@
+{
+    "2020-07-25": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Benzinga's Bulls And Bears Of The Week: Apple, Coca-Cola, Twitter And More",
+                "features": {
+                    "keywords": [
+                        "Bulls",
+                        "Bears",
+                        "Apple",
+                        "Coca-Cola",
+                        "Twitter"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "consumer goods",
+                        "social media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Air Force Pushes Ahead With $23 Billion Project to Upgrade Boeing's Venerable F-15",
+                "features": {
+                    "keywords": [
+                        "Air Force",
+                        "Boeing",
+                        "F-15",
+                        "upgrade",
+                        "military project"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "defense",
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "Boeing to delay 777X as demand drops for big jets - sources",
+                "features": {
+                    "keywords": [
+                        "Boeing",
+                        "777X",
+                        "delay",
+                        "demand",
+                        "drops",
+                        "big jets"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "aerospace",
+                        "aviation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

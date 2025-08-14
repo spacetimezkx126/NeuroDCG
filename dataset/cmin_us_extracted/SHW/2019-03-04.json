@@ -1,0 +1,53 @@
+{
+    "2019-03-04": [
+        [
+            {
+                "time": "2023-10-15",
+                "original_text": "PPG Industries: Paint Partnership with the Oakland Raiders",
+                "features": {
+                    "keywords": [
+                        "PPG",
+                        "Industries",
+                        "Paint",
+                        "Partnership",
+                        "Oakland",
+                        "Raiders"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial goods",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-15",
+                "original_text": "Should We Be Delighted With The Sherwin-Williams Company’s (NYSE:SHW) ROE Of 30%?",
+                "features": {
+                    "keywords": [
+                        "Sherwin-Williams",
+                        "ROE",
+                        "30%"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial goods",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

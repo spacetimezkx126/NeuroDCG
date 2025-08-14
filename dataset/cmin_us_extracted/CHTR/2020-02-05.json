@@ -1,0 +1,100 @@
+{
+    "2020-02-05": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "David Carlson Trims Allergan, Charles Schwab Positions",
+                "features": {
+                    "keywords": [
+                        "Carlson",
+                        "Trims",
+                        "Allergan",
+                        "Charles Schwab"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-02-06",
+                "original_text": "Media Stock Earnings Lineup for Feb 6: NWSA, WWE, LGF.A",
+                "features": {
+                    "keywords": [
+                        "Media",
+                        "Stock",
+                        "Earnings",
+                        "NWSA",
+                        "WWE",
+                        "LGF.A"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "media"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "Comcast Stock Jumps After Analyst Calls It 'Too Cheap'",
+                "features": {
+                    "keywords": [
+                        "Comcast",
+                        "Stock",
+                        "Jumps",
+                        "Analyst",
+                        "Cheap"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-20",
+                "original_text": "Advance/Newhouse Notifies Charter of Intent to Establish Credit Facility Collateralized by Stake in Charter Communications Holdings, LLC",
+                "features": {
+                    "keywords": [
+                        "Advance/Newhouse",
+                        "Charter",
+                        "Credit",
+                        "Facility",
+                        "Stake",
+                        "Communications"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2018-09-12": [
+        [
+            {
+                "time": "",
+                "original_text": "深宝收深粮集团或牵出海大集团购销依赖及信批瑕疵",
+                "features": {
+                    "keywords": [
+                        "深宝",
+                        "深粮集团",
+                        "海大集团",
+                        "购销依赖",
+                        "信批瑕疵"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "农业",
+                        "食品加工"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "海大集团：近年对猪饲料持续投入 猪饲料产品竞争力大增",
+                "features": {
+                    "keywords": [
+                        "海大集团",
+                        "猪饲料",
+                        "持续投入",
+                        "竞争力"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "农业",
+                        "饲料行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

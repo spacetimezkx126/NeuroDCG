@@ -1,0 +1,53 @@
+{
+    "2020-01-24": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "E*TRADE (ETFC) Q4 Earnings Beat on Higher DARTs, Costs Up",
+                "features": {
+                    "keywords": [
+                        "E*TRADE",
+                        "Q4",
+                        "Earnings Beat",
+                        "Higher DARTs",
+                        "Costs Up"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "3 Big Stock Charts for Friday: General Motors, Charles Schwab, and LyondellBasell",
+                "features": {
+                    "keywords": [
+                        "Stock Charts",
+                        "General Motors",
+                        "Charles Schwab",
+                        "LyondellBasell"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "automotive",
+                        "finance",
+                        "chemicals"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}

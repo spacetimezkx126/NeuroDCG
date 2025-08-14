@@ -1,0 +1,50 @@
+{
+    "2018-07-11": [
+        [
+            {
+                "time": "2018-07-25",
+                "original_text": "Dominion Energy, Dominion Energy Midstream Schedule Second-Quarter Earnings Conference Call",
+                "features": {
+                    "keywords": [
+                        "Dominion Energy",
+                        "Midstream",
+                        "Second-Quarter",
+                        "Earnings",
+                        "Conference Call"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-07-25",
+                "original_text": "I Bought This Energy Stock for the Yield, But...",
+                "features": {
+                    "keywords": [
+                        "Bought",
+                        "Energy Stock",
+                        "Yield"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

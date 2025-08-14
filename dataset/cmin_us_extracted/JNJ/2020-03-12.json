@@ -1,0 +1,74 @@
+{
+    "2020-03-12": [
+        [
+            {
+                "time": "2020-03-11",
+                "original_text": "Coronavirus update: 127,863 cases, 4,718 deaths, Trump extends travel restrictions to parts of Europe",
+                "features": {
+                    "keywords": [
+                        "Coronavirus",
+                        "cases",
+                        "deaths",
+                        "travel restrictions",
+                        "Europe"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "transportation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-03-12",
+                "original_text": "Augmented-Reality Startup Magic Leap to Explore a Sale",
+                "features": {
+                    "keywords": [
+                        "Augmented-Reality",
+                        "Startup",
+                        "Magic Leap",
+                        "Sale"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-03-13",
+                "original_text": "21 Stocks to Buy for a Coronavirus Economy, According to Analysts",
+                "features": {
+                    "keywords": [
+                        "Stocks",
+                        "Buy",
+                        "Coronavirus",
+                        "Analysts"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "various"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

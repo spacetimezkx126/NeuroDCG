@@ -1,0 +1,52 @@
+{
+    "2019-11-26": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Hedge-fund managers to Taylor Swift and Disney’s Bob Iger: ‘Hold my beer’",
+                "features": {
+                    "keywords": [
+                        "Hedge-fund",
+                        "managers",
+                        "Taylor Swift",
+                        "Disney",
+                        "Bob Iger"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "entertainment",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Is Oracle Corporation (ORCL) Going to Burn These Hedge Funds?",
+                "features": {
+                    "keywords": [
+                        "Oracle Corporation",
+                        "ORCL",
+                        "Hedge Funds"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

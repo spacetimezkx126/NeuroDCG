@@ -1,0 +1,50 @@
+{
+    "2019-03-27": [
+        [
+            {
+                "time": "",
+                "original_text": "[路演]顺丰控股：预计下半年盈利能力将有所回升",
+                "features": {
+                    "keywords": [
+                        "顺丰控股",
+                        "盈利能力",
+                        "下半年",
+                        "回升"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "物流",
+                        "快递"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "顺丰没有护城河？",
+                "features": {
+                    "keywords": [
+                        "顺丰",
+                        "护城河"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流",
+                        "快递"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

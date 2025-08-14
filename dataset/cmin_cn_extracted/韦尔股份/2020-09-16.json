@@ -1,0 +1,79 @@
+{
+    "2020-09-16": [
+        [
+            {
+                "time": "",
+                "original_text": "A股收盘综述：创业板综指缩量收跌1.39%，市场资金围猎注册制次新股",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "创业板综指",
+                        "缩量",
+                        "收跌",
+                        "注册制",
+                        "次新股"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "创业板",
+                        "次新股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "芯片股继续活跃，中芯国际-U、韦尔股份、华润微、兆易创新普涨",
+                "features": {
+                    "keywords": [
+                        "芯片股",
+                        "中芯国际-U",
+                        "韦尔股份",
+                        "华润微",
+                        "兆易创新",
+                        "普涨"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "芯片",
+                        "科技股"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "66亿基金踏空牛市，管理费却暴增100%，发生了什么？",
+                "features": {
+                    "keywords": [
+                        "基金",
+                        "牛市",
+                        "管理费",
+                        "暴增",
+                        "踏空"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

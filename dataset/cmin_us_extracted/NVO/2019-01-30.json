@@ -1,0 +1,52 @@
+{
+    "2019-01-30": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "House Democratic leaders probe 3 major drugmakers on insulin prices",
+                "features": {
+                    "keywords": [
+                        "Democratic",
+                        "probe",
+                        "drugmakers",
+                        "insulin",
+                        "prices"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Biotech Stocks Facing FDA Decision In February",
+                "features": {
+                    "keywords": [
+                        "Biotech",
+                        "Stocks",
+                        "FDA",
+                        "Decision",
+                        "February"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "2021-10-04": [
+        [
+            {
+                "time": "2022-10-01",
+                "original_text": "GlobalFoundries Files for an IPO, Capitalizing on Chip Boom",
+                "features": {
+                    "keywords": [
+                        "GlobalFoundries",
+                        "IPO",
+                        "Chip",
+                        "Boom"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "semiconductors"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2022-10-02",
+                "original_text": "Here's Why the Chip Shortage May Hurt Chipmakers Like NXP and TSMC in 2023",
+                "features": {
+                    "keywords": [
+                        "Chip",
+                        "Shortage",
+                        "NXP",
+                        "TSMC",
+                        "2023"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "semiconductors"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2022-10-03",
+                "original_text": "Why Is Everyone Talking About ASML Stock?",
+                "features": {
+                    "keywords": [
+                        "ASML",
+                        "Stock",
+                        "Talking"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "semiconductors"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2022-10-04",
+                "original_text": "Taiwan Says Peace Crucial to Chip Supply as China Pressure Grows",
+                "features": {
+                    "keywords": [
+                        "Taiwan",
+                        "Peace",
+                        "Chip",
+                        "Supply",
+                        "China",
+                        "Pressure"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "geopolitics",
+                        "semiconductors"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

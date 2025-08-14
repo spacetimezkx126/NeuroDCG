@@ -1,0 +1,50 @@
+{
+    "2019-08-05": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "What happens when you take a Tesla on a summer road trip",
+                "features": {
+                    "keywords": [
+                        "Tesla",
+                        "summer",
+                        "road trip"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automobile",
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "5 Dividend Aristocrats Where Analysts See Capital Gains",
+                "features": {
+                    "keywords": [
+                        "Dividend Aristocrats",
+                        "capital gains",
+                        "analysts"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "financial services",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

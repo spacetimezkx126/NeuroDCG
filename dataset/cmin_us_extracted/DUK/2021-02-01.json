@@ -1,0 +1,51 @@
+{
+    "2021-02-01": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "Duke Energy named one of Fortune's 'World's Most Admired Companies' for fourth consecutive year",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "Fortune",
+                        "Most Admired Companies",
+                        "fourth consecutive year"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "New Duke Energy subsidiary, eTransEnergy, to help companies and cities transition commercial fleets to electric vehicles",
+                "features": {
+                    "keywords": [
+                        "Duke Energy",
+                        "eTransEnergy",
+                        "electric vehicles",
+                        "commercial fleets"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "transportation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "2020-05-24": [
+        [
+            {
+                "time": "2020-03-15",
+                "original_text": "An 'unprecedented' effort to find a coronavirus vaccine has over 100 horses in the race",
+                "features": {
+                    "keywords": [
+                        "coronavirus",
+                        "vaccine",
+                        "effort",
+                        "race"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotech"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-04-20",
+                "original_text": "3 Large-Cap Coronavirus Stocks Still Worth Buying",
+                "features": {
+                    "keywords": [
+                        "Large-Cap",
+                        "Coronavirus",
+                        "Stocks",
+                        "Buying"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

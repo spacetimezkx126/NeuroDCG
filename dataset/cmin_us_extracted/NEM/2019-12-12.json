@@ -1,0 +1,55 @@
+{
+    "2019-12-12": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "GT Gold Closes C$8.3 Million Investment by Newmont Goldcorp Corporation",
+                "features": {
+                    "keywords": [
+                        "Gold",
+                        "Closes",
+                        "Investment",
+                        "Newmont",
+                        "Goldcorp",
+                        "Corporation"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Barrick Gold Corp Promises to Outperform",
+                "features": {
+                    "keywords": [
+                        "Barrick",
+                        "Gold",
+                        "Corp",
+                        "Promises",
+                        "Outperform"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "mining",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

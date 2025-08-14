@@ -1,0 +1,70 @@
+{
+    "2019-01-11": [
+        [
+            {
+                "time": "2023-01-11",
+                "original_text": "A股共发生30宗大宗交易成交6.35亿元（1月11日）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "大宗交易",
+                        "成交额"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-01-11",
+                "original_text": "财通证券今日大宗交易成交1435万股，成交价6.96元折价10.77%",
+                "features": {
+                    "keywords": [
+                        "财通证券",
+                        "大宗交易",
+                        "折价"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-01-11",
+                "original_text": "上市券商12月经营数据点评;资本市场改革预期利好券商板块,看好大券商",
+                "features": {
+                    "keywords": [
+                        "券商",
+                        "经营数据",
+                        "资本市场改革",
+                        "利好"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

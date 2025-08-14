@@ -1,0 +1,73 @@
+{
+    "2019-05-24": [
+        [
+            {
+                "time": "",
+                "original_text": "恒丰银行发布澄清公告：与建设银行的相关报道严重不实",
+                "features": {
+                    "keywords": [
+                        "恒丰银行",
+                        "澄清公告",
+                        "建设银行",
+                        "严重不实"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "建设银行关于托管包商银行的公告",
+                "features": {
+                    "keywords": [
+                        "建设银行",
+                        "托管",
+                        "包商银行",
+                        "公告"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "建设银行(601939.SH)接受接管组委托 托管包商银行业务",
+                "features": {
+                    "keywords": [
+                        "建设银行",
+                        "601939.SH",
+                        "接管组",
+                        "托管",
+                        "包商银行"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

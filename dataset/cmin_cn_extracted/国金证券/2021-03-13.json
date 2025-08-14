@@ -1,0 +1,69 @@
+{
+    "2021-03-13": [
+        [
+            {
+                "time": "2021-03-13",
+                "original_text": "Wind风控日报2021年3月13日星期六",
+                "features": {
+                    "keywords": [
+                        "风控",
+                        "日报"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-03-13",
+                "original_text": "上市公司正面负面新闻2021年3月13日星期六",
+                "features": {
+                    "keywords": [
+                        "上市公司",
+                        "正面负面新闻"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全行业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "both"
+                }
+            },
+            {
+                "time": "2021-03-13",
+                "original_text": "美国三大股指收盘涨跌不一，道指连涨六日再创新高",
+                "features": {
+                    "keywords": [
+                        "美国",
+                        "三大股指",
+                        "收盘",
+                        "涨跌不一",
+                        "道指",
+                        "连涨六日",
+                        "新高"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2021-06-17": [
+        [
+            {
+                "time": "2021-05-01",
+                "original_text": "ADP Canada National Employment Report: Employment in Canada Increased by 101,600 Jobs in May 2021",
+                "features": {
+                    "keywords": [
+                        "employment",
+                        "increased",
+                        "jobs",
+                        "canada"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "employment",
+                        "national"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-06-08",
+                "original_text": "Bank, Airline Sites Go Dark Briefly in Broad Internet Outage",
+                "features": {
+                    "keywords": [
+                        "bank",
+                        "airline",
+                        "internet outage",
+                        "broad"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance",
+                        "transportation"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

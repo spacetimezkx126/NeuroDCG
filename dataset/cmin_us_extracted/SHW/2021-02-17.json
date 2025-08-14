@@ -1,0 +1,52 @@
+{
+    "2021-02-17": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "We are long overdue for an infrastructure bill: PPG Industries CEO",
+                "features": {
+                    "keywords": [
+                        "infrastructure bill",
+                        "PPG Industries",
+                        "CEO"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "construction",
+                        "materials"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Sherwin-Williams Declares Dividend of $1.65 per Common Share; Board Approves Additional 15 Million Share Repurchase Authorization",
+                "features": {
+                    "keywords": [
+                        "Sherwin-Williams",
+                        "Dividend",
+                        "$1.65",
+                        "Share Repurchase",
+                        "Authorization"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods",
+                        "paints and coatings"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

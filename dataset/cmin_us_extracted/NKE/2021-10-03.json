@@ -1,0 +1,53 @@
+{
+    "2021-10-03": [
+        [
+            {
+                "time": "2018-09-30",
+                "original_text": "Why Under Armour Stock Lost 13% in September",
+                "features": {
+                    "keywords": [
+                        "Under Armour",
+                        "Stock",
+                        "Lost",
+                        "13%",
+                        "September"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "apparel",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2019-11-14",
+                "original_text": "Levi Strauss Q3 Earnings: What to Watch For",
+                "features": {
+                    "keywords": [
+                        "Levi Strauss",
+                        "Q3",
+                        "Earnings",
+                        "Watch"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "apparel",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

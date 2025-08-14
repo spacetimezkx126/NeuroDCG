@@ -1,0 +1,49 @@
+{
+    "2019-10-30": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Home Depot (HD) Outpaces Stock Market Gains: What You Should Know",
+                "features": {
+                    "keywords": [
+                        "Home Depot",
+                        "outpaces",
+                        "stock market gains"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "construction"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Why lower interest rates aren't necessarily good for the housing market",
+                "features": {
+                    "keywords": [
+                        "lower interest rates",
+                        "housing market"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "real estate",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

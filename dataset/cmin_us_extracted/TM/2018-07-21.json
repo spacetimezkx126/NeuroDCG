@@ -1,0 +1,55 @@
+{
+    "2018-07-21": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Data breach exposes trade secrets of carmakers GM, Ford, Tesla, Toyota",
+                "features": {
+                    "keywords": [
+                        "data breach",
+                        "trade secrets",
+                        "carmakers",
+                        "GM",
+                        "Ford",
+                        "Tesla",
+                        "Toyota"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "automobile"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Amazon, Toyota, Alcoa and others working to counter Trump's tariff plans",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "Toyota",
+                        "Alcoa",
+                        "tariff",
+                        "Trump"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "manufacturing",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "2021-12-23": [
+        [
+            {
+                "time": "2018-12-26",
+                "original_text": "Dow Jones Jumps 200 Points, S&P 500 Near High In Christmas Rally",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "S&P 500",
+                        "Jumps",
+                        "Points",
+                        "High",
+                        "Christmas Rally"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "finance",
+                        "market indices"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-12-26",
+                "original_text": "Top Cyclical Stocks To Buy Now",
+                "features": {
+                    "keywords": [
+                        "Cyclical Stocks",
+                        "Buy",
+                        "Now"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "cyclical stocks"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-12-26",
+                "original_text": "Mainstay Vp Funds Trust Buys Cigna Corp, Dominion Energy Inc, Siemens AG, Sells PNC Financial...",
+                "features": {
+                    "keywords": [
+                        "Mainstay Vp Funds Trust",
+                        "Buys",
+                        "Cigna Corp",
+                        "Dominion Energy Inc",
+                        "Siemens AG",
+                        "Sells",
+                        "PNC Financial"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "energy",
+                        "financial services"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            },
+            {
+                "time": "2018-12-26",
+                "original_text": "Our Caterpillar Price Targets Are Inching Higher",
+                "features": {
+                    "keywords": [
+                        "Caterpillar",
+                        "Price Targets",
+                        "Inching Higher"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

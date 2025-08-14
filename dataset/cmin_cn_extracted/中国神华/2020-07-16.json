@@ -1,0 +1,51 @@
+{
+    "2020-07-16": [
+        [
+            {
+                "time": "",
+                "original_text": "国家能源投资集团有限责任公司成立三家新公司",
+                "features": {
+                    "keywords": [
+                        "国家能源投资集团",
+                        "成立",
+                        "新公司"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "能源",
+                        "国企改革"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "神华集团拥有97座大型煤矿，162个火电厂，年收入达2600亿",
+                "features": {
+                    "keywords": [
+                        "神华集团",
+                        "煤矿",
+                        "火电厂",
+                        "年收入"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "煤炭",
+                        "电力"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

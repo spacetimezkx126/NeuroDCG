@@ -1,0 +1,53 @@
+{
+    "2018-07-11": [
+        [
+            {
+                "time": "2018-01-02",
+                "original_text": "Barrick clips 2018 copper production outlook, sees higher costs",
+                "features": {
+                    "keywords": [
+                        "Barrick",
+                        "copper",
+                        "production",
+                        "outlook",
+                        "higher",
+                        "costs"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "mining",
+                        "metals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-07-01",
+                "original_text": "Why Investors Should Take a Look at Gold in H2 2018",
+                "features": {
+                    "keywords": [
+                        "Investors",
+                        "Gold",
+                        "H2",
+                        "2018"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "precious metals"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

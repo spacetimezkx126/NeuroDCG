@@ -1,0 +1,98 @@
+{
+    "2018-06-11": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Better Buy: Verizon Communications Inc. vs. Johnson & Johnson",
+                "features": {
+                    "keywords": [
+                        "Verizon",
+                        "Communications",
+                        "Johnson & Johnson"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "telecommunications",
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "Investors ready to resuscitate Johnson & Johnson's ailing stock",
+                "features": {
+                    "keywords": [
+                        "Investors",
+                        "resuscitate",
+                        "Johnson & Johnson",
+                        "ailing stock"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "Dow Movers: MCD, CSCO",
+                "features": {
+                    "keywords": [
+                        "Dow Movers",
+                        "MCD",
+                        "CSCO"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "consumer goods",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-03-15",
+                "original_text": "Notable ETF Inflow Detected - ACWI, JPM, XOM, JNJ",
+                "features": {
+                    "keywords": [
+                        "ETF Inflow",
+                        "ACWI",
+                        "JPM",
+                        "XOM",
+                        "JNJ"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "global markets",
+                        "finance",
+                        "energy",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

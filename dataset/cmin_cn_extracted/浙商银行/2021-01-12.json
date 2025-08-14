@@ -1,0 +1,52 @@
+{
+    "2021-01-12": [
+        [
+            {
+                "time": "",
+                "original_text": "资本市场狂挣11亿，监管层狂发罚单，百年寿险冰与火共存的2020",
+                "features": {
+                    "keywords": [
+                        "资本市场",
+                        "监管层",
+                        "罚单",
+                        "百年寿险",
+                        "2020"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "保险"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-01-11",
+                "original_text": "信用债日报2021年1月11日",
+                "features": {
+                    "keywords": [
+                        "信用债",
+                        "日报",
+                        "2021",
+                        "1月11日"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "债券"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

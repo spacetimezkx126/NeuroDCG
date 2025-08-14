@@ -1,0 +1,78 @@
+{
+    "2019-09-23": [
+        [
+            {
+                "time": "2023-10-16",
+                "original_text": "US Indexes Close Mostly Flat Monday",
+                "features": {
+                    "keywords": [
+                        "Indexes",
+                        "Close",
+                        "Flat",
+                        "Monday"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general_market"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-16",
+                "original_text": "Dow flat despite losses for shares of Dow Inc., UnitedHealth",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "flat",
+                        "losses",
+                        "shares",
+                        "Dow Inc.",
+                        "UnitedHealth"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-16",
+                "original_text": "UnitedHealth, Caterpillar share losses contribute to Dow's nearly 75-point drop",
+                "features": {
+                    "keywords": [
+                        "UnitedHealth",
+                        "Caterpillar",
+                        "share",
+                        "losses",
+                        "Dow",
+                        "drop"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "2021-09-14": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Inflation Cooled Last Month. It’s Still Running High.",
+                "features": {
+                    "keywords": [
+                        "Inflation",
+                        "Cooled",
+                        "Month",
+                        "Running",
+                        "High"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "3 Companies Cut Their Outlooks. Why Their Stocks Can’t Be Counted Out.",
+                "features": {
+                    "keywords": [
+                        "Companies",
+                        "Cut",
+                        "Outlooks",
+                        "Stocks",
+                        "Counted",
+                        "Out"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "business",
+                        "stocks"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Inflation Cooled a Bit in August. It’s Still High.",
+                "features": {
+                    "keywords": [
+                        "Inflation",
+                        "Cooled",
+                        "Bit",
+                        "August",
+                        "Still",
+                        "High"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "economy",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

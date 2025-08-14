@@ -1,0 +1,117 @@
+{
+    "2020-09-01": [
+        [
+            {
+                "time": "2020-09-14",
+                "original_text": "['Trump', 'Insists', 'on', 'Compensation', 'for', 'U.S.', 'in', 'Any', 'TikTok', 'Sale']",
+                "features": {
+                    "keywords": [
+                        "Trump",
+                        "TikTok",
+                        "compensation"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "media"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false"
+                }
+            },
+            {
+                "time": "2020-09-14",
+                "original_text": "['Nvidia’s', 'Latest', 'Chips', 'Are', 'a', 'Literal', 'Game', 'Changer']",
+                "features": {
+                    "keywords": [
+                        "Nvidia",
+                        "chips",
+                        "game changer"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "semiconductors"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-09-14",
+                "original_text": "['Why', 'Zoom', 'Stock', 'Rocketed', 'to', 'a', 'New', 'All-Time', 'High', 'Today']",
+                "features": {
+                    "keywords": [
+                        "Zoom",
+                        "stock",
+                        "all-time high"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "communications"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-09-14",
+                "original_text": "['Dow', 'Jones', 'Futures:', 'Stock', 'Market', 'Rally', 'All', 'About', 'Techs', 'As', 'Tesla', 'Plans', 'Stock', 'Sale,', 'Ultimate', 'Coronavirus', 'Play', 'Zoom', 'Video', 'Spikes', 'On', 'Earnings']",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "techs",
+                        "Tesla",
+                        "Zoom",
+                        "earnings"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-09-14",
+                "original_text": "['President', 'Trump', 'Defends', 'Kenosha', 'Visit,', 'Touts', 'August', 'Stock', 'Market', 'Gains']",
+                "features": {
+                    "keywords": [
+                        "Trump",
+                        "Kenosha",
+                        "stock market gains"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "politics",
+                        "market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

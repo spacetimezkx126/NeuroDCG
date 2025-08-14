@@ -1,0 +1,71 @@
+{
+    "2021-08-09": [
+        [
+            {
+                "time": "",
+                "original_text": "投资是终身职业，这位耄耋老人刚获资格",
+                "features": {
+                    "keywords": [
+                        "投资",
+                        "终身职业",
+                        "耄耋老人",
+                        "资格"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "市场风格切换？食品饮料掀起涨停潮，券商：这些个股值得关注",
+                "features": {
+                    "keywords": [
+                        "市场风格",
+                        "切换",
+                        "食品饮料",
+                        "涨停潮",
+                        "券商",
+                        "个股"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "绝味不止卖鸭脖，也在悄悄做投资",
+                "features": {
+                    "keywords": [
+                        "绝味",
+                        "鸭脖",
+                        "投资"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

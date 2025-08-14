@@ -1,0 +1,52 @@
+{
+    "2021-05-31": [
+        [
+            {
+                "time": "",
+                "original_text": "A股“五穷”变“五富”，5月户均盈利逾2万元",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "五穷",
+                        "五富",
+                        "户均盈利"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中银证券全球首席经济学家管涛：分析人民币汇率走势，逻辑比结论更重要",
+                "features": {
+                    "keywords": [
+                        "中银证券",
+                        "管涛",
+                        "人民币汇率",
+                        "走势分析",
+                        "逻辑"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "外汇"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

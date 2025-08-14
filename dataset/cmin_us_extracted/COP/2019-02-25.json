@@ -1,0 +1,70 @@
+{
+    "2019-02-25": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "How Much Did ConocoPhillips’s (NYSE:COP) CEO Pocket Last Year?",
+                "features": {
+                    "keywords": [
+                        "ConocoPhillips",
+                        "CEO",
+                        "compensation"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "Oil Fell on Trump’s Tweet this Morning",
+                "features": {
+                    "keywords": [
+                        "Oil",
+                        "Trump",
+                        "Tweet"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-05-10",
+                "original_text": "ConocoPhillips shuts down Suban gas field for planned maintenance",
+                "features": {
+                    "keywords": [
+                        "ConocoPhillips",
+                        "Suban",
+                        "gas",
+                        "maintenance"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

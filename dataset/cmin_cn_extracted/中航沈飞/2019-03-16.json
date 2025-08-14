@@ -1,0 +1,53 @@
+{
+    "2019-03-16": [
+        [
+            {
+                "time": "",
+                "original_text": "中航沈飞去年净利7.43亿同比增5% 董事长郭殿满年薪72万元",
+                "features": {
+                    "keywords": [
+                        "中航沈飞",
+                        "净利润",
+                        "同比增长",
+                        "董事长",
+                        "年薪"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "航空制造"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "热门股年报陆续公布 基金仍青睐食品饮料和5G",
+                "features": {
+                    "keywords": [
+                        "热门股",
+                        "年报",
+                        "基金",
+                        "食品饮料",
+                        "5G"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料",
+                        "通信技术"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

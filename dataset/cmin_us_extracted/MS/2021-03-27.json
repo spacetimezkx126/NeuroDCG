@@ -1,0 +1,71 @@
+{
+    "2021-03-27": [
+        [
+            {
+                "time": "2021-04-02",
+                "original_text": "Large block trades that caused selling raises questions about cause",
+                "features": {
+                    "keywords": [
+                        "block trades",
+                        "selling",
+                        "questions"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "general market"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-04-02",
+                "original_text": "Why ViacomCBS, Discovery, Baidu, And Other Shares Were Volatile On Friday: Reports",
+                "features": {
+                    "keywords": [
+                        "ViacomCBS",
+                        "Discovery",
+                        "Baidu",
+                        "volatile"
+                    ],
+                    "sentiment_score": 0.0,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "media",
+                        "technology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-04-02",
+                "original_text": "$35 Billion Automation Software Maker UiPath Files for IPO",
+                "features": {
+                    "keywords": [
+                        "UiPath",
+                        "IPO",
+                        "Automation Software"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

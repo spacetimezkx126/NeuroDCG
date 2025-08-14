@@ -1,0 +1,50 @@
+{
+    "2019-01-11": [
+        [
+            {
+                "time": "",
+                "original_text": "邮储行最高领导同时空窗 人事洗牌或势在必然",
+                "features": {
+                    "keywords": [
+                        "邮储行",
+                        "最高领导",
+                        "空窗",
+                        "人事洗牌"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "银行"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-01-11",
+                "original_text": "【天风研究·固收】信用早早报（1月11日）",
+                "features": {
+                    "keywords": [
+                        "天风研究",
+                        "固收",
+                        "信用早早报"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "债券",
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

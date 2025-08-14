@@ -1,0 +1,53 @@
+{
+    "2019-12-31": [
+        [
+            {
+                "time": "",
+                "original_text": "恩捷股份：公司及子公司担保总额占最近一期经审计净资产的311.50% 大额借贷担保",
+                "features": {
+                    "keywords": [
+                        "恩捷股份",
+                        "担保总额",
+                        "大额借贷",
+                        "财务风险"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "【申港电新】欧洲新能源车3月销量分析",
+                "features": {
+                    "keywords": [
+                        "申港电新",
+                        "欧洲",
+                        "新能源车",
+                        "销量分析",
+                        "市场趋势"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

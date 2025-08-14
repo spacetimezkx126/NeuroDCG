@@ -1,0 +1,52 @@
+{
+    "2021-02-07": [
+        [
+            {
+                "time": "",
+                "original_text": "金融股，你们要努力啊！快手追来了",
+                "features": {
+                    "keywords": [
+                        "金融股",
+                        "努力",
+                        "快手"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "本周央行及银保监会行政处罚汇总：中信银行因反洗钱不力被罚2890万元 金融监管处罚",
+                "features": {
+                    "keywords": [
+                        "央行",
+                        "银保监会",
+                        "行政处罚",
+                        "中信银行",
+                        "反洗钱",
+                        "罚款",
+                        "金融监管"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

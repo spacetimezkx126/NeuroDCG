@@ -1,0 +1,53 @@
+{
+    "2018-12-18": [
+        [
+            {
+                "time": "",
+                "original_text": "华东医药控股股东远大集团质押2800万股，占其所持股份的4.6%",
+                "features": {
+                    "keywords": [
+                        "华东医药",
+                        "控股股东",
+                        "远大集团",
+                        "质押",
+                        "2800万股",
+                        "4.6%"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-12-17",
+                "original_text": "【金融工程】唐军、陈俊伟（研究助理）、李倩云（研究助理）：中泰金工事件驱动周报主营产品涨价及冷门股效应-20181217",
+                "features": {
+                    "keywords": [
+                        "金融工程",
+                        "中泰金工",
+                        "事件驱动",
+                        "主营产品涨价",
+                        "冷门股效应"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

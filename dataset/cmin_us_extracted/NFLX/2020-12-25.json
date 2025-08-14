@@ -1,0 +1,51 @@
+{
+    "2020-12-25": [
+        [
+            {
+                "time": "2021-01-01",
+                "original_text": "The 2021 movie calendar is a preview of Hollywood’s new normal",
+                "features": {
+                    "keywords": [
+                        "movie calendar",
+                        "Hollywood",
+                        "new normal"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "entertainment"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-06-15",
+                "original_text": "Yoozoo Games CEO Lin Dies at 39 Amid Poisoning Probe",
+                "features": {
+                    "keywords": [
+                        "Yoozoo Games",
+                        "CEO",
+                        "Lin",
+                        "Poisoning",
+                        "Probe"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "gaming",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

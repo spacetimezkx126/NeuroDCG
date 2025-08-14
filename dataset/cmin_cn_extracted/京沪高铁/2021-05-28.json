@@ -1,0 +1,75 @@
+{
+    "2021-05-28": [
+        [
+            {
+                "time": "",
+                "original_text": "上交所与中证指数公司调整上证50、上证180等指数样本",
+                "features": {
+                    "keywords": [
+                        "上交所",
+                        "中证指数公司",
+                        "上证50",
+                        "上证180",
+                        "指数样本调整"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "指数基金"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "北向资金本周净买入额创纪录，美的集团获大幅净买入逾11亿元",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "净买入",
+                        "美的集团",
+                        "创纪录"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "家电",
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "北向资金动向盘点：净买146亿，电子拔得头筹",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "净买入",
+                        "电子行业"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电子",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

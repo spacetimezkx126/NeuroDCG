@@ -1,0 +1,52 @@
+{
+    "2018-04-19": [
+        [
+            {
+                "time": "",
+                "original_text": "中国人保：建议延长A股发行方案及A股发行相关授权的有效期",
+                "features": {
+                    "keywords": [
+                        "中国人保",
+                        "A股发行",
+                        "延长有效期"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "保险",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中国人保携手汽车超人推“双品牌门店”，计划上海合作500家",
+                "features": {
+                    "keywords": [
+                        "中国人保",
+                        "汽车超人",
+                        "双品牌门店",
+                        "上海合作"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "保险",
+                        "汽车服务",
+                        "零售"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

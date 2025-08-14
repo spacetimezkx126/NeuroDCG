@@ -1,0 +1,56 @@
+{
+    "2020-03-09": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Is McDonald's (MCD) Stock Outpacing Its Retail-Wholesale Peers This Year?",
+                "features": {
+                    "keywords": [
+                        "McDonald's",
+                        "MCD",
+                        "Outpacing",
+                        "Retail-Wholesale",
+                        "Peers"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "wholesale",
+                        "food service"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Coronavirus outbreak may attack your favorite restaurant's bottom line",
+                "features": {
+                    "keywords": [
+                        "Coronavirus",
+                        "outbreak",
+                        "attack",
+                        "restaurant",
+                        "bottom line"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "hospitality",
+                        "food service"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

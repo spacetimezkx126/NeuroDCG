@@ -1,0 +1,50 @@
+{
+    "2018-12-20": [
+        [
+            {
+                "time": "",
+                "original_text": "白，云，山，控，股，子，公，司，被，收，回，药，品，G，M，P，证，书， ，国，药，监，局，检，查，发，现，主，要，有，三，大，问，题",
+                "features": {
+                    "keywords": [
+                        "白云山",
+                        "子公司",
+                        "药品GMP证书",
+                        "收回",
+                        "国家药监局",
+                        "检查问题"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "因，违，规，，这，个，药，品，已，启，动，召，回，了，！",
+                "features": {
+                    "keywords": [
+                        "违规",
+                        "药品召回"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

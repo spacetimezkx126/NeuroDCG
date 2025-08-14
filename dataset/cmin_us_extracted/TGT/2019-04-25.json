@@ -1,0 +1,72 @@
+{
+    "2019-04-25": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Burlington Stores (BURL) Jumps: Stock Rises 9.1%",
+                "features": {
+                    "keywords": [
+                        "Burlington Stores",
+                        "Stock Rises",
+                        "Jumps"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Is Amazon Inching Closer to Buying Kohl's?",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "Kohl's",
+                        "Buying"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Scientists model ‘gene drive’ for malaria carrier insect",
+                "features": {
+                    "keywords": [
+                        "Scientists",
+                        "gene drive",
+                        "malaria",
+                        "carrier insect"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "biotech",
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

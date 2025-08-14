@@ -1,0 +1,55 @@
+{
+    "2020-10-16": [
+        [
+            {
+                "time": "",
+                "original_text": "【行情】港股中资券商股拉升，招商证券涨5.4%，国联证券涨4.7%，中国银河涨3.22%，光大证券涨2.8%，中信证券与中信建投证券涨近2%。",
+                "features": {
+                    "keywords": [
+                        "券商股",
+                        "招商证券",
+                        "国联证券",
+                        "中国银河",
+                        "光大证券",
+                        "中信证券",
+                        "中信建投证券"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "券商"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "光大证券：建业新生活聚焦本地生活 打造服务体系。",
+                "features": {
+                    "keywords": [
+                        "光大证券",
+                        "建业新生活",
+                        "本地生活",
+                        "服务体系"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "服务行业",
+                        "本地生活"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

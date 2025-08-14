@@ -1,0 +1,120 @@
+{
+    "2018-10-01": [
+        [
+            {
+                "time": "2018-09-27",
+                "original_text": "Why the NASDAQ Composite Index Rose 0.7% on September 27",
+                "features": {
+                    "keywords": [
+                        "NASDAQ",
+                        "Composite Index",
+                        "Rose"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-09-27",
+                "original_text": "U.S. sues after California governor signs 'net neutrality' law",
+                "features": {
+                    "keywords": [
+                        "U.S.",
+                        "sues",
+                        "California",
+                        "net neutrality"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "telecommunications",
+                        "internet"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-09-27",
+                "original_text": "EU regulators receive second Google report on shopping case",
+                "features": {
+                    "keywords": [
+                        "EU",
+                        "regulators",
+                        "Google",
+                        "shopping case"
+                    ],
+                    "sentiment_score": -0.4,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "e-commerce",
+                        "internet"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-09-27",
+                "original_text": "Google to Spend $12 Billion to Remain Apple Safari’s 2019 Default Search Engine: GS",
+                "features": {
+                    "keywords": [
+                        "Google",
+                        "Spend",
+                        "Apple",
+                        "Safari",
+                        "Search Engine"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "internet"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-09-27",
+                "original_text": "Amazon Touched $1 Trillion Market Cap: Is It Still Undervalued?",
+                "features": {
+                    "keywords": [
+                        "Amazon",
+                        "Trillion",
+                        "Market Cap",
+                        "Undervalued"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

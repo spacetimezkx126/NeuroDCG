@@ -1,0 +1,51 @@
+{
+    "2021-04-12": [
+        [
+            {
+                "time": "2021-01-27",
+                "original_text": "‘Optimism', 'has', 'huge', 'risks’:, 'Why', 'new', 'investors,', 'excited', 'by', 'GameStop’s', 'rollercoaster', 'ride,', 'should', 'rethink', 'their', 'rose-colored', 'glasses'",
+                "features": {
+                    "keywords": [
+                        "optimism",
+                        "huge risks",
+                        "GameStop",
+                        "rollercoaster ride",
+                        "rethink"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "retail",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2021-02-15",
+                "original_text": "Can You Retire a Millionaire With Index Funds?",
+                "features": {
+                    "keywords": [
+                        "retire",
+                        "millionaire",
+                        "index funds"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "2021-09-17": [
+        [
+            {
+                "time": "2023-10-22",
+                "original_text": "中国神华：将于10月22日召开临时股东大会",
+                "features": {
+                    "keywords": [
+                        "中国神华",
+                        "临时股东大会"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-22",
+                "original_text": "新一批“电改”在路上，新能源发电全面爆发",
+                "features": {
+                    "keywords": [
+                        "电改",
+                        "新能源",
+                        "发电"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "电力",
+                        "新能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "2021-02-02": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Mall Operator Simon Property Group Launches SPAC for Retail",
+                "features": {
+                    "keywords": [
+                        "Mall",
+                        "Operator",
+                        "Simon",
+                        "Property",
+                        "Group",
+                        "Launches",
+                        "SPAC",
+                        "Retail"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "real_estate",
+                        "retail"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "3 Top Stocks With High Dividend Yields",
+                "features": {
+                    "keywords": [
+                        "Top",
+                        "Stocks",
+                        "High",
+                        "Dividend",
+                        "Yields"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "dividend_stocks"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

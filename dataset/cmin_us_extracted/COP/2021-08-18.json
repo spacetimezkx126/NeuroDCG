@@ -1,0 +1,75 @@
+{
+    "2021-08-18": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Federal judge throws out U.S. approval of ConocoPhillips Alaska oil project",
+                "features": {
+                    "keywords": [
+                        "judge",
+                        "throws out",
+                        "approval",
+                        "ConocoPhillips",
+                        "Alaska",
+                        "oil project"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "Crude Drops to Three-Month Low After U.S. Fuel Demand Falls",
+                "features": {
+                    "keywords": [
+                        "Crude",
+                        "Drops",
+                        "Three-Month Low",
+                        "Fuel Demand",
+                        "Falls"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2018-05-20",
+                "original_text": "ConocoPhillips (COP) Eyes Williston Basin Assets Divestment",
+                "features": {
+                    "keywords": [
+                        "ConocoPhillips",
+                        "Williston Basin",
+                        "Assets",
+                        "Divestment"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            }
+        ]
+    ]
+}

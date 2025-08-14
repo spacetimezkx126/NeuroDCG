@@ -1,0 +1,56 @@
+{
+    "2019-05-18": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Ag Economy Is So Bad That Farmers Hang on to Old Deere Tractors",
+                "features": {
+                    "keywords": [
+                        "ag economy",
+                        "bad",
+                        "farmers",
+                        "Deere tractors"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "agriculture",
+                        "manufacturing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "5 Top Stock Trades for Monday: TSLA, BIDU, IQ, DE, MU",
+                "features": {
+                    "keywords": [
+                        "top stock trades",
+                        "TSLA",
+                        "BIDU",
+                        "IQ",
+                        "DE",
+                        "MU"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "automotive",
+                        "semiconductors",
+                        "agriculture"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

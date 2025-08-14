@@ -1,0 +1,80 @@
+{
+    "2020-04-13": [
+        [
+            {
+                "time": "2020-04-13",
+                "orginal_text": "全球一季度PC出货量同比降低8%",
+                "features": {
+                    "keywords": [
+                        "全球",
+                        "一季度",
+                        "PC",
+                        "出货量",
+                        "同比降低"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "硬件"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-04-13",
+                "orginal_text": "格力电器首次启动回购 卫宁健康获扎堆调研",
+                "features": {
+                    "keywords": [
+                        "格力电器",
+                        "首次",
+                        "回购",
+                        "卫宁健康",
+                        "扎堆调研"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "家电",
+                        "医疗信息化"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2020-04-13",
+                "orginal_text": "T+0交易制度仍需时间孕育；一季度GDP数据本周公布；格力电器拟最高60亿元回购；OPEC+达成最大规模减产协议",
+                "features": {
+                    "keywords": [
+                        "T+0交易",
+                        "GDP",
+                        "格力电器",
+                        "回购",
+                        "OPEC+",
+                        "减产协议"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融",
+                        "能源",
+                        "家电"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

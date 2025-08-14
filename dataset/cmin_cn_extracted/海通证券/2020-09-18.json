@@ -1,0 +1,95 @@
+{
+    "2020-09-18": [
+        [
+            {
+                "time": "",
+                "original_text": "贵，州，百，灵，(，0，0，2，4，2，4，.，S，Z，)，：，控，股，股，东，姜，伟，拟，协，议，转，让，2，%，股，份，予，海，通，资，管， 减，持，股，份",
+                "features": {
+                    "keywords": [
+                        "贵州百灵",
+                        "控股股东",
+                        "姜伟",
+                        "协议转让",
+                        "股份减持",
+                        "海通资管"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "证，监，会，：，对，海，通，证，券，及，韩，丽，、，金，天，采，取，出，具，警，示，函，监，管，措，施， 金，融，监，管，处，罚",
+                "features": {
+                    "keywords": [
+                        "证监会",
+                        "海通证券",
+                        "警示函",
+                        "监管措施",
+                        "金融处罚"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2021-09-17",
+                "original_text": "A，股，融，资，融，券，日，报，：，两，融，余，额，增，加，3，6，.，6，亿，元，（，9，月，1，7，日，）",
+                "features": {
+                    "keywords": [
+                        "A股",
+                        "融资融券",
+                        "两融余额",
+                        "增加"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "海，通，证，券，：，2，0，2，0，年，第，四，季，度，中，国，经，济，与，资，本，市，场，展，望，（，附，下，载，）",
+                "features": {
+                    "keywords": [
+                        "海通证券",
+                        "中国经济",
+                        "资本市场展望",
+                        "第四季度"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

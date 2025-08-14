@@ -1,0 +1,71 @@
+{
+    "2018-02-09": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Scott McNealy: Government should only care for people who are incapable",
+                "features": {
+                    "keywords": [
+                        "Government",
+                        "care",
+                        "incapable"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "public sector"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Jeff Bezos, Warren Buffett, and Larry Ellison Have Lost a Combined $19 Billion in the Past Week",
+                "features": {
+                    "keywords": [
+                        "Bezos",
+                        "Buffett",
+                        "Ellison",
+                        "Lost",
+                        "$19 Billion"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "See what the IHS Markit Score report has to say about Oracle Corp.",
+                "features": {
+                    "keywords": [
+                        "IHS Markit Score",
+                        "Oracle Corp."
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

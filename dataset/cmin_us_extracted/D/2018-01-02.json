@@ -1,0 +1,50 @@
+{
+    "2018-01-02": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Dominion (D) Adds 81MW Green Power, Strives to Add More",
+                "features": {
+                    "keywords": [
+                        "Dominion",
+                        "81MW",
+                        "Green Power",
+                        "Add More"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "renewables"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Top SPX Utilities Are Trading in the Oversold Zone—What’s Next?",
+                "features": {
+                    "keywords": [
+                        "SPX Utilities",
+                        "Oversold Zone",
+                        "What’s Next"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

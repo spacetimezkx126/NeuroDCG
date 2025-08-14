@@ -1,0 +1,51 @@
+{
+    "2019-11-01": [
+        [
+            {
+                "time": "",
+                "original_text": "涨，停，板，复，盘，：，股，指，反，弹，迎，开，门，红， ，无，线，耳，机，概，念，走，强",
+                "features": {
+                    "keywords": [
+                        "涨停板",
+                        "股指反弹",
+                        "开门红",
+                        "无线耳机概念"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "科技",
+                        "消费电子"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "[，公，司，]，坚，朗，五，金，：，产，品，已，销，往，1，0，0，多，个，国，家，和，地，区",
+                "features": {
+                    "keywords": [
+                        "坚朗五金",
+                        "产品出口",
+                        "国际市场"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "制造业",
+                        "建筑材料"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

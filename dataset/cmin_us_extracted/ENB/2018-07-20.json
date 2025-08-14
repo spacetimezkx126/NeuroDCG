@@ -1,0 +1,68 @@
+{
+    "2018-07-20": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "Spectra Energy (SEP) Jumps: Stock Rises 5.4%",
+                "features": {
+                    "keywords": [
+                        "Spectra Energy",
+                        "Jumps",
+                        "Stock Rises"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-10",
+                "original_text": "See what the IHS Markit Score report has to say about Enbridge Inc.",
+                "features": {
+                    "keywords": [
+                        "IHS Markit Score",
+                        "Enbridge Inc."
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-05-20",
+                "original_text": "Canadian Stocks Are Falling On Trade Concerns - Canadian Commentary",
+                "features": {
+                    "keywords": [
+                        "Canadian Stocks",
+                        "Falling",
+                        "Trade Concerns"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "general"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

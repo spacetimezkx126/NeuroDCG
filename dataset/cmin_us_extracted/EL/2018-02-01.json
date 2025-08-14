@@ -1,0 +1,52 @@
+{
+    "2018-02-01": [
+        [
+            {
+                "time": "2018-02-02",
+                "original_text": "Pre-Market Earnings Report for February 2, 2018: XOM, CVX, MRK, CHTR, PSX, LYB, AON, EL, ROP, WY, IMO, S",
+                "features": {
+                    "keywords": [
+                        "Earnings",
+                        "Pre-Market",
+                        "XOM",
+                        "CVX",
+                        "MRK"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "healthcare",
+                        "consumer goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-02-02",
+                "original_text": "EL Vs CLX: Which Stock is Poised for Better Q2 Earnings?",
+                "features": {
+                    "keywords": [
+                        "EL",
+                        "CLX",
+                        "Q2 Earnings"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "consumer goods"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

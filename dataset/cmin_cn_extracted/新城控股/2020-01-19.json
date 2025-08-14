@@ -1,0 +1,52 @@
+{
+    "2020-01-19": [
+        [
+            {
+                "time": "",
+                "original_text": "华创证券：投资放缓、销售稳定、开工积极、资金改善",
+                "features": {
+                    "keywords": [
+                        "投资放缓",
+                        "销售稳定",
+                        "开工积极",
+                        "资金改善"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产",
+                        "建筑"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "A股新城控股中山项目发生安全事故司1人 被主管部门通报调查 项目问题",
+                "features": {
+                    "keywords": [
+                        "新城控股",
+                        "安全事故",
+                        "通报调查",
+                        "项目问题"
+                    ],
+                    "sentiment_score": -0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "建筑"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

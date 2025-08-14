@@ -1,0 +1,75 @@
+{
+    "2020-03-12": [
+        [
+            {
+                "time": "",
+                "original_text": "上汽集团开工建设智能网联创新中心",
+                "features": {
+                    "keywords": [
+                        "上汽集团",
+                        "智能网联",
+                        "创新中心",
+                        "开工建设"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车",
+                        "科技"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-01-01",
+                "original_text": "上汽集团1-2月海外销量超过4.5万辆",
+                "features": {
+                    "keywords": [
+                        "上汽集团",
+                        "海外销量",
+                        "1-2月",
+                        "4.5万辆"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车",
+                        "出口"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-02-01",
+                "original_text": "22家车企2月销量一览：平均下跌近八成，破万者寥寥无几",
+                "features": {
+                    "keywords": [
+                        "车企",
+                        "2月销量",
+                        "平均下跌",
+                        "八成",
+                        "破万者"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "2021-07-07": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Lilly's (LLY) Jardiance Heart Failure Study Meets Main Goal",
+                "features": {
+                    "keywords": [
+                        "Jardiance",
+                        "Heart Failure",
+                        "Study",
+                        "Meets",
+                        "Main Goal"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "healthcare",
+                        "pharmaceuticals"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Is Eli Lilly a Better Alzheimer's Stock Than Biogen?",
+                "features": {
+                    "keywords": [
+                        "Eli Lilly",
+                        "Alzheimer's",
+                        "Stock",
+                        "Biogen"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "healthcare",
+                        "biotechnology"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

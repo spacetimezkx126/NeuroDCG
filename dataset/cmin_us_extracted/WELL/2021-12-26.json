@@ -1,0 +1,56 @@
+{
+    "2021-12-26": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "CBRE Clarion Global Real Estate Income Fund Buys Sun Communities Inc, Invitation Homes Inc, ...",
+                "features": {
+                    "keywords": [
+                        "Real Estate",
+                        "Income Fund",
+                        "Buys",
+                        "Sun Communities",
+                        "Invitation Homes"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "real estate"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Principal Diversified Select Real Asset Fund Buys Williams Inc, Ventas Inc, APA Group, Sells ...",
+                "features": {
+                    "keywords": [
+                        "Real Asset",
+                        "Fund",
+                        "Buys",
+                        "Williams",
+                        "Ventas",
+                        "Sells",
+                        "APA Group"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "healthcare",
+                        "infrastructure"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

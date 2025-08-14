@@ -1,0 +1,50 @@
+{
+    "2019-01-22": [
+        [
+            {
+                "time": "",
+                "original_text": "战 略 配 售 基 金 在 二 级 市 场 买 了 这 些 股 票",
+                "features": {
+                    "keywords": [
+                        "战略配售基金",
+                        "二级市场",
+                        "买入"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "基金",
+                        "股票"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "汽 车 类 个 股 震 荡 上 扬  发 改 委 拟 出 台 消 费 刺 激 政 策",
+                "features": {
+                    "keywords": [
+                        "汽车类个股",
+                        "震荡上扬",
+                        "发改委",
+                        "消费刺激政策"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "2018-06-02": [
+        [
+            {
+                "time": "2018-03-15",
+                "original_text": "EU Commission Clears Acquisition Of General Electric Industrial Solutions By ABB",
+                "features": {
+                    "keywords": [
+                        "EU Commission",
+                        "Clears",
+                        "Acquisition",
+                        "General Electric",
+                        "Industrial Solutions",
+                        "ABB"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial",
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2018-04-20",
+                "original_text": "GE Picks Cummins, Kohler, KKR To Bid For Gas-Engine Business: Bloomberg",
+                "features": {
+                    "keywords": [
+                        "GE",
+                        "Cummins",
+                        "Kohler",
+                        "KKR",
+                        "Gas-Engine",
+                        "Business",
+                        "Bloomberg"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "manufacturing"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

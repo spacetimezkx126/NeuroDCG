@@ -1,0 +1,51 @@
+{
+    "2018-06-16": [
+        [
+            {
+                "time": "",
+                "orginal_text": "下周解禁：两公司解禁数量超40亿股",
+                "features": {
+                    "keywords": [
+                        "解禁",
+                        "两公司",
+                        "40亿股"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "市场整体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "orginal_text": "重点关注：财政部等发布《关于公布可再生能源电价附加资金补助目录（第七批）的通知》，拟对原有可再生能源电价附加资金补助目录进行调整",
+                "features": {
+                    "keywords": [
+                        "财政部",
+                        "可再生能源",
+                        "电价附加资金补助",
+                        "第七批",
+                        "调整"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "新能源",
+                        "电力"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

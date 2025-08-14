@@ -1,0 +1,53 @@
+{
+    "2021-06-24": [
+        [
+            {
+                "time": "",
+                "original_text": "董事长暂停履职 净利润为负 明星代言能否帮燕京走出寒冬？",
+                "features": {
+                    "keywords": [
+                        "董事长",
+                        "暂停履职",
+                        "净利润为负",
+                        "明星代言",
+                        "燕京"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "食品饮料",
+                        "啤酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "啤酒业迎来“牛年”，燕京能否“上车”？",
+                "features": {
+                    "keywords": [
+                        "啤酒业",
+                        "牛年",
+                        "燕京",
+                        "上车"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "食品饮料",
+                        "啤酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

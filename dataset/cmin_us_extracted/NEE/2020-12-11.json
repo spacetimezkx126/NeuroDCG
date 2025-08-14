@@ -1,0 +1,71 @@
+{
+    "2020-12-11": [
+        [
+            {
+                "time": "2020-01-01",
+                "original_text": "NextEra Energy wins 2020 S&P Global Platts Energy Transition Award",
+                "features": {
+                    "keywords": [
+                        "NextEra",
+                        "Energy",
+                        "wins",
+                        "S&P Global Platts",
+                        "Energy Transition Award"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "8 Next Energy Solutions as We Pass Peak Oil",
+                "features": {
+                    "keywords": [
+                        "Next",
+                        "Energy",
+                        "Solutions",
+                        "Peak Oil"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2020-01-01",
+                "original_text": "Setting Your Portfolio Up for “Peak Oil”",
+                "features": {
+                    "keywords": [
+                        "Portfolio",
+                        "Peak Oil"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

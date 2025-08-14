@@ -1,0 +1,52 @@
+{
+    "2021-11-05": [
+        [
+            {
+                "time": "2021-11-01",
+                "original_text": "Southern Company participates in the 26th UN Climate Change Conference of the Parties (COP26) in Glasgow",
+                "features": {
+                    "keywords": [
+                        "Southern Company",
+                        "UN Climate Change",
+                        "COP26",
+                        "Glasgow"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2021-10-28",
+                "original_text": "The Southern Company (SO) Q3 2021 Earnings Call Transcript",
+                "features": {
+                    "keywords": [
+                        "Southern Company",
+                        "Q3 2021",
+                        "Earnings Call",
+                        "Transcript"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy",
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

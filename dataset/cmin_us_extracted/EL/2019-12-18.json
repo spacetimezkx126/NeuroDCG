@@ -1,0 +1,51 @@
+{
+    "2019-12-18": [
+        [
+            {
+                "time": "2023-03-15",
+                "original_text": "Estee Lauder's Have & Be Buyout to Boost Skin Care Unit",
+                "features": {
+                    "keywords": [
+                        "Estee Lauder",
+                        "Buyout",
+                        "Skin Care",
+                        "Boost"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "cosmetics",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2023-03-15",
+                "original_text": "The Estée Lauder Companies Completes Its Acquisition of Dr. Jart+",
+                "features": {
+                    "keywords": [
+                        "Estée Lauder",
+                        "Acquisition",
+                        "Dr. Jart+"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "cosmetics",
+                        "skin care"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "2019-08-29": [
+        [
+            {
+                "time": "2018-01-03",
+                "original_text": "Greenbrier, CSX, And Norfolk Southern Announce Executive Appointments",
+                "features": {
+                    "keywords": [
+                        "Greenbrier",
+                        "CSX",
+                        "Norfolk Southern",
+                        "Executive Appointments"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "transportation",
+                        "railroad"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-04",
+                "original_text": "Dow up 336 points on gains in shares of Intel, United Technologies",
+                "features": {
+                    "keywords": [
+                        "Dow",
+                        "Intel",
+                        "United Technologies",
+                        "gains"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "industrial"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2018-01-05",
+                "original_text": "Here's how much Norfolk Southern will pay its new CFO",
+                "features": {
+                    "keywords": [
+                        "Norfolk Southern",
+                        "CFO",
+                        "pay"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "transportation",
+                        "railroad"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2018-01-06",
+                "original_text": "Top Pentagon Official Has &quot;No Major Concerns&quot; With Raytheon-UTC Deal",
+                "features": {
+                    "keywords": [
+                        "Pentagon",
+                        "Raytheon",
+                        "UTC",
+                        "Deal"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "defense",
+                        "aerospace"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

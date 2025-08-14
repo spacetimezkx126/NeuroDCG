@@ -1,0 +1,53 @@
+{
+    "2018-02-02": [
+        [
+            {
+                "time": "",
+                "original_text": "[买 入 评 级] 中国饮料行业点评：发改委召开白酒价格告诫会：短期谨慎 但长期利好",
+                "features": {
+                    "keywords": [
+                        "发改委",
+                        "白酒",
+                        "价格告诫会",
+                        "短期谨慎",
+                        "长期利好"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "饮料",
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "泸州老窖：白酒行业整体扩张 产品渠道库存情况良好",
+                "features": {
+                    "keywords": [
+                        "泸州老窖",
+                        "白酒",
+                        "行业扩张",
+                        "渠道库存",
+                        "情况良好"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

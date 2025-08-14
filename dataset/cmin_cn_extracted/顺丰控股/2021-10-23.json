@@ -1,0 +1,78 @@
+{
+    "2021-10-23": [
+        [
+            {
+                "time": "2021-10-23",
+                "original_text": "顺 丰 今 日 头 条 盘 点 | 2 0 2 1 - 1 0 - 2 3",
+                "features": {
+                    "keywords": [
+                        "顺丰",
+                        "头条",
+                        "盘点"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "物流"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            },
+            {
+                "time": "2021-10-23",
+                "original_text": "流 入 3 0 0 亿 + ！ 外 资 大 幅 加 仓 宁 德 时 代 、 五 粮 液 、 茅 台 等 巨 头",
+                "features": {
+                    "keywords": [
+                        "外资",
+                        "加仓",
+                        "宁德时代",
+                        "五粮液",
+                        "茅台"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "新能源",
+                        "白酒"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2021-10-23",
+                "original_text": "申 万 宏 源 交 运 一 周 天 地 汇 ： 低 货 值 货 物 出 口 替 代 高 货 值   加 班 船 市 场 预 冷 预 计 集 运 一 二 级 市 场 价 差 有 望 收 缩",
+                "features": {
+                    "keywords": [
+                        "申万宏源",
+                        "交运",
+                        "天地汇",
+                        "低货值货物",
+                        "高货值货物",
+                        "加班船",
+                        "集运市场",
+                        "价差"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "航运",
+                        "物流"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

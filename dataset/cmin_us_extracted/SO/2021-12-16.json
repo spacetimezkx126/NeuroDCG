@@ -1,0 +1,51 @@
+{
+    "2021-12-16": [
+        [
+            {
+                "time": "2023-10-01",
+                "original_text": "Georgia Power welcomes Rivian to Georgia",
+                "features": {
+                    "keywords": [
+                        "Georgia Power",
+                        "Rivian",
+                        "welcome"
+                    ],
+                    "sentiment_score": 0.75,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "energy",
+                        "automotive"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-01",
+                "original_text": "Nicor Gas Career Academy marks 100-graduate milestone",
+                "features": {
+                    "keywords": [
+                        "Nicor Gas",
+                        "Career Academy",
+                        "100-graduate",
+                        "milestone"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "utilities",
+                        "education"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

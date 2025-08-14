@@ -1,0 +1,50 @@
+{
+    "2020-08-11": [
+        [
+            {
+                "time": "",
+                "original_text": "方正证券：公司涉及诉讼 诉讼纠纷",
+                "features": {
+                    "keywords": [
+                        "方正证券",
+                        "诉讼",
+                        "纠纷"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "资管圈重磅：又一万亿级“大蛋糕”要来了！",
+                "features": {
+                    "keywords": [
+                        "资管圈",
+                        "重磅",
+                        "万亿级",
+                        "大蛋糕"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "资产管理",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

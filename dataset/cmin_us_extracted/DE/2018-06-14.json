@@ -1,0 +1,54 @@
+{
+    "2018-06-14": [
+        [
+            {
+                "time": "2023-10-19",
+                "original_text": "Noteworthy Thursday Option Activity: DE, EOG, JNJ",
+                "features": {
+                    "keywords": [
+                        "Option Activity",
+                        "DE",
+                        "EOG",
+                        "JNJ"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "industrial goods",
+                        "energy",
+                        "healthcare"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-19",
+                "original_text": "MOO, NTR, ZTS, DE: ETF Outflow Alert",
+                "features": {
+                    "keywords": [
+                        "ETF Outflow",
+                        "MOO",
+                        "NTR",
+                        "ZTS",
+                        "DE"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "agriculture",
+                        "industrial goods"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

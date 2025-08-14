@@ -1,0 +1,47 @@
+{
+    "2021-11-28": [
+        [
+            {
+                "time": "2022-01-01",
+                "original_text": "One JPMorgan Chase & Co. (NYSE:JPM) insider upped their stake by 0.5% in the previous year",
+                "features": {
+                    "keywords": [
+                        "insider",
+                        "upped",
+                        "stake",
+                        "JPMorgan"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2022-01-01",
+                "original_text": "2 No-Brainer Buys for 2022",
+                "features": {
+                    "keywords": [
+                        "No-Brainer",
+                        "Buys",
+                        "2022"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

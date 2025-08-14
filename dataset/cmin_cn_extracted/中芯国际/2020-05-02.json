@@ -1,0 +1,72 @@
+{
+    "2020-05-02": [
+        [
+            {
+                "time": "",
+                "original_text": "香 港 恒 指 午 盘 涨 0 . 6 6 % ， 中 芯 国 际 涨 超 1 0 %",
+                "features": {
+                    "keywords": [
+                        "恒指",
+                        "午盘涨",
+                        "中芯国际"
+                    ],
+                    "sentiment_score": 0.8,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "半导体",
+                        "金融"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "中 信 建 投 ： 半 导 体 设 备 国 产 突 破 正 加 速  晶 圆 线 新 建 及 产 业 转 移 带 来 机 遇",
+                "features": {
+                    "keywords": [
+                        "中信建投",
+                        "半导体设备",
+                        "国产突破",
+                        "晶圆线",
+                        "产业转移"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "半导体",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "2023-05-01",
+                "original_text": "格 隆 汇 港 股 通 5 日 资 金 流 入 流 出 排 行 榜 | 5 月 1 日",
+                "features": {
+                    "keywords": [
+                        "格隆汇",
+                        "港股通",
+                        "资金流入流出",
+                        "排行榜"
+                    ],
+                    "sentiment_score": 0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

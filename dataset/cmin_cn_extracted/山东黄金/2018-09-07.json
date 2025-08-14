@@ -1,0 +1,65 @@
+{
+    "2018-09-07": [
+        [
+            {
+                "time": "2023-09-07",
+                "original_text": "35只股票封板，贵金属板块涨幅最大",
+                "features": {
+                    "keywords": [
+                        "股票封板",
+                        "贵金属",
+                        "涨幅最大"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "贵金属"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-09-07",
+                "original_text": "午后操盘策略：市场区间震荡，短期仍处筑底格局",
+                "features": {
+                    "keywords": [
+                        "午后操盘",
+                        "区间震荡",
+                        "筑底格局"
+                    ],
+                    "sentiment_score": 0.4,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "false",
+                    "causal_impact": "",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-09-07",
+                "original_text": "午间机构策略：重磅利好难掩市场疲弱局面",
+                "features": {
+                    "keywords": [
+                        "午间机构策略",
+                        "重磅利好",
+                        "市场疲弱"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "true",
+                    "investment_strategy": "true",
+                    "sector_focus": [],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

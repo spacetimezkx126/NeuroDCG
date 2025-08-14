@@ -1,0 +1,56 @@
+{
+    "2018-01-23": [
+        [
+            {
+                "time": "",
+                "original_text": "能,源,局,副,局,长,王,晓,林,涉,嫌,严,重,违,纪,接,受,审,查,（,简,历,）",
+                "features": {
+                    "keywords": [
+                        "能源局",
+                        "副局长",
+                        "王晓林",
+                        "涉嫌",
+                        "严重违纪",
+                        "接受审查"
+                    ],
+                    "sentiment_score": -0.9,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "国,家,能,源,局,副,局,长,王,晓,林,接,受,审,查, , 曾,任,神,华,集,团,副,总,经,理,(,图,|,简,历,)",
+                "features": {
+                    "keywords": [
+                        "国家能源局",
+                        "副局长",
+                        "王晓林",
+                        "接受审查",
+                        "曾任",
+                        "神华集团",
+                        "副总经理"
+                    ],
+                    "sentiment_score": -0.85,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "能源",
+                        "煤炭"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

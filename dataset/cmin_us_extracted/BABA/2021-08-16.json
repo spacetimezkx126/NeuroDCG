@@ -1,0 +1,78 @@
+{
+    "2021-08-16": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Dow Jones Rallies As Apple Reverses Higher; Tesla Sinks On Autopilot Probe; China Stocks Dive",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Apple",
+                        "Tesla",
+                        "Autopilot Probe",
+                        "China Stocks"
+                    ],
+                    "sentiment_score": 0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "automotive",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Dow Jones Fights As Apple Rallies Off Lows; Tesla Sinks On Autopilot Probe; China Stocks Dive",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Apple",
+                        "Tesla",
+                        "Autopilot Probe",
+                        "China Stocks"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "technology",
+                        "automotive",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "3 Reasons to Buy Alibaba, and 1 Reason to Sell",
+                "features": {
+                    "keywords": [
+                        "Alibaba",
+                        "Buy",
+                        "Sell"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "e-commerce",
+                        "technology"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

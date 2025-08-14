@@ -1,0 +1,53 @@
+{
+    "2021-05-29": [
+        [
+            {
+                "time": "",
+                "original_text": "潍柴动力：大宗商品涨价对发动机业务影响有限 对整车等产品有一定影响",
+                "features": {
+                    "keywords": [
+                        "潍柴动力",
+                        "大宗商品",
+                        "涨价",
+                        "发动机",
+                        "整车"
+                    ],
+                    "sentiment_score": -0.2,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "汽车",
+                        "制造业"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": ""
+                }
+            },
+            {
+                "time": "",
+                "original_text": "创新高！北向资金全周净流入超468亿元，重点加仓酿酒板块，贵州茅台占一半",
+                "features": {
+                    "keywords": [
+                        "北向资金",
+                        "净流入",
+                        "酿酒板块",
+                        "贵州茅台"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "白酒",
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

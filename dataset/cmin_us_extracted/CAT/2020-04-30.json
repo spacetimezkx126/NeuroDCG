@@ -1,0 +1,52 @@
+{
+    "2020-04-30": [
+        [
+            {
+                "time": "2023-10-10",
+                "original_text": "Raytheon Technologies Corp., Walt Disney share losses contribute to Dow's nearly 250-point drop",
+                "features": {
+                    "keywords": [
+                        "Raytheon",
+                        "Disney",
+                        "share losses",
+                        "Dow",
+                        "250-point drop"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "industrial",
+                        "entertainment"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "2023-10-10",
+                "original_text": "Bear of the Day: Caterpillar (CAT)",
+                "features": {
+                    "keywords": [
+                        "Bear of the Day",
+                        "Caterpillar",
+                        "CAT"
+                    ],
+                    "sentiment_score": -0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "construction",
+                        "machinery"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "neutral"
+                }
+            }
+        ]
+    ]
+}

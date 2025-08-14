@@ -1,0 +1,54 @@
+{
+    "2020-05-15": [
+        [
+            {
+                "time": "",
+                "original_text": "上海临港：将“18临债01”后2年的票面利率由5.01%下调至2.48%",
+                "features": {
+                    "keywords": [
+                        "上海临港",
+                        "18临债01",
+                        "票面利率",
+                        "下调",
+                        "5.01%",
+                        "2.48%"
+                    ],
+                    "sentiment_score": -0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "房地产",
+                        "债券"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "上海临港大宗交易成交285.00万元",
+                "features": {
+                    "keywords": [
+                        "上海临港",
+                        "大宗交易",
+                        "成交",
+                        "285.00万元"
+                    ],
+                    "sentiment_score": 0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "房地产",
+                        "交易"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "neutral",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "2019-05-17": [
+        [
+            {
+                "time": "2019-05-17",
+                "original_text": "股逆市创历史新高 喝酒吃药占据半壁江山",
+                "features": {
+                    "keywords": [
+                        "逆市",
+                        "历史新高",
+                        "喝酒",
+                        "吃药"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "医药",
+                        "消费"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2019-05-17",
+                "original_text": "益丰药房控股股东及其一致行动人减持1127万股 去年营收增长44%",
+                "features": {
+                    "keywords": [
+                        "益丰药房",
+                        "控股股东",
+                        "减持",
+                        "营收增长"
+                    ],
+                    "sentiment_score": -0.3,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "医药"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

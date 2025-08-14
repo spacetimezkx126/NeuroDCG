@@ -1,0 +1,52 @@
+{
+    "2020-08-10": [
+        [
+            {
+                "time": "",
+                "original_text": "千亿元市值的股票，为何老是大涨大跌……",
+                "features": {
+                    "keywords": [
+                        "千亿元",
+                        "市值",
+                        "股票",
+                        "大涨大跌"
+                    ],
+                    "sentiment_score": -0.5,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "全市场"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "negative",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            },
+            {
+                "time": "",
+                "original_text": "半导体板块午后全线转暖，北方华创冲击涨停",
+                "features": {
+                    "keywords": [
+                        "半导体",
+                        "板块",
+                        "午后",
+                        "转暖",
+                        "北方华创",
+                        "涨停"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "半导体"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            }
+        ]
+    ]
+}

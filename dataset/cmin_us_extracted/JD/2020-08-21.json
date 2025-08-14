@@ -1,0 +1,74 @@
+{
+    "2020-08-21": [
+        [
+            {
+                "time": "2023-10-05",
+                "original_text": "Dow Jones Jumps 200 Points, Helped By Bullish Gain For Apple Stock; Nvidia, AMD Lead Nasdaq 100",
+                "features": {
+                    "keywords": [
+                        "Dow Jones",
+                        "Apple Stock",
+                        "Nvidia",
+                        "AMD",
+                        "Bullish Gain",
+                        "Nasdaq 100"
+                    ],
+                    "sentiment_score": 0.85,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "technology",
+                        "finance"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Strong Earnings Confirm the Bull Thesis on JD.com",
+                "features": {
+                    "keywords": [
+                        "Strong Earnings",
+                        "Bull Thesis",
+                        "JD.com"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "e-commerce"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-05",
+                "original_text": "Alibaba Touts Post-Virus Rebound While Watching ‘Fluid’ U.S.",
+                "features": {
+                    "keywords": [
+                        "Alibaba",
+                        "Post-Virus Rebound",
+                        "Fluid U.S."
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "true",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "e-commerce",
+                        "international trade"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "negative"
+                }
+            }
+        ]
+    ]
+}

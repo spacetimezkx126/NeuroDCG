@@ -1,0 +1,79 @@
+{
+    "2020-07-06": [
+        [
+            {
+                "time": "2023-10-18",
+                "original_text": "Trans Bay Cable LLC -- Moody's assigns first-time Baa2 issuer rating to Trans Bay Cable; outlook stable",
+                "features": {
+                    "keywords": [
+                        "Moody's",
+                        "Baa2",
+                        "first-time",
+                        "rating",
+                        "outlook stable"
+                    ],
+                    "sentiment_score": 0.7,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "utilities"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "false",
+                    "ts_effect_direction": "none"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Buffett's Berkshire Hathaway Buys Dominion Energy's Natural Gas Assets",
+                "features": {
+                    "keywords": [
+                        "Buffett",
+                        "Berkshire Hathaway",
+                        "Dominion Energy",
+                        "Natural Gas",
+                        "Assets"
+                    ],
+                    "sentiment_score": 0.9,
+                    "policy_related": "false",
+                    "investment_strategy": "true",
+                    "sector_focus": [
+                        "energy"
+                    ],
+                    "causal_factor": "true",
+                    "causal_impact": "positive",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "positive"
+                }
+            },
+            {
+                "time": "2023-10-18",
+                "original_text": "Zacks.com featured highlights include: Teekay Tankers, Tesla, NextEra Energy, Nice and West Pharmaceutical Services",
+                "features": {
+                    "keywords": [
+                        "Zacks.com",
+                        "Teekay Tankers",
+                        "Tesla",
+                        "NextEra Energy",
+                        "Nice",
+                        "West Pharmaceutical Services"
+                    ],
+                    "sentiment_score": 0.6,
+                    "policy_related": "false",
+                    "investment_strategy": "false",
+                    "sector_focus": [
+                        "shipping",
+                        "technology",
+                        "energy",
+                        "healthcare"
+                    ],
+                    "causal_factor": "false",
+                    "causal_impact": "none",
+                    "affected_by_time_series": "true",
+                    "ts_effect_direction": "mixed"
+                }
+            }
+        ]
+    ]
+}
