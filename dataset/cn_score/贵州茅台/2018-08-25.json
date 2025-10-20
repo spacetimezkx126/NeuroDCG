@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "消失的中产：深刻改变中国",
+            "features": {
+                "keywords": [
+                    "中产",
+                    "深刻改变",
+                    "中国"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费",
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "消失的中产：深刻改变中国",
+                "Correlation": 2,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 3,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中报十大盈利王曝光 贵州茅台蝉联冠军",
+            "features": {
+                "keywords": [
+                    "中报",
+                    "盈利",
+                    "贵州茅台",
+                    "冠军"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "白酒",
+                    "消费品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中报十大盈利王曝光 贵州茅台蝉联冠军",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

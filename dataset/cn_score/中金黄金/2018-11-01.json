@@ -1,0 +1,69 @@
+[
+    [
+        {
+            "time": "2018-11-01",
+            "original_text": "【超级大单】 11月01日 4只个股特大单净流入超亿元",
+            "features": {
+                "keywords": [
+                    "超级大单",
+                    "净流入",
+                    "个股"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-11-01",
+            "original_text": "巨丰收评：金融股退潮 大盘冲高回落",
+            "features": {
+                "keywords": [
+                    "金融股",
+                    "退潮",
+                    "大盘",
+                    "冲高回落"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

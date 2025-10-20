@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "本周操盘策略：这个重磅数据将公布，人民币升值预期助推A股回归上升通道",
+            "features": {
+                "keywords": [
+                    "重磅数据",
+                    "人民币升值",
+                    "A股",
+                    "上升通道"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "外汇"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "本周操盘策略：这个重磅数据将公布，人民币升值预期助推A股回归上升通道",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中远海控股东大会纪要",
+            "features": {
+                "keywords": [
+                    "中远海控",
+                    "股东大会",
+                    "纪要"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "航运"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "中远海控股东大会纪要",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

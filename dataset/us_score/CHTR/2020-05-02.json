@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2020-04-15",
+            "original_text": "Coronavirus update: More than a million people have recovered; Trump pushes China conspiracy theory",
+            "features": {
+                "keywords": [
+                    "Coronavirus",
+                    "recovered",
+                    "Trump",
+                    "China",
+                    "conspiracy"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "politics"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Coronavirus update: More than a million people have recovered; Trump pushes China conspiracy theory",
+                "Correlation": 3,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 1,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-05-10",
+            "original_text": "Why Charter Communications could be in same ‘exclusive’ club as Amazon and Netflix",
+            "features": {
+                "keywords": [
+                    "Charter Communications",
+                    "Amazon",
+                    "Netflix",
+                    "exclusive club"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "entertainment"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Why Charter Communications could be in same ‘exclusive’ club as Amazon and Netflix",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

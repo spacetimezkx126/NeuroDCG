@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Enbridge Pipeline Linking Oil Sands to Midwest Wins Approval",
+            "features": {
+                "keywords": [
+                    "Enbridge",
+                    "Pipeline",
+                    "Oil Sands",
+                    "Midwest",
+                    "Wins Approval"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Enbridge Pipeline Linking Oil Sands to Midwest Wins Approval",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Becksley Capital Inc. refuses to compensate investor for losses",
+            "features": {
+                "keywords": [
+                    "Becksley Capital Inc.",
+                    "refuses",
+                    "compensate",
+                    "investor",
+                    "losses"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Becksley Capital Inc. refuses to compensate investor for losses",
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

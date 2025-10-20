@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "time": "2019-07-19",
+            "original_text": "A股早报2019年7月19日星期五",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "早报"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "A股早报2019年7月19日星期五",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 1,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2019-07-19",
+            "original_text": "浪潮信息回应配股预案：提前部署降低资产负债率",
+            "features": {
+                "keywords": [
+                    "浪潮信息",
+                    "配股预案",
+                    "提前部署",
+                    "降低资产负债率"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "信息技术"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "浪潮信息回应配股预案：提前部署降低资产负债率",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

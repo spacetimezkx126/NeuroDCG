@@ -1,0 +1,69 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【牛人重仓】南京银行:前复权价创历史新高，今日资金流入1706.23万元，北向资金持股17481.19万股，融资余额124327.19万元；前3个交易日，北向资金增持187.98万股，融资额增加-845.36万元，主力资金净流入-5531.58万元",
+            "features": {
+                "keywords": [
+                    "南京银行",
+                    "前复权价",
+                    "历史新高",
+                    "资金流入",
+                    "北向资金",
+                    "融资余额",
+                    "增持",
+                    "主力资金净流入"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative",
+                "factors_detail": {
+                    "causal_factors": [
+                        {
+                            "factor": "前复权价创历史新高",
+                            "impact": "positive"
+                        },
+                        {
+                            "factor": "今日资金流入1706.23万元",
+                            "impact": "positive"
+                        },
+                        {
+                            "factor": "北向资金增持187.98万股",
+                            "impact": "positive"
+                        }
+                    ],
+                    "affected_by_time_series": [
+                        {
+                            "factor": "融资额增加-845.36万元",
+                            "impact": "negative"
+                        },
+                        {
+                            "factor": "主力资金净流入-5531.58万元",
+                            "impact": "negative"
+                        }
+                    ]
+                }
+            },
+            "scores": {
+                "News_content": "【牛人重仓】南京银行:前复权价创历史新高，今日资金流入1706.23万元，北向资金持股17481.19万股，融资余额124327.19万元；前3个交易日，北向资金增持187.98万股，融资额增加-845.36万元，主力资金净流入-5531.58万元",
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

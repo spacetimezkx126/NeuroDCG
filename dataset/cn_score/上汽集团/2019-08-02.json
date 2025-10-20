@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "上汽集团（600104）通用中国Q2净利润同比-58%，低于预期【华泰汽车研究】",
+            "features": {
+                "keywords": [
+                    "上汽集团",
+                    "通用中国",
+                    "Q2净利润",
+                    "同比下降",
+                    "低于预期"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "补贴退坡怎么应对？看上汽荣威“拿钱、拿料、拿品”",
+            "features": {
+                "keywords": [
+                    "补贴退坡",
+                    "上汽荣威",
+                    "应对策略",
+                    "拿钱",
+                    "拿料",
+                    "拿品"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "72股获券商买入评级 苏宁易购目标涨幅达64.56%",
+            "features": {
+                "keywords": [
+                    "券商买入评级",
+                    "苏宁易购",
+                    "目标涨幅",
+                    "64.56%"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "零售"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 2,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

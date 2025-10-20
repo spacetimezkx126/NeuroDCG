@@ -1,0 +1,42 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "北向资金扫货A股81亿元 增持银行减持电力（个股名单） 减持股份",
+            "features": {
+                "keywords": [
+                    "北向资金",
+                    "扫货",
+                    "A股",
+                    "增持",
+                    "银行",
+                    "减持",
+                    "电力"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "银行",
+                    "电力"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

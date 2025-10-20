@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "香 港 恒 生 指 数 收 盘 涨 0 . 23 % ， 三 万 点 大 关 得 而 复 失",
+            "features": {
+                "keywords": [
+                    "恒生指数",
+                    "收盘涨",
+                    "三万点大关"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "香 港 恒 生 指 数 收 盘 涨 0 . 23 % ， 三 万 点 大 关 得 而 复 失",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 1,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "石 油 化 工 行 业 周 报 ： 涤 纶 价 格 上 涨  关 注 伊 朗 地 缘 变 化",
+            "features": {
+                "keywords": [
+                    "石油化工",
+                    "涤纶价格",
+                    "伊朗",
+                    "地缘变化"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "化工",
+                    "能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "石 油 化 工 行 业 周 报 ： 涤 纶 价 格 上 涨  关 注 伊 朗 地 缘 变 化",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

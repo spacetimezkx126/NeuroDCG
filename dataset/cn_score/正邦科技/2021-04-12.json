@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "正邦科技(002157.SZ)控股股东正邦集团质押4051.1万股",
+            "features": {
+                "keywords": [
+                    "正邦科技",
+                    "控股股东",
+                    "正邦集团",
+                    "质押",
+                    "4051.1万股"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "畜牧业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 10,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "农林牧渔行业周报：后期景气 关注饲料、疫苗板块龙头",
+            "features": {
+                "keywords": [
+                    "农林牧渔",
+                    "行业周报",
+                    "后期景气",
+                    "饲料",
+                    "疫苗",
+                    "板块龙头"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "畜牧业",
+                    "饲料",
+                    "疫苗"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "农林牧渔行业周报：后期景气 关注饲料、疫苗板块龙头",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

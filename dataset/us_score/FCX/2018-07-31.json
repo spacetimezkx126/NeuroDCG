@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "COLUMN-BHP, Rio deals show lack of options beyond shareholder returns: Russell",
+            "features": {
+                "keywords": [
+                    "BHP",
+                    "Rio",
+                    "shareholder returns",
+                    "lack of options"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-07-22",
+            "original_text": "Research Report Identifies Amazon, Fanhua, Parsley Energy, Bed Bath & Beyond, Freeport-McMoRan, and Sirius XM with Renewed Outlook — Fundamental Analysis, Calculating Forward Movement",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "Fanhua",
+                    "Parsley Energy",
+                    "Bed Bath & Beyond",
+                    "Freeport-McMoRan",
+                    "Sirius XM",
+                    "Renewed Outlook",
+                    "Fundamental Analysis"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "retail",
+                    "energy",
+                    "media"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

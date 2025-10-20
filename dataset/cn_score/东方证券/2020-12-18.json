@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股收盘综述：上证指数跌0.29%，煤炭股逆势逞强",
+            "features": {
+                "keywords": [
+                    "上证指数",
+                    "下跌",
+                    "煤炭股",
+                    "逆势逞强"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "煤炭"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "A股收盘综述：上证指数跌0.29%，煤炭股逆势逞强",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "A股午盘综述：上证指数涨0.13%，煤炭引领周期股回暖",
+            "features": {
+                "keywords": [
+                    "上证指数",
+                    "上涨",
+                    "煤炭",
+                    "周期股",
+                    "回暖"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "煤炭",
+                    "周期股"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "展望明年券商“夸自己”：行业估值处于低位，有显著配置价值",
+            "features": {
+                "keywords": [
+                    "券商",
+                    "估值低位",
+                    "配置价值"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "券商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

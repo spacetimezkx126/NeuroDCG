@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-20",
+            "original_text": "GE Stock Jumps On Surprise Earnings, Rebounding Cash Flow; CEO Hails 'Accelerating Transformation'",
+            "features": {
+                "keywords": [
+                    "GE",
+                    "Jumps",
+                    "Surprise Earnings",
+                    "Rebounding Cash Flow",
+                    "Accelerating Transformation"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-20",
+            "original_text": "Honeywell (HON) to Report Q3 Earnings: Will it Disappoint?",
+            "features": {
+                "keywords": [
+                    "Honeywell",
+                    "Q3 Earnings",
+                    "Disappoint"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

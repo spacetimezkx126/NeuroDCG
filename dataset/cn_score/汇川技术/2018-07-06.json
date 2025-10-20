@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "[中性评级]电力设备行业周报：中国首个大型商业化光热电站一次带电并网成功",
+            "features": {
+                "keywords": [
+                    "电力设备",
+                    "光热电站",
+                    "并网成功"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电力设备",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "[看好评级]电力设备及新能源行业动态跟踪：蓝天保卫战吹响新能源公交车、物流车新一轮进军号角",
+            "features": {
+                "keywords": [
+                    "新能源",
+                    "公交车",
+                    "物流车",
+                    "蓝天保卫战"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "新能源",
+                    "交通运输"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

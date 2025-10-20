@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "北洋/航信/石基/纳思达/创业/卫宁/深信服/用友/新大陆详评【申万宏源计算机】",
+            "features": {
+                "keywords": [
+                    "北洋",
+                    "航信",
+                    "石基",
+                    "纳思达",
+                    "创业",
+                    "卫宁",
+                    "深信服",
+                    "用友",
+                    "新大陆",
+                    "申万宏源",
+                    "计算机"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "计算机"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 9,
+                "Entity_Density": 10,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "计算机行业一季报基金持仓分析：仓位下降集中度下降",
+            "features": {
+                "keywords": [
+                    "计算机行业",
+                    "一季报",
+                    "基金持仓",
+                    "仓位下降",
+                    "集中度下降"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "计算机"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 3,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

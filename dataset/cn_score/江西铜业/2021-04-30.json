@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "全世界都在涨价！巨头们也扛不住了，这些A股业绩爆发",
+            "features": {
+                "keywords": [
+                    "涨价",
+                    "巨头",
+                    "A股",
+                    "业绩爆发"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "消费",
+                    "工业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "全世界都在涨价！巨头们也扛不住了，这些A股业绩爆发",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "原材料紧缺基建项目“窝工”，大宗牛市蝴蝶效应显现",
+            "features": {
+                "keywords": [
+                    "原材料紧缺",
+                    "基建项目",
+                    "窝工",
+                    "大宗牛市",
+                    "蝴蝶效应"
+                ],
+                "sentiment_score": -0.65,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "基建",
+                    "大宗商品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "原材料紧缺基建项目“窝工”，大宗牛市蝴蝶效应显现",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

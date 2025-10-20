@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "两融余额三连升106.90亿增量杠杆资金进场",
+            "features": {
+                "keywords": [
+                    "两融余额",
+                    "三连升",
+                    "增量",
+                    "杠杆资金"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "联赢激光现金流连负3年数据打架 研发费率毛利率下降 欺诈造假",
+            "features": {
+                "keywords": [
+                    "联赢激光",
+                    "现金流",
+                    "连负",
+                    "数据打架",
+                    "研发费率",
+                    "毛利率",
+                    "下降",
+                    "欺诈造假"
+                ],
+                "sentiment_score": -0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "制造业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 2,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

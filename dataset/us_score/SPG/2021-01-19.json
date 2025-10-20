@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "Morgan Stanley Bank of America Merrill Lynch Trust 2013-C11 -- Moody's affirms seven and downgrades five classes of MSBAM 2013-C11",
+            "features": {
+                "keywords": [
+                    "Moody's",
+                    "affirms",
+                    "downgrades",
+                    "MSBAM",
+                    "2013-C11"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

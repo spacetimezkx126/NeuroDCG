@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "新圆瓶二曲上市，泸州老窖对老版圆瓶二曲提价",
+            "features": {
+                "keywords": [
+                    "新圆瓶二曲",
+                    "上市",
+                    "泸州老窖",
+                    "提价"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "白酒",
+                    "消费品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "新圆瓶二曲上市，泸州老窖对老版圆瓶二曲提价",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "评级下调、北上资金连续卖出，提防消费白马短期头部",
+            "features": {
+                "keywords": [
+                    "评级下调",
+                    "北上资金",
+                    "连续卖出",
+                    "消费白马",
+                    "短期头部"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "消费品",
+                    "白马股"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "评级下调、北上资金连续卖出，提防消费白马短期头部",
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

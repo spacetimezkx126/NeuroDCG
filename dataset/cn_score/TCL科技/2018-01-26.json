@@ -1,0 +1,242 @@
+[
+    [
+        {
+            "time": "2017-12-31",
+            "original_text": "京东方面预计2017年净利超75亿；山西汾酒推进混改，控股股东拟转让部分股权引入战投",
+            "features": {
+                "keywords": [
+                    "京东",
+                    "净利",
+                    "山西汾酒",
+                    "混改",
+                    "股权转让"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电子",
+                    "白酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "京东方面预计2017年净利超75亿；山西汾酒推进混改，控股股东拟转让部分股权引入战投",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-01",
+            "original_text": "TCL集团：股东拟减持不超1%股份",
+            "features": {
+                "keywords": [
+                    "TCL",
+                    "减持"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "TCL集团：股东拟减持不超1%股份",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "淘宝大学首次跨界携手TCL成立新零售学院",
+            "features": {
+                "keywords": [
+                    "淘宝大学",
+                    "TCL",
+                    "新零售"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "零售",
+                    "电商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "淘宝大学首次跨界携手TCL成立新零售学院",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2017-12-31",
+            "original_text": "TCL手机业务下滑，该如何突破？",
+            "features": {
+                "keywords": [
+                    "TCL",
+                    "手机",
+                    "下滑"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "TCL手机业务下滑，该如何突破？",
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-01",
+            "original_text": "TCL集团：通讯业务有望在2018年大幅改善",
+            "features": {
+                "keywords": [
+                    "TCL",
+                    "通讯业务",
+                    "改善"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "TCL集团：通讯业务有望在2018年大幅改善",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2017-12-31",
+            "original_text": "四大因素导致2017年中国彩电内销规模下滑",
+            "features": {
+                "keywords": [
+                    "彩电",
+                    "内销",
+                    "下滑"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "家电"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "四大因素导致2017年中国彩电内销规模下滑",
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-01-01",
+            "original_text": "钛媒体2017：孙良谈新时代下的中国力量",
+            "features": {
+                "keywords": [
+                    "钛媒体",
+                    "孙良",
+                    "中国力量"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "钛媒体2017：孙良谈新时代下的中国力量",
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 1,
+                "Market_Scope": 3,
+                "Time_Proximity": 4,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

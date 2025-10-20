@@ -1,0 +1,90 @@
+[
+    [
+        {
+            "time": "2018-04-25",
+            "original_text": "Pre-Market Earnings Report for April 25, 2018: BA, CMCSA, TMO, GD, NOC, ANTM, NSC, BSX, TEL, SIRI, TROW, APH",
+            "features": {
+                "keywords": [
+                    "Earnings",
+                    "Pre-Market",
+                    "BA",
+                    "CMCSA",
+                    "TMO",
+                    "GD",
+                    "NOC",
+                    "ANTM",
+                    "NSC",
+                    "BSX",
+                    "TEL",
+                    "SIRI",
+                    "TROW",
+                    "APH"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "aerospace",
+                    "media",
+                    "healthcare",
+                    "defense",
+                    "industrial",
+                    "biotech",
+                    "telecom",
+                    "financial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-04-25",
+            "original_text": "Medical Product Stock Earnings Roster for Apr 25: LH & More",
+            "features": {
+                "keywords": [
+                    "Medical",
+                    "Product",
+                    "Stock",
+                    "Earnings",
+                    "LH"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 10,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "银行承兑汇票首现逾期未偿付 鞍钢股份遭遇8亿\"跳票\" 未按时兑付本息",
+            "features": {
+                "keywords": [
+                    "银行承兑汇票",
+                    "逾期",
+                    "鞍钢股份",
+                    "跳票",
+                    "未偿付"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "钢铁"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "银行承兑汇票首现逾期未偿付 鞍钢股份遭遇8亿\"跳票\" 未按时兑付本息",
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "超预期: 7月重卡同比止跌，三季度有望平稳过渡【太平洋汽车团队】",
+            "features": {
+                "keywords": [
+                    "重卡",
+                    "同比止跌",
+                    "三季度",
+                    "平稳过渡",
+                    "太平洋汽车团队"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "超预期: 7月重卡同比止跌，三季度有望平稳过渡【太平洋汽车团队】",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

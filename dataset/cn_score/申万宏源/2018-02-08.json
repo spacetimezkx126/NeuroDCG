@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "五粮液股价跌24%贵州茅台跌14% 中泰证券在山顶唱多",
+            "features": {
+                "keywords": [
+                    "五粮液",
+                    "贵州茅台",
+                    "股价下跌",
+                    "中泰证券",
+                    "唱多"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "白酒",
+                    "金融（券商）"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

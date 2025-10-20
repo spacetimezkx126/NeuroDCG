@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "Is Cisco Systems Stock a Buy?",
+            "features": {
+                "keywords": [
+                    "Cisco",
+                    "Systems",
+                    "Stock",
+                    "Buy"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "The Zacks Analyst Blog Highlights: Apple, Qualcomm, The Boeing Company and Cisco Systems",
+            "features": {
+                "keywords": [
+                    "Zacks",
+                    "Analyst",
+                    "Blog",
+                    "Apple",
+                    "Qualcomm",
+                    "Boeing",
+                    "Cisco",
+                    "Systems"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "aerospace"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

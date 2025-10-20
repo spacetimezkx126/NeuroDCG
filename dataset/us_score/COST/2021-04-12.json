@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Jim Cramer: We're Seeing the Triumph of Big Balance Sheets vs the Small Ones",
+            "features": {
+                "keywords": [
+                    "Big Balance Sheets",
+                    "Triumph",
+                    "Small Balance Sheets"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "corporate strategy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Jim Cramer: We're Seeing the Triumph of Big Balance Sheets vs the Small Ones",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Market Recap With Jim Cramer: Cannabis, EVs, Cruise Stocks",
+            "features": {
+                "keywords": [
+                    "Cannabis",
+                    "EVs",
+                    "Cruise Stocks"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "automotive",
+                    "transportation"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Market Recap With Jim Cramer: Cannabis, EVs, Cruise Stocks",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

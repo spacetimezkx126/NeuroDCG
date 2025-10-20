@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2018-10-01",
+            "original_text": "US Indexes Close Lower to Start October",
+            "features": {
+                "keywords": [
+                    "Indexes",
+                    "Close",
+                    "Lower",
+                    "Start",
+                    "October"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-10-01",
+            "original_text": "NewsBreak: Dow Plunges More Than 300 on Market Selloff",
+            "features": {
+                "keywords": [
+                    "Dow",
+                    "Plunges",
+                    "More",
+                    "Than",
+                    "300",
+                    "Market",
+                    "Selloff"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 10,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

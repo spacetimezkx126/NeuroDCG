@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-10",
+            "original_text": "DUK vs. IDA: Which Stock Should Value Investors Buy Now?",
+            "features": {
+                "keywords": [
+                    "DUK",
+                    "IDA",
+                    "value investors",
+                    "buy now"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 10,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-10",
+            "original_text": "Piedmont Natural Gas donates $50,000 to aid those struggling with utility bills during COVID-19 in North Carolina, South Carolina, Tennessee",
+            "features": {
+                "keywords": [
+                    "Piedmont Natural Gas",
+                    "donates",
+                    "$50,000",
+                    "COVID-19",
+                    "utility bills"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

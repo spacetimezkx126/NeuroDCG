@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "All of Dow's 30 components end lower in worst selloff for blue-chip index since late October",
+            "features": {
+                "keywords": [
+                    "Dow",
+                    "selloff",
+                    "blue-chip",
+                    "lower"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "All of Dow's 30 components end lower in worst selloff for blue-chip index since late October",
+                "Correlation": 8,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Has UnitedHealth Group (UNH) Outpaced Other Medical Stocks This Year?",
+            "features": {
+                "keywords": [
+                    "UnitedHealth",
+                    "Group",
+                    "Outpaced",
+                    "Medical",
+                    "Stocks"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Has UnitedHealth Group (UNH) Outpaced Other Medical Stocks This Year?",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "UnitedHealth vs. Humana: Which Healthcare Stock is a More Compelling Buy?",
+            "features": {
+                "keywords": [
+                    "UnitedHealth",
+                    "Humana",
+                    "Healthcare",
+                    "Compelling",
+                    "Buy"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "UnitedHealth vs. Humana: Which Healthcare Stock is a More Compelling Buy?",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

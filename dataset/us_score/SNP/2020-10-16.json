@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-15",
+            "original_text": "Sinopec Group Overseas Development (2015) Ltd -- Moody's affirms A1 ratings of Sinopec Group and Sinopec Corp; outlook stable",
+            "features": {
+                "keywords": [
+                    "Moody's",
+                    "A1 ratings",
+                    "outlook stable",
+                    "Sinopec"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 10,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-15",
+            "original_text": "U.S. State Department may add Ant Group to trade blacklist: RPT",
+            "features": {
+                "keywords": [
+                    "U.S. State Department",
+                    "Ant Group",
+                    "trade blacklist"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

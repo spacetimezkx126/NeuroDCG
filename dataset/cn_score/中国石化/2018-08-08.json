@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "第四桶油中化能源即将在港上市 石油股值得关注",
+            "features": {
+                "keywords": [
+                    "中化能源",
+                    "港股上市",
+                    "石油股"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "能源",
+                    "石油"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "化工行业日报：中国科学家首次精确合成共轭莫比乌斯索烃",
+            "features": {
+                "keywords": [
+                    "化工行业",
+                    "科学家",
+                    "共轭莫比乌斯索烃"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

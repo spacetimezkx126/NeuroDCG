@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2021-02-11",
+            "original_text": "Duke Energy to announce fourth-quarter and year-end 2020 financial results on Feb. 11",
+            "features": {
+                "keywords": [
+                    "Duke Energy",
+                    "fourth-quarter",
+                    "year-end",
+                    "financial results"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-02-11",
+            "original_text": "Duke Energy Renewables acquires 144-MWac Pflugerville Solar project in Texas from Canadian Solar",
+            "features": {
+                "keywords": [
+                    "Duke Energy Renewables",
+                    "acquires",
+                    "Pflugerville Solar",
+                    "Texas",
+                    "Canadian Solar"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "renewable energy",
+                    "solar"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

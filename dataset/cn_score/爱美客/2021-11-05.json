@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "爱美客现1笔大宗交易 ，共成交251.10万元",
+            "features": {
+                "keywords": [
+                    "爱美客",
+                    "大宗交易",
+                    "成交"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医疗美容"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "爱美客现1笔大宗交易 ，共成交251.10万元",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "万事利：公司新设立的全资子公司杭州万事利智能科技有限公司无医美相关业务。公司暂无与爱美客合作事项",
+            "features": {
+                "keywords": [
+                    "万事利",
+                    "全资子公司",
+                    "医美",
+                    "爱美客",
+                    "合作"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "其他行业",
+                    "医疗美容"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 2,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

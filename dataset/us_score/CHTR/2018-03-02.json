@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-03-15",
+            "original_text": "From comedy writer to startup CEO",
+            "features": {
+                "keywords": [
+                    "comedy writer",
+                    "startup",
+                    "CEO"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment",
+                    "technology"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "From comedy writer to startup CEO",
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 2,
+                "Entity_Density": 1,
+                "Market_Scope": 1,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "Cable ONE (CABO) Q4 Earnings Lag, Revenues Top Estimates",
+            "features": {
+                "keywords": [
+                    "Cable ONE",
+                    "Q4 Earnings",
+                    "Lag",
+                    "Revenues",
+                    "Top Estimates"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "telecommunications"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Cable ONE (CABO) Q4 Earnings Lag, Revenues Top Estimates",
+                "Correlation": 10,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

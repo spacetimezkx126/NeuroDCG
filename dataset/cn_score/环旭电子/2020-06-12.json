@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2020-06-09",
+            "original_text": "【华金证券晚间资讯（20200609）】",
+            "features": {
+                "keywords": [
+                    "华金证券",
+                    "晚间资讯"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 1,
+                "Entity_Density": 2,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 4,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2020-06-09",
+            "original_text": "【电子】部分厂商5月营收简报发布，消费电子回暖——电子行业周报——看好（联系人：徐勇、邓果一）",
+            "features": {
+                "keywords": [
+                    "电子",
+                    "厂商",
+                    "5月营收",
+                    "消费电子",
+                    "回暖",
+                    "行业周报",
+                    "看好"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

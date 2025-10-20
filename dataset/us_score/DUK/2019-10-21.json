@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-03-15",
+            "original_text": "Duke Energy linemen lasso 6 awards at International Lineman's Rodeo",
+            "features": {
+                "keywords": [
+                    "Duke Energy",
+                    "linemen",
+                    "awards",
+                    "International Lineman's Rodeo"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "utilities"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 10,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "New Piedmont Natural Gas proposal could lead to lower bill for Carolinas customers",
+            "features": {
+                "keywords": [
+                    "Piedmont Natural Gas",
+                    "proposal",
+                    "lower bill",
+                    "Carolinas customers"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities",
+                    "natural gas"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 4,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

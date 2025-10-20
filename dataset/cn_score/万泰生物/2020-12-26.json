@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股41家药企上市，两家企业开板涨幅超1000%",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "药企",
+                    "上市",
+                    "开板涨幅",
+                    "1000%"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 9,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "4614亿元! A股今年IPO募资额创10年新高",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "IPO",
+                    "募资额",
+                    "10年新高",
+                    "4614亿元"
+                ],
+                "sentiment_score": 0.95,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 10,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,104 @@
+[
+    [
+        {
+            "time": "2020-01-01",
+            "original_text": "The 2020s Will Bring Massive Change. Why Society Might Not Be Ready.",
+            "features": {
+                "keywords": [
+                    "massive change",
+                    "society",
+                    "not ready"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 4,
+                "Duration": 10,
+                "Entity_Density": 1,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2019-12-31",
+            "original_text": "Fed’s Underused Repo Ops Point to Ample Funding for End of Year",
+            "features": {
+                "keywords": [
+                    "Fed",
+                    "repo ops",
+                    "ample funding",
+                    "end of year"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2019-12-30",
+            "original_text": "FDIC Data on Bank of America and Wells Fargo Show Banks Took Write-Downs; Here's Strategy",
+            "features": {
+                "keywords": [
+                    "FDIC",
+                    "Bank of America",
+                    "Wells Fargo",
+                    "write-downs",
+                    "strategy"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

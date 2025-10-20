@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "百隆东方(601339.SH)：9月大秦线货物运输量增3.84%至3513万吨",
+            "features": {
+                "keywords": [
+                    "百隆东方",
+                    "大秦线",
+                    "货物运输量",
+                    "增长",
+                    "3.84%"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "交通运输",
+                    "物流"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "百隆东方(601339.SH)截至9月末累计斥资8827.45万元回购1.57%股份",
+            "features": {
+                "keywords": [
+                    "百隆东方",
+                    "回购",
+                    "股份",
+                    "8827.45万元",
+                    "1.57%"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "纺织服装"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

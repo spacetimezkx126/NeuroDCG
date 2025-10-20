@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "涨，停，揭，秘，：，两，市，探，底，过，程，延，续， ，浙，江，大，湾，区，迎，来，涨，停，潮",
+            "features": {
+                "keywords": [
+                    "涨停",
+                    "两市",
+                    "探底",
+                    "浙江大湾区"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产",
+                    "基建"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "涨，停，揭，秘，：，两，市，探，底，过，程，延，续， ，浙，江，大，湾，区，迎，来，涨，停，潮",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "亚，夏，汽，车，”，，不，务，正，业，”，，拟，1，8，5，亿，置，入，中，公，教，育，，，股，票，连，续，5，日，涨，停",
+            "features": {
+                "keywords": [
+                    "亚夏汽车",
+                    "资产重组",
+                    "中公教育",
+                    "连续涨停"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "教育",
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "亚，夏，汽，车，”，，不，务，正，业，”，，拟，1，8，5，亿，置，入，中，公，教，育，，，股，票，连，续，5，日，涨，停",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

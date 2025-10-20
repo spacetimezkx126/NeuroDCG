@@ -1,0 +1,85 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "今日465家公司公布半年报46家业绩增幅翻倍",
+            "features": {
+                "keywords": [
+                    "半年报",
+                    "业绩增幅",
+                    "翻倍"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "今日465家公司公布半年报46家业绩增幅翻倍",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【每日金属资讯】华友钴业上半年净利增965.28%，江西铜业净利降42.68%，五矿稀土净利增228.81%",
+            "features": {
+                "keywords": [
+                    "华友钴业",
+                    "净利增",
+                    "江西铜业",
+                    "净利降",
+                    "五矿稀土",
+                    "净利增"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "有色金属",
+                    "稀有金属"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "mixed",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "mixed",
+                "company_performance": {
+                    "positive": [
+                        "华友钴业",
+                        "五矿稀土"
+                    ],
+                    "negative": [
+                        "江西铜业"
+                    ]
+                }
+            },
+            "scores": {
+                "News_content": "【每日金属资讯】华友钴业上半年净利增965.28%，江西铜业净利降42.68%，五矿稀土净利增228.81%",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2021-08-15",
+            "original_text": "SHAREHOLDER ACTION REMINDER: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Citigroup Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm",
+            "features": {
+                "keywords": [
+                    "Class Action",
+                    "Lawsuit",
+                    "Citigroup Inc.",
+                    "Investors",
+                    "Losses"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-09-01",
+            "original_text": "Bank Error in Your Favor: Citi’s Fight to Reclaim $900 Million",
+            "features": {
+                "keywords": [
+                    "Bank Error",
+                    "Citi",
+                    "$900 Million",
+                    "Reclaim"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

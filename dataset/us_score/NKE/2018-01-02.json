@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "The Rise and Future of Adidas",
+            "features": {
+                "keywords": [
+                    "Adidas",
+                    "rise",
+                    "future"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail",
+                    "apparel"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "2018-06-15",
+            "original_text": "Retail: 2018’s 'Winners & Less Winners'",
+            "features": {
+                "keywords": [
+                    "retail",
+                    "winners",
+                    "less winners"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "mixed",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Retail: 2018’s 'Winners & Less Winners'",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "2018-12-31",
+            "original_text": "Retail Person Of The Year: Mark Parker, Nike CEO",
+            "features": {
+                "keywords": [
+                    "retail",
+                    "person of the year",
+                    "Mark Parker",
+                    "Nike",
+                    "CEO"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail",
+                    "apparel"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

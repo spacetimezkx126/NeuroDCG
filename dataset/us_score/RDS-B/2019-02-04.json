@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "Asian Markets Mixed In Holiday-thinned Trade",
+            "features": {
+                "keywords": [
+                    "Asian",
+                    "Markets",
+                    "Mixed",
+                    "Holiday-thinned",
+                    "Trade"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Japanese Market Drifts Lower",
+            "features": {
+                "keywords": [
+                    "Japanese",
+                    "Market",
+                    "Drifts",
+                    "Lower"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "European Markets End On Mixed Note",
+            "features": {
+                "keywords": [
+                    "European",
+                    "Markets",
+                    "End",
+                    "On",
+                    "Mixed",
+                    "Note"
+                ],
+                "sentiment_score": 0.1,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

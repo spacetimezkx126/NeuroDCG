@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2020-01-06",
+            "original_text": "Xerox Lines Up $24 Billion M&A Loan in Pursuit of Deal with HP",
+            "features": {
+                "keywords": [
+                    "Xerox",
+                    "M&A",
+                    "Loan",
+                    "HP",
+                    "Deal"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 10,
+                "Headline_Structure": 9,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "2020-01-06",
+            "original_text": "How Trading Your Own Retirement Can Fleecing Your Financial Future",
+            "features": {
+                "keywords": [
+                    "Trading",
+                    "Retirement",
+                    "Financial",
+                    "Future"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "How Trading Your Own Retirement Can Fleecing Your Financial Future",
+                "Correlation": 3,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 2,
+                "Duration": 4,
+                "Entity_Density": 1,
+                "Market_Scope": 3,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "股票质押踩雷债券投资不畅 兴业证券净利预减近100% 股票质押异常",
+            "features": {
+                "keywords": [
+                    "股票质押",
+                    "踩雷",
+                    "债券投资",
+                    "兴业证券",
+                    "净利预减"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

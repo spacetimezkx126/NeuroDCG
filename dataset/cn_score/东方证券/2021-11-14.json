@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "非银金融行业周报：券商盈利高景气延续 保险两端压力仍在",
+            "features": {
+                "keywords": [
+                    "非银金融",
+                    "券商",
+                    "盈利",
+                    "高景气",
+                    "保险",
+                    "压力"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "非银金融",
+                    "券商",
+                    "保险"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 3,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "券商代销公募保有量普降，因监管收紧申报尺度",
+            "features": {
+                "keywords": [
+                    "券商",
+                    "代销",
+                    "公募",
+                    "保有量",
+                    "监管",
+                    "收紧",
+                    "申报尺度"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "券商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

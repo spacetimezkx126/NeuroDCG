@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "农行常德分行\"车位贷\"吸引有车一族",
+            "features": {
+                "keywords": [
+                    "农行",
+                    "常德分行",
+                    "车位贷",
+                    "有车一族"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "银行",
+                    "贷款"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "农行常德分行\"车位贷\"吸引有车一族",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "市况不佳 银行补充资本实施进展缓慢",
+            "features": {
+                "keywords": [
+                    "市况",
+                    "不佳",
+                    "银行",
+                    "补充资本",
+                    "进展缓慢"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "银行",
+                    "资本"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "市况不佳 银行补充资本实施进展缓慢",
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

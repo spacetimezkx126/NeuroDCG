@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "因未能发现重大资产重组项目三大问题 长江证券两保荐代表人被上交所警示 金融监管处罚",
+            "features": {
+                "keywords": [
+                    "长江证券",
+                    "重大资产重组",
+                    "保荐代表人",
+                    "上交所",
+                    "警示",
+                    "金融监管",
+                    "处罚"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "爱美客跌5.45% 中信证券长江证券高点唱多",
+            "features": {
+                "keywords": [
+                    "爱美客",
+                    "中信证券",
+                    "长江证券",
+                    "唱多",
+                    "下跌"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医疗美容"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

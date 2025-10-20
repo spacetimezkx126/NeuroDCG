@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2020-02-28",
+            "original_text": "债券重大事件2020年2月28日星期五主承销商：「14华阳经贸MTN001」等债券违约后续未按时兑付本息",
+            "features": {
+                "keywords": [
+                    "债券",
+                    "违约",
+                    "14华阳经贸MTN001",
+                    "未按时兑付"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "债券市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "债券重大事件2020年2月28日星期五主承销商：「14华阳经贸MTN001」等债券违约后续未按时兑付本息",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2020-02-28",
+            "original_text": "日照钢铁获中信银行56亿元授信支持",
+            "features": {
+                "keywords": [
+                    "日照钢铁",
+                    "中信银行",
+                    "授信支持",
+                    "56亿元"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "钢铁",
+                    "银行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,374 @@
+[
+    [
+        {
+            "time": "2019-03-13",
+            "original_text": "FAA analysis predicted many more Boeing Max crashes without a fix",
+            "features": {
+                "keywords": [
+                    "Boeing",
+                    "Max",
+                    "crashes",
+                    "fix"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aviation"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-06-26",
+            "original_text": "FAA Chief Hints At New Boeing Penalty As 737 Max Return Slips Further",
+            "features": {
+                "keywords": [
+                    "FAA",
+                    "Chief",
+                    "Boeing",
+                    "Penalty",
+                    "737",
+                    "Max",
+                    "Return"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aviation"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2019-07-15",
+            "original_text": "Southwest Airlines adds summer flights despite not knowing fate of 737 MAX planes",
+            "features": {
+                "keywords": [
+                    "Southwest",
+                    "Airlines",
+                    "summer",
+                    "flights",
+                    "737",
+                    "MAX"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aviation"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2019-10-29",
+            "original_text": "FAA Won't Recertify 737 MAX Until 2020, Administrator Says",
+            "features": {
+                "keywords": [
+                    "FAA",
+                    "Recertify",
+                    "737",
+                    "MAX",
+                    "2020"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aviation"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-11-07",
+            "original_text": "Stock Market Ekes Out Gains As Fed Keeps Rates Untouched; Watch This Retailer's Earnings",
+            "features": {
+                "keywords": [
+                    "Stock",
+                    "Market",
+                    "Gains",
+                    "Fed",
+                    "Rates",
+                    "Retailer",
+                    "Earnings"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2019-12-11",
+            "original_text": "Stocks drift higher after Fed signals no interest rate hikes for at least a year",
+            "features": {
+                "keywords": [
+                    "Stocks",
+                    "drift",
+                    "higher",
+                    "Fed",
+                    "interest",
+                    "rate",
+                    "hikes"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2019-12-12",
+            "original_text": "Dow Jones Joins Stock Market Rally After Fed Signals No Rate Cuts Next Year",
+            "features": {
+                "keywords": [
+                    "Dow",
+                    "Jones",
+                    "Stock",
+                    "Market",
+                    "Rally",
+                    "Fed",
+                    "Rate",
+                    "Cuts"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2019-12-13",
+            "original_text": "Dow Jones Under Pressure Ahead Of Fed, But These 2 Key Dow Stocks Gain",
+            "features": {
+                "keywords": [
+                    "Dow",
+                    "Jones",
+                    "Pressure",
+                    "Fed",
+                    "Key",
+                    "Dow",
+                    "Stocks",
+                    "Gain"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2019-12-16",
+            "original_text": "Global airlines chief warns on spiralling delays to Boeing 737 MAX",
+            "features": {
+                "keywords": [
+                    "Global",
+                    "airlines",
+                    "chief",
+                    "warns",
+                    "delays",
+                    "Boeing",
+                    "737",
+                    "MAX"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aviation"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2019-12-17",
+            "original_text": "US STOCKS-S&P 500, Nasdaq higher ahead of Fed meet; Dow hit by Boeing, Home Depot",
+            "features": {
+                "keywords": [
+                    "US",
+                    "STOCKS",
+                    "S&P",
+                    "500",
+                    "Nasdaq",
+                    "higher",
+                    "Fed",
+                    "meet",
+                    "Dow",
+                    "Boeing",
+                    "Home",
+                    "Depot"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

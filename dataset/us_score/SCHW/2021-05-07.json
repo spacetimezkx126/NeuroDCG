@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-10-15",
+            "original_text": "It’s a good time to take advantage of virtual benefits",
+            "features": {
+                "keywords": [
+                    "good time",
+                    "take advantage",
+                    "virtual benefits"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "It’s a good time to take advantage of virtual benefits",
+                "Correlation": 2,
+                "Sentiment": 6,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 1,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-15",
+            "original_text": "Shareholders Will Probably Not Have Any Issues With The Charles Schwab Corporation's (NYSE:SCHW) CEO Compensation",
+            "features": {
+                "keywords": [
+                    "shareholders",
+                    "issues",
+                    "Charles Schwab Corporation",
+                    "CEO Compensation"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Shareholders Will Probably Not Have Any Issues With The Charles Schwab Corporation's (NYSE:SCHW) CEO Compensation",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

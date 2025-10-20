@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "time": "2020-09-01",
+            "original_text": "Inovio to begin mid-to-late stage study of COVID-19 vaccine candidate in September",
+            "features": {
+                "keywords": [
+                    "Inovio",
+                    "mid-to-late stage",
+                    "COVID-19 vaccine",
+                    "September"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-03-08",
+            "original_text": "Johnson & Johnson stock underperforms Monday when compared to competitors",
+            "features": {
+                "keywords": [
+                    "Johnson & Johnson",
+                    "underperforms",
+                    "competitors"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2022-11-15",
+            "original_text": "Warren Buffett: We Sell When the Fundamentals Have Changed",
+            "features": {
+                "keywords": [
+                    "Warren Buffett",
+                    "Sell",
+                    "Fundamentals",
+                    "Changed"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

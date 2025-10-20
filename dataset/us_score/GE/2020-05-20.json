@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "GE Stock Rises As Air Force Kicks Off Contest To Extend This Cold War Icon's Life",
+            "features": {
+                "keywords": [
+                    "GE",
+                    "stock rises",
+                    "Air Force",
+                    "contest",
+                    "Cold War Icon"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aerospace",
+                    "defense"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "GE Stock Rises As Air Force Kicks Off Contest To Extend This Cold War Icon's Life",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Lebanon seeks foreign government-backed financing for power plants after default",
+            "features": {
+                "keywords": [
+                    "Lebanon",
+                    "foreign financing",
+                    "government-backed",
+                    "power plants",
+                    "default"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Lebanon seeks foreign government-backed financing for power plants after default",
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "食 品 饮 料 提 价 潮  基 金 热 情 不 高",
+            "features": {
+                "keywords": [
+                    "食品",
+                    "饮料",
+                    "提价潮",
+                    "基金",
+                    "热情不高"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "食品",
+                    "饮料",
+                    "基金"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "食 品 饮 料 提 价 潮  基 金 热 情 不 高",
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "军 工 股 走 势 强 劲 ， 芯 片 股 人 气 回 升",
+            "features": {
+                "keywords": [
+                    "军工股",
+                    "走势强劲",
+                    "芯片股",
+                    "人气回升"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "军工",
+                    "芯片"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "军 工 股 走 势 强 劲 ， 芯 片 股 人 气 回 升",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

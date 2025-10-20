@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2021-08-01",
+            "original_text": "Klarna CEO: Square's acquisition of Afterpay highlights 'land grab' for market share",
+            "features": {
+                "keywords": [
+                    "Square",
+                    "acquisition",
+                    "Afterpay",
+                    "land grab",
+                    "market share"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "fintech",
+                    "payments"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-08-01",
+            "original_text": "Square acquires Afterpay: why Visa and Mastercard should be 'scared'",
+            "features": {
+                "keywords": [
+                    "Square",
+                    "acquires",
+                    "Afterpay",
+                    "Visa",
+                    "Mastercard",
+                    "scared"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "fintech",
+                    "payments"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

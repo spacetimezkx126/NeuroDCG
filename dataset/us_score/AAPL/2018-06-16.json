@@ -1,0 +1,618 @@
+[
+    [
+        {
+            "time": "2018-07-16",
+            "original_text": "['3', 'Reasons', 'Ford', 'Motor', 'Company', 'Stock', 'Is', 'Worth', 'a', 'Spin']",
+            "features": {
+                "keywords": [
+                    "Ford",
+                    "Motor",
+                    "Stock",
+                    "Spin"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "automobile"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "3 Reasons Ford Motor Company Stock Is Worth a Spin",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['The', 'Next', 'Apple', 'Watch', 'Innovations,', 'Revealed']",
+            "features": {
+                "keywords": [
+                    "Apple",
+                    "Watch",
+                    "Innovations"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "The Next Apple Watch Innovations, Revealed",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['Everyone', 'wants', 'to', 'be', 'on', 'streaming', 'TV,', 'even', 'Oprah', 'Winfrey']",
+            "features": {
+                "keywords": [
+                    "streaming",
+                    "TV",
+                    "Oprah",
+                    "Winfrey"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Everyone wants to be on streaming TV, even Oprah Winfrey",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['This', 'Report', 'Confirms', 'What', 'Tim', 'Cook', 'Has', 'Been', 'Saying', 'All', 'Along']",
+            "features": {
+                "keywords": [
+                    "Tim",
+                    "Cook",
+                    "Report",
+                    "Confirm"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "This Report Confirms What Tim Cook Has Been Saying All Along",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['Pokémon GO Teases A Massive Ultra Unlock For New Global Research Challenge']",
+            "features": {
+                "keywords": [
+                    "Pokémon",
+                    "GO",
+                    "Ultra",
+                    "Unlock",
+                    "Global",
+                    "Research",
+                    "Challenge"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "gaming"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Pokémon GO Teases A Massive Ultra Unlock For New Global Research Challenge",
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 1,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['If', 'I', 'Could', 'Buy', 'Only', '1', 'Stock,', 'This', 'Would', 'Be', 'It']",
+            "features": {
+                "keywords": [
+                    "Stock",
+                    "Buy"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "If I Could Buy Only 1 Stock, This Would Be It",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 1,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['Apple’s Commitment to Privacy Was On Display This Week']",
+            "features": {
+                "keywords": [
+                    "Apple",
+                    "Commitment",
+                    "Privacy"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Apple’s Commitment to Privacy Was On Display This Week",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['Pokémon GO Community Day: How To Get Yourself A Shiny, Powerful Tyranitar']",
+            "features": {
+                "keywords": [
+                    "Pokémon",
+                    "GO",
+                    "Community",
+                    "Day",
+                    "Shiny",
+                    "Tyranitar"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "gaming"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Pokémon GO Community Day: How To Get Yourself A Shiny, Powerful Tyranitar",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 4,
+                "Duration": 2,
+                "Entity_Density": 2,
+                "Market_Scope": 1,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['Xiaomi needs to destroy another industry, not just conquer phones, to be worth its $100 billion IPO price tag']",
+            "features": {
+                "keywords": [
+                    "Xiaomi",
+                    "destroy",
+                    "industry",
+                    "phones",
+                    "IPO",
+                    "price",
+                    "tag"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Xiaomi needs to destroy another industry, not just conquer phones, to be worth its $100 billion IPO price tag",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['Apple poaches senior self-driving engineer from Waymo']",
+            "features": {
+                "keywords": [
+                    "Apple",
+                    "poaches",
+                    "senior",
+                    "self-driving",
+                    "engineer",
+                    "Waymo"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Apple poaches senior self-driving engineer from Waymo",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['Apple, Inc. May Have a New Subscription Service in the Works']",
+            "features": {
+                "keywords": [
+                    "Apple",
+                    "Subscription",
+                    "Service"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Apple, Inc. May Have a New Subscription Service in the Works",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['Comcast Corporation Threatens Bob Iger’s Swan Song']",
+            "features": {
+                "keywords": [
+                    "Comcast",
+                    "Corporation",
+                    "Threatens",
+                    "Bob",
+                    "Iger",
+                    "Swan",
+                    "Song"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Comcast Corporation Threatens Bob Iger’s Swan Song",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['Oprah and Apple Ink Multi-Year Content Development Deal']",
+            "features": {
+                "keywords": [
+                    "Oprah",
+                    "Apple",
+                    "Multi-Year",
+                    "Content",
+                    "Development",
+                    "Deal"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Oprah and Apple Ink Multi-Year Content Development Deal",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['Apple, Qualcomm battle over possible ban on some U.S. iPhone imports']",
+            "features": {
+                "keywords": [
+                    "Apple",
+                    "Qualcomm",
+                    "battle",
+                    "ban",
+                    "iPhone",
+                    "imports"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Apple, Qualcomm battle over possible ban on some U.S. iPhone imports",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['[$$]', 'Apple’s Next Laptops Could Be More iPhone Than Mac']",
+            "features": {
+                "keywords": [
+                    "Apple",
+                    "Laptops",
+                    "iPhone",
+                    "Mac"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Apple’s Next Laptops Could Be More iPhone Than Mac",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['[$$]', 'Apple Lands Oprah Winfrey for Video Service']",
+            "features": {
+                "keywords": [
+                    "Apple",
+                    "Lands",
+                    "Oprah",
+                    "Winfrey",
+                    "Video",
+                    "Service"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Apple Lands Oprah Winfrey for Video Service",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-07-16",
+            "original_text": "['[$$]', 'Apple to Stick With Cheaper Screens as Consumers Balk at iPhone X Price Tag']",
+            "features": {
+                "keywords": [
+                    "Apple",
+                    "Stick",
+                    "Cheaper",
+                    "Screens",
+                    "Consumers",
+                    "Balk",
+                    "iPhone",
+                    "Price",
+                    "Tag"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Apple to Stick With Cheaper Screens as Consumers Balk at iPhone X Price Tag",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

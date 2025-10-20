@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "正泰聘请新副总裁，曾任施耐德电气销售总监",
+            "features": {
+                "keywords": [
+                    "正泰",
+                    "副总裁",
+                    "施耐德",
+                    "电气",
+                    "销售总监"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电气设备",
+                    "制造业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "正泰聘请新副总裁，曾任施耐德电气销售总监",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "正泰电器(601877)年报&一季报点评：低压整装再出发 光伏户用新篇章",
+            "features": {
+                "keywords": [
+                    "正泰电器",
+                    "年报",
+                    "一季报",
+                    "低压整装",
+                    "光伏",
+                    "户用"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电气设备",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

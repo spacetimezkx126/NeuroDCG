@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "[中性评级]新能源周报：回收等政策逐步完善 行业降成本仍是关键",
+            "features": {
+                "keywords": [
+                    "新能源",
+                    "回收政策",
+                    "行业降成本"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "[买入评级]电气设备行业周报：可再生能源配额制年内出台 新能源发电预期转好",
+            "features": {
+                "keywords": [
+                    "电气设备",
+                    "可再生能源配额制",
+                    "新能源发电",
+                    "预期转好"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电气设备",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 10,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

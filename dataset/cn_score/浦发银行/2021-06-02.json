@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "华为明有重磅会议，将与多家上市公司发布新合作计划",
+            "features": {
+                "keywords": [
+                    "华为",
+                    "重磅会议",
+                    "上市公司",
+                    "新合作计划"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "通信"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "专家：建设海南自贸港 未来银行业创新要突出“跨境”",
+            "features": {
+                "keywords": [
+                    "海南自贸港",
+                    "银行业",
+                    "跨境",
+                    "创新"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "贸易"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中债碳中和债券指数首次用于支持结构性产品发行",
+            "features": {
+                "keywords": [
+                    "中债",
+                    "碳中和",
+                    "债券指数",
+                    "结构性产品"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "绿色金融",
+                    "环保"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

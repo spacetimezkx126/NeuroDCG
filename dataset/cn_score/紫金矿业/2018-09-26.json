@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "time": "2018-01-01",
+            "original_text": "估 值 低 谷 点 燃 热 情  2 0 1 8 要 约 收 购 井 喷",
+            "features": {
+                "keywords": [
+                    "估值低谷",
+                    "点燃热情",
+                    "要约收购",
+                    "井喷"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "全行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 3,
+                "Headline_Structure": 9,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

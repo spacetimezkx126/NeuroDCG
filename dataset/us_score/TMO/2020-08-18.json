@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2021-04-15",
+            "original_text": "Will Thermo Fisher's (TMO) Failed QIAGEN Deal Cost it a Lot?",
+            "features": {
+                "keywords": [
+                    "Thermo Fisher",
+                    "QIAGEN",
+                    "Failed Deal",
+                    "Cost"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-04-15",
+            "original_text": "FDA warns providers about problems with Thermo Fisher's COVID-19 test",
+            "features": {
+                "keywords": [
+                    "FDA",
+                    "warns",
+                    "Thermo Fisher",
+                    "COVID-19 test",
+                    "problems"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "medical devices"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

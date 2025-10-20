@@ -1,0 +1,187 @@
+[
+    [
+        {
+            "time": "2020-10-27",
+            "original_text": "['Stocks', 'End', 'Mixed', 'as', 'Virus', 'Cases', 'Surge;', 'Tech', 'Lifted', 'by', 'AMD-Xilinx']",
+            "features": {
+                "keywords": [
+                    "Stocks",
+                    "Mixed",
+                    "Virus Cases",
+                    "Tech",
+                    "AMD-Xilinx"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Stocks End Mixed as Virus Cases Surge; Tech Lifted by AMD-Xilinx",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-10-28",
+            "original_text": "['Pfizer', 'Earnings', 'Beat', 'But', 'Sales', 'Miss;', 'Crucial', 'Covid-19', 'Vaccine', 'Trials', 'Advance']",
+            "features": {
+                "keywords": [
+                    "Pfizer",
+                    "Earnings Beat",
+                    "Sales Miss",
+                    "Covid-19 Vaccine",
+                    "Trials Advance"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "pharmaceuticals",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Pfizer Earnings Beat But Sales Miss; Crucial Covid-19 Vaccine Trials Advance",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-10-29",
+            "original_text": "['Dow', 'Falls', 'as', 'Virus', 'Cases', 'Surge;', 'Tech', 'Gets', 'Lift', 'From', \"AMD's\", 'Buy', 'of', 'Xilinx']",
+            "features": {
+                "keywords": [
+                    "Dow Falls",
+                    "Virus Cases Surge",
+                    "Tech Lift",
+                    "AMD Buy",
+                    "Xilinx"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Dow Falls as Virus Cases Surge; Tech Gets Lift From AMD's Buy of Xilinx",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-10-30",
+            "original_text": "['Pfizer', '(PFE)', 'Q3', 'Earnings', 'Top,', 'Sales', 'Miss,', 'View', 'Narrowed']",
+            "features": {
+                "keywords": [
+                    "Pfizer",
+                    "Q3 Earnings Top",
+                    "Sales Miss",
+                    "View Narrowed"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "pharmaceuticals",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Pfizer (PFE) Q3 Earnings Top, Sales Miss, View Narrowed",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-10-31",
+            "original_text": "['Pfizer’s', 'Covid-19', 'vaccine', 'doesn’t', 'add', 'a', '‘tremendous', 'amount’', 'to', 'the', 'company’s', 'valuation:', 'Analyst']",
+            "features": {
+                "keywords": [
+                    "Pfizer",
+                    "Covid-19 Vaccine",
+                    "Valuation",
+                    "Analyst"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "pharmaceuticals",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Pfizer’s Covid-19 vaccine doesn’t add a ‘tremendous amount’ to the company’s valuation: Analyst",
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

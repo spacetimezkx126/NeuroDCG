@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-09-11",
+            "original_text": "A股共发生71宗大宗交易成交13.11亿元（9月11日）",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "大宗交易",
+                    "成交额"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "全市场"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股共发生71宗大宗交易成交13.11亿元（9月11日）",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-09-18",
+            "original_text": "非银金融行业周报:降准释放流动性,市场活跃情绪继续发酵",
+            "features": {
+                "keywords": [
+                    "非银金融",
+                    "降准",
+                    "流动性",
+                    "市场活跃情绪"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "非银金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "非银金融行业周报:降准释放流动性,市场活跃情绪继续发酵",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

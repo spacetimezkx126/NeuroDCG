@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2018-04-01",
+            "original_text": "The Fear Factor That Sent Freeport-McMoRan Stock Crashing 13.4% in April",
+            "features": {
+                "keywords": [
+                    "Fear Factor",
+                    "Stock Crashing",
+                    "13.4%",
+                    "April"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining",
+                    "commodities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-04-01",
+            "original_text": "Today's Research Reports on Trending Tickers: Vale S.A. and Freeport-McMoRan",
+            "features": {
+                "keywords": [
+                    "Research Reports",
+                    "Trending Tickers",
+                    "Vale S.A.",
+                    "Freeport-McMoRan"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining",
+                    "commodities"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

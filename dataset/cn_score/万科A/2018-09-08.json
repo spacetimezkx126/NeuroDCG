@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2018-09-08",
+            "original_text": "陆家嘴财经早餐2018年9月8日星期六",
+            "features": {
+                "keywords": [
+                    "万科",
+                    "合伙人机制",
+                    "组织变革",
+                    "郁亮",
+                    "企业发展路径"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 4,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 2,
+                "Entity_Density": 2,
+                "Market_Scope": 2,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2018-09-08",
+            "original_text": "18栋楼建筑不合规拆除重建 天房高管被免 混改延期 其他违规处罚",
+            "features": {
+                "keywords": [
+                    "天房",
+                    "建筑违规",
+                    "高管免职",
+                    "混改延期",
+                    "处罚"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

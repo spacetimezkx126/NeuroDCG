@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Boeing Stock Can Gain 35%. How It Can Win the Future by Fixing Its Problems Now.",
+            "features": {
+                "keywords": [
+                    "Boeing",
+                    "Stock",
+                    "Gain",
+                    "35%",
+                    "Win",
+                    "Future",
+                    "Fixing",
+                    "Problems"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "aerospace",
+                    "defense"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Chaos Continues at Boeing",
+            "features": {
+                "keywords": [
+                    "Chaos",
+                    "Continues",
+                    "Boeing"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aerospace",
+                    "defense"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "华 润 啤 酒 跌 逾 3 % 暂 最 差 国 指 股 两 日 累 跌 6 %",
+            "features": {
+                "keywords": [
+                    "华润啤酒",
+                    "跌逾3%",
+                    "最差国指股",
+                    "两日累跌6%"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费品",
+                    "啤酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

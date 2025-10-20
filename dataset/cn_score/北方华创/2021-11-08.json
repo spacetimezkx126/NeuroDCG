@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "三季报回顾：核心龙头延续增长 半导体持续呈现高景气",
+            "features": {
+                "keywords": [
+                    "三季报",
+                    "核心龙头",
+                    "增长",
+                    "半导体",
+                    "高景气"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "半导体",
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "",
+            "original_text": "电子周报：半导体制造年会再次强调供应链安全 汽车电子持续景气",
+            "features": {
+                "keywords": [
+                    "电子周报",
+                    "半导体制造",
+                    "年会",
+                    "供应链安全",
+                    "汽车电子",
+                    "景气"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "半导体",
+                    "汽车电子",
+                    "供应链"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,115 @@
+[
+    [
+        {
+            "time": "2023-10-16",
+            "original_text": "US Indexes Close Mostly Flat Monday",
+            "features": {
+                "keywords": [
+                    "Indexes",
+                    "Close",
+                    "Flat",
+                    "Monday"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "general_market"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "US Indexes Close Mostly Flat Monday",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-16",
+            "original_text": "Dow flat despite losses for shares of Dow Inc., UnitedHealth",
+            "features": {
+                "keywords": [
+                    "Dow",
+                    "flat",
+                    "losses",
+                    "shares",
+                    "Dow Inc.",
+                    "UnitedHealth"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Dow flat despite losses for shares of Dow Inc., UnitedHealth",
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-16",
+            "original_text": "UnitedHealth, Caterpillar share losses contribute to Dow's nearly 75-point drop",
+            "features": {
+                "keywords": [
+                    "UnitedHealth",
+                    "Caterpillar",
+                    "share",
+                    "losses",
+                    "Dow",
+                    "drop"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "UnitedHealth, Caterpillar share losses contribute to Dow's nearly 75-point drop",
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

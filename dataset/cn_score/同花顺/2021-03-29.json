@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "行业周报：计算机行业一季报前瞻：景气持续上行 网安与AI闪耀",
+            "features": {
+                "keywords": [
+                    "计算机行业",
+                    "一季报",
+                    "景气上行",
+                    "网安",
+                    "AI"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "计算机",
+                    "网络安全",
+                    "人工智能"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "计算机行业周报：“碳中和”对IDC产业链影响几何",
+            "features": {
+                "keywords": [
+                    "计算机行业",
+                    "碳中和",
+                    "IDC产业链"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "计算机",
+                    "IDC",
+                    "碳中和"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

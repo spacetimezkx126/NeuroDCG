@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-03-15",
+            "original_text": "Oil Stocks To Buy As Iran Plots Its &quot;Revenge&quot;",
+            "features": {
+                "keywords": [
+                    "Oil",
+                    "Stocks",
+                    "Iran",
+                    "Revenge"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Oil Stocks To Buy As Iran Plots Its \"Revenge\"",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "British stocks slump on Middle East worries, though oil majors and defense giant limit the fall",
+            "features": {
+                "keywords": [
+                    "British stocks",
+                    "Middle East",
+                    "oil majors",
+                    "defense",
+                    "slump"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "defense",
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "British stocks slump on Middle East worries, though oil majors and defense giant limit the fall",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

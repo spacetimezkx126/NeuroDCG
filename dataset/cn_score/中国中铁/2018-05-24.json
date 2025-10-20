@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "[数说]巨无霸上市A股下跌概率87% 富士康重演中石油?",
+            "features": {
+                "keywords": [
+                    "巨无霸上市",
+                    "A股下跌",
+                    "富士康",
+                    "中石油"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "工业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

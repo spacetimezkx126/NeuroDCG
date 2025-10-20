@@ -1,0 +1,113 @@
+[
+    [
+        {
+            "time": "2020-07-15",
+            "original_text": "Fmr. CDC Official: 'we’re not cutting any corners' on COVID-19 vaccine development",
+            "features": {
+                "keywords": [
+                    "CDC",
+                    "vaccine",
+                    "development",
+                    "corners",
+                    "COVID-19"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 10,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-07-15",
+            "original_text": "For Moderna, a Coronavirus Vaccine Would Be the ‘Tip of the Iceberg’",
+            "features": {
+                "keywords": [
+                    "Moderna",
+                    "Coronavirus",
+                    "Vaccine",
+                    "Iceberg"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "For Moderna, a Coronavirus Vaccine Would Be the ‘Tip of the Iceberg’",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-07-15",
+            "original_text": "AstraZeneca/Merck's Lynparza Get FDA Nod for Prostate Cancer",
+            "features": {
+                "keywords": [
+                    "AstraZeneca",
+                    "Merck",
+                    "Lynparza",
+                    "FDA",
+                    "Prostate",
+                    "Cancer"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

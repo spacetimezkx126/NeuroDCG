@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "2021-04-15",
+            "original_text": "Alibaba's Rival Aims To Raise $1B From Tencent",
+            "features": {
+                "keywords": [
+                    "Alibaba",
+                    "rival",
+                    "raise",
+                    "Tencent"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-03-22",
+            "original_text": "Questor: after Beijing’s attack on Alibaba and Tencent, should we sell our Chinese stocks?",
+            "features": {
+                "keywords": [
+                    "Beijing",
+                    "attack",
+                    "Alibaba",
+                    "Tencent",
+                    "Chinese stocks"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2021-02-10",
+            "original_text": "Southeast Asia Added 70 Million Online Consumers During Pandemic",
+            "features": {
+                "keywords": [
+                    "Southeast Asia",
+                    "online consumers",
+                    "pandemic"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "e-commerce",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 9,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

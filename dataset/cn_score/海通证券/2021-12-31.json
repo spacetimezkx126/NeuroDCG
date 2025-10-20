@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2022-12-28",
+            "original_text": "倍杰特：海通证券股份有限公司、瀚川投资等2家机构于12月28日调研我司",
+            "features": {
+                "keywords": [
+                    "倍杰特",
+                    "海通证券",
+                    "瀚川投资",
+                    "机构调研"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "投资"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "倍杰特：海通证券股份有限公司、瀚川投资等2家机构于12月28日调研我司",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-01-05",
+            "original_text": "华金证券原所长刘军转会山西证券，\"所长市场\"持续火爆",
+            "features": {
+                "keywords": [
+                    "华金证券",
+                    "山西证券",
+                    "所长市场",
+                    "人事变动"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "华金证券原所长刘军转会山西证券，\"所长市场\"持续火爆",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

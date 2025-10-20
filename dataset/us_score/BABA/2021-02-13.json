@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Billionaire Ken Fisher’s Top 10 Stock Picks",
+            "features": {
+                "keywords": [
+                    "Billionaire",
+                    "Ken Fisher",
+                    "Top 10",
+                    "Stock Picks"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 2,
+                "Headline_Structure": 9,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Emerging Markets Will Outperform After Covid, Longtime Investors Mark Mobius Says",
+            "features": {
+                "keywords": [
+                    "Emerging Markets",
+                    "Outperform",
+                    "Covid",
+                    "Mark Mobius"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "emerging markets"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 2,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

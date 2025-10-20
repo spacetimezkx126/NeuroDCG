@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Stocks for a Better Retirement",
+            "features": {
+                "keywords": [
+                    "retirement",
+                    "stocks"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "financial_services"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Stocks for a Better Retirement",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 3,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Enterprise Communication Boom to Drive These 4 Stocks Beyond 2020",
+            "features": {
+                "keywords": [
+                    "enterprise",
+                    "communication",
+                    "boom",
+                    "stocks"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "communications"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

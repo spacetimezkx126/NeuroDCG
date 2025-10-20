@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "华泰证券今日大宗交易成交13.50万股，成交价20.66元折价0.72%。",
+            "features": {
+                "keywords": [
+                    "华泰证券",
+                    "大宗交易",
+                    "成交",
+                    "折价"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "华泰证券今日大宗交易成交13.50万股，成交价20.66元折价0.72%。",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "港股公告精选：香港交易所拟与伦交所合并，打造领先的全球性金融基础设施。",
+            "features": {
+                "keywords": [
+                    "香港交易所",
+                    "伦交所",
+                    "合并",
+                    "全球性金融基础设施"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "港股公告精选：香港交易所拟与伦交所合并，打造领先的全球性金融基础设施。",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 9,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

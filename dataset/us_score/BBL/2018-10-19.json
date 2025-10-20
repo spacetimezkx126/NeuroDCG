@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "What's in a name? How the Railroad Commission names new oil and gas fields",
+            "features": {
+                "keywords": [
+                    "Railroad Commission",
+                    "oil",
+                    "gas",
+                    "fields"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "What's in a name? How the Railroad Commission names new oil and gas fields",
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 2,
+                "Entity_Density": 1,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Top Stock Reports for UPS, Merck & BHP Billiton",
+            "features": {
+                "keywords": [
+                    "UPS",
+                    "Merck",
+                    "BHP Billiton",
+                    "stock reports"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "logistics",
+                    "pharmaceuticals",
+                    "mining"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Top Stock Reports for UPS, Merck & BHP Billiton",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "BHP Billiton plc (LON:BLT): Poised For Long-Term Success?",
+            "features": {
+                "keywords": [
+                    "BHP Billiton",
+                    "long-term success"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "BHP Billiton plc (LON:BLT): Poised For Long-Term Success?",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

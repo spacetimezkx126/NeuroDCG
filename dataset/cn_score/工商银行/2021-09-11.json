@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "time": "2021",
+            "original_text": "中国品牌500强发布：华为、工行、国家电网进入前三",
+            "features": {
+                "keywords": [
+                    "中国品牌500强",
+                    "华为",
+                    "工商银行",
+                    "国家电网"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "金融",
+                    "能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "中国品牌500强发布：华为、工行、国家电网进入前三",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2021-09-11",
+            "original_text": "Wind风控日报2021年9月11日星期六",
+            "features": {
+                "keywords": [
+                    "Wind",
+                    "风控日报"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Wind风控日报2021年9月11日星期六",
+                "Correlation": 2,
+                "Sentiment": 4,
+                "Importance": 2,
+                "Impact": 1,
+                "Duration": 2,
+                "Entity_Density": 1,
+                "Market_Scope": 5,
+                "Time_Proximity": 1,
+                "Headline_Structure": 3,
+                "Source_Recency": 1
+            }
+        },
+        {
+            "time": "2021",
+            "original_text": "宁波银保监局：对工商银行宁波市分行作出行政处罚，罚款40万元 金融监管处罚",
+            "features": {
+                "keywords": [
+                    "宁波银保监局",
+                    "工商银行",
+                    "行政处罚",
+                    "罚款",
+                    "金融监管"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "宁波银保监局：对工商银行宁波市分行作出行政处罚，罚款40万元 金融监管处罚",
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

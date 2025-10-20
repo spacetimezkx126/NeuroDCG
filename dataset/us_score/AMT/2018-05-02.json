@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2018-04-26",
+            "original_text": "American Tower (AMT) Q1 2018 Earnings Conference Call Transcript",
+            "features": {
+                "keywords": [
+                    "American Tower",
+                    "Q1 2018",
+                    "Earnings",
+                    "Conference Call",
+                    "Transcript"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "real estate",
+                    "telecommunications"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-04-26",
+            "original_text": "Notable ETF Outflow Detected - IYR, AMT, CCI, PSA",
+            "features": {
+                "keywords": [
+                    "ETF Outflow",
+                    "IYR",
+                    "AMT",
+                    "CCI",
+                    "PSA"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "real estate",
+                    "infrastructure"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

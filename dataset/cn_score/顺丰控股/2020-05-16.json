@@ -1,0 +1,113 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "风，波，下的，丰，巢，创，始，人，：，从，送，快，递，8，0，后，到，商，界，精，英，，拥，5，4，家，公，司",
+            "features": {
+                "keywords": [
+                    "丰巢",
+                    "创始人",
+                    "快递",
+                    "商界精英",
+                    "公司"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "物流",
+                    "电商"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "风，波，下的，丰，巢，创，始，人，：，从，送，快，递，80后到，商，界，精，英，，拥，54家，公，司",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "京，东，Q，1，财，报，发，布，，为，何，越，扩，张，利，润，就，越，低，？",
+            "features": {
+                "keywords": [
+                    "京东",
+                    "Q1财报",
+                    "扩张",
+                    "利润下降"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电商",
+                    "零售"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "京，东，Q1财报发布，为何越扩张利润就越低？",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "业，务，集，中，于，前，两，大，客，户，，近，三，年，亏，掉，近，5，0，亿",
+            "features": {
+                "keywords": [
+                    "业务集中",
+                    "客户依赖",
+                    "亏损",
+                    "近三年"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "制造业",
+                    "服务业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "业务集中于前两大客户，近三年亏掉近50亿",
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

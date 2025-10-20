@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "[[$$], MKM, Raises, Amazon.com, Price, Target, by, 30%]",
+            "features": {
+                "keywords": [
+                    "MKM",
+                    "Amazon.com",
+                    "Price Target",
+                    "Raises",
+                    "30%"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "e-commerce"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "[[$$], MKM, Raises, Amazon.com, Price, Target, by, 30%]",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "[3, Big, Drugmakers, Boosting, Huge, R&D, Budgets]",
+            "features": {
+                "keywords": [
+                    "Big Drugmakers",
+                    "R&D Budgets",
+                    "Boosting",
+                    "Huge"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "pharmaceuticals",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "[3, Big, Drugmakers, Boosting, Huge, R&D, Budgets]",
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

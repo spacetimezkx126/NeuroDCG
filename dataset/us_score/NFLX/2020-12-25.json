@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2021-01-01",
+            "original_text": "The 2021 movie calendar is a preview of Hollywood’s new normal",
+            "features": {
+                "keywords": [
+                    "movie calendar",
+                    "Hollywood",
+                    "new normal"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "The 2021 movie calendar is a preview of Hollywood’s new normal",
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 6,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2021-06-15",
+            "original_text": "Yoozoo Games CEO Lin Dies at 39 Amid Poisoning Probe",
+            "features": {
+                "keywords": [
+                    "Yoozoo Games",
+                    "CEO",
+                    "Lin",
+                    "Poisoning",
+                    "Probe"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "gaming",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Yoozoo Games CEO Lin Dies at 39 Amid Poisoning Probe",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

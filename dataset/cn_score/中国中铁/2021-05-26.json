@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中国短期融资券及中期票据信用分析周报",
+            "features": {
+                "keywords": [
+                    "短期融资券",
+                    "中期票据",
+                    "信用分析"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "债券市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 9,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 4,
+                "Headline_Structure": 3,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中国中铁500亿元小公募公司债券在上交所注册生效",
+            "features": {
+                "keywords": [
+                    "中国中铁",
+                    "500亿元",
+                    "小公募",
+                    "公司债券",
+                    "上交所",
+                    "注册生效"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "建筑行业",
+                    "债券市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

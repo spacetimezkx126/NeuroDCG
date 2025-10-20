@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "首钢股份(000959.SZ)：首钢集团所持15%股份已无偿划转至宝武集团 资产异常",
+            "features": {
+                "keywords": [
+                    "首钢股份",
+                    "首钢集团",
+                    "15%股份",
+                    "无偿划转",
+                    "宝武集团",
+                    "资产异常"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "钢铁"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "首钢股份(000959.SZ)：首钢集团所持15%股份已无偿划转至宝武集团 资产异常",
+                "Correlation": 10,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "宝钢股份高炉空压站高压并网改造完成",
+            "features": {
+                "keywords": [
+                    "宝钢股份",
+                    "高炉",
+                    "空压站",
+                    "高压并网",
+                    "改造完成"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "钢铁"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "宝钢股份高炉空压站高压并网改造完成",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

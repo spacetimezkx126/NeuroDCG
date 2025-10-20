@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "3月1日",
+            "original_text": "3月1日有37家公司获重要股东增减持 鼎捷软件已被连续减持94次",
+            "features": {
+                "keywords": [
+                    "重要股东",
+                    "增减持",
+                    "鼎捷软件",
+                    "连续减持"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "软件",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "3月1日有37家公司获重要股东增减持 鼎捷软件已被连续减持94次",
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "未知时间",
+            "original_text": "集结八大投行 蔚来赴美吸金",
+            "features": {
+                "keywords": [
+                    "八大投行",
+                    "蔚来",
+                    "赴美",
+                    "吸金"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "新能源汽车",
+                    "汽车行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "集结八大投行 蔚来赴美吸金",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

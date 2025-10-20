@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2019-01-03",
+            "original_text": "工业综合：嫦娥四号任务取得圆满成功",
+            "features": {
+                "keywords": [
+                    "嫦娥四号",
+                    "任务",
+                    "圆满成功"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "航天",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "工业综合：嫦娥四号任务取得圆满成功",
+                "Correlation": 3,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2019-01-03",
+            "original_text": "【异动股】船舶制造板块下挫，天海防务(300008-CN)跌3.62%",
+            "features": {
+                "keywords": [
+                    "船舶制造",
+                    "板块下挫",
+                    "天海防务",
+                    "跌3.62%"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "船舶制造",
+                    "军工"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "【异动股】船舶制造板块下挫，天海防务(300008-CN)跌3.62%",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2022-01-03",
+            "original_text": "U.S. Steel aka 'The Corporation' still around 100 years later",
+            "features": {
+                "keywords": [
+                    "U.S. Steel",
+                    "longevity",
+                    "corporation"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "steel",
+                    "industrial"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 10,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 4,
+                "Headline_Structure": 9,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "2022-01-03",
+            "original_text": "These 3 Dow Stocks Are Set To Soar in 2022's First Half and Beyond",
+            "features": {
+                "keywords": [
+                    "Dow Stocks",
+                    "set to soar",
+                    "first half",
+                    "beyond"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "diverse"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

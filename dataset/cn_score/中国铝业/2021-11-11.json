@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【行情】美股钢铁金属板块强势，美国铝业(AA.N)涨近10%，中国铝业(ACH.N)涨7.6%，麦克莫兰铜金(FCX.N)涨7.8%，安赛乐米塔尔(MT.N)涨5%，纽柯钢铁(NUE.N)涨3%。",
+            "features": {
+                "keywords": [
+                    "美股",
+                    "钢铁金属",
+                    "美国铝业",
+                    "中国铝业",
+                    "麦克莫兰铜金",
+                    "安赛乐米塔尔",
+                    "纽柯钢铁"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "钢铁",
+                    "金属",
+                    "矿业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "【行情】美股钢铁金属板块强势，美国铝业(AA.N)涨近10%，中国铝业(ACH.N)涨7.6%，麦克莫兰铜金(FCX.N)涨7.8%，安赛乐米塔尔(MT.N)涨5%，纽柯钢铁(NUE.N)涨3%。",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【异动股】中国铝业(02600.HK)涨3.5%。",
+            "features": {
+                "keywords": [
+                    "异动股",
+                    "中国铝业"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "铝业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "【异动股】中国铝业(02600.HK)涨3.5%。",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "天风证券强制卖出所持部分东方金钰股份，不再为公司持股5%以上股东 减持股份",
+            "features": {
+                "keywords": [
+                    "天风证券",
+                    "强制卖出",
+                    "东方金钰",
+                    "减持",
+                    "持股5%以上"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "天风证券强制卖出所持部分东方金钰股份，不再为公司持股5%以上股东 减持股份",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "券商股权新规落地 或掀行业并购整合潮",
+            "features": {
+                "keywords": [
+                    "券商股权",
+                    "新规",
+                    "并购",
+                    "整合潮"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "券商股权新规落地 或掀行业并购整合潮",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

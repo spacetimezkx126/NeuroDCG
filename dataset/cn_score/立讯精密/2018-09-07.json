@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2018-09-07",
+            "original_text": "【晨会纪要】策略丁文 银河证券晨会纪要—20180907",
+            "features": {
+                "keywords": [
+                    "晨会纪要",
+                    "策略",
+                    "银河证券"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "全行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 7,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2018-09-06",
+            "original_text": "【电子】郑震湘：PCB、消费电子、LED中报总结-20180906",
+            "features": {
+                "keywords": [
+                    "电子",
+                    "PCB",
+                    "消费电子",
+                    "LED",
+                    "中报总结"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电子",
+                    "PCB",
+                    "消费电子",
+                    "LED"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 9,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

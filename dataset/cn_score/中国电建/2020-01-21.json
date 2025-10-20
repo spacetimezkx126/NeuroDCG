@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "2019-01-21",
+            "original_text": "A股市场破净股一览（1月21日）",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "破净股",
+                    "市场"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "股票"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "A股市场破净股一览（1月21日）",
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2019-01-21",
+            "original_text": "接受注册通知书-中市协注〔2019〕ABN126号（中电建（北京）基金管理有限公司）",
+            "features": {
+                "keywords": [
+                    "注册通知书",
+                    "中电建",
+                    "基金",
+                    "管理公司"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "基建"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "接受注册通知书-中市协注〔2019〕ABN126号（中电建（北京）基金管理有限公司）",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 3,
+                "Headline_Structure": 4,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "2019-01-21",
+            "original_text": "这家工程局，超级强大！",
+            "features": {
+                "keywords": [
+                    "工程局",
+                    "强大"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "基建",
+                    "工程"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "这家工程局，超级强大！",
+                "Correlation": 3,
+                "Sentiment": 7,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 3,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

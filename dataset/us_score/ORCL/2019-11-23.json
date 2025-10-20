@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "2019-03-05",
+            "original_text": "Forbes named Kylie Jenner the youngest self-made billionaire ever — and the ‘self-made’ part has people talking",
+            "features": {
+                "keywords": [
+                    "Kylie Jenner",
+                    "youngest",
+                    "self-made",
+                    "billionaire"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment",
+                    "luxury goods"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 7,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2019-11-11",
+            "original_text": "Amazon Sues Over Loss of Pentagon Cloud Deal to Microsoft",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "Pentagon",
+                    "cloud deal",
+                    "Microsoft"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "government contracts"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2019-11-12",
+            "original_text": "Amazon files suit, challenging Pentagon’s $10 billion cloud contract to Microsoft",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "suit",
+                    "Pentagon",
+                    "cloud contract",
+                    "Microsoft"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "government contracts"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

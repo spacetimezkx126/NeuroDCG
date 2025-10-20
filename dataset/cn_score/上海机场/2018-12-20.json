@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "很抱歉地通知各位投资者，你手中的上海机场等机场股，因限流原因股价短期无法起飞",
+            "features": {
+                "keywords": [
+                    "上海机场",
+                    "机场股",
+                    "限流",
+                    "股价"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "交通运输",
+                    "机场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "很抱歉地通知各位投资者，你手中的上海机场等机场股，因限流原因股价短期无法起飞",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中国市域铁路建设加快 引导超大城市人口疏散",
+            "features": {
+                "keywords": [
+                    "市域铁路",
+                    "建设加快",
+                    "超大城市",
+                    "人口疏散"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "基础设施",
+                    "铁路建设"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "中国市域铁路建设加快 引导超大城市人口疏散",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

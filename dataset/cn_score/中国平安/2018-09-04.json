@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股上市险企个险观察:营销员数量破400万 人均产能明显下降",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "保险企业",
+                    "营销员",
+                    "数量增长",
+                    "人均产能下降"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "保险"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 10,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中国平安与滁州市政府签署协议共同打造“智慧环保”样板城市",
+            "features": {
+                "keywords": [
+                    "中国平安",
+                    "地方政府合作",
+                    "智慧环保",
+                    "样板城市"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "环保"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "机构动向：外资减消费加周期 私募在“吃面”",
+            "features": {
+                "keywords": [
+                    "外资",
+                    "消费板块",
+                    "周期板块",
+                    "私募基金"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "消费",
+                    "周期性行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 4,
+                "Headline_Structure": 5,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "China Stock Market Tipped To Regain 2,800-Point Level",
+            "features": {
+                "keywords": [
+                    "China",
+                    "Stock",
+                    "Market",
+                    "Tipped",
+                    "Regain",
+                    "2,800-Point",
+                    "Level"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "general market"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "China Stock Market Tipped To Regain 2,800-Point Level",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Looking for Value? Why It Might Be Time to Try PetroChina (PTR)",
+            "features": {
+                "keywords": [
+                    "Value",
+                    "PetroChina",
+                    "PTR"
+                ],
+                "sentiment_score": 0.65,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Looking for Value? Why It Might Be Time to Try PetroChina (PTR)",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

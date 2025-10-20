@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "Charles Schwab: Tax-Loss Harvesting Trades Up in Volatile Market",
+            "features": {
+                "keywords": [
+                    "Tax-Loss Harvesting",
+                    "Trades Up",
+                    "Volatile Market"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Charles Schwab: Tax-Loss Harvesting Trades Up in Volatile Market",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Record YoY Fee Decline in 2017 Driven by Vanguard, Discount Brokerages: Morningstar",
+            "features": {
+                "keywords": [
+                    "YoY Fee Decline",
+                    "Vanguard",
+                    "Discount Brokerages"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Record YoY Fee Decline in 2017 Driven by Vanguard, Discount Brokerages: Morningstar",
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 3,
+                "Headline_Structure": 6,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

@@ -1,0 +1,664 @@
+[
+    [
+        {
+            "time": "2020-07-15",
+            "original_text": "Tesla has named Austin, Texas, and Tulsa, Okla., as finalists for new U.S. factory",
+            "features": {
+                "keywords": [
+                    "Austin",
+                    "Tulsa",
+                    "factory"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive",
+                    "manufacturing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "Tesla has named Austin, Texas, and Tulsa, Okla., as finalists for new U.S. factory",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-08-01",
+            "original_text": "California officials reject subsidies for Musk's SpaceX over Tesla spat",
+            "features": {
+                "keywords": [
+                    "California",
+                    "subsidies",
+                    "SpaceX",
+                    "Tesla"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "space",
+                    "automotive"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "California officials reject subsidies for Musk's SpaceX over Tesla spat",
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 3,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-09-10",
+            "original_text": "Tesla scouts head to Tulsa, Austin as hunt for Cybertruck gigafactory location nears end",
+            "features": {
+                "keywords": [
+                    "Tesla",
+                    "Cybertruck",
+                    "gigafactory",
+                    "Austin",
+                    "Tulsa"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive",
+                    "manufacturing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "Tesla scouts head to Tulsa, Austin as hunt for Cybertruck gigafactory location nears end",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-10-15",
+            "original_text": "Stock Market Rally Tested: Tesla Fremont Reopens, Recent IPOs Datadog, OneMedical Soar On Earnings",
+            "features": {
+                "keywords": [
+                    "Stock Market",
+                    "Tesla",
+                    "Fremont",
+                    "reopens",
+                    "IPOs",
+                    "earnings"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "healthcare",
+                    "automotive"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Stock Market Rally Tested: Tesla Fremont Reopens, Recent IPOs Datadog, OneMedical Soar On Earnings",
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-11-20",
+            "original_text": "The Relentless Oil Price Rally",
+            "features": {
+                "keywords": [
+                    "Oil",
+                    "Price",
+                    "Rally"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "The Relentless Oil Price Rally",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-12-05",
+            "original_text": "Nio Is a Solid Bet for the Chinese Electric Vehicle Space",
+            "features": {
+                "keywords": [
+                    "Nio",
+                    "Electric Vehicle",
+                    "Chinese"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "automotive",
+                    "electric vehicles"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Nio Is a Solid Bet for the Chinese Electric Vehicle Space",
+                "Correlation": 4,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-01-10",
+            "original_text": "Tesla Racing to Give Gasoline Cars a Run for Their Money",
+            "features": {
+                "keywords": [
+                    "Tesla",
+                    "Gasoline",
+                    "Cars"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive",
+                    "electric vehicles"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "Tesla Racing to Give Gasoline Cars a Run for Their Money",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2021-02-15",
+            "original_text": "An Old Question Revisited: Is Value Investing Dead?",
+            "features": {
+                "keywords": [
+                    "Value Investing",
+                    "Dead"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "An Old Question Revisited: Is Value Investing Dead?",
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 7,
+                "Entity_Density": 1,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2021-03-20",
+            "original_text": "Tesla To Launch Low-Cost 'Million Mile' Battery That Drastically Reduces Cost Of EVs: Report",
+            "features": {
+                "keywords": [
+                    "Tesla",
+                    "Battery",
+                    "Low-Cost",
+                    "Million Mile",
+                    "EVs"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive",
+                    "electric vehicles"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "Tesla To Launch Low-Cost 'Million Mile' Battery That Drastically Reduces Cost Of EVs: Report",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 9,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2021-04-10",
+            "original_text": "Thanks to Elon Musk, Tesla Stock Is in a Pricey Class of Its Own",
+            "features": {
+                "keywords": [
+                    "Elon Musk",
+                    "Tesla",
+                    "Stock"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "automotive",
+                    "electric vehicles"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Thanks to Elon Musk, Tesla Stock Is in a Pricey Class of Its Own",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-05-15",
+            "original_text": "Better-Than-Expected Car Sales Boost Auto Parts Stocks",
+            "features": {
+                "keywords": [
+                    "Car Sales",
+                    "Auto Parts",
+                    "Boost"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "automotive"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Better-Than-Expected Car Sales Boost Auto Parts Stocks",
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-06-20",
+            "original_text": "Nasdaq ETF (QQQ) Joins $100 Billion Club: 10 Stock Winners",
+            "features": {
+                "keywords": [
+                    "Nasdaq",
+                    "ETF",
+                    "QQQ",
+                    "Billion",
+                    "Club",
+                    "Stock Winners"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "technology"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Nasdaq ETF (QQQ) Joins $100 Billion Club: 10 Stock Winners",
+                "Correlation": 4,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-07-10",
+            "original_text": "How to Trade Tesla for Its Run to $1,000",
+            "features": {
+                "keywords": [
+                    "Tesla",
+                    "Trade",
+                    "$1,000"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "automotive",
+                    "electric vehicles"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "How to Trade Tesla for Its Run to $1,000",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2021-08-15",
+            "original_text": "Implied Volatility Surging for Tesla (TSLA) Stock Options",
+            "features": {
+                "keywords": [
+                    "Implied Volatility",
+                    "Tesla",
+                    "Stock Options"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "automotive"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Implied Volatility Surging for Tesla (TSLA) Stock Options",
+                "Correlation": 10,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-09-20",
+            "original_text": "Tesla Partners With CATL to Develop New Million-Mile Battery",
+            "features": {
+                "keywords": [
+                    "Tesla",
+                    "CATL",
+                    "Million-Mile",
+                    "Battery"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive",
+                    "electric vehicles"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "Tesla Partners With CATL to Develop New Million-Mile Battery",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 9,
+                "Entity_Density": 10,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2021-10-10",
+            "original_text": "Virgin Galactic Is Grounded with No Profit and Little Revenue",
+            "features": {
+                "keywords": [
+                    "Virgin Galactic",
+                    "Grounded",
+                    "Profit",
+                    "Revenue"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "space"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "Virgin Galactic Is Grounded with No Profit and Little Revenue",
+                "Correlation": 2,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2021-11-15",
+            "original_text": "Can We Finally Stop Listening to Elon Musk Now?",
+            "features": {
+                "keywords": [
+                    "Elon Musk",
+                    "Listening"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive",
+                    "electric vehicles"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Can We Finally Stop Listening to Elon Musk Now?",
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2021-12-20",
+            "original_text": "Elon Musk, Tesla’s mad genius defies US lockdown",
+            "features": {
+                "keywords": [
+                    "Elon Musk",
+                    "Tesla",
+                    "mad genius",
+                    "US lockdown"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive",
+                    "electric vehicles"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "Elon Musk, Tesla’s mad genius defies US lockdown",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2022-01-10",
+            "original_text": "Tesla (TSLA) Stock Is a Winner, but Its Valuation Is Getting Stretched",
+            "features": {
+                "keywords": [
+                    "Tesla",
+                    "Stock",
+                    "Valuation",
+                    "Stretched"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "automotive",
+                    "electric vehicles"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Tesla (TSLA) Stock Is a Winner, but Its Valuation Is Getting Stretched",
+                "Correlation": 10,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

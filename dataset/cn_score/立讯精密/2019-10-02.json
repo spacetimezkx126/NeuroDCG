@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "iPhone 11快充、芯片供应链全名单曝光",
+            "features": {
+                "keywords": [
+                    "iPhone 11",
+                    "快充",
+                    "芯片",
+                    "供应链"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "A股龙头大阅兵：最牛股年内30多次创新高，5股霸榜市值龙头22年",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "龙头",
+                    "创新高",
+                    "市值"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "股票"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 3,
+                "Headline_Structure": 8,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

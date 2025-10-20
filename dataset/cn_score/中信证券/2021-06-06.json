@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "下周操盘策略：上市银行触发稳定股价措施，台积电4nm提前一季试产",
+            "features": {
+                "keywords": [
+                    "上市银行",
+                    "稳定股价",
+                    "台积电",
+                    "4nm",
+                    "试产"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "半导体"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "下周操盘策略：上市银行触发稳定股价措施，台积电4nm提前一季试产",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "周杰伦代言，产品满街跑！这家营收过百亿即将登陆A股，投资方很豪华",
+            "features": {
+                "keywords": [
+                    "周杰伦",
+                    "代言",
+                    "营收过百亿",
+                    "A股",
+                    "投资方豪华"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费",
+                    "娱乐"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "周杰伦代言，产品满街跑！这家营收过百亿即将登陆A股，投资方很豪华",
+                "Correlation": 7,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

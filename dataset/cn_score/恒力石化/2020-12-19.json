@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "方正化工：化工周报：聚合MDI价格小幅反弹，玲珑董事长荣膺中国经济优秀人物",
+            "features": {
+                "keywords": [
+                    "聚合MDI",
+                    "价格反弹",
+                    "玲珑",
+                    "董事长",
+                    "中国经济优秀人物"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "方正化工：化工周报：聚合MDI价格小幅反弹，玲珑董事长荣膺中国经济优秀人物",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "市场人士：实体企业大多还处于对衍生品市场的探索阶段",
+            "features": {
+                "keywords": [
+                    "市场人士",
+                    "实体企业",
+                    "衍生品市场",
+                    "探索阶段"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "实体企业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "市场人士：实体企业大多还处于对衍生品市场的探索阶段",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

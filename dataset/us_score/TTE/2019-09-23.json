@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-10-17",
+            "original_text": "TOTAL S.A. (EPA:FP) Pays A 1.3% In Just 3 Days",
+            "features": {
+                "keywords": [
+                    "TOTAL S.A.",
+                    "EPA:FP",
+                    "Pays",
+                    "1.3%",
+                    "3 Days"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "TOTAL S.A. (EPA:FP) Pays A 1.3% In Just 3 Days",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-17",
+            "original_text": "Markets face major risks over lax climate forecasts, top investors warn",
+            "features": {
+                "keywords": [
+                    "Markets",
+                    "major risks",
+                    "lax climate forecasts",
+                    "top investors",
+                    "warn"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "environment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Markets face major risks over lax climate forecasts, top investors warn",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

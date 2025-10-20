@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "茅 台 暴 跌 ！ 白 酒 泡 沫 破 裂 ？",
+            "features": {
+                "keywords": [
+                    "茅台",
+                    "暴跌",
+                    "白酒",
+                    "泡沫",
+                    "破裂"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "白酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "茅 台 暴 跌 ！ 白 酒 泡 沫 破 裂 ？",
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 10,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【 国 金 食 饮 】 妙 可 蓝 多 引 进 蒙 牛 战 投 点 评 ： 引 入 蒙 牛 作 为 战 投 ， 多 方 利 好 助 推 公 司 腾 飞",
+            "features": {
+                "keywords": [
+                    "国金食饮",
+                    "妙可蓝多",
+                    "蒙牛",
+                    "战投",
+                    "多方利好",
+                    "助推",
+                    "腾飞"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "食品饮料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "【 国 金 食 饮 】 妙 可 蓝 多 引 进 蒙 牛 战 投 点 评 ： 引 入 蒙 牛 作 为 战 投 ， 多 方 利 好 助 推 公 司 腾 飞",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

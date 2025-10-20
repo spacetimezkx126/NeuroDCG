@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Analyst Thinks GE Stock Is Basically Worthless: Is He Right?",
+            "features": {
+                "keywords": [
+                    "GE",
+                    "stock",
+                    "worthless",
+                    "analyst"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial",
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Analyst Thinks GE Stock Is Basically Worthless: Is He Right?",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 10,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "FEATURE-Amid theft and accusations of sabotage, Haiti struggles to turn on the lights",
+            "features": {
+                "keywords": [
+                    "theft",
+                    "sabotage",
+                    "Haiti",
+                    "lights",
+                    "struggles"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities",
+                    "infrastructure"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "FEATURE-Amid theft and accusations of sabotage, Haiti struggles to turn on the lights",
+                "Correlation": 3,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

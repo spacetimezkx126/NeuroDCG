@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "信达生物去年研发投入翻倍 总裁：希望2021年底前有四款药物上市",
+            "features": {
+                "keywords": [
+                    "信达生物",
+                    "研发投入",
+                    "翻倍",
+                    "四款药物",
+                    "上市"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医药",
+                    "生物科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "信达生物去年研发投入翻倍 总裁：希望2021年底前有四款药物上市",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "医药生物：降速换挡，结构调整",
+            "features": {
+                "keywords": [
+                    "医药生物",
+                    "降速",
+                    "换挡",
+                    "结构调整"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医药",
+                    "生物科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "医药生物：降速换挡，结构调整",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "2023-10-10",
+            "original_text": "PG&E sells rights to put wireless telecom antennas on its towers for $973 mln",
+            "features": {
+                "keywords": [
+                    "PG&E",
+                    "sells",
+                    "wireless",
+                    "telecom",
+                    "antennas",
+                    "towers",
+                    "$973 mln"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "telecommunications",
+                    "infrastructure"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "PG&E sells rights to put wireless telecom antennas on its towers for $973 mln",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-10",
+            "original_text": "2 Cell Tower REITs Generating a Buy Signal",
+            "features": {
+                "keywords": [
+                    "Cell",
+                    "Tower",
+                    "REITs",
+                    "Buy",
+                    "Signal"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "real estate",
+                    "telecommunications"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "2 Cell Tower REITs Generating a Buy Signal",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

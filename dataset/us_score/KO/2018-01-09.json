@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2017-12-31",
+            "original_text": "Why Monster Beverage Corp. Stock Rose 43% in 2017",
+            "features": {
+                "keywords": [
+                    "Monster Beverage",
+                    "Stock Rose",
+                    "43%",
+                    "2017"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "beverage"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Why Monster Beverage Corp. Stock Rose 43% in 2017",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 4,
+                "Headline_Structure": 9,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "See what the IHS Markit Score report has to say about Coca-Cola Co.",
+            "features": {
+                "keywords": [
+                    "IHS Markit Score",
+                    "Coca-Cola Co."
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "beverage"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "See what the IHS Markit Score report has to say about Coca-Cola Co.",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "他曾是中国的彩电大王，如今带领中国制造突破日韩围猎",
+            "features": {
+                "keywords": [
+                    "彩电大王",
+                    "中国制造",
+                    "日韩围猎",
+                    "突破"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电子制造",
+                    "家电行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "他曾是中国的彩电大王，如今带领中国制造突破日韩围猎",
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中标中环集团混改项目 TCL科技向半导体材料上游拓展",
+            "features": {
+                "keywords": [
+                    "中环集团",
+                    "混改项目",
+                    "TCL科技",
+                    "半导体材料",
+                    "上游拓展"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "半导体",
+                    "高科技制造"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中标中环集团混改项目 TCL科技向半导体材料上游拓展",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

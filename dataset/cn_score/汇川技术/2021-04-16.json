@@ -1,0 +1,114 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "大爆发！2000亿巨头突然火了，聪明钱加仓3亿股！更有千倍预增股单周股价翻倍，外资34亿杀入一行业！",
+            "features": {
+                "keywords": [
+                    "2000亿巨头",
+                    "聪明钱",
+                    "加仓",
+                    "千倍预增股",
+                    "股价翻倍",
+                    "外资",
+                    "34亿"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "未明确提及"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 10,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 10,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "巨丰午评：A股走势分化 权重股致创业板下跌",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "走势分化",
+                    "权重股",
+                    "创业板",
+                    "下跌"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "创业板",
+                    "权重股"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "核达中远通科创板IPO：用工违规，业绩波动，信息披露存疑 金融监管处罚",
+            "features": {
+                "keywords": [
+                    "核达中远通",
+                    "科创板",
+                    "IPO",
+                    "用工违规",
+                    "业绩波动",
+                    "信息披露存疑",
+                    "金融监管处罚"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科创板"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

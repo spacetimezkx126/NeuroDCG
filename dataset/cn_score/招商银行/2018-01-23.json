@@ -1,0 +1,483 @@
+[
+    [
+        {
+            "time": "2018-01-23",
+            "original_text": "晚间重要公告2018年1月23日星期二",
+            "features": {
+                "keywords": [
+                    "晚间",
+                    "公告"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 1,
+                "Entity_Density": 1,
+                "Market_Scope": 3,
+                "Time_Proximity": 4,
+                "Headline_Structure": 3,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2017-12-31",
+            "original_text": "2017年中小银行规模扩张全线减速，不良降低、利润增长不一",
+            "features": {
+                "keywords": [
+                    "中小银行",
+                    "规模扩张",
+                    "减速",
+                    "不良降低",
+                    "利润增长"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "2017年中小银行规模扩张全线减速，不良降低、利润增长不一",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 3,
+                "Headline_Structure": 5,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2018-01-23",
+            "original_text": "金融股进入“买买买”模式 A股港股都受捧",
+            "features": {
+                "keywords": [
+                    "金融股",
+                    "买买买",
+                    "A股",
+                    "港股"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2018-01-23",
+            "original_text": "南向和北向资金惊人一致 金融股普遍受青睐",
+            "features": {
+                "keywords": [
+                    "南向",
+                    "北向",
+                    "资金",
+                    "金融股",
+                    "青睐"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2018-01-23",
+            "original_text": "招商银行(03968)2017年净利润增13%至701.5亿元 不良率降至1.61%",
+            "features": {
+                "keywords": [
+                    "招商银行",
+                    "净利润",
+                    "增长",
+                    "不良率",
+                    "下降"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "招商银行(03968)2017年净利润增13%至701.5亿元 不良率降至1.61%",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2018-01-23",
+            "original_text": "招商银行2017年营收达2210亿元",
+            "features": {
+                "keywords": [
+                    "招商银行",
+                    "营收",
+                    "增长"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 3,
+                "Headline_Structure": 6,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2018-01-23",
+            "original_text": "招商银行业绩快报：2017年净利701.5亿元 同比增长13%",
+            "features": {
+                "keywords": [
+                    "招商银行",
+                    "净利",
+                    "增长"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2018-01-23",
+            "original_text": "招商银行(03968)17年净利润同比增长13% 不良贷款率降0.26%",
+            "features": {
+                "keywords": [
+                    "招商银行",
+                    "净利润",
+                    "增长",
+                    "不良贷款率",
+                    "下降"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2018-01-23",
+            "original_text": "招商银行：2017年净利润突破700亿 同比增长13%",
+            "features": {
+                "keywords": [
+                    "招商银行",
+                    "净利润",
+                    "增长"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2018-01-23",
+            "original_text": "招商银行：2017年实现净利润701.5亿元，同比增长13%",
+            "features": {
+                "keywords": [
+                    "招商银行",
+                    "净利润",
+                    "增长"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2018-01-23",
+            "original_text": "利润、资产质量预期稳定 银行股集体起舞",
+            "features": {
+                "keywords": [
+                    "利润",
+                    "资产质量",
+                    "稳定",
+                    "银行股",
+                    "起舞"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2018-01-23",
+            "original_text": "国金策略：基金投资路线浮现 龙头集中度进一步提升",
+            "features": {
+                "keywords": [
+                    "国金策略",
+                    "基金投资",
+                    "龙头集中度",
+                    "提升"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 4,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2018-01-23",
+            "original_text": "银行股再度发力，建设银行涨6%",
+            "features": {
+                "keywords": [
+                    "银行股",
+                    "发力",
+                    "建设银行",
+                    "涨"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2018-01-23",
+            "original_text": "[国金策略]基金Q4投资路线图浮现—续抱“金融地产、消费”等，龙头集中度进一步提升",
+            "features": {
+                "keywords": [
+                    "国金策略",
+                    "基金Q4",
+                    "投资路线图",
+                    "金融地产",
+                    "消费",
+                    "龙头集中度",
+                    "提升"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "地产",
+                    "消费"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "[国金策略]基金Q4投资路线图浮现—续抱“金融地产、消费”等，龙头集中度进一步提升",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2018-03-09",
+            "original_text": "Former PepsiCo executive takes finance role with UNT system",
+            "features": {
+                "keywords": [
+                    "PepsiCo",
+                    "executive",
+                    "finance",
+                    "UNT system"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Former PepsiCo executive takes finance role with UNT system",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 2,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-03-10",
+            "original_text": "Cheetos Launches \"Cheetos Vision\" App At SXSW 2018",
+            "features": {
+                "keywords": [
+                    "Cheetos",
+                    "Vision",
+                    "App",
+                    "SXSW",
+                    "2018"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Cheetos Launches \"Cheetos Vision\" App At SXSW 2018",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 3,
+                "Headline_Structure": 8,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

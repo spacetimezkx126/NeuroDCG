@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "大秦铁路：随着通道运输能力进一步提升，西南环公司业绩将进一步改善，未来预期良好",
+            "features": {
+                "keywords": [
+                    "大秦铁路",
+                    "通道运输能力",
+                    "西南环公司",
+                    "业绩改善",
+                    "未来预期"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "交通运输",
+                    "铁路"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "大秦铁路：随着通道运输能力进一步提升，西南环公司业绩将进一步改善，未来预期良好",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "煤炭行业周报：库存稳步回升 煤价高位盘整",
+            "features": {
+                "keywords": [
+                    "煤炭行业",
+                    "库存回升",
+                    "煤价高位",
+                    "盘整"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "煤炭"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "煤炭行业周报：库存稳步回升 煤价高位盘整",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

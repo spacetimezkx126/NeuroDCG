@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2022-05-10",
+            "original_text": "Dow Jones Erases Early Gains As Stock Market Reverses Amid Inflation Fears",
+            "features": {
+                "keywords": [
+                    "Dow Jones",
+                    "Early Gains",
+                    "Stock Market Reverses",
+                    "Inflation Fears"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "general market"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Dow Jones Erases Early Gains As Stock Market Reverses Amid Inflation Fears",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2022-05-10",
+            "original_text": "3 Growth Stocks With Attractive Dividends to Ride Out Inflation",
+            "features": {
+                "keywords": [
+                    "Growth Stocks",
+                    "Attractive Dividends",
+                    "Ride Out Inflation"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "growth stocks"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "3 Growth Stocks With Attractive Dividends to Ride Out Inflation",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

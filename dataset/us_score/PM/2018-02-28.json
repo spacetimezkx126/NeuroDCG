@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Afraid Market Volatility? Vanguard Consumer Staples Is Safe and Cheap",
+            "features": {
+                "keywords": [
+                    "Market",
+                    "Volatility",
+                    "Vanguard",
+                    "Consumer",
+                    "Staples",
+                    "Safe",
+                    "Cheap"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "consumer staples"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 3,
+                "Duration": 10,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Will Philip Morris International Own the Japanese E-Cig Market?",
+            "features": {
+                "keywords": [
+                    "Philip",
+                    "Morris",
+                    "International",
+                    "Japanese",
+                    "E-Cig",
+                    "Market"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "tobacco",
+                    "international markets"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

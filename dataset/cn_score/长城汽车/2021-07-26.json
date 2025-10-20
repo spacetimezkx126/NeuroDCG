@@ -1,0 +1,322 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "小,米,开,出,10,亿,薪,酬,“,挖,高,管,”,？,汽,车,圈,再,掀,“,抢,人,”,拉,锯,战",
+            "features": {
+                "keywords": [
+                    "小米",
+                    "高薪",
+                    "挖高管",
+                    "汽车圈",
+                    "抢人"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "小,米,开,出,10,亿,薪,酬,“,挖,高,管,”,？,汽,车,圈,再,掀,“,抢,人,”,拉,锯,战",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "智,通,每,日,大,行,研,报,|,野,村,维,持,腾,讯,(,0,0,7,0,0,),“,买,入,”,评,级, ,中,手,游,(,0,0,3,0,2,),获,招,银,国,际,看,高,至,6.,2,港,元",
+            "features": {
+                "keywords": [
+                    "腾讯",
+                    "买入评级",
+                    "手游",
+                    "招商国际",
+                    "目标价"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "游戏"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "智,通,每,日,大,行,研,报,|,野,村,维,持,腾,讯,(,0,0,7,0,0,),“,买,入,”,评,级, ,中,手,游,(,0,0,3,0,2,),获,招,银,国,际,看,高,至,6.,2,港,元",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "不,平,凡,的,7,月,：,茅,台,新,低,股,指,尽,墨,，,4,成,个,股,却,上,涨",
+            "features": {
+                "keywords": [
+                    "茅台",
+                    "股指下跌",
+                    "个股上涨"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "白酒",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "不,平,凡,的,7,月,：,茅,台,新,低,股,指,尽,墨,，,4,成,个,股,却,上,涨",
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "续,航,大,增,2,0,%,！,长,城,汽,车,智,慧,线,控,底,盘,发,布,：,制,动,距,离,减,少,4.,8,m",
+            "features": {
+                "keywords": [
+                    "长城汽车",
+                    "续航增加",
+                    "智慧线控底盘",
+                    "制动距离减少"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "续,航,大,增,2,0,%,！,长,城,汽,车,智,慧,线,控,底,盘,发,布,：,制,动,距,离,减,少,4.,8,m",
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "国,信,证,券,维,持,长,城,汽,车,买,入,评,级,：,销,售,均,价,上,移,Q,2,业,绩,超,预,期",
+            "features": {
+                "keywords": [
+                    "长城汽车",
+                    "买入评级",
+                    "销售均价上移",
+                    "Q2业绩超预期"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "国,信,证,券,维,持,长,城,汽,车,买,入,评,级,：,销,售,均,价,上,移,Q,2,业,绩,超,预,期",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "调,研,记,录,|,德,赛,西,威,（,0,0,2,9,2,0,.,S,Z,）,：,着,力,推,进,IPU,0,4,自,动,驾,驶,域,控,制,器,快,速,规,模,化,量,产",
+            "features": {
+                "keywords": [
+                    "德赛西威",
+                    "自动驾驶",
+                    "IPU04",
+                    "规模化量产"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "调,研,记,录,|,德,赛,西,威,（,0,0,2,9,2,0,.,S,Z,）,：,着,力,推,进,IPU,0,4,自,动,驾,驶,域,控,制,器,快,速,规,模,化,量,产",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "万,联,证,券,维,持,长,城,汽,车,买,入,评,级,：,业,绩,表,现,良,好,，,单,车,盈,利,回,升",
+            "features": {
+                "keywords": [
+                    "长城汽车",
+                    "买入评级",
+                    "业绩良好",
+                    "单车盈利回升"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "万,联,证,券,维,持,长,城,汽,车,买,入,评,级,：,业,绩,表,现,良,好,，,单,车,盈,利,回,升",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "大,和,：,上,调,长,城,汽,车,(,2,3,3,3,.,H,K,),目,标,价,至,4,2,港,元, ,评,级,“,买,入,”",
+            "features": {
+                "keywords": [
+                    "长城汽车",
+                    "上调目标价",
+                    "买入评级"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "大,和,：,上,调,长,城,汽,车,(,2,3,3,3,.,H,K,),目,标,价,至,4,2,港,元, ,评,级,“,买,入,”",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "新,品,牌,新,车,型,销,售,火,热,订,单,排,队,长,城,汽,车,“,缺,芯,”,困,境,缓,解,产,量,有,望,提,升",
+            "features": {
+                "keywords": [
+                    "长城汽车",
+                    "新车销售火热",
+                    "缺芯缓解",
+                    "产量提升"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "新,品,牌,新,车,型,销,售,火,热,订,单,排,队,长,城,汽,车,“,缺,芯,”,困,境,缓,解,产,量,有,望,提,升",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,112 @@
+[
+    [
+        {
+            "time": "2021-12-17",
+            "original_text": "晨会聚焦211217重点关注服务业、闻泰科技、房地产、港股",
+            "features": {
+                "keywords": [
+                    "服务业",
+                    "闻泰科技",
+                    "房地产",
+                    "港股"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "服务业",
+                    "科技",
+                    "房地产",
+                    "港股"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "晨会聚焦211217重点关注服务业、闻泰科技、房地产、港股",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "赵伟国回应紫光重组国有资产流失，管理人回击称干扰重组",
+            "features": {
+                "keywords": [
+                    "赵伟国",
+                    "紫光重组",
+                    "国有资产流失",
+                    "干扰重组"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "半导体"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "赵伟国回应紫光重组国有资产流失，管理人回击称干扰重组",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-04-05",
+            "original_text": "29股获券商买入评级，大族激光目标涨幅达48.43%",
+            "features": {
+                "keywords": [
+                    "券商买入评级",
+                    "大族激光",
+                    "目标涨幅"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "激光设备",
+                    "制造业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "29股获券商买入评级，大族激光目标涨幅达48.43%",
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

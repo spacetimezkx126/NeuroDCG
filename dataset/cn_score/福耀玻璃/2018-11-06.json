@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "慈善组织不允许直接买卖股票 仍有两家基金会持有3股",
+            "features": {
+                "keywords": [
+                    "慈善组织",
+                    "基金会",
+                    "持股"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "慈善组织不允许直接买卖股票 仍有两家基金会持有3股",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "福耀玻璃:美国工厂爬坡顺利,汇兑收益筑高增长",
+            "features": {
+                "keywords": [
+                    "福耀玻璃",
+                    "美国工厂",
+                    "爬坡顺利",
+                    "汇兑收益",
+                    "高增长"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车零部件"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "福耀玻璃:美国工厂爬坡顺利,汇兑收益筑高增长",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

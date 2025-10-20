@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股异动 | 生益科技(600183.SH)跌逾5% 股东伟华电子拟减持不超1%公司股份 拟减持股份",
+            "features": {
+                "keywords": [
+                    "生益科技",
+                    "股东减持",
+                    "伟华电子",
+                    "跌幅"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电子",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "A股异动 | 生益科技(600183.SH)跌逾5% 股东伟华电子拟减持不超1%公司股份 拟减持股份",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "109股获券商买入评级，万盛股份目标涨幅达93.28%",
+            "features": {
+                "keywords": [
+                    "券商评级",
+                    "买入",
+                    "万盛股份",
+                    "目标涨幅"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "109股获券商买入评级，万盛股份目标涨幅达93.28%",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

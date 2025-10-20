@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "2021-01-07",
+            "original_text": "UPDATE 1-COVID sickness dropped 95.8% after both Pfizer shots - Israeli Health Ministry",
+            "features": {
+                "keywords": [
+                    "COVID",
+                    "sickness",
+                    "dropped",
+                    "Pfizer",
+                    "shots",
+                    "Israeli Health Ministry"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 10,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-01-07",
+            "original_text": "Pfizer and BioNTech Coronavirus Vaccine Effective After 1 Dose, Can Last 2 Weeks in Standard Freezer, Separate Research Shows",
+            "features": {
+                "keywords": [
+                    "Pfizer",
+                    "BioNTech",
+                    "Coronavirus",
+                    "Vaccine",
+                    "Effective",
+                    "Dose",
+                    "Freezer",
+                    "Research"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

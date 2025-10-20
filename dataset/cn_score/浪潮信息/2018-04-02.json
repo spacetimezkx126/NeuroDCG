@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "微软公司重组加码云计算，浪潮信息等上市公司引关注",
+            "features": {
+                "keywords": [
+                    "微软",
+                    "重组",
+                    "云计算",
+                    "浪潮信息",
+                    "上市公司"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "云计算"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "微软公司重组加码云计算，浪潮信息等上市公司引关注",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-03-30",
+            "original_text": "浪潮信息：3月30日融资余额为19.83亿元，较前一日骤降5.25%",
+            "features": {
+                "keywords": [
+                    "浪潮信息",
+                    "融资余额",
+                    "骤降"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "浪潮信息：3月30日融资余额为19.83亿元，较前一日骤降5.25%",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

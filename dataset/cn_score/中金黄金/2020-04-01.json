@@ -1,0 +1,69 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中金黄金(600489.SH)向245名激励对象授予3327.56万份股票期权",
+            "features": {
+                "keywords": [
+                    "中金黄金",
+                    "股票期权",
+                    "激励对象",
+                    "授予权益"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "矿业",
+                    "贵金属"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 1,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-04-01",
+            "original_text": "4月1日券商晨会研报汇编",
+            "features": {
+                "keywords": [
+                    "券商晨会",
+                    "研报汇编"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 4,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 2,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 3,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

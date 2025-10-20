@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "Does McDonald's Have A Traffic Problem?",
+            "features": {
+                "keywords": [
+                    "McDonald's",
+                    "traffic problem"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "food_service"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Does McDonald's Have A Traffic Problem?",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "McDonald's Corporation Just Released Its Full-Year Results And Analysts Are Updating Their Estimates",
+            "features": {
+                "keywords": [
+                    "McDonald's",
+                    "full-year results",
+                    "analysts estimates"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "food_service"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "McDonald's Corporation Just Released Its Full-Year Results And Analysts Are Updating Their Estimates",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 9,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

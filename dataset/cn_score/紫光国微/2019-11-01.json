@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2018-11-01",
+            "original_text": "每日全球并购：美国安进27亿美元收购百济神州20.5%股份，紫光国微收购法国Linxens集团",
+            "features": {
+                "keywords": [
+                    "并购",
+                    "安进",
+                    "百济神州",
+                    "紫光国微",
+                    "Linxens集团"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医药",
+                    "半导体"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "每日全球并购：美国安进27亿美元收购百济神州20.5%股份，紫光国微收购法国Linxens集团",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-11-01",
+            "original_text": "信息技术：Q3公募基金通信板块持仓提升 荐6股",
+            "features": {
+                "keywords": [
+                    "信息技术",
+                    "公募基金",
+                    "通信板块",
+                    "持仓提升"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "信息技术",
+                    "通信"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "信息技术：Q3公募基金通信板块持仓提升 荐6股",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

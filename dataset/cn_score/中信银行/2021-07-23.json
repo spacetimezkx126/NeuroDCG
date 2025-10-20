@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2021-07-23",
+            "original_text": "【银华基金】交易日报",
+            "features": {
+                "keywords": [
+                    "银华基金",
+                    "交易日报"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "基金"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "【银华基金】交易日报",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2021-07-22",
+            "original_text": "【债券快讯】7月22日中资美元债一级市场发行多只债券",
+            "features": {
+                "keywords": [
+                    "债券",
+                    "中资美元债",
+                    "一级市场",
+                    "发行"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "债券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 5,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

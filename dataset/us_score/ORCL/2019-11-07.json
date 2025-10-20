@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Should You Invest in the Invesco Dynamic Software ETF (PSJ)?",
+            "features": {
+                "keywords": [
+                    "Invesco",
+                    "Dynamic Software",
+                    "ETF",
+                    "Invest"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Brazilian Luxury Hotel Uses Oracle to Raise the Bar on Guest Experiences",
+            "features": {
+                "keywords": [
+                    "Brazilian",
+                    "Luxury Hotel",
+                    "Oracle",
+                    "Guest Experiences"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "hospitality",
+                    "technology"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 2,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 6,
+                "Entity_Density": 1,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

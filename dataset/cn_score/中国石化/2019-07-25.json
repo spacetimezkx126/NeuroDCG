@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "中石化成石化“最强”企业！沙特阿美成“最赚钱”企业！",
+            "features": {
+                "keywords": [
+                    "中石化",
+                    "最强企业",
+                    "沙特阿美",
+                    "最赚钱"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "石化"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "油气巨头已拿下欧洲海上风电50％份额 中国“三桶油”却是另一番景象",
+            "features": {
+                "keywords": [
+                    "油气巨头",
+                    "欧洲海上风电",
+                    "三桶油",
+                    "市场份额"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 8,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "中国石化高档润滑油销量增22%",
+            "features": {
+                "keywords": [
+                    "中国石化",
+                    "高档润滑油",
+                    "销量增长"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "石化"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 3,
+                "Headline_Structure": 6,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

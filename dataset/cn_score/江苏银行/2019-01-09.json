@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "江苏银行今日大宗交易成交36.64万股，成交价5.46元折价9.9%",
+            "features": {
+                "keywords": [
+                    "江苏银行",
+                    "大宗交易",
+                    "成交",
+                    "折价"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

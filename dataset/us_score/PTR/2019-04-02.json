@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "2018",
+            "original_text": "PetroChina (PTR) 2018 Earnings Up 130.7% Y/Y on Upstream Power",
+            "features": {
+                "keywords": [
+                    "PetroChina",
+                    "Earnings",
+                    "Up",
+                    "130.7%",
+                    "Y/Y",
+                    "Upstream",
+                    "Power"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "PetroChina (PTR) 2018 Earnings Up 130.7% Y/Y on Upstream Power",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018",
+            "original_text": "Saudi Arabia’s Gas Tank Is Running Low",
+            "features": {
+                "keywords": [
+                    "Saudi",
+                    "Arabia",
+                    "Gas",
+                    "Tank",
+                    "Running",
+                    "Low"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Saudi Arabia’s Gas Tank Is Running Low",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

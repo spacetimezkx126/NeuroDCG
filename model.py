@@ -33,6 +33,7 @@ from torch_geometric.typing import (
     SparseTensor,
     torch_sparse,
 )
+from thop import profile, clever_format
 from torch_geometric.utils import (
     add_self_loops,
     is_torch_sparse_tensor,
@@ -425,20 +426,40 @@ class NeuroDCG(nn.Module):
             'sector': 128,
         }
         self.multi = Synap_Matrix(self.last_step_dim)
-        self.zero_prop = GATv2Conv(128,128, heads=1,edge_dim=64)
+        # self.zero_prop = GATv2Conv(128,128, heads=1,edge_dim=64,add_self_loops=False)
         self.first_prop = GATSimConv(128,128, heads=1,edge_dim=64)
-        self.second_prop = GATSimConv(128,128, heads=1,edge_dim=64)
-        self.third_prop = GATSimConv(128,128, heads=1,edge_dim=64)
-        self.fourth_prop = GATSimConv(128,128,heads=1,edge_dim=64)
-        self.last_prop = GATSimConv(128,128, heads=1,edge_dim=64)
+        # self.second_prop = GATSimConv(128,128, heads=1,edge_dim=64)
+        # self.third_prop = GATSimConv(128,128, heads=1,edge_dim=64)
+        # self.fourth_prop = GATSimConv(128,128,heads=1,edge_dim=64)
+        # self.last_prop = GATSimConv(128,128, heads=1,edge_dim=64)
         self.hetero_gnn1 = HeteroConv(
             {
-            #  ('price','to','first'): self.zero_prop,
              ('first','to','second'): self.first_prop,
-             ('second','to','third'): self.second_prop, 
-             ('third','to','forth'): self.third_prop,
-             ('forth','to','fifth'): self.fourth_prop,
-             ('fifth','to','first'): self.last_prop
+             ('second','to','third'): self.first_prop, 
+             ('third','to','forth'): self.first_prop,
+             ('forth','to','fifth'): self.first_prop,
+             ('fifth','to','first'): self.first_prop,
+            
+            # ('first','to','second'): self.first_prop,
+            # ('first','to','third'): self.first_prop,
+            # ('first','to','forth'): self.first_prop,
+            # ('first','to','fifth'): self.first_prop,
+            #  ('second','to','third'): self.first_prop, 
+            #  ('second','to','first'): self.first_prop,
+            #  ('second','to','forth'): self.first_prop,
+            #  ('second','to','fifth'): self.first_prop,
+            #  ('third','to','forth'): self.first_prop,
+            #  ('third','to','second'): self.first_prop,
+            #  ('third','to','first'): self.first_prop,
+            #  ('third','to','fifth'): self.first_prop,
+            #  ('forth','to','fifth'): self.first_prop,
+            #  ('forth','to','first'): self.first_prop,
+            #  ('forth','to','second'): self.first_prop,
+            #  ('forth','to','third'): self.first_prop,
+            #  ('fifth','to','first'): self.first_prop,
+            #  ('forth','to','forth'): self.first_prop,
+            #  ('forth','to','second'): self.first_prop,
+            #  ('forth','to','third'): self.first_prop,
             }, aggr='sum'
         )
         self.map = {
@@ -448,8 +469,9 @@ class NeuroDCG(nn.Module):
             3: "forth",
             4: "fifth"
         }
-        self.test_mul = nn.Sequential(nn.Linear(320+128,64+32),nn.ReLU(),nn.Linear(64+32,1))
+        self.test_mul = nn.Sequential(nn.Linear(320+128+64,64+32),nn.ReLU(),nn.Linear(64+32,1))
         self.path = [0,1,2,3,4]
+        self.all_path = [[0,1],[0,2],[0,3],[0,4],[1,2],[1,3],[1,4],[2,3],[2,4],[3,4]]
         self.factors = []
         self.node_types = ['first', 'second', 'third', 'forth', 'fifth']
         self.attn_weights = torch.nn.Parameter(torch.ones(len(self.node_types)))
@@ -463,7 +485,7 @@ class NeuroDCG(nn.Module):
             if hasattr(data[edge_type], 'edge_attr')
         }
 
-        output, total_rank, ranks, first_dict_con, text_emb, alpha_con, target_dict, test , edge_dict,  simu_all, grad_diff_all = self.single(data.x_dict, data.edge_index_dict, edge_attr_dict)
+        output, total_rank, ranks, first_dict_con, text_emb, alpha_con, target_dict, test , edge_dict,  simu_all, grad_diff_all, edge_index_news, selected_edge_index_news, edge_index_keywords, selected_edge_index_keywords = self.single(data.x_dict, data.edge_index_dict, edge_attr_dict)
         if len(self.factors) == 0:
             for key in first_dict_con:
                 self.factors.append(key[0])
@@ -482,6 +504,7 @@ class NeuroDCG(nn.Module):
             max_key = max(self.map_path, key=lambda k: self.map_path[k])
             path = [int(b) for b in max_key.split("*")][0]
             matrix, path, factors = self.multi(first_dict_con, path_part = path)
+        # path = self.path
         factors = self.factors
         dict_hetero = {}
         edge_index_dict = {}
@@ -489,6 +512,17 @@ class NeuroDCG(nn.Module):
             if key[-1] == 'price':
                 dict_hetero[key[0]] = first_dict_con[key]
         dict_hetero['price'] = target_dict['price']
+        # for k in range(len(self.all_path)):
+        #     # for i in len(self.all_path[k]):
+        #     #     if i == 1:
+        #     #         break
+        #     dict_hetero[self.map[self.all_path[k][0]]] = dict_hetero[factors[self.all_path[k][0]]]
+        #     dict_hetero[self.map[self.all_path[k][1]]] = dict_hetero[factors[self.all_path[k][1]]]
+        #     sources = list(range(len(dict_hetero[factors[self.all_path[k][0]]])))
+        #     targets = list(range(len(dict_hetero[factors[self.all_path[k][1]]])))
+        #     edge_index_dict[self.map[self.all_path[k][0]],'to',self.map[self.all_path[k][1]]] = torch.tensor(list(zip(sources, targets))).permute(1,0).to(dict_hetero[self.map[self.all_path[k][0]]].device)
+        #     edge_index_dict[self.map[self.all_path[k][1]],'to',self.map[self.all_path[k][0]]] = torch.tensor(list(zip(targets, sources))).permute(1,0).to(dict_hetero[self.map[self.all_path[k][0]]].device)
+        #     # print(edge_index_dict[self.map[self.all_path[k][0]],'to',self.map[self.all_path[k][1]]])
         for i in range(len(path)):
             dict_hetero[self.map[i]] = dict_hetero[factors[path[i]]]
             sources = list(range(len(dict_hetero[factors[path[i]]])))
@@ -497,6 +531,17 @@ class NeuroDCG(nn.Module):
         sources = list(range(len(dict_hetero[factors[path[-1]]])))
         targets = list(range(len(dict_hetero[factors[path[-1]]])))
         x_dict = self.hetero_gnn1(dict_hetero, edge_index_dict)
+        # inputs = (x_dict, edge_index_dict)
+    
+        # # # 使用thop进行profile
+        # macs, params = profile(self.hetero_gnn1, inputs=inputs, verbose=True)
+        
+        # # # # 格式化输出
+        # macs, params = clever_format([macs, params], "%.3f")
+        
+        # print(f"\n计算结果:")
+        # print(f"MACs: {macs}")
+        # print(f"参数数量: {params}")
         type_reprs = []
         for i, node_type in enumerate(self.node_types):
             if node_type in x_dict:
@@ -508,5 +553,5 @@ class NeuroDCG(nn.Module):
         attn = F.softmax(self.attn_weights, dim=0)  # [5]
         graph_repr = sum(w * repr for w, repr in zip(attn, type_reprs))
         out_cls = self.test_mul(torch.cat([dict_hetero['price'],test['price'],text_emb,graph_repr],dim=-1))
-        
-        return out_cls, total_rank, ranks, output, path, self.map_path, simu_all, grad_diff_all
+        return out_cls, total_rank, ranks, output, None, self.map_path, simu_all, grad_diff_all, edge_index_news, selected_edge_index_news, edge_index_keywords, selected_edge_index_keywords
+        # return output, None, None, output, None, None, None, None

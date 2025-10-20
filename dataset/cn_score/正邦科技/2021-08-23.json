@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "温氏股份业绩“失温”？",
+            "features": {
+                "keywords": [
+                    "温氏股份",
+                    "业绩",
+                    "失温"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "畜牧业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "农林牧渔行业周观点：全国人大常委会审议《种子法》修正草案",
+            "features": {
+                "keywords": [
+                    "农林牧渔",
+                    "行业",
+                    "全国人大常委会",
+                    "种子法",
+                    "修正草案"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "种植业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 10,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 4,
+                "Headline_Structure": 4,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

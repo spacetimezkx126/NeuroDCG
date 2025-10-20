@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "MARKETS: Walgreens stock jumps after selling more pharmaceuticals than Wall Street expected",
+            "features": {
+                "keywords": [
+                    "Walgreens",
+                    "stock jumps",
+                    "pharmaceuticals",
+                    "Wall Street",
+                    "expected"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "MARKETS: Walgreens stock jumps after selling more pharmaceuticals than Wall Street expected",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Inside Square’s 3-Point Execution Plan for 2018",
+            "features": {
+                "keywords": [
+                    "Square",
+                    "Execution Plan",
+                    "2018"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "financial services"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Inside Square’s 3-Point Execution Plan for 2018",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 3,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Asia Pacific dealmakers fear M&A slowdown will continue",
+            "features": {
+                "keywords": [
+                    "Asia Pacific",
+                    "dealmakers",
+                    "M&A",
+                    "slowdown"
+                ],
+                "sentiment_score": -0.65,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "general business"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Asia Pacific dealmakers fear M&A slowdown will continue",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

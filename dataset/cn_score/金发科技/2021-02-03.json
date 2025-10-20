@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "昨日跌停，今日涨停！就因为披露了这项指标",
+            "features": {
+                "keywords": [
+                    "跌停",
+                    "涨停",
+                    "披露",
+                    "指标"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "昨日跌停，今日涨停！就因为披露了这项指标",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 10,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中信银行：“17陕建工MTN001”、“18陕西建工MTN001”持有人会议均审议通过同意吸收合并事项的议案",
+            "features": {
+                "keywords": [
+                    "中信银行",
+                    "陕建工",
+                    "MTN",
+                    "持有人会议",
+                    "吸收合并"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "建筑"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中信银行扶贫故事：驻村扶贫队的小郎中",
+            "features": {
+                "keywords": [
+                    "中信银行",
+                    "扶贫",
+                    "驻村",
+                    "小郎中"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "社会公益"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 8,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 2,
+                "Entity_Density": 6,
+                "Market_Scope": 2,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中信银行“再惹事”！沈阳一经理偷窥客户密码，转走1000万",
+            "features": {
+                "keywords": [
+                    "中信银行",
+                    "沈阳",
+                    "经理",
+                    "偷窥",
+                    "客户密码",
+                    "资金转移"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

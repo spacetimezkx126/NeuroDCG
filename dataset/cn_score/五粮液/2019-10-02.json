@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "1499元 数百吨茅台线上开抢！ 有人刚加进购物车就没货了",
+            "features": {
+                "keywords": [
+                    "茅台",
+                    "抢购",
+                    "1499元",
+                    "数百吨",
+                    "线上"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费品",
+                    "零售"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "超10万人抢购茅台 数百吨只卖1499！天猫秒光 这只百亿概念股慌了",
+            "features": {
+                "keywords": [
+                    "茅台",
+                    "抢购",
+                    "1499元",
+                    "天猫",
+                    "百亿概念股"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费品",
+                    "电商",
+                    "零售"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

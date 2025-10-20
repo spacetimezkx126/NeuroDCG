@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "创 业 板 盈 利 拐 点 确 认 ， 中 游 制 造 及 T M T 景 气 良 好 【 国 盛 策 略 | 财 报 分 析 】",
+            "features": {
+                "keywords": [
+                    "创业板",
+                    "盈利拐点",
+                    "中游制造",
+                    "TMT",
+                    "景气良好"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "创业板",
+                    "中游制造",
+                    "TMT"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "4 月 北 上 资 金 净 流 出 1 8 0 亿 ， Q F I I 最 新 出 逃 股 名 单 曝 光",
+            "features": {
+                "keywords": [
+                    "北上资金",
+                    "净流出",
+                    "QFII",
+                    "出逃股"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

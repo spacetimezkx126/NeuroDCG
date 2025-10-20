@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "[快讯]长电科技发布质押公告 涉及股份10329万股",
+            "features": {
+                "keywords": [
+                    "长电科技",
+                    "质押公告",
+                    "股份",
+                    "10329万股"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "半导体",
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "[快讯]长电科技发布质押公告 涉及股份10329万股",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "2018年半导体领域影响力很大的人事变动事件",
+            "features": {
+                "keywords": [
+                    "2018年",
+                    "半导体",
+                    "人事变动",
+                    "影响力"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "半导体"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "2018年半导体领域影响力很大的人事变动事件",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 3,
+                "Headline_Structure": 6,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

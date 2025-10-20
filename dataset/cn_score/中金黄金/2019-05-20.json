@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "有色金属行业周报:南方稀土上调挂牌价,继续推荐稀土、电解铝",
+            "features": {
+                "keywords": [
+                    "有色金属",
+                    "南方稀土",
+                    "上调挂牌价",
+                    "稀土",
+                    "电解铝"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "有色金属",
+                    "稀土",
+                    "电解铝"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【安信有色周报】贸易摩擦持续，看好黄金稀土配置价值",
+            "features": {
+                "keywords": [
+                    "安信有色",
+                    "贸易摩擦",
+                    "黄金",
+                    "稀土",
+                    "配置价值"
+                ],
+                "sentiment_score": 0.65,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "黄金",
+                    "稀土"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

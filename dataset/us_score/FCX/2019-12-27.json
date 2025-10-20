@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2019-12-31",
+            "original_text": "How Did Freeport-McMoRan Inc. (FCX) Compare Against Top Hedge Fund Stocks in 2019?",
+            "features": {
+                "keywords": [
+                    "Freeport-McMoRan",
+                    "FCX",
+                    "hedge fund stocks",
+                    "comparison"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining",
+                    "finance"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 2,
+                "Headline_Structure": 8,
+                "Source_Recency": 1
+            }
+        },
+        {
+            "time": "2019-12-31",
+            "original_text": "Rising Copper Prices Will Drive FDX Stock Higher in the New Year",
+            "features": {
+                "keywords": [
+                    "rising copper prices",
+                    "FDX stock",
+                    "new year"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "commodities",
+                    "transportation"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

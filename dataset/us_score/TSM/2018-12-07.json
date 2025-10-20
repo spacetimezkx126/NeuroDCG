@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2018-12-07",
+            "original_text": "Technology Sector Update for 12/07/2018: AMOT, CMTL, TSM",
+            "features": {
+                "keywords": [
+                    "Technology",
+                    "Sector",
+                    "AMOT",
+                    "CMTL",
+                    "TSM"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-12-07",
+            "original_text": "AMD Focuses on the Enterprise Market with Its EPYC Server CPUs",
+            "features": {
+                "keywords": [
+                    "AMD",
+                    "Enterprise",
+                    "Market",
+                    "EPYC",
+                    "Server",
+                    "CPUs"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 10,
+                "Market_Scope": 6,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

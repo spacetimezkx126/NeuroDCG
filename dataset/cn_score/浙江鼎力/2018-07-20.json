@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "涨，停，板，复，盘，:，沪，指，收，盘，大，涨，2，.，0，5，%， ，大，金，融，板，块，飙，升",
+            "features": {
+                "keywords": [
+                    "涨停板",
+                    "大盘",
+                    "沪指",
+                    "大涨",
+                    "金融板块",
+                    "飙升"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "涨，停，板，复，盘，:，沪，指，收，盘，大，涨，2，.，0，5，%， ，大，金，融，板，块，飙，升",
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "46股获券商买入评级，正泰电器目标涨幅达56.32%",
+            "features": {
+                "keywords": [
+                    "券商",
+                    "买入评级",
+                    "正泰电器",
+                    "目标涨幅"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电气设备"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "46股获券商买入评级，正泰电器目标涨幅达56.32%",
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "浙江鼎力高开涨停",
+            "features": {
+                "keywords": [
+                    "浙江鼎力",
+                    "高开",
+                    "涨停"
+                ],
+                "sentiment_score": 0.95,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "机械设备"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "浙江鼎力高开涨停",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 9,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

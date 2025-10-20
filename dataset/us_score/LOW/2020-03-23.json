@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2020-03-18",
+            "original_text": "MEDIA-Bill Ackman makes $2.5 bln 'Recovery Bet' amid coronavirus tumble - Bloomberg News",
+            "features": {
+                "keywords": [
+                    "Bill Ackman",
+                    "Recovery Bet",
+                    "coronavirus",
+                    "tumble"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "MEDIA-Bill Ackman makes $2.5 bln 'Recovery Bet' amid coronavirus tumble - Bloomberg News",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-03-20",
+            "original_text": "Lowe’s commits $25M to coronavirus fight, cuts store hours",
+            "features": {
+                "keywords": [
+                    "Lowe's",
+                    "coronavirus",
+                    "commits",
+                    "cuts store hours"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Lowe’s commits $25M to coronavirus fight, cuts store hours",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

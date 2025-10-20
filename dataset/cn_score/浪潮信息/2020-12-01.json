@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "time": "2021-12-01",
+            "original_text": "A股共发生175宗大宗交易成交35.71亿元（12月1日）",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "大宗交易",
+                    "成交额"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "全市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股共发生175宗大宗交易成交35.71亿元（12月1日）",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-12-01",
+            "original_text": "浪潮信息今日大宗交易成交50万股，成交价28.79元溢价0.0%",
+            "features": {
+                "keywords": [
+                    "浪潮信息",
+                    "大宗交易",
+                    "溢价"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "信息技术"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "浪潮信息今日大宗交易成交50万股，成交价28.79元溢价0.0%",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2021-12-01",
+            "original_text": "计算机行业周报：医保信息平台进入落地实施阶段 多类医保IT需求将加速释放",
+            "features": {
+                "keywords": [
+                    "计算机行业",
+                    "医保信息平台",
+                    "IT需求",
+                    "落地实施"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "信息技术",
+                    "医疗健康"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "计算机行业周报：医保信息平台进入落地实施阶段 多类医保IT需求将加速释放",
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

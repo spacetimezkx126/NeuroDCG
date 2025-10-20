@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "外资爆买！北上资金连续27日流入，58股被疯狂加仓，距刷新纪录仅差一步！",
+            "features": {
+                "keywords": [
+                    "外资",
+                    "北上资金",
+                    "连续流入",
+                    "加仓",
+                    "刷新纪录"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "全市场",
+                    "外资偏好个股"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 10,
+                "Importance": 8,
+                "Impact": 9,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中信建投2020年食品饮料展望：分化加剧，守正出奇",
+            "features": {
+                "keywords": [
+                    "中信建投",
+                    "食品饮料",
+                    "行业展望",
+                    "分化加剧",
+                    "守正出奇"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "食品饮料"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "[增, 持, 评, 级] 住, 宅, 周, 报：货, 币, 政, 策, 决, 定, 估, 值 继, 续, 看, 好, 三, 季, 度, 反, 弹",
+            "features": {
+                "keywords": [
+                    "增持评级",
+                    "住宅周报",
+                    "货币政策",
+                    "估值",
+                    "三季度反弹"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "住, 宅, 周, 报：货, 币, 政, 策, 决, 定, 估, 值 继, 续, 看, 好, 三, 季, 度, 反, 弹",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "迷, 失, 的, 东, 方, 网, 络：转, 型, 雾, 里, 看, 花，业, 绩, 节, 节, 溃, 退，押, 宝, 文, 旅, 搏, 命",
+            "features": {
+                "keywords": [
+                    "东方网络",
+                    "转型",
+                    "业绩溃退",
+                    "押宝文旅"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "传媒",
+                    "文旅"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "迷, 失, 的, 东, 方, 网, 络：转, 型, 雾, 里, 看, 花，业, 绩, 节, 节, 溃, 退，押, 宝, 文, 旅, 搏, 命",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

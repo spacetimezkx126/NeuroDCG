@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "time": "2020-01-17",
+            "original_text": "债 券 重 大 事 件 2 0 2 0 年 1 月 1 7 日 星 期 五",
+            "features": {
+                "keywords": [
+                    "债券",
+                    "重大事件"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "债券市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 7,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 4,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

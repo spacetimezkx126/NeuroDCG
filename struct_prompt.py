@@ -5,7 +5,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch_geometric.loader import DataLoader
 from torch_geometric.data import Dataset
-
+from thop import profile, clever_format
 import torch.optim as optim
 from torch.nn import functional as F
 from torch_geometric.nn import GCNConv, GATConv, HeteroConv, Linear
@@ -120,6 +120,7 @@ class SynapticConvLayer(MessagePassing):
         x_node_dict, out_dict = {}, {}
         for node_type, x in x_dict.items():
             if node_type in self.in_channels:
+                # print(node_type)
                 x_proj = self.proj[node_type](x).view(-1, H, D)
                 if node_type in [et[2] for et in edge_index_dict.keys()]:
                     x_proj = x_proj.requires_grad_(True)
@@ -156,19 +157,21 @@ class SynapticConvLayer(MessagePassing):
                     feat_diff_flat = feat_diff.view(-1, H*D)  # [N_dst, H*D]
                     grad_diff_flat = grad_diff.view(-1, H*D)  # [N_dst, H*D]
                     map_output = self.grad_map(feat_diff_flat)  # [N_dst, H*D]
-                    simu = map_output * feat_diff_flat
-                    grad_diff1 = simu.view(-1, H, D)
+                    # simu = map_output * feat_diff_flat
+                    grad_diff1 = map_output.view(-1, H, D)
                 else:
                     feat_diff = out_propagate - x_dst_before  # [N_dst, H, D]
                     feat_diff_flat = feat_diff.view(-1, H*D)  # [N_dst, H*D]
                     map_output = self.grad_map(feat_diff_flat)  # [N_dst, H*D]
-                    grad_diff_approx = map_output * feat_diff_flat
-                    grad_diff1 = grad_diff_approx.view(-1, H, D)
+                    # grad_diff_approx = map_output * feat_diff_flat
+                    grad_diff1 = map_output.view(-1, H, D)
+                
                 grad_diff = torch.mean(grad_diff1,dim=-1)
+                # print("167**",grad_diff1.shape,grad_diff.shape)
                 if grad_diff.ndim == 1:
                     grad_diff = grad_diff.unsqueeze(-1)
-                grad_norm = grad_diff.norm(dim=1,p=2, keepdim=True)  # [N_dst, 1]
-                grad_diff = grad_diff / (grad_norm + 1e-8)
+                # grad_norm = grad_diff1.norm(dim=1,p=2, keepdim=True)  # [N_dst, 1]
+                # grad_diff = grad_diff / (grad_norm + 1e-8)
                 receptivity = grad_diff
                 out = self.propagate(
                     edge_index,
@@ -188,7 +191,7 @@ class SynapticConvLayer(MessagePassing):
             semantic_attn_dict[node_type] = attn
         if self.training:
             if return_feedback:
-                return out_dict, feedback_dict, alpha_wei, simu, grad_diff_flat
+                return out_dict, feedback_dict, alpha_wei, map_output, grad_diff_flat
             return out_dict, alpha_wei, simu, grad_diff_flat
         else:
             if return_feedback:
@@ -319,6 +322,7 @@ class StepHeteroProcessor(nn.Module):
             if 'parallel' in step:
                 parallel_edges = step['parallel']
                 sub_edge_index = {et: ei for et, ei in edge_index_dict.items() if et in parallel_edges}
+                # print(sub_edge_index,x,x['score'].shape,x['keywords'].shape,x['virtual'].shape)
                 out_dict, feedback_dict, alpha, simu, grad_diff = self.synaptic_layer(x, sub_edge_index)
                 if simu is not None:
                     simu_all = torch.cat([simu_all,simu],dim=0)
@@ -328,7 +332,7 @@ class StepHeteroProcessor(nn.Module):
                     src_type = edge_type[0]
                     edge_index = edge_index_dict[edge_type]
                     src_nodes = edge_index[0]
-                    receptivity_all[edge_type] = feedback_dict[edge_type]
+                    receptivity_all[edge_type] = alpha[edge_type]
                     alpha_all[edge_type] = alpha[edge_type]
             elif 'aggr' in step:
                 aggr_edges = step['aggr']
@@ -342,7 +346,7 @@ class StepHeteroProcessor(nn.Module):
                     out_dict, feedback_dict, alpha, simu, grad_diff = self.synaptic_layer(x, sub_edge_index)
                     features_list.append(out_dict[target_type])
                     recep_list.append(feedback_dict[et])
-                    receptivity_all[et] = feedback_dict[et]
+                    receptivity_all[et] = alpha[et]
                     step_output[et] = out_dict[target_type]
                     alpha_all[et] = alpha[et]
                     if simu is not None:
@@ -355,7 +359,7 @@ class StepHeteroProcessor(nn.Module):
 
 
 class EdgeSelector(torch.nn.Module):
-    def __init__(self, edge_types, initial_keep_thread=0.01, initial_keep_ratio = 0.85):
+    def __init__(self, edge_types, initial_keep_thread=0.01, initial_keep_ratio = 0.9):
         super().__init__()
         self.keep_threads = torch.nn.ParameterDict({
             str(edge_type): torch.nn.Parameter(torch.tensor(initial_keep_thread))
@@ -383,6 +387,7 @@ class EdgeSelector(torch.nn.Module):
             
             quantiles = torch.quantile(alpha, q=1-self.initial_keep_ratio[str(edge_type)])
             mask = alpha > quantiles
+            # print(edge_type,edge_index_dict[edge_type].shape,mask.shape,alpha.shape)
             selected_edge_index[edge_type] = edge_index_dict[edge_type][:, mask]
             selected_alpha[edge_type] = alpha[mask]
             selected_edge_attr[edge_type] = edge_attr_dict[edge_type][mask]
@@ -409,21 +414,36 @@ class Struct_Prompt_TextCNN(nn.Module):
         self.para2 = nn.Parameter(torch.tensor(initial_wei))
         self.para3 = nn.Parameter(torch.tensor(initial_wei))
         self.wei_ln = nn.Linear(factor_num, factor_num)
-        self.edge_selector = EdgeSelector(edge_types)
+        self.edge_selector = EdgeSelector([
+        # ('score', 'to', 'price'),
+        # ('other', 'to', 'price'),
+        ('news', 'to','price'),
+        # ('virtual', 'to','price'),
+        # ('sector','to','price'),
+        ('keywords','to','virtual')
+        ])
         self.classifier = nn.Linear(hidden_channels*2, 1)
         self.classifier_con = nn.Linear(hidden_channels, 1)
         self.price_encoder = nn.LSTM(3, in_channels['price'], 1, batch_first=True, bidirectional=False)
-        self.score_encoder = nn.Linear(1, in_channels['score'])
+        self.score_encoder = nn.Linear(10, in_channels['score'])
+        self.score_encoder1 = nn.Linear(10, in_channels['score'])
         self.other_encoder = nn.Linear(128*6, in_channels['other'])
         self.edge_attr_enc = nn.Linear(1,64)
 
         self.conv = nn.Conv1d(
-            in_channels= 128*5,  
+            in_channels= 144*5,  
             out_channels= 128,  
             kernel_size=3,
             padding=3 // 2  
         )
-        embed = 384
+        embed = 300
+        # embedding = 'embedding_SougouNews'
+        # self.embedding_pretrained = torch.tensor(
+        #     np.load('./dict/embedding_SougouNews.npz')["embeddings"].astype('float32')) \
+        #     if embedding != 'random' else None  # 预训练词向量
+        # embed = self.embedding_pretrained.size(1) \
+        #     if self.embedding_pretrained is not None else 300
+        # self.embedding = nn.Embedding.from_pretrained(self.embedding_pretrained, freeze=True)
         self.embedding = nn.Embedding(186100, embed)
         self.conv1 = nn.Conv1d(
             in_channels= 128*5,  
@@ -436,13 +456,14 @@ class Struct_Prompt_TextCNN(nn.Module):
         )
         self.text_fc = nn.Linear(144, 128)
         self.pool = nn.MaxPool1d(2)
-        self.mlp = nn.Sequential(nn.Linear(128+64+128,128),nn.ReLU(),nn.Linear(128,1))
+        self.mlp = nn.Sequential(nn.Linear(128+128+128,128),nn.ReLU(),nn.Linear(128,1))
         self.mapping_words = {}
         self.text_type = ['other','keywords','news','virtual','sector']
         self.metadata = metadata
         self.in_channels = in_channels
+        #
         steps = [
-            {'parallel': [('keywords', 'to', 'virtual')]},{'parallel':[('price', 'rev_to', 'score'),('price', 'rev_to', 'news'),('price', 'rev_to', 'virtual'),('price', 'rev_to', 'other'),('price', 'rev_to', 'sector')]},
+            {'parallel': [('keywords', 'to', 'virtual')]}, {'parallel':[('price', 'rev_to', 'score'),('price', 'rev_to', 'news'),('price', 'rev_to', 'virtual'),('price', 'rev_to', 'other'),('price', 'rev_to', 'sector')]},
             {'aggr': [ ('score', 'to', 'price'), ('news', 'to', 'price'), ('virtual', 'to', 'price'),('other','to','price'),('sector','to','price')]}
         ]
         self.steppro = StepHeteroProcessor(
@@ -454,7 +475,7 @@ class Struct_Prompt_TextCNN(nn.Module):
         )
     def conv_and_pool(self, x, conv):
         x = F.relu(conv(x)).squeeze(3)
-        x = F.dropout(x, p=0.2, training=self.training)
+        # x = F.dropout(x, p=0.2, training=self.training)
         x = F.max_pool1d(x, x.size(2)).squeeze(2)
         return x
     
@@ -475,6 +496,7 @@ class Struct_Prompt_TextCNN(nn.Module):
             xtext = self.embedding(texts.to(x_dict[type1]).long()).unsqueeze(1)
             text_repr = torch.cat([self.conv_and_pool(xtext, conv) for conv in self.convs], 1)
             text_repr2 = self.text_fc(text_repr)
+            # text_repr2 = text_repr
             text_repr = text_repr2.view(batch_size, num_docs, -1)
             text_repr = text_repr.view(1, batch_size, num_docs * text_repr2.shape[-1]).permute(0,2,1)
             embedding_texts[type1] = text_repr.permute(0,2,1).squeeze(0)
@@ -493,27 +515,60 @@ class Struct_Prompt_TextCNN(nn.Module):
             for node_type in x_dict:
                 if node_type in self.text_type:
                     self.mapping_words[node_type] = x_dict[node_type].shape[-1]
-
+        # print(x_dict['score'].shape)
         embedded_text = self.embedding_texts(x_dict)
+        # print(x_dict['score'].shape,x_dict['price'].shape,x_dict['news'].shape)
+        # print(x_dict['news_token'])
+        # print(x_dict['news'].shape, x_dict['keywords'].shape,edge_index_dict[('news','to','price')])
         x_dict = {
-            'score': self.score_encoder(x_dict['score']) if x_dict['score'].shape[1]==1 else self.score_encoder(x_dict['score'].permute(1,0)),
+            'score': self.score_encoder(x_dict['score'].float()/10.0),
             'other': self.other_encoder(embedded_text['other'].view(embedded_text['other'].shape[0],-1)),
             'news': embedded_text['news'],
             'virtual': embedded_text['virtual'],
             'sector': embedded_text['sector'],
             'keywords': embedded_text['keywords'],
             'price': self.price_encoder(x_dict['price'])[0][:,-1,:],
-            'news_token': x_dict['news_token'][:,:5,:]
+            'news_token': x_dict['news_token'][:,:5,:],
+            'sc_avg': self.score_encoder1(x_dict['sc_avg'].float()/10.0)
         }
+        # print("509**",x_dict['score'].shape,x_dict['price'].shape,x_dict['news'].shape)
+        # inputs = (x_dict, edge_index_dict)
+    
+        # # # 使用thop进行profile
+        # macs, params = profile(self.steppro, inputs=inputs, verbose=True)
+        
+        # # # # 格式化输出
+        # macs, params = clever_format([macs, params], "%.3f")
+        
+        # print(f"\n计算结果:")
+        # print(f"MACs: {macs}")
+        # print(f"参数数量: {params}")
         test, receptivity_all, total_rank, ranks, step_output, alpha_all, simu_all, grad_diff_all = self.steppro(x_dict, edge_index_dict)
+        selected_edge_index_dict, _, selected_edge_attr = self.edge_selector(edge_index_dict, receptivity_all, edge_attr_dict)
+
+        # inputs = (x_dict, selected_edge_index_dict)
+    
+        # # # 使用thop进行profile
+        # macs, params = profile(self.steppro, inputs=inputs, verbose=True)
+        
+        # # # # 格式化输出
+        # macs, params = clever_format([macs, params], "%.3f")
+        
+        # print(f"\n计算结果:")
+        # print(f"**MACs: {macs}")
+        # print(f"参数数量: {params}")
+        # print(edge_index_dict[('news','to','price')].shape,selected_edge_index_dict[('news','to','price')].shape)
+        # print(edge_index_dict[('keywords','to','virtual')].shape,selected_edge_index_dict[('keywords','to','virtual')].shape)
+        
+        test, receptivity_all, total_rank, ranks, step_output, _, _, _ = self.steppro(x_dict, selected_edge_index_dict)
         max_word = 40
         batch_size, num_docs, max_word = x_dict['news_token'].size()
         texts = x_dict['news_token'].reshape(-1, max_word)
         xtext = self.embedding(texts.to(x_dict['news_token'])).unsqueeze(1)
         text_repr = torch.cat([self.conv_and_pool(xtext, conv) for conv in self.convs], 1)
-        text_repr2 = self.text_fc(text_repr)
-        text_repr = text_repr2.view(batch_size, num_docs, -1)
-        text_repr = text_repr.view(1, batch_size, num_docs * text_repr2.shape[-1]).permute(0,2,1)
+        # text_repr2 = self.text_fc(text_repr)
+        text_repr = text_repr.view(batch_size, num_docs, -1)
+        text_repr = text_repr.view(1, batch_size, num_docs * text_repr.shape[-1]).permute(0,2,1)
         output = self.conv(text_repr).permute(0,2,1)
         output_temp = self.pool(output)
 
@@ -543,8 +598,13 @@ class Struct_Prompt_TextCNN(nn.Module):
         padding_news1 = padding_news.view(-1,5,padding_news.shape[-1]).flatten(1).unsqueeze(-1).permute(2,1,0)
         output1 = self.conv1(padding_news1).permute(0,2,1)
         output1 = self.pool(output1)
-        combined_repr = torch.cat([x_dict['price'].unsqueeze(1),output_temp.permute(1,0,2),test['price'].unsqueeze(1)],dim=-1)
+        # print(x_dict['score'].shape)
+        # ,test['price'].unsqueeze(1)
+        output_temp = output.clone()
+        combined_repr = torch.cat([x_dict['price'].unsqueeze(1),output.permute(1,0,2),test['price'].unsqueeze(1)],dim=-1)
+        # print(combined_repr.shape)
         output = self.mlp(combined_repr.squeeze(1))
-
-        return output, total_rank, ranks, step_output, output_temp.permute(1,0,2).squeeze(1), None, x_dict, test, None, simu_all, grad_diff_all
+        
+        # print(output.shape)
+        return output, total_rank, ranks, step_output, output_temp.permute(1,0,2).squeeze(1), None, x_dict, test, None, simu_all, grad_diff_all, edge_index_dict[('news','to','price')], selected_edge_index_dict[('news','to','price')], edge_index_dict[('keywords','to','virtual')], selected_edge_index_dict[('keywords','to','virtual')]
 

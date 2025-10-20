@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2023-04-15",
+            "original_text": "Smirnoff Red, White & Berry Is Ready For The Best Summer Ever - Are You?",
+            "features": {
+                "keywords": [
+                    "Smirnoff",
+                    "Red",
+                    "White",
+                    "Berry",
+                    "Summer"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods",
+                    "alcohol"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 8,
+                "Importance": 3,
+                "Impact": 1,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-04-22",
+            "original_text": "Bulleit Frontier Whiskey Debuts Eco-friendly Earth Day Cocktail Kit in Partnership with American Forests and Cocktail Courier to Celebrate a More Sustainable Tomorrow",
+            "features": {
+                "keywords": [
+                    "Bulleit Frontier Whiskey",
+                    "Eco-friendly",
+                    "Earth Day",
+                    "Cocktail Kit",
+                    "American Forests",
+                    "Sustainable"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods",
+                    "alcohol",
+                    "environmental initiatives"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

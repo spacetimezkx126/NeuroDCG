@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2020-10",
+            "original_text": "上海证券交易研究所投资组合报告",
+            "features": {
+                "keywords": [
+                    "投资组合",
+                    "研究报告",
+                    "上海证券"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "上海证券交易研究所投资组合报告",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-10",
+            "original_text": "88家公司净利润翻倍，最高增240倍！三季报预告有惊喜",
+            "features": {
+                "keywords": [
+                    "净利润翻倍",
+                    "三季报",
+                    "业绩增长"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "多行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "88家公司净利润翻倍，最高增240倍！三季报预告有惊喜",
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 10,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

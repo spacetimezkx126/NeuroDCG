@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2021-12-31",
+            "original_text": "U.S. economy may have lost jobs in December for first time since earliest stages of coronavirus pandemic",
+            "features": {
+                "keywords": [
+                    "lost jobs",
+                    "December",
+                    "coronavirus pandemic"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "economy",
+                    "employment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2021-12-31",
+            "original_text": "U.S. economy could lose jobs in December for first time since the start of pandemic",
+            "features": {
+                "keywords": [
+                    "lose jobs",
+                    "December",
+                    "pandemic"
+                ],
+                "sentiment_score": -0.65,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "economy",
+                    "employment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

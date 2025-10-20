@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "大族激光今日大宗交易成交36.09万股，成交价40.2元折价2.26%",
+            "features": {
+                "keywords": [
+                    "大族激光",
+                    "大宗交易",
+                    "成交",
+                    "折价"
+                ],
+                "sentiment_score": -0.1,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "制造业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "大族激光拟自筹25亿投建两生产基地 分拆子公司创业板上市募资17亿已过会",
+            "features": {
+                "keywords": [
+                    "大族激光",
+                    "自筹资金",
+                    "生产基地",
+                    "分拆上市",
+                    "募资"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "制造业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

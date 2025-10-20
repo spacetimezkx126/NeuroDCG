@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "Oil Rises With Stronger Equities and Tighter U.S. Gasoline View",
+            "features": {
+                "keywords": [
+                    "Oil",
+                    "Rises",
+                    "Stronger Equities",
+                    "Tighter U.S. Gasoline View"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "commodities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "Citi Aims to Increase New York-Area Staffing in Early October",
+            "features": {
+                "keywords": [
+                    "Citi",
+                    "Increase",
+                    "New York-Area Staffing",
+                    "Early October"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "human resources"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-01-30",
+            "original_text": "【招商研究】每日复盘与晨会精要（0130）：资金较为谨慎",
+            "features": {
+                "keywords": [
+                    "招商研究",
+                    "每日复盘",
+                    "资金",
+                    "谨慎"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "2023-01-29",
+            "original_text": "【机械-中铁工业(600528)】王华君：预告净利润12.7亿，大幅增长660%；低估值轨交装备央企龙头，业绩持续向上-0129",
+            "features": {
+                "keywords": [
+                    "机械",
+                    "中铁工业",
+                    "净利润",
+                    "660%",
+                    "低估值",
+                    "轨交装备",
+                    "央企龙头",
+                    "业绩向上"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "机械",
+                    "轨交装备"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

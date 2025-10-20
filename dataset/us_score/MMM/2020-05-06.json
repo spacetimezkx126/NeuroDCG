@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2020-04-01",
+            "original_text": "U.S. government awards $126 million face masks contract to 3M",
+            "features": {
+                "keywords": [
+                    "government contract",
+                    "3M",
+                    "face masks",
+                    "COVID-19"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "manufacturing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-04-01",
+            "original_text": "3M and Ford Begin Shipping Newly Designed Powered Air-Purifying Respirators for Health Care Workers Fighting COVID-19",
+            "features": {
+                "keywords": [
+                    "3M",
+                    "Ford",
+                    "respirators",
+                    "health care",
+                    "COVID-19"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "automotive",
+                    "manufacturing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

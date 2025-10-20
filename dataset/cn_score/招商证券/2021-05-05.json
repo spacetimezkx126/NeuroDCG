@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "明天开盘了！盘前作业，哪些板块赢面大？",
+            "features": {
+                "keywords": [
+                    "开盘",
+                    "盘前作业",
+                    "板块"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "明天开盘了！盘前作业，哪些板块赢面大？",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 1,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "招商证券：招商证券国际有限公司为其全资子公司提供担保 大额借贷担保",
+            "features": {
+                "keywords": [
+                    "招商证券",
+                    "全资子公司",
+                    "担保",
+                    "大额借贷"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "招商证券：招商证券国际有限公司为其全资子公司提供担保 大额借贷担保",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

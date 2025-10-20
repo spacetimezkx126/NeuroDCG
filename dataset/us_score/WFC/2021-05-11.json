@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2021-05-10",
+            "original_text": "Top Stock Picks for Week of May 10, 2021",
+            "features": {
+                "keywords": [
+                    "Top",
+                    "Stock",
+                    "Picks",
+                    "Week"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-05-10",
+            "original_text": "Wall Street Giants Get Swept Up by India’s Brutal Covid Wave",
+            "features": {
+                "keywords": [
+                    "Wall Street",
+                    "Giants",
+                    "Swept Up",
+                    "India",
+                    "Covid",
+                    "Wave"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "global health",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 1,
+                "Importance": 8,
+                "Impact": 4,
+                "Duration": 9,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,523 @@
+[
+    [
+        {
+            "time": "2020-11-03",
+            "original_text": "['Walmart', '(WMT)', 'Outpaces', 'Stock', 'Market', 'Gains:', 'What', 'You', 'Should', 'Know']",
+            "features": {
+                "keywords": [
+                    "Walmart",
+                    "outpaces",
+                    "stock market gains"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Walmart (WMT) Outpaces Stock Market Gains: What You Should Know",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['The biggest risk is uncertainty': AllianceBernstein's Valerie Grant on headwinds facing the market ahead of the election]",
+            "features": {
+                "keywords": [
+                    "biggest risk",
+                    "uncertainty",
+                    "headwinds",
+                    "election"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "The biggest risk is uncertainty: AllianceBernstein's Valerie Grant on headwinds facing the market ahead of the election",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['Costco’s Latest Strong Quarter Still Wasn’t Good Enough']",
+            "features": {
+                "keywords": [
+                    "Costco",
+                    "strong quarter",
+                    "not good enough"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Costco’s Latest Strong Quarter Still Wasn’t Good Enough",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['Costco Earnings Mixed As Digital Sales Spike, Key Services Return']",
+            "features": {
+                "keywords": [
+                    "Costco",
+                    "earnings mixed",
+                    "digital sales spike",
+                    "key services return"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Costco Earnings Mixed As Digital Sales Spike, Key Services Return",
+                "Correlation": 10,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['Amazon.com Inc. stock outperforms market on strong trading day']",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "outperforms",
+                    "market",
+                    "strong trading day"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "e-commerce"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Amazon.com Inc. stock outperforms market on strong trading day",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['TikTok Judge Tells U.S. to Delay Ban or Argue for It Friday']",
+            "features": {
+                "keywords": [
+                    "TikTok",
+                    "judge",
+                    "delay ban",
+                    "argue"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "tech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "TikTok Judge Tells U.S. to Delay Ban or Argue for It Friday",
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['Alphabet Stock Should Be a Major Winner for the Shelter-In-Place Holidays']",
+            "features": {
+                "keywords": [
+                    "Alphabet",
+                    "winner",
+                    "shelter-in-place holidays"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "tech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Alphabet Stock Should Be a Major Winner for the Shelter-In-Place Holidays",
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['White House adviser says TikTok deal under heavy scrutiny']",
+            "features": {
+                "keywords": [
+                    "White House",
+                    "TikTok",
+                    "deal",
+                    "heavy scrutiny"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "tech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "White House adviser says TikTok deal under heavy scrutiny",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['Costco Earnings Due As Digital Sales Spike, Key Services Return']",
+            "features": {
+                "keywords": [
+                    "Costco",
+                    "earnings due",
+                    "digital sales spike",
+                    "key services return"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Costco Earnings Due As Digital Sales Spike, Key Services Return",
+                "Correlation": 10,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['ByteDance Files for China Approval to Export TikTok Tech']",
+            "features": {
+                "keywords": [
+                    "ByteDance",
+                    "China approval",
+                    "export TikTok tech"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "tech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "ByteDance Files for China Approval to Export TikTok Tech",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['Beijing authority gets Bytedance application for tech export licence - ministry']",
+            "features": {
+                "keywords": [
+                    "Beijing",
+                    "authority",
+                    "Bytedance",
+                    "tech export licence"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "tech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Beijing authority gets Bytedance application for tech export licence - ministry",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['TikTok Parent Puts Ball In China's Court — Says Will Abide By Tech Export Rules']",
+            "features": {
+                "keywords": [
+                    "TikTok",
+                    "parent",
+                    "China court",
+                    "tech export rules"
+                ],
+                "sentiment_score": 0.1,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "tech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "TikTok Parent Puts Ball In China's Court — Says Will Abide By Tech Export Rules",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['TikTok Pushes Back on Trump in Court While Angling for Deal']",
+            "features": {
+                "keywords": [
+                    "TikTok",
+                    "pushes back",
+                    "Trump",
+                    "court",
+                    "angling for deal"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "tech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "TikTok Pushes Back on Trump in Court While Angling for Deal",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['Trump Says Kentucky Attorney General Is Handling Breonna Taylor Situation ‘Very Well’']",
+            "features": {
+                "keywords": [
+                    "Trump",
+                    "Kentucky",
+                    "attorney general",
+                    "Breonna Taylor",
+                    "situation"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "Trump Says Kentucky Attorney General Is Handling Breonna Taylor Situation ‘Very Well’",
+                "Correlation": 1,
+                "Sentiment": 4,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 1,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2020-11-03",
+            "original_text": "['China Threatens to Kill TikTok Deal Over ‘Dirty’ Trump Tactics']",
+            "features": {
+                "keywords": [
+                    "China",
+                    "threatens",
+                    "TikTok deal",
+                    "dirty Trump tactics"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "tech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "China Threatens to Kill TikTok Deal Over ‘Dirty’ Trump Tactics",
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

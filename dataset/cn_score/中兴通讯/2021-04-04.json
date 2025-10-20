@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "上游元器件涨价推高成本 5G手机会涨价吗？",
+            "features": {
+                "keywords": [
+                    "上游元器件",
+                    "涨价",
+                    "5G手机",
+                    "成本"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电子",
+                    "通信"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "通信设备及服务行业：华为、中兴加码汽车领域 光模块领域马太效应明显",
+            "features": {
+                "keywords": [
+                    "通信设备",
+                    "华为",
+                    "中兴",
+                    "汽车领域",
+                    "光模块",
+                    "马太效应"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "通信",
+                    "汽车",
+                    "光模块"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 8,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

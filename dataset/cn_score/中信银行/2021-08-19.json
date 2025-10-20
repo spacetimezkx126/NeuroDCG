@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2021-08-19",
+            "original_text": "【银华基金】交易日报 聚焦财富话题整合中信优势 2021中信财富论坛全国巡演正式开启",
+            "features": {
+                "keywords": [
+                    "银华基金",
+                    "交易日报",
+                    "中信财富论坛",
+                    "财富话题"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "财富管理"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "【银华基金】交易日报 聚焦财富话题整合中信优势 2021中信财富论坛全国巡演正式开启",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 5,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2021-08-19",
+            "original_text": "华融利好提振投资级债市 高收益恒大领跌仍走弱",
+            "features": {
+                "keywords": [
+                    "华融",
+                    "利好",
+                    "投资级债市",
+                    "高收益",
+                    "恒大",
+                    "领跌",
+                    "走弱"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "债券市场",
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 4,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

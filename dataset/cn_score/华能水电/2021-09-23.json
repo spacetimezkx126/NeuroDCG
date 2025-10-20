@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "time": "2021-09-23",
+            "original_text": "A股早报2021年9月23日星期四",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "早报"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "A股早报2021年9月23日星期四",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-09-23",
+            "original_text": "每日理财观察：银行监管评级办法发布，涵盖七级别九要素",
+            "features": {
+                "keywords": [
+                    "银行",
+                    "监管评级",
+                    "七级别",
+                    "九要素"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "每日理财观察：银行监管评级办法发布，涵盖七级别九要素",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-09-23",
+            "original_text": "史无前例！一大批公司限产，牛股核心工厂全面停产",
+            "features": {
+                "keywords": [
+                    "限产",
+                    "停产",
+                    "牛股",
+                    "核心工厂"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "工业",
+                    "制造业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "史无前例！一大批公司限产，牛股核心工厂全面停产",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 10,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

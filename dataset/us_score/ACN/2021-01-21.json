@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "2021-01-01",
+            "original_text": "Accenture Named a Leader in Everest Group’s PEAK Matrix for Pega Service Providers 2021",
+            "features": {
+                "keywords": [
+                    "Accenture",
+                    "Leader",
+                    "Everest Group",
+                    "PEAK Matrix",
+                    "Pega Service Providers"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "consulting"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-01-01",
+            "original_text": "The Zacks Analyst Blog Highlights: Novartis, QUALCOMM, Accenture, MetLife and Electronic Arts",
+            "features": {
+                "keywords": [
+                    "Zacks Analyst Blog",
+                    "Novartis",
+                    "QUALCOMM",
+                    "Accenture",
+                    "MetLife",
+                    "Electronic Arts"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "technology",
+                    "insurance",
+                    "entertainment"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 4,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

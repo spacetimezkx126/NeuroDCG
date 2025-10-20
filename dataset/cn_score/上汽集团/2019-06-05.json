@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "2023-10-10",
+            "original_text": "全球最大加氢站在上海落成 有望带动产业发展提速",
+            "features": {
+                "keywords": [
+                    "全球最大",
+                    "加氢站",
+                    "上海",
+                    "落成",
+                    "产业发展",
+                    "提速"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源",
+                    "基础设施"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-10",
+            "original_text": "长三角一体化发展领导小组会议召开 相关公司受关注",
+            "features": {
+                "keywords": [
+                    "长三角",
+                    "一体化",
+                    "发展",
+                    "领导小组",
+                    "会议",
+                    "相关公司",
+                    "关注"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "区域经济",
+                    "政策受益"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "长三角一体化发展领导小组会议召开 相关公司受关注",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "独,家,！,投,行,员,工,月,收,入,不,足,5,0,0,0,元,，,还,不,起,房,贷,？,申,万,宏,源,子,公,司,高,层,自,掏,5,0,万,设,专,项,基,金,接,济",
+            "features": {
+                "keywords": [
+                    "投行员工",
+                    "月收入不足5000元",
+                    "申万宏源",
+                    "专项基金"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "独家！投行员工月收入不足5000元，还不起房贷？申万宏源子公司高层自掏50万设专项基金接济",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 10,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "四,月,执,业,质,量,评,价,结,果,出,炉, , 申,万,宏,源,、,招,商,证,券,夺,冠",
+            "features": {
+                "keywords": [
+                    "四月执业质量评价",
+                    "申万宏源",
+                    "招商证券",
+                    "夺冠"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "四月执业质量评价结果出炉 申万宏源、招商证券夺冠",
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

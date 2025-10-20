@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2020-06-10",
+            "original_text": "Coronavirus update: Case and death tolls keep rising, but shock increase in U.S. jobs suggesting the worst may be over, for now",
+            "features": {
+                "keywords": [
+                    "Coronavirus",
+                    "case",
+                    "death tolls",
+                    "rising",
+                    "shock increase",
+                    "U.S. jobs"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "employment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-06-10",
+            "original_text": "In George Floyd’s City, Inequalities Are Everywhere",
+            "features": {
+                "keywords": [
+                    "George Floyd",
+                    "inequalities"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "social issues"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 3,
+                "Duration": 8,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

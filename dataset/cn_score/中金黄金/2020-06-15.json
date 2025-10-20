@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "全球财政对冲政策效果或将显现，铜铝边际改善有望持续，关注中重稀土弹性，维持“强于大市”评级",
+            "features": {
+                "keywords": [
+                    "全球财政",
+                    "对冲政策",
+                    "铜铝",
+                    "边际改善",
+                    "中重稀土",
+                    "强于大市"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "有色金属",
+                    "稀土"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "有色金属行业更新：联储鸽派 金价修复",
+            "features": {
+                "keywords": [
+                    "有色金属",
+                    "联储",
+                    "鸽派",
+                    "金价修复"
+                ],
+                "sentiment_score": 0.65,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "有色金属",
+                    "黄金"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

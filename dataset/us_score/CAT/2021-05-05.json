@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "The Zacks Analyst Blog Highlights: Comcast, PepsiCo, McDonald's, QUALCOMM and Caterpillar",
+            "features": {
+                "keywords": [
+                    "Zacks Analyst Blog",
+                    "Comcast",
+                    "PepsiCo",
+                    "McDonald's",
+                    "QUALCOMM",
+                    "Caterpillar"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "consumer goods",
+                    "food service",
+                    "semiconductors",
+                    "industrial equipment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "U.S. Manufacturing Activity Continues to Expand: 5 Winners",
+            "features": {
+                "keywords": [
+                    "U.S. Manufacturing",
+                    "Activity",
+                    "Expand",
+                    "Winners"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "manufacturing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

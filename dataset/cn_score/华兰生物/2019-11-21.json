@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2021-01-21",
+            "original_text": "有84家公司获重要股东增减持，延安必康已被连续减持136次，减持股份",
+            "features": {
+                "keywords": [
+                    "重要股东",
+                    "增减持",
+                    "延安必康",
+                    "连续减持"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "有84家公司获重要股东增减持，延安必康已被连续减持136次，减持股份",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-11-21",
+            "original_text": "太证研究最新观点：LPR下调不必然导致房贷利率下调",
+            "features": {
+                "keywords": [
+                    "LPR",
+                    "房贷利率",
+                    "下调"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "太证研究最新观点：LPR下调不必然导致房贷利率下调",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

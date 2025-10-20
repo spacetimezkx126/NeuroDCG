@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "U.K. investors have lost out on more than £30 billion in dividends. It is about to get worse, say analysts.",
+            "features": {
+                "keywords": [
+                    "U.K. investors",
+                    "lost",
+                    "£30 billion",
+                    "dividends",
+                    "about to get worse",
+                    "analysts"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 9,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

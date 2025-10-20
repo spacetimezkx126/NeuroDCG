@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "东, 方, 盛, 虹, 豪, 赌, 一, 体, 化, 项, 目,  , 资, 金, 缺, 口, 过, 大, 或, 成, ‘, 不, 可, 能, 任, 务, ’",
+            "features": {
+                "keywords": [
+                    "东方盛虹",
+                    "一体化项目",
+                    "资金缺口",
+                    "不可能任务"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "东, 方, 盛, 虹, 豪, 赌, 一, 体, 化, 项, 目,  , 资, 金, 缺, 口, 过, 大, 或, 成, ‘, 不, 可, 能, 任, 务, ’",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "暑, 期, 营, 销, ‘, 火, 拼, ’, 之, 下, ，, 新, 东, 方, 这, 个, 季, 度, 业, 绩, 超, 预, 期, ｜, 看, 财, 报",
+            "features": {
+                "keywords": [
+                    "新东方",
+                    "暑期营销",
+                    "火拼",
+                    "业绩超预期"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "教育"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "暑, 期, 营, 销, ‘, 火, 拼, ’, 之, 下, ，, 新, 东, 方, 这, 个, 季, 度, 业, 绩, 超, 预, 期, ｜, 看, 财, 报",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "化, 工, ：, 国, 际, 化, 对, 标, 与, 复, 盘,   , 荐, 6, 股",
+            "features": {
+                "keywords": [
+                    "化工",
+                    "国际化对标",
+                    "复盘",
+                    "荐股"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "化, 工, ：, 国, 际, 化, 对, 标, 与, 复, 盘,   , 荐, 6, 股",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

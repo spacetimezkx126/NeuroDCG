@@ -1,0 +1,82 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "通威股份(600438.SH)控股股东通威集团质押1000万股",
+            "features": {
+                "keywords": [
+                    "通威股份",
+                    "控股股东",
+                    "通威集团",
+                    "质押",
+                    "1000万股"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源",
+                    "光伏"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "通威股份(600438.SH)控股股东通威集团质押1000万股",
+                "Correlation": 10,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "A股收盘综述：锂、光伏、稀土等大幅调整，统筹保障动力电池资源供应消息引起波澜",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "收盘综述",
+                    "锂",
+                    "光伏",
+                    "稀土",
+                    "大幅调整",
+                    "动力电池",
+                    "资源供应"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源",
+                    "锂电池",
+                    "稀土"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "A股收盘综述：锂、光伏、稀土等大幅调整，统筹保障动力电池资源供应消息引起波澜",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

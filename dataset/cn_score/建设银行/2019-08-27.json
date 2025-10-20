@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "港股通北水追捧建行、腾讯、舜宇光学、吉利",
+            "features": {
+                "keywords": [
+                    "港股通",
+                    "北水",
+                    "建行",
+                    "腾讯",
+                    "舜宇光学",
+                    "吉利"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "科技",
+                    "汽车",
+                    "制造业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "港股通北水追捧建行、腾讯、舜宇光学、吉利",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "债委会苦等 青投集团偿债方案迟到两月",
+            "features": {
+                "keywords": [
+                    "债委会",
+                    "青投集团",
+                    "偿债方案",
+                    "迟到"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "债务",
+                    "企业信用"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "债委会苦等 青投集团偿债方案迟到两月",
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

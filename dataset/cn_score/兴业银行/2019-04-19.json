@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2019-04-19",
+            "original_text": "兴业银行今日大宗交易成交500万股，成交价19.79元折价2.51%。",
+            "features": {
+                "keywords": [
+                    "兴业银行",
+                    "大宗交易",
+                    "成交500万股",
+                    "成交价19.79元",
+                    "折价2.51%"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "兴业银行今日大宗交易成交500万股，成交价19.79元折价2.51%。",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "2019-04-19",
+            "original_text": "A股早报2019年4月19日星期五",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "早报",
+                    "2019年4月19日",
+                    "星期五"
+                ],
+                "sentiment_score": 0,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "A股早报2019年4月19日星期五",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 7,
+                "Time_Proximity": 3,
+                "Headline_Structure": 5,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

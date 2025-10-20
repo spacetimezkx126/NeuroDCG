@@ -1,0 +1,104 @@
+[
+    [
+        {
+            "time": "2020-08-20",
+            "original_text": "上海证券交易所2020年08月20日主板交易信息",
+            "features": {
+                "keywords": [
+                    "上海证券交易所",
+                    "主板",
+                    "交易信息"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "上海证券交易所2020年08月20日主板交易信息",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 4,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2020-08-20",
+            "original_text": "华钰矿业控股股东道衡投资的524.21万股被依约卖出",
+            "features": {
+                "keywords": [
+                    "华钰矿业",
+                    "控股股东",
+                    "道衡投资",
+                    "依约卖出"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "矿业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "华钰矿业控股股东道衡投资的524.21万股被依约卖出",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2020-08-19",
+            "original_text": "A股融资融券日报：两融余额减少2.78亿元（8月19日）",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "融资融券",
+                    "两融余额",
+                    "减少"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "A股融资融券日报：两融余额减少2.78亿元（8月19日）",
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

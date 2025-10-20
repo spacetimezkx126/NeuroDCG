@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "深夜突发！证监会出手：立案调查，涉嫌操纵期货合约！",
+            "features": {
+                "keywords": [
+                    "证监会",
+                    "立案调查",
+                    "涉嫌操纵",
+                    "期货合约"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "期货"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 10,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 10,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

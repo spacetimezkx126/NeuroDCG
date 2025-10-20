@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "2021-12-31",
+            "original_text": "A股共发生123宗大宗交易成交21.39亿元（12月31日）",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "大宗交易",
+                    "成交额"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股共发生123宗大宗交易成交21.39亿元（12月31日）",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2022-01-04",
+            "original_text": "韵达股份今日大宗交易成交364.22万股，成交价30.92元折价7.15%",
+            "features": {
+                "keywords": [
+                    "韵达股份",
+                    "大宗交易",
+                    "折价"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "物流",
+                    "快递"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "韵达股份今日大宗交易成交364.22万股，成交价30.92元折价7.15%",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "2022-01-04",
+            "original_text": "快递大佬减持凶猛:韵达实控人套现十亿 顺丰解禁来袭 减持股份",
+            "features": {
+                "keywords": [
+                    "韵达",
+                    "实控人",
+                    "减持",
+                    "顺丰",
+                    "解禁"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "物流",
+                    "快递"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "快递大佬减持凶猛:韵达实控人套现十亿 顺丰解禁来袭 减持股份",
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

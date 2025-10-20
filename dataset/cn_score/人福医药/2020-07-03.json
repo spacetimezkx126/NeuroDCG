@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "翻身时刻到了，A股剑指3100点，全球市场一起嗨",
+            "features": {
+                "keywords": [
+                    "翻身时刻",
+                    "A股",
+                    "3100点",
+                    "全球市场"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "全市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

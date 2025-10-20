@@ -1,0 +1,85 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "Accenture Launches Cloud-Based Analytics Utility to Help U.S. Banks Improve Risk-Management and Other Functions",
+            "features": {
+                "keywords": [
+                    "Accenture",
+                    "Cloud-Based",
+                    "Analytics",
+                    "U.S.",
+                    "Banks",
+                    "Risk-Management"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Factors of Influence in 2018, Key Indicators and Opportunity within Meridian, Accenture, Ladder Capital, ADT, Chart Industries, and HCP — New Research Emphasizes Economic Growth",
+            "features": {
+                "keywords": [
+                    "Factors",
+                    "Influence",
+                    "Key Indicators",
+                    "Opportunity",
+                    "Meridian",
+                    "Accenture",
+                    "Ladder Capital",
+                    "ADT",
+                    "Chart Industries",
+                    "HCP",
+                    "Economic Growth"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "real estate",
+                    "industrial",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 3,
+                "Headline_Structure": 6,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

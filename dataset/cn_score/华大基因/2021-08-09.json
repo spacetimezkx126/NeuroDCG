@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2021-08-09",
+            "original_text": "A股早报2021年8月9日星期一",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "早报",
+                    "2021年8月9日"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "A股早报2021年8月9日星期一",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2021-08-09",
+            "original_text": "2021创新指数发布深度解读创新指数赋能中国制造 A股投资添新风向标",
+            "features": {
+                "keywords": [
+                    "创新指数",
+                    "中国制造",
+                    "A股投资",
+                    "风向标"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "制造"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "2021创新指数发布深度解读创新指数赋能中国制造 A股投资添新风向标",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

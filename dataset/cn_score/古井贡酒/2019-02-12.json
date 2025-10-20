@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "茅 台 、 五 粮 液 、 古 井 贡 酒 、 泸 州 老 窖 ... 都 喝 高 了 ？",
+            "features": {
+                "keywords": [
+                    "茅台",
+                    "五粮液",
+                    "古井贡酒",
+                    "泸州老窖",
+                    "白酒"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "白酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "茅 台 、 五 粮 液 、 古 井 贡 酒 、 泸 州 老 窖 ... 都 喝 高 了 ？",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "两 因 素 催 热 白 酒 板 块   机 构 推 荐 7 只 潜 力 股 显 “ 升 ” 机",
+            "features": {
+                "keywords": [
+                    "白酒板块",
+                    "机构推荐",
+                    "潜力股",
+                    "升机"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "白酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "两 因 素 催 热 白 酒 板 块   机 构 推 荐 7 只 潜 力 股 显 “ 升 ” 机",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

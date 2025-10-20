@@ -1,0 +1,268 @@
+[
+    [
+        {
+            "time": "2021-09-22",
+            "original_text": "FDA backs Pfizer COVID-19 boosters for seniors and those at high risk",
+            "features": {
+                "keywords": [
+                    "FDA",
+                    "Pfizer",
+                    "COVID-19",
+                    "boosters",
+                    "seniors",
+                    "high risk"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2021-09-23",
+            "original_text": "UPDATE 1-Brazil regulator says adolescent death unrelated to Pfizer shot",
+            "features": {
+                "keywords": [
+                    "Brazil",
+                    "regulator",
+                    "adolescent",
+                    "death",
+                    "unrelated",
+                    "Pfizer"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-09-24",
+            "original_text": "U.S. FDA clears Pfizer COVID-19 booster for older and at-risk Americans",
+            "features": {
+                "keywords": [
+                    "U.S.",
+                    "FDA",
+                    "Pfizer",
+                    "COVID-19",
+                    "booster",
+                    "older",
+                    "at-risk"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "U.S. FDA clears Pfizer COVID-19 booster for older and at-risk Americans",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "2021-09-25",
+            "original_text": "U.S. administers 387.5 mln doses of COVID-19 vaccines - CDC",
+            "features": {
+                "keywords": [
+                    "U.S.",
+                    "administers",
+                    "doses",
+                    "COVID-19",
+                    "vaccines",
+                    "CDC"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "public health"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-09-26",
+            "original_text": "Whether the FDA approves a COVID-19 booster shot or not, Pfizer and Moderna have already made their money",
+            "features": {
+                "keywords": [
+                    "FDA",
+                    "approves",
+                    "COVID-19",
+                    "booster",
+                    "Pfizer",
+                    "Moderna"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-09-27",
+            "original_text": "Global tally of COVID-19 cases nears 230 million, as Biden convenes virtual pandemic summit and doubles U.S. purchase of Pfizer vaccine",
+            "features": {
+                "keywords": [
+                    "global",
+                    "tally",
+                    "COVID-19",
+                    "cases",
+                    "Biden",
+                    "summit",
+                    "Pfizer",
+                    "vaccine"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "public health",
+                    "government"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-09-28",
+            "original_text": "Pfizer and BioNTech Expand Collaboration with U.S. to Provide 500 Million Additional COVID-19 Vaccine Doses at Not-for-Profit Price for Donation to Poorest Countries",
+            "features": {
+                "keywords": [
+                    "Pfizer",
+                    "BioNTech",
+                    "collaboration",
+                    "U.S.",
+                    "vaccine",
+                    "donation",
+                    "poorest countries"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals",
+                    "international aid"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

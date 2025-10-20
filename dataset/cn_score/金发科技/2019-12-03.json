@@ -1,0 +1,45 @@
+[
+    [
+        {
+            "time": "2023-01-01",
+            "original_text": "1月A股共有379份回购公告，苏宁环球已斥资10亿完成回购",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "回购公告",
+                    "苏宁环球",
+                    "斥资10亿",
+                    "完成回购"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "房地产",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive",
+                "repurchase_amount": 1000000000,
+                "company_name": "苏宁环球",
+                "action_type": "stock_repurchase",
+                "market_focus": "A股"
+            },
+            "scores": {
+                "News_content": "1月A股共有379份回购公告，苏宁环球已斥资10亿完成回购",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

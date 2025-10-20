@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "time": "2023-10-10",
+            "original_text": "Novartis’ Skin Cancer Drug Candidate Fails Late-Stage Trial Target",
+            "features": {
+                "keywords": [
+                    "Novartis",
+                    "Skin Cancer",
+                    "Drug Candidate",
+                    "Fails",
+                    "Late-Stage Trial"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "pharmaceuticals",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A I 独角兽第四范式拟赴港上市：工商银行等五大国有银行投资",
+            "features": {
+                "keywords": [
+                    "独角兽",
+                    "第四范式",
+                    "赴港上市",
+                    "工商银行",
+                    "五大国有银行"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "A I 独角兽第四范式拟赴港上市：工商银行等五大国有银行投资",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "逾20家银行收紧个人贵金属、外汇业务，全面禁止个人交易类业务呼声日隆",
+            "features": {
+                "keywords": [
+                    "银行",
+                    "收紧",
+                    "个人贵金属",
+                    "外汇业务",
+                    "禁止",
+                    "个人交易类业务"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "逾20家银行收紧个人贵金属、外汇业务，全面禁止个人交易类业务呼声日隆",
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

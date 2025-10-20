@@ -1,0 +1,467 @@
+[
+    [
+        {
+            "time": "2020-10-13",
+            "original_text": "湖,北,省,委,书,记,应,勇,与,上,汽,集,团,董,事,长,陈,虹,座,谈,交,流",
+            "features": {
+                "keywords": [
+                    "湖北",
+                    "上汽集团",
+                    "书记",
+                    "董事长",
+                    "交流"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "湖,北,省,委,书,记,应,勇,与,上,汽,集,团,董,事,长,陈,虹,座,谈,交,流",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2020-10-13",
+            "original_text": "汽,车,行,业,研,究,：,“,金,九,”,乘,用,车,零,售,符,合,预,期, , 行,业,加,速,回,暖",
+            "features": {
+                "keywords": [
+                    "汽车行业",
+                    "金九",
+                    "乘用车",
+                    "零售",
+                    "加速回暖"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "汽,车,行,业,研,究,：,“,金,九,”,乘,用,车,零,售,符,合,预,期, , 行,业,加,速,回,暖",
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-10-13",
+            "original_text": "董,事,长,陈,虹,挂,帅 , 上,汽,高,端,新,能,源,项,目,L,前,景,几,何,？",
+            "features": {
+                "keywords": [
+                    "董事长",
+                    "陈虹",
+                    "高端新能源",
+                    "项目L"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "董,事,长,陈,虹,挂,帅 , 上,汽,高,端,新,能,源,项,目,L,前,景,几,何,？",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-10-13",
+            "original_text": "[,安,信,汽,车,]上汽,集,团,：,Q,3,盈,利,持,续,修,复,，,Q,4,有,望,持,续,回,暖",
+            "features": {
+                "keywords": [
+                    "安信汽车",
+                    "上汽集团",
+                    "Q3盈利",
+                    "持续修复",
+                    "Q4回暖"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "[,安,信,汽,车,]上汽,集,团,：,Q,3,盈,利,持,续,修,复,，,Q,4,有,望,持,续,回,暖",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-10-13",
+            "original_text": "上,声,电,子,：,对,主,要,客,户,车,载,扬,声,器,销,量,和,销,售,收,入,结,构,现,明,显,错,误",
+            "features": {
+                "keywords": [
+                    "上声电子",
+                    "车载扬声器",
+                    "销量",
+                    "收入结构",
+                    "错误"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车零部件"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "上,声,电,子,：,对,主,要,客,户,车,载,扬,声,器,销,量,和,销,售,收,入,结,构,现,明,显,错,误",
+                "Correlation": 4,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2020-10-13",
+            "original_text": "上,汽,全,新,高,端,智,能,汽,车,品,牌,“,L,”浮,现,，,或,将,成,立,独,立,公,司",
+            "features": {
+                "keywords": [
+                    "上汽",
+                    "高端智能汽车",
+                    "品牌L",
+                    "独立公司"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车",
+                    "智能汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "上,汽,全,新,高,端,智,能,汽,车,品,牌,“,L,”浮,现,，,或,将,成,立,独,立,公,司",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 9,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-10-13",
+            "original_text": "上,汽,集,团,(,6,0,0,1,0,4,)产,销,快,报,点,评,：,月,销,量,持,续,同,比,正,增,长 , 累,计,产,销,量,降,幅,持,续,收,窄",
+            "features": {
+                "keywords": [
+                    "上汽集团",
+                    "产销快报",
+                    "月销量",
+                    "同比增长",
+                    "累计降幅收窄"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "上,汽,集,团,(,6,0,0,1,0,4,)产,销,快,报,点,评,：,月,销,量,持,续,同,比,正,增,长 , 累,计,产,销,量,降,幅,持,续,收,窄",
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-10-13",
+            "original_text": "[,华,创,汽,车,]上汽,集,团,：,3,季,度,销,量,平,稳,，,行,业,β,选,手",
+            "features": {
+                "keywords": [
+                    "华创汽车",
+                    "上汽集团",
+                    "三季度销量",
+                    "平稳",
+                    "行业β选手"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "[,华,创,汽,车,]上汽,集,团,：,3,季,度,销,量,平,稳,，,行,业,β,选,手",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-10-13",
+            "original_text": "上,汽,9,月,销,量,出,炉,：,都,回,来,了,，,除,了,上,汽,大,众",
+            "features": {
+                "keywords": [
+                    "上汽",
+                    "9月销量",
+                    "上汽大众"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "上,汽,9,月,销,量,出,炉,：,都,回,来,了,，,除,了,上,汽,大,众",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-10-13",
+            "original_text": "吉,利,汽,车,讲,给,科,创,板,的,3,个,新,故,事",
+            "features": {
+                "keywords": [
+                    "吉利汽车",
+                    "科创板",
+                    "新故事"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "吉,利,汽,车,讲,给,科,创,板,的,3,个,新,故,事",
+                "Correlation": 2,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2020-10-13",
+            "original_text": "车,企,广,建,“,朋,友,圈,” , 自,动,驾,驶,和,SDV,成,市,场,发,力,重,点",
+            "features": {
+                "keywords": [
+                    "车企",
+                    "朋友圈",
+                    "自动驾驶",
+                    "SDV",
+                    "市场发力重点"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车",
+                    "自动驾驶"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "车,企,广,建,“,朋,友,圈,” , 自,动,驾,驶,和,SDV,成,市,场,发,力,重,点",
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-10-13",
+            "original_text": "上,汽,集,团, | , 9,月,：,销,量,显,著,改,善 , 龙,头,加,速,复,苏[,华,西,汽,车 , 崔,琰,团,队,]",
+            "features": {
+                "keywords": [
+                    "上汽集团",
+                    "9月销量",
+                    "显著改善",
+                    "龙头复苏"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "上,汽,集,团, | , 9,月,：,销,量,显,著,改,善 , 龙,头,加,速,复,苏[,华,西,汽,车 , 崔,琰,团,队,]",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 10,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-10-13",
+            "original_text": "发,力,高,端,新,能,源 , 上,汽,集,团,或,将,落,地,“,L,”项,目",
+            "features": {
+                "keywords": [
+                    "高端新能源",
+                    "上汽集团",
+                    "项目L"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "发,力,高,端,新,能,源 , 上,汽,集,团,或,将,落,地,“,L,”项,目",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 9,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

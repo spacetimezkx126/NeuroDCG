@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2020-08",
+            "original_text": "上海证券交易研究所投资组合报告",
+            "features": {
+                "keywords": [
+                    "投资组合",
+                    "研究报告"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "上海证券交易研究所投资组合报告",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-08",
+            "original_text": "中泰证券：受益电动车销量带动 零部件赛道和优质标的或迎戴维斯双击",
+            "features": {
+                "keywords": [
+                    "电动车",
+                    "销量",
+                    "零部件",
+                    "优质标的",
+                    "戴维斯双击"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车",
+                    "零部件"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中泰证券：受益电动车销量带动 零部件赛道和优质标的或迎戴维斯双击",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

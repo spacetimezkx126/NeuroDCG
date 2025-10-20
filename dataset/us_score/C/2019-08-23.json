@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2019-08-23",
+            "original_text": "Financial Sector Update for 08/23/2019: QD,VLY,ORIT,TIGR,NRIM",
+            "features": {
+                "keywords": [
+                    "Financial",
+                    "Sector",
+                    "QD",
+                    "VLY",
+                    "ORIT",
+                    "TIGR",
+                    "NRIM"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 3,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2019-08-23",
+            "original_text": "5 Safe Stocks to Shrug Off Recession Worries",
+            "features": {
+                "keywords": [
+                    "Safe",
+                    "Stocks",
+                    "Recession",
+                    "Worries"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 9,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

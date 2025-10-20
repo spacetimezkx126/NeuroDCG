@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2019-05-13",
+            "original_text": "【申万宏源化工】每日信息速递20190513",
+            "features": {
+                "keywords": [
+                    "申万宏源",
+                    "化工",
+                    "每日信息速递"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "化工"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【申万宏源轻工】周观点：厦门9家龙头公司纪要及观点汇总；继续看好内销需求为主的包装与轻工消费公司",
+            "features": {
+                "keywords": [
+                    "申万宏源",
+                    "轻工",
+                    "厦门",
+                    "龙头公司",
+                    "内销需求",
+                    "包装",
+                    "轻工消费"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "轻工",
+                    "包装",
+                    "消费"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

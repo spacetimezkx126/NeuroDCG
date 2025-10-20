@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-10-17",
+            "original_text": "Dow Jones Futures: Stock Market Rally Is Best Of Both Worlds; Apple iPhone, Amazon Prime Day On Tap",
+            "features": {
+                "keywords": [
+                    "Dow Jones",
+                    "stock market rally",
+                    "Apple iPhone",
+                    "Amazon Prime Day"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Dow Jones Futures: Stock Market Rally Is Best Of Both Worlds; Apple iPhone, Amazon Prime Day On Tap",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-17",
+            "original_text": "As US population ages, private insurers reap more money from government-run Medicare",
+            "features": {
+                "keywords": [
+                    "US population",
+                    "private insurers",
+                    "Medicare"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "insurance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "As US population ages, private insurers reap more money from government-run Medicare",
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

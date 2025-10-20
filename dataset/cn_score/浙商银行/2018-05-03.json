@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "盾安控股疑云：盾安环境、江南化工相继停牌 取消计划发布债券",
+            "features": {
+                "keywords": [
+                    "盾安控股",
+                    "盾安环境",
+                    "江南化工",
+                    "停牌",
+                    "取消债券"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "工业",
+                    "化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "突发！浙江盾安现450亿债务危机，省金融办协调力保！",
+            "features": {
+                "keywords": [
+                    "盾安",
+                    "债务危机",
+                    "450亿",
+                    "省金融办",
+                    "协调"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "工业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 10,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

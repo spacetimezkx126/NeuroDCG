@@ -1,0 +1,81 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股资金流向：盘面较为混乱，小金属龙头获青睐",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "资金流向",
+                    "盘面",
+                    "混乱",
+                    "小金属",
+                    "龙头",
+                    "青睐"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "小金属"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "A股资金流向：盘面较为混乱，小金属龙头获青睐",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "电子行业：新封装、新材料、新架构驱动后摩尔时代集成电路发展",
+            "features": {
+                "keywords": [
+                    "电子行业",
+                    "新封装",
+                    "新材料",
+                    "新架构",
+                    "后摩尔时代",
+                    "集成电路",
+                    "发展"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电子行业",
+                    "集成电路"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "电子行业：新封装、新材料、新架构驱动后摩尔时代集成电路发展",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 9,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "2019-04-26",
+            "original_text": "See what the IHS Markit Score report has to say about Pfizer Inc.",
+            "features": {
+                "keywords": [
+                    "IHS Markit Score",
+                    "Pfizer"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 1,
+                "Entity_Density": 7,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 4,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2019-04-26",
+            "original_text": "Pfizer Receives Positive CHMP Opinion for TALZENNA® (talazoparib) for Patients with Inherited (Germline) BRCA-Mutated Locally Advanced or Metastatic Breast Cancer",
+            "features": {
+                "keywords": [
+                    "Pfizer",
+                    "Positive CHMP Opinion",
+                    "TALZENNA",
+                    "BRCA-Mutated",
+                    "Breast Cancer"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2019-04-26",
+            "original_text": "Health Care Sector Update for 04/26/2019: AZN, ZBH, UHS, JNJ, PFE, MRK, ABT, AMGN",
+            "features": {
+                "keywords": [
+                    "Health Care Sector",
+                    "AZN",
+                    "ZBH",
+                    "UHS",
+                    "JNJ",
+                    "PFE",
+                    "MRK",
+                    "ABT",
+                    "AMGN"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "机构龙虎榜本周抢筹个股揭秘（附股）",
+            "features": {
+                "keywords": [
+                    "机构",
+                    "龙虎榜",
+                    "抢筹",
+                    "个股"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 2,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 10,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "庄股济民制药深陷“盗号接盘”疑云",
+            "features": {
+                "keywords": [
+                    "庄股",
+                    "济民制药",
+                    "盗号接盘",
+                    "疑云"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 2,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

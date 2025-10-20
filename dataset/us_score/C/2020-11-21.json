@@ -1,0 +1,85 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "Giant Pension Slashed Tesla, GE, AT&T Stock Positions. Here’s What It Bought.",
+            "features": {
+                "keywords": [
+                    "Pension",
+                    "Slashed",
+                    "Tesla",
+                    "GE",
+                    "AT&T",
+                    "Stock Positions"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "energy",
+                    "telecommunications"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-04-20",
+            "original_text": "CITIGROUP INVESTIGATION UPDATE BY FORMER LOUISIANA ATTORNEY GENERAL: Kahn Swick & Foti, LLC Continues to Investigate the Officers and Directors of Citigroup Inc. - C",
+            "features": {
+                "keywords": [
+                    "CITIGROUP",
+                    "INVESTIGATION",
+                    "FORMER",
+                    "LOUISIANA",
+                    "ATTORNEY",
+                    "GENERAL",
+                    "Kahn",
+                    "Swick",
+                    "&",
+                    "Foti",
+                    "LLC",
+                    "Officers",
+                    "Directors"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

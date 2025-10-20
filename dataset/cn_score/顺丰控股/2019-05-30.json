@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "阿, 里, 田, 忌, 赛, 马",
+            "features": {
+                "keywords": [
+                    "阿里",
+                    "赛马"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "阿, 里, 田, 忌, 赛, 马",
+                "Correlation": 1,
+                "Sentiment": 1,
+                "Importance": 1,
+                "Impact": 1,
+                "Duration": 1,
+                "Entity_Density": 1,
+                "Market_Scope": 1,
+                "Time_Proximity": 1,
+                "Headline_Structure": 1,
+                "Source_Recency": 1
+            }
+        },
+        {
+            "time": "",
+            "original_text": "轩, 轾, 之, 合：, 战, 略, 楔, 入, 菜, 鸟,  , 智, 慧, 物, 流, 转, 型, 之, 中, 通, 样, 本,  , —, —, 中, 通, 改, 革, 启, 示, 录, ：, 技, 术, 赋, 能, 下, 通, 达, 系, 如, 何, 起, 航, ？",
+            "features": {
+                "keywords": [
+                    "智慧物流",
+                    "中通",
+                    "技术赋能",
+                    "通达系"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "物流",
+                    "电商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "轩, 轾, 之, 合：, 战, 略, 楔, 入, 菜, 鸟,  , 智, 慧, 物, 流, 转, 型, 之, 中, 通, 样, 本,  , ——, 中, 通, 改, 革, 启, 示, 录, ：, 技, 术, 赋, 能, 下, 通, 达, 系, 如, 何, 起, 航, ？",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

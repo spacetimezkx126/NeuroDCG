@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "夏日炎炎送清凉众志成城保安康 浙商银行南京分行开展公益赠水行动助力抗击疫",
+            "features": {
+                "keywords": [
+                    "浙商银行",
+                    "南京分行",
+                    "公益赠水",
+                    "抗击疫情"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "社会责任"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "夏日炎炎送清凉众志成城保安康 浙商银行南京分行开展公益赠水行动助力抗击疫",
+                "Correlation": 3,
+                "Sentiment": 6,
+                "Importance": 2,
+                "Impact": 1,
+                "Duration": 1,
+                "Entity_Density": 4,
+                "Market_Scope": 3,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "浙商银行南京分行又吃罚单，曾给车置宝授信百亿明天就要对簿公堂 金融监管处罚",
+            "features": {
+                "keywords": [
+                    "浙商银行",
+                    "南京分行",
+                    "罚单",
+                    "车置宝",
+                    "授信",
+                    "金融监管"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "监管"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 1,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

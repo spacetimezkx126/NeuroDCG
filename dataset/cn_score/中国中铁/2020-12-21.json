@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "建筑行业周报：基建增速继续修复 政策保持连续稳定可持续 都市圈市域铁路加快建设",
+            "features": {
+                "keywords": [
+                    "基建增速",
+                    "政策",
+                    "都市圈",
+                    "市域铁路",
+                    "建设"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "建筑",
+                    "基础设施"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【中铁二局可持续小公募】不超过20亿，2+N年（20铁二Y1，175580，4.5%-5.5%），AA+/AAA，上交所，今日簿记",
+            "features": {
+                "keywords": [
+                    "中铁二局",
+                    "可持续小公募",
+                    "债券",
+                    "利率",
+                    "簿记"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "建筑"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "【中铁二局可持续小公募】不超过20亿，2+N年（20铁二Y1，175580，4.5%-5.5%），AA+/AAA，上交所，今日簿记",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

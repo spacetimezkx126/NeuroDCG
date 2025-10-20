@@ -1,0 +1,126 @@
+[
+    [
+        {
+            "time": "2019-01-24",
+            "original_text": "Pre-Market Earnings Report for January 24, 2019: UNP, BMY, AEP, LUV, RCI, FCX, GWW, MKC, AAL, HBAN, TXT, TAL",
+            "features": {
+                "keywords": [
+                    "earnings",
+                    "pre-market",
+                    "UNP",
+                    "BMY",
+                    "AEP",
+                    "LUV",
+                    "RCI",
+                    "FCX",
+                    "GWW",
+                    "MKC",
+                    "AAL",
+                    "HBAN",
+                    "TXT",
+                    "TAL"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial",
+                    "healthcare",
+                    "utilities",
+                    "airlines",
+                    "mining",
+                    "wholesale",
+                    "consumer goods",
+                    "airlines",
+                    "financials",
+                    "industrial",
+                    "automotive"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 10,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2019-01-24",
+            "original_text": "Freeport-McMoRan Q4 Earnings Preview",
+            "features": {
+                "keywords": [
+                    "Freeport-McMoRan",
+                    "Q4",
+                    "Earnings",
+                    "Preview"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-01-24",
+            "original_text": "Could Freeport-McMoRan’s Rally Lose Steam?",
+            "features": {
+                "keywords": [
+                    "Freeport-McMoRan",
+                    "rally",
+                    "lose",
+                    "steam"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

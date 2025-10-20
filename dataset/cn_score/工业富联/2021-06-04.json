@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "博众精工：富士康是公司的重要客户之一",
+            "features": {
+                "keywords": [
+                    "博众精工",
+                    "富士康",
+                    "主要客户"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "制造业",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "博众精工：富士康是公司的重要客户之一",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "苹果概念股普遍下滑，比亚迪、立讯、工业富联、京东方、蓝思、歌尔集体走低",
+            "features": {
+                "keywords": [
+                    "苹果概念",
+                    "比亚迪",
+                    "立讯",
+                    "工业富联",
+                    "京东方",
+                    "蓝思",
+                    "歌尔",
+                    "下滑",
+                    "走低"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "消费电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "苹果概念股普遍下滑，比亚迪、立讯、工业富联、京东方、蓝思、歌尔集体走低",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

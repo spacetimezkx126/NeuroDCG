@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "交通银行与湖南省签署战略合作协议，加大提供信贷力度",
+            "features": {
+                "keywords": [
+                    "交通银行",
+                    "湖南省",
+                    "战略合作协议",
+                    "信贷"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "交通银行与湖南省签署战略合作协议，加大提供信贷力度",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "人民币汇率区间震荡！交通银行台北分行周评：美国通胀压力增加 美联储官员淡化发言难消除担忧",
+            "features": {
+                "keywords": [
+                    "人民币汇率",
+                    "交通银行",
+                    "台北分行",
+                    "美国通胀",
+                    "美联储"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "国际经济"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "人民币汇率区间震荡！交通银行台北分行周评：美国通胀压力增加 美联储官员淡化发言难消除担忧",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-05-17",
+            "original_text": "A股融资融券日报：两融余额增加66.37亿元（5月17日）",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "融资融券",
+                    "两融余额"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "证券市场"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股融资融券日报：两融余额增加66.37亿元（5月17日）",
+                "Correlation": 4,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

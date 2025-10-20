@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "Wells Fargo Has a New CEO. Deutsche Bank Has Questions.",
+            "features": {
+                "keywords": [
+                    "Wells Fargo",
+                    "New CEO",
+                    "Deutsche Bank",
+                    "Questions"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "Stock buybacks of $570 billion next year may support the S&P 500 even if there’s a recession, report says",
+            "features": {
+                "keywords": [
+                    "Stock buybacks",
+                    "$570 billion",
+                    "S&P 500",
+                    "recession"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "economy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

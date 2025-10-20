@@ -1,0 +1,466 @@
+[
+    [
+        {
+            "time": "2020-01-01",
+            "original_text": "大行迎新！新行长不从该行领薪酬！",
+            "features": {
+                "keywords": [
+                    "新行长",
+                    "薪酬",
+                    "大行"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "大行迎新！新行长不从该行领薪酬！",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-01-01",
+            "original_text": "邮储银行行长敲定 六大国 Yorkshire 银行长齐了",
+            "features": {
+                "keywords": [
+                    "邮储银行",
+                    "行长",
+                    "六大国有银行"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "邮储银行行长敲定 六大国 Yorkshire 银行长齐了",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-01-01",
+            "original_text": "招行老将刘建军履新邮储银行行长 2020年薪306万持有招行24万股",
+            "features": {
+                "keywords": [
+                    "刘建军",
+                    "邮储银行",
+                    "招行",
+                    "年薪"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "招行老将刘建军履新邮储银行行长 2020年薪306万持有招行24万股",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-01-01",
+            "original_text": "招行老将刘建军履新邮储银行行长 新零售转型或将提速",
+            "features": {
+                "keywords": [
+                    "刘建军",
+                    "邮储银行",
+                    "新零售",
+                    "转型"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "零售"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "招行老将刘建军履新邮储银行行长 新零售转型或将提速",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-01-01",
+            "original_text": "浙商证券维持邮储银行买入评级，邮储银行2021年一季报点评：财富收入高增，资产质量优异",
+            "features": {
+                "keywords": [
+                    "浙商证券",
+                    "邮储银行",
+                    "买入评级",
+                    "财富收入",
+                    "资产质量"
+                ],
+                "sentiment_score": 0.95,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "财富管理"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "浙商证券维持邮储银行买入评级，邮储银行2021年一季报点评：财富收入高增，资产质量优异",
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-01-01",
+            "original_text": "浙商证券：邮储银行（601658.SH）21年Q1财富收入高增，目标价7.00元，给予“买入”评级",
+            "features": {
+                "keywords": [
+                    "浙商证券",
+                    "邮储银行",
+                    "财富收入",
+                    "目标价",
+                    "买入评级"
+                ],
+                "sentiment_score": 0.95,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "财富管理"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "浙商证券：邮储银行（601658.SH）21年Q1财富收入高增，目标价7.00元，给予“买入”评级",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-01-01",
+            "original_text": "邮储银行迎新行长：“零售老兵”原招行副行长刘军上任，六大行长终补齐",
+            "features": {
+                "keywords": [
+                    "邮储银行",
+                    "新行长",
+                    "零售老兵",
+                    "招行",
+                    "六大行长"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "零售"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "邮储银行迎新行长：“零售老兵”原招行副行长刘军上任，六大行长终补齐",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-01-01",
+            "original_text": "邮储银行迎来“新行长”刘建军，此前曾任招行副行长",
+            "features": {
+                "keywords": [
+                    "邮储银行",
+                    "新行长",
+                    "刘建军",
+                    "招行"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "邮储银行迎来“新行长”刘建军，此前曾任招行副行长",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-01-01",
+            "original_text": "邮储银行金融产品再创新为小微企业发展添活力",
+            "features": {
+                "keywords": [
+                    "邮储银行",
+                    "金融产品",
+                    "创新",
+                    "小微企业"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "小微企业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "邮储银行金融产品再创新为小微企业发展添活力",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2020-01-01",
+            "original_text": "刘建军拟任邮储银行行长",
+            "features": {
+                "keywords": [
+                    "刘建军",
+                    "邮储银行",
+                    "行长"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "刘建军拟任邮储银行行长",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-01-01",
+            "original_text": "万亿大行将迎来新行长！招行副行长刘建军调任邮储银行",
+            "features": {
+                "keywords": [
+                    "万亿大行",
+                    "新行长",
+                    "刘建军",
+                    "招行",
+                    "邮储银行"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "万亿大行将迎来新行长！招行副行长刘建军调任邮储银行",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-01-01",
+            "original_text": "[中原银行]银行业月报：板块表现随大市回暖，社融与M2继续回落",
+            "features": {
+                "keywords": [
+                    "中原银行",
+                    "银行业",
+                    "板块表现",
+                    "社融",
+                    "M2"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "[中原银行]银行业月报：板块表现随大市回暖，社融与M2继续回落",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2021-01-01",
+            "original_text": "资讯速览|邮储银行行长人选落定；银行保险机构董事监事履职评价办法出炉",
+            "features": {
+                "keywords": [
+                    "邮储银行",
+                    "行长",
+                    "董事监事",
+                    "履职评价"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "资讯速览|邮储银行行长人选落定；银行保险机构董事监事履职评价办法出炉",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

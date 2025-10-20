@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "有色金属行业周报：中美贸易争端持续 基本金属价格回调",
+            "features": {
+                "keywords": [
+                    "有色金属",
+                    "中美贸易争端",
+                    "基本金属",
+                    "价格回调"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "有色金属"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "[买入评级] 有色金属行业跟踪：薪资干扰铜矿罢工 锂钴需求有望改善",
+            "features": {
+                "keywords": [
+                    "买入评级",
+                    "有色金属",
+                    "铜矿罢工",
+                    "锂钴需求",
+                    "改善"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "有色金属",
+                    "锂钴"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

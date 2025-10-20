@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "估 值 低 、 又 有 新 晋 王 妃 加 入 恒 生 国 指 能 否 跑 赢 恒 指 ?",
+            "features": {
+                "keywords": [
+                    "估值低",
+                    "新晋王妃",
+                    "恒生国指",
+                    "跑赢恒指"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "指数基金",
+                    "港股市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 9,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "计算机行业周报: NVIDIA新驱动禁止在数据中心部署消费级GeForce显卡用于深度学习",
+            "features": {
+                "keywords": [
+                    "NVIDIA",
+                    "数据中心",
+                    "消费级显卡",
+                    "GeForce",
+                    "深度学习"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "计算机",
+                    "硬件",
+                    "人工智能"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 3,
+                "Headline_Structure": 8,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "计算机周观点: CES2018开展在即,持续关注人工智能",
+            "features": {
+                "keywords": [
+                    "CES2018",
+                    "人工智能",
+                    "计算机"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "计算机",
+                    "科技展会",
+                    "人工智能"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 3,
+                "Headline_Structure": 6,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "证监会同意中铁关于中止审查发行股份购买资产事项的申请 再融资异常",
+            "features": {
+                "keywords": [
+                    "证监会",
+                    "中铁",
+                    "中止审查",
+                    "发行股份",
+                    "购买资产",
+                    "再融资异常"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "基建",
+                    "铁路运输"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中国证监会决定同意中国中铁(00390.HK)中止审查申请",
+            "features": {
+                "keywords": [
+                    "中国证监会",
+                    "中国中铁",
+                    "中止审查",
+                    "申请"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "基建",
+                    "铁路运输"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

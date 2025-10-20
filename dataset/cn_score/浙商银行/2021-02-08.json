@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2021-02-08",
+            "original_text": "浙商银行董事、高管等拟增持公司股份；采取由公司相关董事、高管增持A股的措施稳定A股股价；部分董监高拟增持不少于470.07万元A股股份。",
+            "features": {
+                "keywords": [
+                    "浙商银行",
+                    "董事",
+                    "高管",
+                    "增持",
+                    "稳定股价"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "浙商银行董事、高管等拟增持公司股份；采取由公司相关董事、高管增持A股的措施稳定A股股价；部分董监高拟增持不少于470.07万元A股股份。",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "2021-02-08",
+            "original_text": "露天煤业子公司被罚约1亿元。",
+            "features": {
+                "keywords": [
+                    "露天煤业",
+                    "子公司",
+                    "罚款"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "露天煤业子公司被罚约1亿元。",
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "418亿！史上最大净流出周 北上资金抛重仓股救急 也有外资巨头抄底",
+            "features": {
+                "keywords": [
+                    "418亿",
+                    "史上最大净流出",
+                    "北上资金",
+                    "抛重仓股",
+                    "救急",
+                    "外资巨头",
+                    "抄底"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "投资"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【山证社服】促进消费扩容提质、强大国内市场点评：推动文旅休闲消费提质升级，完善免税业政策",
+            "features": {
+                "keywords": [
+                    "促进消费",
+                    "扩容提质",
+                    "强大国内市场",
+                    "文旅休闲消费",
+                    "提质升级",
+                    "免税业政策"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费",
+                    "旅游",
+                    "免税"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

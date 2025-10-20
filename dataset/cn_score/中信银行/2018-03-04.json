@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-07",
+            "original_text": "银 行 还 会 缩 表 么 ？",
+            "features": {
+                "keywords": [
+                    "银行",
+                    "缩表"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 4,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-07",
+            "original_text": "中 信 银 行 停 发 北 京 房 抵 贷 的 潜 在 信 号",
+            "features": {
+                "keywords": [
+                    "中信银行",
+                    "停发",
+                    "北京",
+                    "房抵贷",
+                    "潜在信号"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

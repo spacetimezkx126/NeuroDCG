@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2017-12-31",
+            "original_text": "2017-2018年度吉林省证券期货投资者教育基地考核结果",
+            "features": {
+                "keywords": [
+                    "吉林省",
+                    "证券期货",
+                    "投资者教育",
+                    "考核结果"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "教育"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "2017-2018年度吉林省证券期货投资者教育基地考核结果",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 3,
+                "Headline_Structure": 5,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2018-06-30",
+            "original_text": "券商经纪业务中考:东方增35%居首南京证券数据惹疑",
+            "features": {
+                "keywords": [
+                    "券商",
+                    "经纪业务",
+                    "东方证券",
+                    "南京证券",
+                    "增长35%"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "券商经纪业务中考:东方增35%居首南京证券数据惹疑",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

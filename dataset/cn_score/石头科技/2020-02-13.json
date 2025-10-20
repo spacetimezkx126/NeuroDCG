@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "老沙:基金爆款刷屏牛股霸气冲天",
+            "features": {
+                "keywords": [
+                    "基金",
+                    "爆款",
+                    "牛股",
+                    "冲天"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "股票市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-02-13",
+            "original_text": "2月13日新股提示：中银证券申购 道通科技、英杰电气上市 石头科技、百奥泰、神工股份中签号出炉 华润微、良品铺子公布中签率",
+            "features": {
+                "keywords": [
+                    "新股",
+                    "中银证券",
+                    "道通科技",
+                    "英杰电气",
+                    "石头科技",
+                    "百奥泰",
+                    "神工股份",
+                    "华润微",
+                    "良品铺子"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "消费",
+                    "半导体"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

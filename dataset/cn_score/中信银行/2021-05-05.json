@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "全部54家上市银行2020年指标排名大全",
+            "features": {
+                "keywords": [
+                    "上市银行",
+                    "2020年",
+                    "指标排名"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "银行"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 3,
+                "Headline_Structure": 8,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中信资源(01205.HK)因持续关联交易确认出现不合规事件",
+            "features": {
+                "keywords": [
+                    "中信资源",
+                    "关联交易",
+                    "不合规事件"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "资源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 4,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

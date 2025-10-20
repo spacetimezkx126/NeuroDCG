@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "orginal_text": "招 商 银 行 员 工 指 使 小 舅 子 造 假 证 明  南 京 买 房 限 购 新 政 牟 利",
+            "features": {
+                "keywords": [
+                    "招商银行",
+                    "员工",
+                    "造假证明",
+                    "南京",
+                    "买房",
+                    "限购新政",
+                    "牟利"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "original_text": "招 商 银 行 员 工 指 使 小 舅 子 造 假 证 明  南 京 买 房 限 购 新 政 牟 利",
+            "scores": {
+                "News_content": "招 商 银 行 员 工 指 使 小 舅 子 造 假 证 明  南 京 买 房 限 购 新 政 牟 利",
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "orginal_text": "半 年 度 业 绩 快 报 “ 剧 透 ”：5 家 上 市 银 行 净 利 同 比 增 幅 均 为 两 位 数",
+            "features": {
+                "keywords": [
+                    "半年度业绩",
+                    "上市银行",
+                    "净利润",
+                    "同比增长",
+                    "两位数"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "original_text": "半 年 度 业 绩 快 报 “ 剧 透 ”：5 家 上 市 银 行 净 利 同 比 增 幅 均 为 两 位 数",
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

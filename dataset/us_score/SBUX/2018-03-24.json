@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Stocks You Can Keep Forever",
+            "features": {
+                "keywords": [
+                    "long-term investment",
+                    "stocks",
+                    "keep forever"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Stocks You Can Keep Forever",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 4,
+                "Impact": 4,
+                "Duration": 7,
+                "Entity_Density": 1,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Could Starbucks Be Affected In a Trade War?",
+            "features": {
+                "keywords": [
+                    "Starbucks",
+                    "trade war",
+                    "affected"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

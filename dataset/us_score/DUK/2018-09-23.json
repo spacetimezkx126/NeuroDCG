@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2018-09-17",
+            "original_text": "Danger remains even as flood waters recede in Hurricane Florence's aftermath",
+            "features": {
+                "keywords": [
+                    "flood",
+                    "waters",
+                    "recede",
+                    "Hurricane Florence",
+                    "aftermath"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "insurance",
+                    "real estate"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 9,
+                "Entity_Density": 2,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 4,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-09-17",
+            "original_text": "Sutton Plant Update: Initial tests show no harm to Cape Fear River from cooling lake water release",
+            "features": {
+                "keywords": [
+                    "Sutton Plant",
+                    "Cape Fear River",
+                    "cooling lake",
+                    "water release",
+                    "tests",
+                    "no harm"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities",
+                    "environmental services"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

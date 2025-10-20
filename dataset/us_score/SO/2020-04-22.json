@@ -1,0 +1,103 @@
+[
+    [
+        {
+            "time": "2023-04-01",
+            "original_text": "Georgia Power prepared for Thursday severe weather as COVID-19 pandemic continues",
+            "features": {
+                "keywords": [
+                    "Georgia Power",
+                    "severe weather",
+                    "COVID-19"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-04-01",
+            "original_text": "Georgia Power encourages customers to celebrate Earth Day at home during COVID-19 pandemic",
+            "features": {
+                "keywords": [
+                    "Georgia Power",
+                    "Earth Day",
+                    "COVID-19"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities",
+                    "environmental"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 2,
+                "Duration": 4,
+                "Entity_Density": 4,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-04-01",
+            "original_text": "Southern Company (SO) Rewards Investors With Dividend Hike",
+            "features": {
+                "keywords": [
+                    "Southern Company",
+                    "dividend hike"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "The 10 Biggest Food Stocks",
+            "features": {
+                "keywords": [
+                    "Biggest",
+                    "Food",
+                    "Stocks"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "food",
+                    "retail"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "The 10 Biggest Food Stocks",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Domino's CEO Attributes Poor Growth To Delivery Apps As McDonald's Expands Third-Party Partners",
+            "features": {
+                "keywords": [
+                    "Domino's",
+                    "CEO",
+                    "Poor Growth",
+                    "Delivery Apps",
+                    "McDonald's",
+                    "Third-Party Partners"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "food",
+                    "delivery services"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Domino's CEO Attributes Poor Growth To Delivery Apps As McDonald's Expands Third-Party Partners",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

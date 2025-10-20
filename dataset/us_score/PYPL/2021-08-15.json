@@ -1,0 +1,82 @@
+[
+    [
+        {
+            "time": "2022-08-15",
+            "original_text": "SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of PayPal Holdings, Inc. - PYPL",
+            "features": {
+                "keywords": [
+                    "SHAREHOLDER",
+                    "ALERT",
+                    "Pomerantz",
+                    "Law",
+                    "Firm",
+                    "Investigates",
+                    "Claims",
+                    "PayPal",
+                    "Holdings",
+                    "PYPL"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2022-08-15",
+            "original_text": "Is Square Getting a Good Deal With Its $29 Billion Afterpay Acquisition?",
+            "features": {
+                "keywords": [
+                    "Square",
+                    "Good",
+                    "Deal",
+                    "$29",
+                    "Billion",
+                    "Afterpay",
+                    "Acquisition"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-09-14",
+            "original_text": "唐人神：华泰证券、中泰证券等3家机构于9月14日调研我司",
+            "features": {
+                "keywords": [
+                    "唐人神",
+                    "华泰证券",
+                    "中泰证券",
+                    "调研"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "食品加工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 2,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-08-01",
+            "original_text": "8月宏观点评|鲸平台智库专家、中泰证券研究所首席分析师杨畅：工业生产短期仍然平稳",
+            "features": {
+                "keywords": [
+                    "宏观点评",
+                    "工业生产",
+                    "中泰证券",
+                    "杨畅"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "工业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 4,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 3,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

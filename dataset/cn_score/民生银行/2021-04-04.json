@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "这家银行总行中层全体竞聘上岗！涉及20个部门、分行一把手！",
+            "features": {
+                "keywords": [
+                    "银行",
+                    "总行",
+                    "中层",
+                    "竞聘",
+                    "上岗",
+                    "部门",
+                    "分行"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "银行薪酬大曝光！3家银行人均年薪超50万元，这家人均降薪15%。",
+            "features": {
+                "keywords": [
+                    "银行",
+                    "薪酬",
+                    "曝光",
+                    "年薪",
+                    "降薪"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "银行薪酬大曝光！3家银行人均年薪超50万元，这家人均降薪15%。",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

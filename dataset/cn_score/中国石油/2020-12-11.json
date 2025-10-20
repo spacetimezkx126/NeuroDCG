@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "恒指收涨0.36%，泡泡玛特上市首日收涨近80%",
+            "features": {
+                "keywords": [
+                    "恒指",
+                    "收涨",
+                    "泡泡玛特",
+                    "上市首日"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "消费",
+                    "零售"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "恒指收涨0.36%，泡泡玛特上市首日收涨近80%",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "期市投资参考：2020年全国粮食总产量为13390亿斤，动力煤期货合约交易保证金标准调整为6%",
+            "features": {
+                "keywords": [
+                    "期市",
+                    "投资参考",
+                    "粮食总产量",
+                    "动力煤",
+                    "期货合约",
+                    "保证金标准"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "mixed"
+            },
+            "scores": {
+                "News_content": "期市投资参考：2020年全国粮食总产量为13390亿斤，动力煤期货合约交易保证金标准调整为6%",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

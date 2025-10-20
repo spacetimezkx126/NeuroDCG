@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "万 亿 投 资 计 划 出 炉 ！ 以 基 建 为 重 点 ， 拉 动 经 济 增 长 ， A 股 已 沸 腾",
+            "features": {
+                "keywords": [
+                    "投资计划",
+                    "基建",
+                    "经济增长",
+                    "A股"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "基建",
+                    "建筑"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "[ 国 君 建 筑 韩 其 成 ] 基 建 春 天 来 临 ， 钢 结 构 弹 性 最 大 ， 基 建 央 企 稳 健 _ 国 君 建 筑 韩 其 成 / 陈 笑",
+            "features": {
+                "keywords": [
+                    "基建春天",
+                    "钢结构",
+                    "基建央企"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "基建",
+                    "钢铁"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "基 建 三 宝 逆 市 上 升   中 国 铁 建 现 升 3 % 中 国 中 铁 上 升 1 %",
+            "features": {
+                "keywords": [
+                    "基建三宝",
+                    "中国铁建",
+                    "中国中铁"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "基建"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

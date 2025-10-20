@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-03-15",
+            "original_text": "Crocs, Stamps.com, Microsoft, Intuit and Oracle highlighted as Zacks Bull and Bear of the Day",
+            "features": {
+                "keywords": [
+                    "Crocs",
+                    "Stamps.com",
+                    "Microsoft",
+                    "Intuit",
+                    "Oracle",
+                    "Zacks Bull",
+                    "Bear of the Day"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "Stock Buyback Frenzy: Was This An Effective Use of Capital?",
+            "features": {
+                "keywords": [
+                    "Stock Buyback",
+                    "Capital"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

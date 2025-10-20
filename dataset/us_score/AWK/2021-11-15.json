@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Virginia American Water Files Rate Request with State Corporation Commission",
+            "features": {
+                "keywords": [
+                    "Virginia",
+                    "American Water",
+                    "Rate Request",
+                    "State Corporation Commission"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities",
+                    "water"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "American Water’s Homeowner Services Group Launches New Partnership with Natural Gas Utility",
+            "features": {
+                "keywords": [
+                    "American Water",
+                    "Homeowner Services Group",
+                    "Partnership",
+                    "Natural Gas Utility"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities",
+                    "natural gas"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中国铁建暂停办理H股股份过户登记，派发每股0.23元股息",
+            "features": {
+                "keywords": [
+                    "中国铁建",
+                    "H股",
+                    "股份过户登记",
+                    "暂停办理",
+                    "派发股息"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "建筑",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "中国铁建暂停办理H股股份过户登记，派发每股0.23元股息",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中国铁建“胜利号”在俄完成首条隧道贯通任务",
+            "features": {
+                "keywords": [
+                    "中国铁建",
+                    "胜利号",
+                    "俄罗斯",
+                    "隧道贯通",
+                    "完成任务"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "建筑",
+                    "国际工程"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中国铁建“胜利号”在俄完成首条隧道贯通任务",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

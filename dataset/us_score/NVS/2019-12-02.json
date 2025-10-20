@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "2023-10-15",
+            "original_text": "Intercept, Gains, 7.5%, YTD, on, Progress, in, NASH, Space",
+            "features": {
+                "keywords": [
+                    "Intercept",
+                    "Gains",
+                    "7.5%",
+                    "YTD",
+                    "Progress",
+                    "NASH"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Intercept, Gains, 7.5%, YTD, on, Progress, in, NASH, Space",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-15",
+            "original_text": "Novartis-linked biotech firm raises $56M for new spinouts",
+            "features": {
+                "keywords": [
+                    "Novartis",
+                    "biotech",
+                    "firm",
+                    "raises",
+                    "$56M",
+                    "spinouts"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "家上市公司煤炭企业半年报出炉 上半年煤炭股业绩小幅下滑 盈利能力下降",
+            "features": {
+                "keywords": [
+                    "煤炭企业",
+                    "半年报",
+                    "业绩下滑",
+                    "盈利能力下降"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "煤炭"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "家上市公司煤炭企业半年报出炉 上半年煤炭股业绩小幅下滑 盈利能力下降",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "只港股获南向资金大比例持有",
+            "features": {
+                "keywords": [
+                    "港股",
+                    "南向资金",
+                    "大比例持有"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "港股"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "只港股获南向资金大比例持有",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

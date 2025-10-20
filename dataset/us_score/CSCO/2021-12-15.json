@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2023-10-04",
+            "original_text": "Dow Jones Turns Higher After Fed Statement; Cisco Systems Makes Bullish Move; Roblox Stock Plunges",
+            "features": {
+                "keywords": [
+                    "Dow Jones",
+                    "Fed Statement",
+                    "Cisco Systems",
+                    "Bullish Move",
+                    "Roblox Stock",
+                    "Plunges"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Dow Jones Dips Ahead Of Key Fed Policy Statement; Cisco Systems Makes Bullish Move; Roblox Stock Plunges",
+            "features": {
+                "keywords": [
+                    "Dow Jones",
+                    "Fed Policy",
+                    "Cisco Systems",
+                    "Bullish Move",
+                    "Roblux Stock",
+                    "Plunges"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2018-06-15",
+            "original_text": "Soccer-Brazil coach criticises Mastercard's 'food for goals' offer",
+            "features": {
+                "keywords": [
+                    "Soccer-Brazil",
+                    "coach",
+                    "Mastercard",
+                    "food for goals",
+                    "offer"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer services",
+                    "sports marketing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Soccer-Brazil coach criticises Mastercard's 'food for goals' offer",
+                "Correlation": 3,
+                "Sentiment": 2,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 1,
+                "Market_Scope": 2,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-06-25",
+            "original_text": "Visa says service disruption affecting payments across Europe now resolved",
+            "features": {
+                "keywords": [
+                    "Visa",
+                    "service disruption",
+                    "payments",
+                    "Europe",
+                    "resolved"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "financial services",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Visa says service disruption affecting payments across Europe now resolved",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "time": "2020-03-04",
+            "original_text": "债 券 重 大 事 件 2 0 2 0 年 3 月 4 日 星 期 三",
+            "features": {
+                "keywords": [
+                    "债券",
+                    "重大事件"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "债券市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "债 券 重 大 事 件 2 0 2 0 年 3 月 4 日 星 期 三",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 1,
+                "Market_Scope": 6,
+                "Time_Proximity": 2,
+                "Headline_Structure": 5,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "2020-03-04",
+            "original_text": "富 时 罗 素 宣 布 对 富 时 中 国 A 5 0 指 数 等 多 个 指 数 季 度 审 核 变 更",
+            "features": {
+                "keywords": [
+                    "富时罗素",
+                    "A50指数",
+                    "季度审核",
+                    "变更"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "指数基金",
+                    "A股市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "富 时 罗 素 宣 布 对 富 时 中 国 A 5 0 指 数 等 多 个 指 数 季 度 审 核 变 更",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2020-03-09 to 2020-03-13",
+            "original_text": "北 方 稀 土 ： “ 1 7 北 方 0 1 ” 回 售 登 记 期 3 月 9 日 至 3 月 1 3 日",
+            "features": {
+                "keywords": [
+                    "北方稀土",
+                    "回售登记",
+                    "17北方01"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "稀有金属",
+                    "债券市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "北 方 稀 土 ： “ 1 7 北 方 0 1 ” 回 售 登 记 期 3 月 9 日 至 3 月 1 3 日",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

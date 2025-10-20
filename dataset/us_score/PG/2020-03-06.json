@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Top Analyst Reports for Alphabet, Procter & Gamble & Royal Dutch Shell",
+            "features": {
+                "keywords": [
+                    "Analyst Reports",
+                    "Alphabet",
+                    "Procter & Gamble",
+                    "Royal Dutch Shell"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "consumer goods",
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 8,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "KILL Herbal Essences Announces Commitment to Help Mitigate Biodiversity Loss",
+            "features": {
+                "keywords": [
+                    "Herbal Essences",
+                    "Biodiversity Loss",
+                    "Commitment"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

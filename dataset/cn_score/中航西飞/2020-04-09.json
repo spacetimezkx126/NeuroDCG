@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "重大利好消息突袭，上次A股大涨800点！",
+            "features": {
+                "keywords": [
+                    "重大利好",
+                    "消息突袭",
+                    "A股",
+                    "大涨",
+                    "800点"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "全市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "重大利好消息突袭，上次A股大涨800点！",
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 10,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-04-09",
+            "original_text": "4月9日券商晨会研报汇编",
+            "features": {
+                "keywords": [
+                    "券商晨会",
+                    "研报汇编"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "券商"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "4月9日券商晨会研报汇编",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

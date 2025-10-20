@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "The Bull Case for Home Depot Inc Stock Keeps Getting Better",
+            "features": {
+                "keywords": [
+                    "Bull Case",
+                    "Home Depot",
+                    "Stock",
+                    "Getting Better"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail",
+                    "home improvement"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "The Bull Case for Home Depot Inc Stock Keeps Getting Better",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Retail Stocks: Year In Review; What To Shop For In 2018",
+            "features": {
+                "keywords": [
+                    "Retail Stocks",
+                    "Year In Review",
+                    "Shop",
+                    "2018"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Retail Stocks: Year In Review; What To Shop For In 2018",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

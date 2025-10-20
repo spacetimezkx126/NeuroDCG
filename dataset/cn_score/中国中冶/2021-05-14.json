@@ -1,0 +1,115 @@
+[
+    [
+        {
+            "time": "2021-05-14",
+            "original_text": "晕了晕了！大白马被券商齐吼买入，结果股价跌到腰斩，基金经理更是拖到上市最后一刻才加仓",
+            "features": {
+                "keywords": [
+                    "大白马",
+                    "券商",
+                    "买入",
+                    "股价",
+                    "腰斩",
+                    "基金经理",
+                    "加仓"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "股票"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "晕了晕了！大白马被券商齐吼买入，结果股价跌到腰斩，基金经理更是拖到上市最后一刻才加仓",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-05-14",
+            "original_text": "A股头条：美股在科技股引领下全线收涨 监管已对英利汽车等近期炒作股票予以重点关注",
+            "features": {
+                "keywords": [
+                    "美股",
+                    "科技股",
+                    "全线收涨",
+                    "监管",
+                    "炒作股票",
+                    "英利汽车"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股头条：美股在科技股引领下全线收涨 监管已对英利汽车等近期炒作股票予以重点关注",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-05-14",
+            "original_text": "【股佬开仓】马钢回勇升势未尽|头条财经网",
+            "features": {
+                "keywords": [
+                    "马钢",
+                    "回勇",
+                    "升势未尽"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "钢铁"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "【股佬开仓】马钢回勇升势未尽|头条财经网",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

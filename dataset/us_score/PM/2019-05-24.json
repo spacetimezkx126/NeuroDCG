@@ -1,0 +1,81 @@
+[
+    [
+        {
+            "time": "2023-10-13",
+            "original_text": "Friday Sector Laggards: Trucking, Cigarettes & Tobacco Stocks",
+            "features": {
+                "keywords": [
+                    "Trucking",
+                    "Cigarettes",
+                    "Tobacco",
+                    "Laggards"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "transportation",
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 2,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-13",
+            "original_text": "The Zacks Analyst Blog Highlights: Home Depot, Phillip Morris, United Parcel Service, V.F., and Shopify",
+            "features": {
+                "keywords": [
+                    "Zacks",
+                    "Analyst",
+                    "Blog",
+                    "Home Depot",
+                    "Phillip Morris",
+                    "United Parcel Service",
+                    "V.F.",
+                    "Shopify"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail",
+                    "consumer goods",
+                    "logistics",
+                    "e-commerce"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "The Zacks Analyst Blog Highlights: Home Depot, Phillip Morris, United Parcel Service, V.F., and Shopify",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

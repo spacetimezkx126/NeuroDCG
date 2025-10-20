@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "巷观十二时辰〡西安“老板”数量，全国第三",
+            "features": {
+                "keywords": [
+                    "西安",
+                    "老板",
+                    "数量",
+                    "全国第三"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "商业",
+                    "经济"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 2,
+                "Sentiment": 8,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 6,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "",
+            "original_text": "主承销商卖完债就行了？浙商银行因未尽职等行为遭交易商协会警告",
+            "features": {
+                "keywords": [
+                    "浙商银行",
+                    "主承销商",
+                    "未尽职",
+                    "警告",
+                    "交易商协会"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "银行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "主承销商卖完债就行了？浙商银行因未尽职等行为遭交易商协会警告",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

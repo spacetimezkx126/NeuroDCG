@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "根 本 停 不 下 来 ！ 北 上 资 金 连 续 2 0 周 净 买 入 A 股 ( 金 股 )",
+            "features": {
+                "keywords": [
+                    "北上资金",
+                    "连续20周",
+                    "净买入",
+                    "A股",
+                    "金股"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "A股市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 10,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "继 续 重 点 推 荐 特 斯 拉 供 应 链  六 股 有 掘 金 机 会",
+            "features": {
+                "keywords": [
+                    "特斯拉",
+                    "供应链",
+                    "六股",
+                    "掘金机会"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "新能源汽车",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

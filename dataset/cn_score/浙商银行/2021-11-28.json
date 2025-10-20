@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "资管新规过渡期即将结束，上市银行11月发债超三季度",
+            "features": {
+                "keywords": [
+                    "资管新规",
+                    "过渡期",
+                    "上市银行",
+                    "发债",
+                    "三季度"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "临近年底银行频频“补血”永续债、二级资本债齐上阵，系统重要性银行成主力",
+            "features": {
+                "keywords": [
+                    "年底",
+                    "银行",
+                    "补血",
+                    "永续债",
+                    "二级资本债",
+                    "系统重要性银行"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "临近年底银行频频“补血”永续债、二级资本债齐上阵，系统重要性银行成主力",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

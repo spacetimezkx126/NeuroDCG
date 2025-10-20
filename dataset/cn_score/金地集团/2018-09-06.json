@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "今年A股上市公司发债近2000亿房地产企业占了近四成",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "上市公司",
+                    "发债",
+                    "2000亿",
+                    "房地产",
+                    "四成"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "今年A股上市公司发债近2000亿房地产企业占了近四成",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "沪指跌0.47%再度失守2700点 地产股表现低迷",
+            "features": {
+                "keywords": [
+                    "沪指",
+                    "跌",
+                    "0.47%",
+                    "2700点",
+                    "地产股",
+                    "低迷"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "地产股"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "沪指跌0.47%再度失守2700点 地产股表现低迷",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

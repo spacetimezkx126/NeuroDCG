@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "2023-04-14",
+            "original_text": "A股资金流向（4月14日）：新能源龙头获资金回流，银行股遭抛售",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "资金流向",
+                    "新能源",
+                    "龙头",
+                    "资金回流",
+                    "银行股",
+                    "抛售"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "新能源",
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "A股资金流向（4月14日）：新能源龙头获资金回流，银行股遭抛售",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-03",
+            "original_text": "澜起科技3月份接待200多家机构调研 表示相关芯片研发顺利",
+            "features": {
+                "keywords": [
+                    "澜起科技",
+                    "机构调研",
+                    "芯片",
+                    "研发顺利"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "半导体",
+                    "芯片"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "澜起科技3月份接待200多家机构调研 表示相关芯片研发顺利",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

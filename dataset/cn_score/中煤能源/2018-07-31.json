@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "看好评级 机械高频数据周报：国常会强化工程机械景气度延长逻辑 铁路货车招标预期再起",
+            "features": {
+                "keywords": [
+                    "机械",
+                    "高频数据",
+                    "国常会",
+                    "工程机械",
+                    "景气度",
+                    "铁路货车",
+                    "招标预期"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "机械",
+                    "铁路"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "看好评级 机械高频数据周报：国常会强化工程机械景气度延长逻辑 铁路货车招标预期再起",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "煤炭行业周报第124期（201827）：港口库存加速价格下行 煤焦库存压力持续增大",
+            "features": {
+                "keywords": [
+                    "煤炭",
+                    "港口库存",
+                    "价格下行",
+                    "煤焦库存",
+                    "库存压力"
+                ],
+                "sentiment_score": -0.65,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "煤炭"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "煤炭行业周报第124期（201827）：港口库存加速价格下行 煤焦库存压力持续增大",
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

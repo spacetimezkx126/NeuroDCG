@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "午间要闻 | 深圳多家银行回应“暂停房贷”；吉利与FF签署框架协议合作；王思聪旗下熊猫互娱破产拍卖3100万",
+            "features": {
+                "keywords": [
+                    "深圳",
+                    "银行",
+                    "暂停房贷",
+                    "吉利",
+                    "FF",
+                    "框架协议",
+                    "王思聪",
+                    "熊猫互娱",
+                    "破产拍卖"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "汽车",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "午间要闻 | 深圳多家银行回应“暂停房贷”",
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "受冷落的WiFi模组，却撑起了物联网的半边天",
+            "features": {
+                "keywords": [
+                    "WiFi模组",
+                    "物联网"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "物联网"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 4,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "投资是终身职业，这位耄耋老人刚获资格",
+            "features": {
+                "keywords": [
+                    "投资",
+                    "终身职业",
+                    "耄耋老人",
+                    "资格"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "投资是终身职业，这位耄耋老人刚获资格",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 2,
+                "Impact": 2,
+                "Duration": 1,
+                "Entity_Density": 1,
+                "Market_Scope": 1,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "市场风格切换？食品饮料掀起涨停潮，券商：这些个股值得关注",
+            "features": {
+                "keywords": [
+                    "市场风格",
+                    "切换",
+                    "食品饮料",
+                    "涨停潮",
+                    "券商",
+                    "个股"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "食品饮料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "市场风格切换？食品饮料掀起涨停潮，券商：这些个股值得关注",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "绝味不止卖鸭脖，也在悄悄做投资",
+            "features": {
+                "keywords": [
+                    "绝味",
+                    "鸭脖",
+                    "投资"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "食品饮料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "绝味不止卖鸭脖，也在悄悄做投资",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

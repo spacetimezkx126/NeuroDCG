@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "陕西煤业今日大宗交易成交40万股，成交价12.2元折价0.89%.",
+            "features": {
+                "keywords": [
+                    "陕西煤业",
+                    "大宗交易",
+                    "成交40万股",
+                    "成交价12.2元",
+                    "折价0.89%"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "煤炭"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "陕西煤业今日大宗交易成交40万股，成交价12.2元折价0.89%.",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "A股收盘综述：风电股、汽车零部件股批量封板，比亚迪、金龙鱼大涨超7%.",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "风电股",
+                    "汽车零部件股",
+                    "封板",
+                    "比亚迪",
+                    "金龙鱼",
+                    "大涨超7%"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源",
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股收盘综述：风电股、汽车零部件股批量封板，比亚迪、金龙鱼大涨超7%.",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

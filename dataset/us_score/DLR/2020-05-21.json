@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2020-05-07",
+            "original_text": "Edited Transcript of DLR earnings conference call or presentation 7-May-20 9:30pm GMT",
+            "features": {
+                "keywords": [
+                    "DLR",
+                    "earnings",
+                    "conference",
+                    "call",
+                    "presentation"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "real estate",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-05-07",
+            "original_text": "3 Stocks to Buy if You're Worried About a Recession",
+            "features": {
+                "keywords": [
+                    "stocks",
+                    "buy",
+                    "recession"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 3,
+                "Duration": 9,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Sirios Focus Fund Series Buys London Stock Exchange Group PLC, Constellation Brands Inc, PACCAR ...",
+            "features": {
+                "keywords": [
+                    "Focus Fund",
+                    "Buys",
+                    "London Stock Exchange",
+                    "Group PLC",
+                    "Constellation Brands"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Penn Series Large Core Growth Fund Buys Roblox Corp, Airbnb Inc, Danaher Corp, Sells Amazon ...",
+            "features": {
+                "keywords": [
+                    "Large Core Growth Fund",
+                    "Buys",
+                    "Roblox Corp",
+                    "Airbnb Inc",
+                    "Danaher Corp",
+                    "Sells",
+                    "Amazon"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "hospitality",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "mixed",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "mixed"
+            },
+            "scores": {
+                "News_content": "Penn Series Large Core Growth Fund Buys Roblox Corp, Airbnb Inc, Danaher Corp, Sells Amazon ...",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

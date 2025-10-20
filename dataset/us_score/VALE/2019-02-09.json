@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2019-01-25",
+            "original_text": "Iron-Ore Rally Continues as Vale Ordered to Evacuate Town",
+            "features": {
+                "keywords": [
+                    "Iron-Ore",
+                    "Rally",
+                    "Vale",
+                    "Evacuate"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining",
+                    "metals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Iron-Ore Rally Continues as Vale Ordered to Evacuate Town",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-01-28",
+            "original_text": "Brazil to Toughen Mine-Safety Rules After Disaster",
+            "features": {
+                "keywords": [
+                    "Brazil",
+                    "Toughen",
+                    "Mine-Safety",
+                    "Rules",
+                    "Disaster"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining",
+                    "regulation"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Brazil to Toughen Mine-Safety Rules After Disaster",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

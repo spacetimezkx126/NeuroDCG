@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Freeport-McMoRan Provides Update on Cerro Verde Mine in Peru",
+            "features": {
+                "keywords": [
+                    "Freeport-McMoRan",
+                    "Cerro Verde",
+                    "Mine",
+                    "Peru",
+                    "Update"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining",
+                    "metals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Freeport-McMoRan closes New Mexico mine as coronavirus cases spread",
+            "features": {
+                "keywords": [
+                    "Freeport-McMoRan",
+                    "New Mexico",
+                    "mine",
+                    "coronavirus",
+                    "cases",
+                    "spread",
+                    "closes"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining",
+                    "metals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

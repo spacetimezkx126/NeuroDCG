@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "Liberty Broadband and GCI Liberty Stock Look Ready to Rise",
+            "features": {
+                "keywords": [
+                    "Liberty",
+                    "Broadband",
+                    "GCI",
+                    "Stock",
+                    "Rise"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "telecommunications",
+                    "media"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Liberty Broadband and GCI Liberty Stock Look Ready to Rise",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-10-31",
+            "original_text": "Why Dish Network’s Churn Rate Increased in Q3 2018",
+            "features": {
+                "keywords": [
+                    "Dish",
+                    "Network",
+                    "Churn",
+                    "Rate",
+                    "Increased",
+                    "Q3",
+                    "2018"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "telecommunications",
+                    "media"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Why Dish Network’s Churn Rate Increased in Q3 2018",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

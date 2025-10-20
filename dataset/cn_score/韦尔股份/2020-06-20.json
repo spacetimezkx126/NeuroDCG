@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2020-06-20",
+            "original_text": "中国民营企业芯片设计企业Top10：韦尔股份第一，市值1590亿",
+            "features": {
+                "keywords": [
+                    "民营企业",
+                    "芯片设计",
+                    "韦尔股份",
+                    "市值",
+                    "Top10"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "半导体",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中国民营企业芯片设计企业Top10：韦尔股份第一，市值1590亿",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-06-20",
+            "original_text": "上市公司正面负面新闻",
+            "features": {
+                "keywords": [
+                    "上市公司",
+                    "正面负面新闻"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "上市公司正面负面新闻",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 4,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

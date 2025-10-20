@@ -1,0 +1,81 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中上协“2017年度最受投资者尊重的上市公司评选”入围名单揭晓",
+            "features": {
+                "keywords": [
+                    "中上协",
+                    "2017年度",
+                    "最受投资者尊重",
+                    "上市公司",
+                    "评选",
+                    "入围名单"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "上市公司"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【电力设备与新能源|邵晶鑫团队太平洋证券】新能源车行情已至，电网投资看好配用电",
+            "features": {
+                "keywords": [
+                    "电力设备",
+                    "新能源",
+                    "邵晶鑫团队",
+                    "太平洋证券",
+                    "新能源车",
+                    "行情",
+                    "电网投资",
+                    "配用电"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电力设备",
+                    "新能源",
+                    "新能源车",
+                    "电网投资"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 4,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

@@ -1,0 +1,81 @@
+[
+    [
+        {
+            "time": "2023-04-04",
+            "original_text": "油价调整情况：今日4月4日，全国加油站95号、92号汽油报价",
+            "features": {
+                "keywords": [
+                    "油价",
+                    "调整",
+                    "95号",
+                    "92号",
+                    "汽油",
+                    "报价"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "石油"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "油价调整情况：今日4月4日，全国加油站95号、92号汽油报价",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 8,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "2023-04-04",
+            "original_text": "中石油(00857-HK)：昆仑能源(00135-HK)完成出售北京管道60%股权和大连LNG 75%股权 资产异常",
+            "features": {
+                "keywords": [
+                    "中石油",
+                    "昆仑能源",
+                    "北京管道",
+                    "大连LNG",
+                    "股权",
+                    "出售",
+                    "资产异常"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "能源",
+                    "天然气"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "中石油(00857-HK)：昆仑能源(00135-HK)完成出售北京管道60%股权和大连LNG 75%股权 资产异常",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

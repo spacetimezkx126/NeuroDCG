@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "2023-03-25",
+            "original_text": "A股头条之上市公司公告（3.25）",
+            "features": {
+                "keywords": [
+                    "上市公司",
+                    "公告"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "A股头条之上市公司公告（3.25）",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-03-25",
+            "original_text": "中国卫通(601698.SH)：定增事宜获国务院国资委批复",
+            "features": {
+                "keywords": [
+                    "中国卫通",
+                    "定增",
+                    "国务院国资委",
+                    "批复"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "通信"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中国卫通(601698.SH)：定增事宜获国务院国资委批复",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-03-25",
+            "original_text": "科技及智能设备产业链日报：电脑与外围设备和互联网软件与服务板块表现出色",
+            "features": {
+                "keywords": [
+                    "科技",
+                    "智能设备",
+                    "电脑",
+                    "外围设备",
+                    "互联网软件",
+                    "服务",
+                    "板块表现"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "智能设备"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "科技及智能设备产业链日报：电脑与外围设备和互联网软件与服务板块表现出色",
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

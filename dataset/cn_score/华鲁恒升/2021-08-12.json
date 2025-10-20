@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "东吴证券维持华鲁恒升买入评级：战略清晰，脚踏实地，开辟第二增长曲线",
+            "features": {
+                "keywords": [
+                    "华鲁恒升",
+                    "买入评级",
+                    "战略清晰",
+                    "第二增长曲线"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "东吴证券维持华鲁恒升买入评级：战略清晰，脚踏实地，开辟第二增长曲线",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-08-12",
+            "original_text": "生意社：8月12日山东华鲁恒升液氨装置检修",
+            "features": {
+                "keywords": [
+                    "华鲁恒升",
+                    "液氨装置",
+                    "检修"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "生意社：8月12日山东华鲁恒升液氨装置检修",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

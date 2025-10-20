@@ -1,0 +1,120 @@
+[
+    [
+        {
+            "time": "2019-08-01",
+            "original_text": "Pre-Market Earnings Report for August 1, 2019: VZ, DD, CI, SPGI, GM, ICE, TRP, EXC, BCE, MPC, YUM, TRI",
+            "features": {
+                "keywords": [
+                    "Earnings",
+                    "Pre-Market",
+                    "VZ",
+                    "DD",
+                    "CI",
+                    "SPGI",
+                    "GM",
+                    "ICE",
+                    "TRP",
+                    "EXC",
+                    "BCE",
+                    "MPC",
+                    "YUM",
+                    "TRI"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "telecommunications",
+                    "industrial",
+                    "financial",
+                    "automotive",
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-08-01",
+            "original_text": "Southern Company (SO) Surpasses Q2 Earnings, Revenues Miss",
+            "features": {
+                "keywords": [
+                    "Southern Company",
+                    "SO",
+                    "Q2 Earnings",
+                    "Revenues Miss"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2019-08-01",
+            "original_text": "CMS Energy Corporation (CMS) Ex-Dividend Date Scheduled for August 01, 2019",
+            "features": {
+                "keywords": [
+                    "CMS Energy",
+                    "CMS",
+                    "Ex-Dividend Date",
+                    "Scheduled"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

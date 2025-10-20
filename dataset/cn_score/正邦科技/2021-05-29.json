@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "正邦科技：猪价下跌不会改变经营策略，成本将逐季下降",
+            "features": {
+                "keywords": [
+                    "正邦科技",
+                    "猪价",
+                    "下跌",
+                    "经营策略",
+                    "成本",
+                    "逐季下降"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "畜牧业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "农林牧渔2021年6月投资策略：6月或迎绝地反击 推荐畜禽产业链",
+            "features": {
+                "keywords": [
+                    "农林牧渔",
+                    "2021年6月",
+                    "投资策略",
+                    "绝地反击",
+                    "畜禽产业链"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "畜牧业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

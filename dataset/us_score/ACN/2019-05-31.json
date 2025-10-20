@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "will.i.am will interview CEOs about career changes and company decisions for Accenture podcast",
+            "features": {
+                "keywords": [
+                    "will.i.am",
+                    "interview",
+                    "CEOs",
+                    "career changes",
+                    "company decisions",
+                    "Accenture",
+                    "podcast"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "consulting"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Cloud Migration Journeys Have Not Achieved Expected Benefits for Two-Thirds of Enterprises Surveyed in New Accenture Report",
+            "features": {
+                "keywords": [
+                    "Cloud Migration",
+                    "Expected Benefits",
+                    "Enterprises",
+                    "Accenture",
+                    "Report"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "cloud computing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

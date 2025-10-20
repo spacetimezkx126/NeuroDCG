@@ -1,0 +1,43 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "长江证券(000783.SZ)2018年度净利润下降83.35%至2.57亿元 拟10派0.2元 盈利能力下降",
+            "features": {
+                "keywords": [
+                    "长江证券",
+                    "2018年度",
+                    "净利润",
+                    "下降",
+                    "83.35%",
+                    "2.57亿元",
+                    "10派0.2元",
+                    "盈利能力"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

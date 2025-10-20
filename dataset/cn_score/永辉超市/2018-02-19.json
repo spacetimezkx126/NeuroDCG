@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "海澜之家：战投进驻，多品牌、产业链发展极具想象空间",
+            "features": {
+                "keywords": [
+                    "海澜之家",
+                    "战投进驻",
+                    "多品牌",
+                    "产业链",
+                    "想象空间"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "服装",
+                    "零售"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "永辉领衔！本土53家商超企业47万员工创造营收4977亿",
+            "features": {
+                "keywords": [
+                    "永辉",
+                    "商超企业",
+                    "营收",
+                    "4977亿"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "零售",
+                    "超市"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Rio Tinto and ARENA to study using hydrogen to reduce carbon emissions in alumina refining",
+            "features": {
+                "keywords": [
+                    "Rio Tinto",
+                    "hydrogen",
+                    "carbon emissions",
+                    "alumina refining"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining",
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 10,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Rio Tinto Stock Near Buy Zone; Showing Rising Relative Strength After Shares Climb 150%",
+            "features": {
+                "keywords": [
+                    "Rio Tinto",
+                    "buy zone",
+                    "rising relative strength",
+                    "shares climb"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

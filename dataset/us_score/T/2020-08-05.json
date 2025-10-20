@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Beyoncé's 'Black Is King' attracts less than 4% of Disney+ users on debut weekend: Data",
+            "features": {
+                "keywords": [
+                    "Beyoncé",
+                    "Black Is King",
+                    "Disney+",
+                    "debut weekend",
+                    "less than 4%"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment",
+                    "media"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Tutor Perini Corporation -- Moody's changes Tutor Perini's outlook to stable, assigns Ba3 rating to proposed credit facilities",
+            "features": {
+                "keywords": [
+                    "Tutor Perini Corporation",
+                    "Moody's",
+                    "outlook",
+                    "stable",
+                    "Ba3 rating",
+                    "credit facilities"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "construction",
+                    "infrastructure"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 1,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Charter Reports Surprise Gain in Video Subscribers",
+            "features": {
+                "keywords": [
+                    "Charter",
+                    "Surprise Gain",
+                    "Video Subscribers"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "telecommunications",
+                    "media"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

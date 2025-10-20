@@ -1,0 +1,41 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "['UPS', '(UPS)', 'Down', '8.8%', 'Since', 'Last', 'Earnings', 'Report:', 'Can', 'It', 'Rebound?']",
+            "features": {
+                "keywords": [
+                    "UPS",
+                    "Down",
+                    "8.8%",
+                    "Earnings Report",
+                    "Rebound"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "transportation",
+                    "logistics"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "UPS (UPS) Down 8.8% Since Last Earnings Report: Can It Rebound?",
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

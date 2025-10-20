@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中国神华、陕西煤业、中煤能源，这三家煤炭开采企业，谁的成长能力最强？",
+            "features": {
+                "keywords": [
+                    "中国神华",
+                    "陕西煤业",
+                    "中煤能源",
+                    "煤炭开采",
+                    "成长能力"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "煤炭"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中国神华、陕西煤业、中煤能源，这三家煤炭开采企业，谁的成长能力最强？",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "煤矿安全生产标准化管理体系降级公告（中国神华能源股份有限公司布尔台煤矿）",
+            "features": {
+                "keywords": [
+                    "煤矿",
+                    "安全生产",
+                    "标准化管理",
+                    "降级",
+                    "中国神华",
+                    "布尔台煤矿"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "煤炭"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "煤矿安全生产标准化管理体系降级公告（中国神华能源股份有限公司布尔台煤矿）",
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

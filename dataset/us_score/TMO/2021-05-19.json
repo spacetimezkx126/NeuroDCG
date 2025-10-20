@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Thermo Fisher Scientific Declares Quarterly Dividend",
+            "features": {
+                "keywords": [
+                    "Thermo Fisher",
+                    "Scientific",
+                    "Quarterly Dividend"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Thermo Fisher Scientific and University of California, San Francisco to Open Cell Therapy cGMP Manufacturing and Collaboration Center",
+            "features": {
+                "keywords": [
+                    "Thermo Fisher",
+                    "Scientific",
+                    "University of California",
+                    "Cell Therapy",
+                    "cGMP Manufacturing",
+                    "Collaboration Center"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech",
+                    "research"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

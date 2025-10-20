@@ -1,0 +1,113 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "期市收盘多数上涨 多方消息扰动沪镍涨逾3%",
+            "features": {
+                "keywords": [
+                    "期市",
+                    "收盘",
+                    "上涨",
+                    "多方消息",
+                    "沪镍"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "期货",
+                    "金属"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "期市收盘多数上涨 多方消息扰动沪镍涨逾3%",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【权益变动】中国中冶(01618-HK)被贝莱德减持272.2万股 减持股份",
+            "features": {
+                "keywords": [
+                    "中国中冶",
+                    "贝莱德",
+                    "减持",
+                    "权益变动"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "建筑",
+                    "工程"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "【权益变动】中国中冶(01618-HK)被贝莱德减持272.2万股 减持股份",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "巨丰早参：国务院推稳外贸、稳外资新举措",
+            "features": {
+                "keywords": [
+                    "国务院",
+                    "稳外贸",
+                    "稳外资",
+                    "政策"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "外贸",
+                    "外资"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "巨丰早参：国务院推稳外贸、稳外资新举措",
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

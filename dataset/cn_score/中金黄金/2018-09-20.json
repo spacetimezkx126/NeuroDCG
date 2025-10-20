@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "有色、钢铁等板块挑大梁！A股是否酝酿新一轮变局？",
+            "features": {
+                "keywords": [
+                    "有色",
+                    "钢铁",
+                    "板块",
+                    "A股",
+                    "变局"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "有色",
+                    "钢铁"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 3,
+                "Headline_Structure": 9,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "",
+            "original_text": "有色金属行业：钴价继续上涨 交叉补贴标准利好铝价",
+            "features": {
+                "keywords": [
+                    "有色金属",
+                    "钴价",
+                    "上涨",
+                    "交叉补贴",
+                    "铝价"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "有色金属"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 5,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

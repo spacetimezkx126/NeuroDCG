@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "平均毛利率45%依旧亏损-口腔医院是不是一个好赛道？【安信诸海滨团队】 亏损",
+            "features": {
+                "keywords": [
+                    "平均毛利率",
+                    "45%",
+                    "亏损",
+                    "口腔医院",
+                    "安信诸海滨团队"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医疗",
+                    "口腔医院"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 2,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "",
+            "original_text": "21只股股价创历史新高",
+            "features": {
+                "keywords": [
+                    "21只股",
+                    "股价",
+                    "历史新高"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 8,
+                "Importance": 4,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 4,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

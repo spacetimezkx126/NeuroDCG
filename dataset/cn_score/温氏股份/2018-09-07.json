@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "温氏股份今日大宗交易成交15.12万股，成交价21.5元折价0.42%",
+            "features": {
+                "keywords": [
+                    "温氏股份",
+                    "大宗交易",
+                    "成交价",
+                    "折价"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "食品加工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "温氏股份今日大宗交易成交15.12万股，成交价21.5元折价0.42%",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中金：首次覆盖温氏股份给予买进评级，看好长期增长前景",
+            "features": {
+                "keywords": [
+                    "中金",
+                    "温氏股份",
+                    "买进评级",
+                    "长期增长前景"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "食品加工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中金：首次覆盖温氏股份给予买进评级，看好长期增长前景",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

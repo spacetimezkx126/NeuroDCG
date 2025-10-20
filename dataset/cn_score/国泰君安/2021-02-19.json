@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "姜超履职中泰、胡雅丽或赴东方红，卖方转资管蔚然成风",
+            "features": {
+                "keywords": [
+                    "姜超",
+                    "中泰",
+                    "胡雅丽",
+                    "东方红",
+                    "卖方",
+                    "资管"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "资产管理"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "姜超履职中泰、胡雅丽或赴东方红，卖方转资管蔚然成风",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "特斯拉狂降24%！今年来已宣布四轮降价",
+            "features": {
+                "keywords": [
+                    "特斯拉",
+                    "降价",
+                    "四轮"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "特斯拉狂降24%！今年来已宣布四轮降价",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 10,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2019-12-31",
+            "original_text": "Stocks That Have Almost Doubled in 2019",
+            "features": {
+                "keywords": [
+                    "Stocks",
+                    "Doubled",
+                    "2019"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Stocks That Have Almost Doubled in 2019",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 3,
+                "Headline_Structure": 8,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2019-12-31",
+            "original_text": "Series will give Snap's founding story the 'Social Network' treatment",
+            "features": {
+                "keywords": [
+                    "Series",
+                    "Snap",
+                    "founding",
+                    "story",
+                    "Social Network"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Series will give Snap's founding story the 'Social Network' treatment",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

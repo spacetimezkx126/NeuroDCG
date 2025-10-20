@@ -1,0 +1,81 @@
+[
+    [
+        {
+            "time": "2021-11-15",
+            "original_text": "Biotech Stocks, ETFs to Gain on COVID-19 Vaccine & Drug Progress",
+            "features": {
+                "keywords": [
+                    "Biotech",
+                    "Stocks",
+                    "ETFs",
+                    "COVID-19",
+                    "Vaccine",
+                    "Drug",
+                    "Progress"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2021-11-15",
+            "original_text": "The Zacks Analyst Blog Highlights: Johnson & Johnson, Merck & Co, Novartis, PayPal and IBM",
+            "features": {
+                "keywords": [
+                    "Zacks",
+                    "Analyst",
+                    "Blog",
+                    "Johnson & Johnson",
+                    "Merck & Co",
+                    "Novartis",
+                    "PayPal",
+                    "IBM"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "technology"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 4,
+                "Headline_Structure": 5,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

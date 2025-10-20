@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中国广核：核电上网电价分为两部分，一部分是计划电量上网电价，另一部分是市场电量上网电价",
+            "features": {
+                "keywords": [
+                    "中国广核",
+                    "核电",
+                    "上网电价",
+                    "计划电量",
+                    "市场电量"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "核电"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "中国广核：核电上网电价分为两部分，一部分是计划电量上网电价，另一部分是市场电量上网电价",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中国广核：公司上半年市场电价低于计划电价",
+            "features": {
+                "keywords": [
+                    "中国广核",
+                    "市场电价",
+                    "计划电价",
+                    "上半年"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "核电"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "中国广核：公司上半年市场电价低于计划电价",
+                "Correlation": 10,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

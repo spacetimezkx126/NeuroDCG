@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股收盘综述：上证指数跌1.99%、抱团明星股再扑街，创业板指五日累挫12%",
+            "features": {
+                "keywords": [
+                    "上证指数",
+                    "跌",
+                    "抱团明星股",
+                    "扑街",
+                    "创业板指",
+                    "累挫"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "整体市场",
+                    "创业板"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "国产软件板块全线复苏，中国长城快速涨停",
+            "features": {
+                "keywords": [
+                    "国产软件",
+                    "复苏",
+                    "中国长城",
+                    "涨停"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "国产软件"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "芯片板块连续拉升，航锦科技、中国长城涨停",
+            "features": {
+                "keywords": [
+                    "芯片",
+                    "连续拉升",
+                    "航锦科技",
+                    "中国长城",
+                    "涨停"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "芯片"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

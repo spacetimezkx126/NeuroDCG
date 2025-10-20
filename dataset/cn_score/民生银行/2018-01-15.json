@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "职业投资人杨宝忠：银行股显现配置价值",
+            "features": {
+                "keywords": [
+                    "职业投资人",
+                    "杨宝忠",
+                    "银行股",
+                    "配置价值"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 10,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "年初北京房贷利率调查：首套上浮区间0-10%，大行额度较宽松",
+            "features": {
+                "keywords": [
+                    "年初",
+                    "北京",
+                    "房贷利率",
+                    "首套",
+                    "上浮",
+                    "大行",
+                    "额度宽松"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 4,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2020-06-01",
+            "original_text": "Toyota plans to cut Japan car output by 122,000 units in June due to virus",
+            "features": {
+                "keywords": [
+                    "Toyota",
+                    "cut",
+                    "Japan",
+                    "car output",
+                    "virus"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automobile"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Toyota plans to cut Japan car output by 122,000 units in June due to virus",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-04-01",
+            "original_text": "Indonesia's April car sales plunge 91% as virus curbs hit economy",
+            "features": {
+                "keywords": [
+                    "Indonesia",
+                    "car sales",
+                    "plunge",
+                    "virus",
+                    "curbs",
+                    "economy"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automobile"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Indonesia's April car sales plunge 91% as virus curbs hit economy",
+                "Correlation": 5,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

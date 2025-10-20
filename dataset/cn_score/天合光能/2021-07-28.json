@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "鹏辉能源：公司的储能业务已经持续盈利多年，目前合作的客户有南方电网、阳光电源、天合光能、wecoa，古瑞瓦特等等",
+            "features": {
+                "keywords": [
+                    "鹏辉能源",
+                    "储能业务",
+                    "持续盈利",
+                    "南方电网",
+                    "阳光电源",
+                    "天合光能",
+                    "古瑞瓦特"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源",
+                    "储能"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "鹏辉能源：公司的储能业务已经持续盈利多年，目前合作的客户有南方电网、阳光电源、天合光能、wecoa，古瑞瓦特等等",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "电气设备行业简评报告：大型化助推风电格局重塑 硅料价格见顶带动需求提振",
+            "features": {
+                "keywords": [
+                    "电气设备",
+                    "风电格局",
+                    "硅料价格",
+                    "需求提振",
+                    "大型化"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "风电",
+                    "光伏"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

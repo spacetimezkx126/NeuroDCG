@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "财通证券今日大宗交易成交560万股，成交价11.58元溢价11.13%",
+            "features": {
+                "keywords": [
+                    "财通证券",
+                    "大宗交易",
+                    "成交560万股",
+                    "成交价11.58元",
+                    "溢价11.13%"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "财通证券今日大宗交易成交560万股，成交价11.58元溢价11.13%",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "证监会将对券商实施全面风险管理现场检查“全覆盖”",
+            "features": {
+                "keywords": [
+                    "证监会",
+                    "券商",
+                    "全面风险管理",
+                    "现场检查",
+                    "全覆盖"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "证监会将对券商实施全面风险管理现场检查“全覆盖”",
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

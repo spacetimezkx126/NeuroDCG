@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "酱,油,中,的,“,茅,台,”,火,了,！,市,值,5,3,0,0,亿,，,干,翻,中,石,化",
+            "features": {
+                "keywords": [
+                    "酱油",
+                    "茅台",
+                    "市值",
+                    "中石化"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "消费品",
+                    "化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "酱,油,中,的,“,茅,台,”,火,了,！,市,值,5,3,0,0,亿,，,干,翻,中,石,化",
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 10,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-08-21",
+            "original_text": "8,月,21,日,，,中,国,石,化,集,团,资,本,有,限,公,司,宣,布,，,投,资,入,股,凤,阳,硅,谷,智,能,有,限,公,司,，,布,局,超,薄,光,伏,及,光,电,显,示,特,种,玻,璃,产,业,链,。",
+            "features": {
+                "keywords": [
+                    "中国石化",
+                    "凤阳硅谷智能",
+                    "光伏",
+                    "光电显示",
+                    "特种玻璃",
+                    "产业链"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "新能源",
+                    "材料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "8,月,21,日,，,中,国,石,化,集,团,资,本,有,限,公,司,宣,布,，,投,资,入,股,凤,阳,硅,谷,智,能,有,限,公,司,，,布,局,超,薄,光,伏,及,光,电,显,示,特,种,玻,璃,产,业,链,。",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

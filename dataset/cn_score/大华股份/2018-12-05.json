@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "深港通“通车”两周年，有实力才会被偏爱",
+            "features": {
+                "keywords": [
+                    "深港通",
+                    "通车",
+                    "两周年",
+                    "实力",
+                    "偏爱"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "",
+            "original_text": "深股通两年净买入逾2600亿 4只绩优蓝筹股最受宠",
+            "features": {
+                "keywords": [
+                    "深股通",
+                    "两年",
+                    "净买入",
+                    "2600亿",
+                    "绩优蓝筹股"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "蓝筹股"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

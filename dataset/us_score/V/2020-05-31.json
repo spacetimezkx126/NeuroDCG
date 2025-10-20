@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2020-05-31",
+            "original_text": "Over 40 million people filed for unemployment since March — $1,200 stimulus checks are a mere Band-Aid for Americans",
+            "features": {
+                "keywords": [
+                    "unemployment",
+                    "stimulus checks",
+                    "Band-Aid"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "economy",
+                    "government"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Over 40 million people filed for unemployment since March — $1,200 stimulus checks are a mere Band-Aid for Americans",
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 9,
+                "Entity_Density": 1,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2020-05-31",
+            "original_text": "These stocks performed best in May as the market rally continued",
+            "features": {
+                "keywords": [
+                    "stocks",
+                    "performed best",
+                    "market rally"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "market"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "These stocks performed best in May as the market rally continued",
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

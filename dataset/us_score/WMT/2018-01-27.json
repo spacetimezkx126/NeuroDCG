@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "Amazon has made a point of targeting low-income customers",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "low-income",
+                    "customers"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail",
+                    "e-commerce"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "Amazon has made a point of targeting low-income customers",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-03-15",
+            "original_text": "Thinking a $1,000 Tax Law Fueled Employee Bonus Will Grow the Economy Is Dumb",
+            "features": {
+                "keywords": [
+                    "Tax Law",
+                    "Employee Bonus",
+                    "Economy"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "economy",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Thinking a $1,000 Tax Law Fueled Employee Bonus Will Grow the Economy Is Dumb",
+                "Correlation": 3,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-03-15",
+            "original_text": "[$$] Marc Lore Looks to the Future of Online Shopping",
+            "features": {
+                "keywords": [
+                    "Marc Lore",
+                    "Future",
+                    "Online Shopping"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "e-commerce",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "[$$] Marc Lore Looks to the Future of Online Shopping",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

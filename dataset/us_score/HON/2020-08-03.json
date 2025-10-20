@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "Berkshire Hathaway Inc. Cl A stock outperforms competitors on strong trading day",
+            "features": {
+                "keywords": [
+                    "Berkshire Hathaway",
+                    "outperforms",
+                    "strong trading day"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "IMPORTANT NOTICE FOR 2018 SHAREHOLDERS: The Schall Law Firm Announces the Filing of a Class Action Lawsuit Against Honeywell International Inc. and Encourages Investors with Losses in Excess of $100,000 to Contact the Firm",
+            "features": {
+                "keywords": [
+                    "Class Action Lawsuit",
+                    "Honeywell International Inc.",
+                    "Investors",
+                    "Losses"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

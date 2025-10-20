@@ -1,0 +1,101 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "环旭电子：2018年净利润同比减10.21% 盈利能力下降",
+            "features": {
+                "keywords": [
+                    "环旭电子",
+                    "净利润",
+                    "同比下降",
+                    "盈利能力下降"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "百亿私募重仓股曝光，这几大公司连续增仓，爆发在即（附股池）！",
+            "features": {
+                "keywords": [
+                    "百亿私募",
+                    "重仓股",
+                    "连续增仓",
+                    "爆发在即"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "四月秀葽 机会丰富",
+            "features": {
+                "keywords": [
+                    "四月",
+                    "机会丰富"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "四月秀葽 机会丰富",
+                "Correlation": 1,
+                "Sentiment": 5,
+                "Importance": 1,
+                "Impact": 1,
+                "Duration": 1,
+                "Entity_Density": 1,
+                "Market_Scope": 1,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

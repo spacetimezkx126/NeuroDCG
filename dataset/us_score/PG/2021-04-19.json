@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-10-17",
+            "original_text": "Procter & Gamble Reports Earnings Tomorrow. What to Expect.",
+            "features": {
+                "keywords": [
+                    "Procter & Gamble",
+                    "Reports",
+                    "Earnings",
+                    "Tomorrow",
+                    "Expect"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-17",
+            "original_text": "P&G’s \"It’s Our Home\" Shows How Small Actions at Home Can Make A Big Difference for Our Planet",
+            "features": {
+                "keywords": [
+                    "P&G",
+                    "It’s Our Home",
+                    "Small Actions",
+                    "Big Difference",
+                    "Planet"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "sustainability",
+                    "consumer goods"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 8,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

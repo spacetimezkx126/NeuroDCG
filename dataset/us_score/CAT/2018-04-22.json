@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-16",
+            "original_text": "Morgan Stanley: 11 High-Conviction Stocks To Watch This Earnings Season",
+            "features": {
+                "keywords": [
+                    "Morgan Stanley",
+                    "High-Conviction",
+                    "Stocks",
+                    "Earnings Season"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-16",
+            "original_text": "Economic Calendar - Top 5 Things to Watch This Week",
+            "features": {
+                "keywords": [
+                    "Economic Calendar",
+                    "Top 5",
+                    "Things",
+                    "Watch",
+                    "Week"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "economy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

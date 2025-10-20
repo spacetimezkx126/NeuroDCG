@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-02-01",
+            "original_text": "齐齐哈尔市政府稳价保供猪肉 2月1日起投放市场",
+            "features": {
+                "keywords": [
+                    "齐齐哈尔市",
+                    "政府",
+                    "稳价保供",
+                    "猪肉",
+                    "投放市场"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "食品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "永辉超市获沈阳商务部门致信感谢 抗疫保供工作受肯定",
+            "features": {
+                "keywords": [
+                    "永辉超市",
+                    "沈阳",
+                    "商务部",
+                    "抗疫保供",
+                    "肯定"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "零售",
+                    "消费品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "永辉超市获沈阳商务部门致信感谢 抗疫保供工作受肯定",
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

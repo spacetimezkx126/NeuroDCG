@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "[增, 持, 评, 级], 游, 戏, 行, 业, 周, 报, ：, I, O, S, 平, 台, 游, 戏, Q, 1, 下, 载, 量, 增, 长, 1, 4, % 收, 入, 增, 长, 1, 8, %",
+            "features": {
+                "keywords": [
+                    "游戏行业",
+                    "IOS平台",
+                    "Q1下载量",
+                    "收入增长"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "游戏"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "游戏行业周报：IOS平台游戏Q1下载量增长14%收入增长18%",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "世, 纪, 华, 通, 再, 靠, 子, 公, 司, 收, 益, 一, 季, 度, 利, 润, 翻, 番",
+            "features": {
+                "keywords": [
+                    "世纪华通",
+                    "子公司收益",
+                    "一季度利润翻番"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "传媒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "世纪华通再靠子公司收益一季度利润翻番",
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

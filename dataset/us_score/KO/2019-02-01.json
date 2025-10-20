@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "2023-02-01",
+            "original_text": "Frito Lay CMO: 90 percent of people will be eat or drink PepsiCo products during the Super Bowl",
+            "features": {
+                "keywords": [
+                    "Frito Lay",
+                    "PepsiCo",
+                    "Super Bowl",
+                    "consumption"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods",
+                    "food and beverage"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Frito Lay CMO: 90 percent of people will be eat or drink PepsiCo products during the Super Bowl",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-02-01",
+            "original_text": "Super Bowl ad prices flat, but there's still 'no other game in town'",
+            "features": {
+                "keywords": [
+                    "Super Bowl",
+                    "ad prices",
+                    "marketing"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "media",
+                    "advertising"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Super Bowl ad prices flat, but there's still 'no other game in town'",
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-02-01",
+            "original_text": "Super Bowl week is big for National Center for Civil and Human Rights",
+            "features": {
+                "keywords": [
+                    "Super Bowl",
+                    "National Center for Civil and Human Rights",
+                    "awareness"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "non-profit",
+                    "social issues"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Super Bowl week is big for National Center for Civil and Human Rights",
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

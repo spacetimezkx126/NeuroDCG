@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "猪 肉 股 午 后 跳 水   正 邦 科 技 天 邦 股 份 跌 近 6 %",
+            "features": {
+                "keywords": [
+                    "猪肉股",
+                    "午后",
+                    "跳水",
+                    "正邦科技",
+                    "天邦股份"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "食品加工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "猪 肉 股 午 后 跳 水 ， 多 股 跌 幅 明 显 扩 大",
+            "features": {
+                "keywords": [
+                    "猪肉股",
+                    "午后",
+                    "跳水",
+                    "跌幅",
+                    "扩大"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "食品加工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

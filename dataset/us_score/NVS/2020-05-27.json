@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "The Daily Biotech Pulse: Cumberland's Positive Anti-Bacterial Readout, FDA Nods For Bristol-Myers, Astellas",
+            "features": {
+                "keywords": [
+                    "Cumberland",
+                    "Anti-Bacterial",
+                    "FDA",
+                    "Bristol-Myers",
+                    "Astellas"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 10,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-04-10",
+            "original_text": "Rising Swiss rivalry as Roche and Novartis target same diseases",
+            "features": {
+                "keywords": [
+                    "Swiss",
+                    "rivalry",
+                    "Roche",
+                    "Novartis",
+                    "diseases"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

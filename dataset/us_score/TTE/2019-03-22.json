@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "Dow 30 Stock Roundup: AAPL Refreshes Product Lineup, BA Wins $327M Navy Order",
+            "features": {
+                "keywords": [
+                    "AAPL",
+                    "product refresh",
+                    "BA",
+                    "Navy order",
+                    "Dow 30"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "aerospace"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Dow 30 Stock Roundup: AAPL Refreshes Product Lineup, BA Wins $327M Navy Order",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Short Interest in Suncor Surges, but Its Stock Rises 22%",
+            "features": {
+                "keywords": [
+                    "short interest",
+                    "Suncor",
+                    "stock rise"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Short Interest in Suncor Surges, but Its Stock Rises 22%",
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 10,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

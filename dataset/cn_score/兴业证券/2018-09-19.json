@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【地产阎常铭】居民杠杆率国际比较研究系列三：美国篇",
+            "features": {
+                "keywords": [
+                    "地产",
+                    "居民杠杆率",
+                    "国际比较",
+                    "美国"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 10,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【军工石康】声呐行业研究： 军民市场齐头并进，打造水下信息世界",
+            "features": {
+                "keywords": [
+                    "军工",
+                    "声呐",
+                    "军民市场",
+                    "水下信息"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "军工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 3,
+                "Headline_Structure": 5,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "高毅资产二季度持仓出炉，冯柳加码博迁新材，邓晓峰资源股布局分化，孙庆瑞持仓通策医疗不变",
+            "features": {
+                "keywords": [
+                    "高毅资产",
+                    "冯柳",
+                    "博迁新材",
+                    "邓晓峰",
+                    "资源股",
+                    "孙庆瑞",
+                    "通策医疗"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "材料",
+                    "资源",
+                    "医疗"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-08-17",
+            "original_text": "【晨观方正】传媒/食品/医药20210817",
+            "features": {
+                "keywords": [
+                    "晨观方正",
+                    "传媒",
+                    "食品",
+                    "医药"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "传媒",
+                    "食品",
+                    "医药"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

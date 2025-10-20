@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "山，寨，同仁堂，也要，上市？，利润，虽，好，，违规，不断 ，其他，违规，处罚",
+            "features": {
+                "keywords": [
+                    "山寨同仁堂",
+                    "上市",
+                    "利润",
+                    "违规",
+                    "处罚"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "山，寨，同仁堂，也要，上市？，利润，虽，好，，违规，不断 ，其他，违规，处罚",
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "凉茶未“凉”，只是需要新场景",
+            "features": {
+                "keywords": [
+                    "凉茶",
+                    "新场景"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "凉茶未“凉”，只是需要新场景",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

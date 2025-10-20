@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "疫情影響減退，客流逐步恢復，京滬高鐵上半年淨利增長逾四倍",
+            "features": {
+                "keywords": [
+                    "疫情",
+                    "影響減退",
+                    "客流恢復",
+                    "京滬高鐵",
+                    "淨利增長",
+                    "四倍"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "交通運輸",
+                    "鐵路"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "疫情影響減退，客流逐步恢復，京滬高鐵上半年淨利增長逾四倍",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "京滬高鐵(601816)：疫情引起股價超調 眼光宜放長遠",
+            "features": {
+                "keywords": [
+                    "京滬高鐵",
+                    "疫情",
+                    "股價超調",
+                    "眼光長遠"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "交通運輸",
+                    "鐵路"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "京滬高鐵(601816)：疫情引起股價超調 眼光宜放長遠",
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

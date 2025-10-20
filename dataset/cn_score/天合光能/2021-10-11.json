@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "风,光,行,业,点,评,报,告,：,电,价,机,制,捋,顺, , 风,光,迎,来,加,速,发,展",
+            "features": {
+                "keywords": [
+                    "风电",
+                    "光伏",
+                    "电价机制",
+                    "加速发展"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源",
+                    "风电",
+                    "光伏"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "风,光,行,业,点,评,报,告,：,电,价,机,制,捋,顺, , 风,光,迎,来,加,速,发,展",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "电,气,设,备,行,业,：,9,月,新,势,力,销,量,环,比,超,预,期, , 风,光,政,策,利,好,频,出",
+            "features": {
+                "keywords": [
+                    "电气设备",
+                    "销量环比",
+                    "风光政策",
+                    "利好"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电气设备",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "电,气,设,备,行,业,：,9,月,新,势,力,销,量,环,比,超,预,期, , 风,光,政,策,利,好,频,出",
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

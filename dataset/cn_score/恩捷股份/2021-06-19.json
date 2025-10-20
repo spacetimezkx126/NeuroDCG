@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "云 南 区 域 股 市 周 报 ： 板 块 总 市 值 涨 8 亿  恩 捷 股 份 成 板 块 市 值 冠 军",
+            "features": {
+                "keywords": [
+                    "云南",
+                    "区域股市",
+                    "板块总市值",
+                    "恩捷股份",
+                    "市值冠军"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "区域性股票市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "云 南 区 域 股 市 周 报 ： 板 块 总 市 值 涨 8 亿  恩 捷 股 份 成 板 块 市 值 冠 军",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2021-06-19",
+            "original_text": "上 市 公 司 正 负 面 新 闻 2 0 2 1 年 6 月 1 9 日 星 期 六",
+            "features": {
+                "keywords": [
+                    "上市公司",
+                    "正面新闻",
+                    "负面新闻"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "上 市 公 司 正 负 面 新 闻 2 0 2 1 年 6 月 1 9 日 星 期 六",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 6,
+                "Time_Proximity": 3,
+                "Headline_Structure": 5,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

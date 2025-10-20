@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "格力地产一字跌停 昨日董事长被证监会立案调查 董监高成员异常事件",
+            "features": {
+                "keywords": [
+                    "格力地产",
+                    "一字跌停",
+                    "董事长",
+                    "证监会",
+                    "立案调查",
+                    "董监高成员",
+                    "异常事件"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "格力地产一字跌停 昨日董事长被证监会立案调查 董监高成员异常事件",
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "2023-12-31",
+            "original_text": "A股12月31日房企股开盘：南山控股涨9.57%",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "房企股",
+                    "开盘",
+                    "南山控股",
+                    "涨9.57%"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股12月31日房企股开盘：南山控股涨9.57%",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]
