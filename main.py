@@ -26,7 +26,7 @@ from model import *
 
 
 parser = argparse.ArgumentParser(description='Model Training')
-parser.add_argument('--device', type=int, default=0, help='Which gpu to use if any (default: 0)')
+parser.add_argument('--device', type=int, default=1, help='Which gpu to use if any (default: 0)')
 parser.add_argument('--batch_size', type=int, default=1, help='Input batch size for training (default: 32)')
 parser.add_argument('--epochs', type=int, default=5, help='Number of epochs to train (default: 100)')
 parser.add_argument('--lr', type=float, default=1e-4, help='Learning rate (default: 0.01)')
@@ -796,7 +796,26 @@ class ProcessedDataset(Dataset):
             pickle.dump(self.hetero_graphs_test, f)
         return hetero_graphs
 
-
+def edge_difference(edges1, edges2):
+    """
+    计算边集的差集 edges1 - edges2
+    edges1: shape [2, N]
+    edges2: shape [2, M]
+    return: shape [2, K] 的边集差集
+    """
+    # 将边转换为元组的集合
+    edges1_set = set(tuple(edge.tolist()) for edge in edges1.T)
+    edges2_set = set(tuple(edge.tolist()) for edge in edges2.T)
+    
+    # 计算差集
+    diff_set = edges1_set - edges2_set
+    
+    if len(diff_set) == 0:
+        return torch.empty((2, 0), dtype=edges1.dtype)
+    
+    # 转换回tensor
+    diff_edges = torch.tensor(list(diff_set)).T
+    return diff_edges
 
 if __name__ == '__main__':
     dataset = ProcessedDataset(data_path = "./multi-ts/causal-ts", news_path = './dataset/cn_score', price_path = './dataset/CMIN-CN/price/preprocessed')
@@ -804,13 +823,16 @@ if __name__ == '__main__':
     phase = [10]
     import numpy as np
     metadata = dataset.metadata
+    dict1 = "./dict/dict_cn.pkl"
+    vocab = pkl.load(open(dict1,'rb'))
+    inverse = {vocab[key]:key for key in vocab}
     metadata = (metadata[0],metadata[1]+[('price','rev_to','score'),('price','rev_to','sector'),('price','rev_to','virtual'),('price','rev_to','other'),('price','rev_to','news')])
-    for i in range(5):
+    for i in range(1):
         model = NeuroDCG(metadata = metadata)
-        device = torch.device("cuda:0")
+        device = torch.device("cuda:1")
         model.to(device)
         optimizer = optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
-        loss_fn = nn.BCEWithLogitsLoss(pos_weight = torch.tensor([0.75]).to(device))
+        loss_fn = nn.BCEWithLogitsLoss(pos_weight = torch.tensor([0.7]).to(device))
         for epoch in range(epochs):
             dataset.mode = 'train'
             train_loader = DataLoader(dataset, batch_size=1, shuffle=True)
@@ -845,7 +867,7 @@ if __name__ == '__main__':
                 train_acc_con = accuracy_score(true_labels.detach().cpu().numpy(), predictions_con.detach().cpu().numpy())
                 loss1 = loss_fn(output, true_labels.float().unsqueeze(-1))
                 loss2 = loss_fn(out_cls, true_labels.float().unsqueeze(-1))
-                loss = loss2 + F.mse_loss(simu_all, grad_diff_all)
+                loss = loss1 + loss2 + F.mse_loss(simu_all, grad_diff_all)
                 loss.backward()
                 i += 1
                 optimizer.step()
@@ -898,8 +920,69 @@ if __name__ == '__main__':
                 predi_all = []
                 predi_con_all = []
                 true_all = []
+
                 for data in test_loader:
-                    output, total_rank, ranks, out_cls, path, map_path, simu_all, grad_diff_all,_,_,_,_ = model(data.to(device),epoch = 'e')
+                    output, total_rank, ranks, out_cls, path, map_path, simu_all, grad_diff_all,edge_index_news, selected_edge_index_news, edge_index_keywords, selected_edge_index_keywords = model(data.to(device),epoch = 'e')
+                    e_d = edge_difference(edge_index_news, selected_edge_index_news)
+                    test = ""
+                    if i == len(test_loader) - 2:
+                        for e in e_d.T:
+                            # print(e)
+                            # print(data['y'].x,data['y'].x.shape)
+                            news = (data['news'].x)[e[0]]
+                            # print(news)
+                            test = test + str((data['y'].x)[e[1]])+"\n"
+                            for kw in news:
+                                test += inverse[int(kw)] +" "
+                            test += "\n"
+                            test = test +str(e)+"\n"
+                        test1 = ""
+                        for e in selected_edge_index_news.T:
+                            # print(e)
+                            news = (data['news'].x)[e[0]]
+                            test1 = test1 + str((data['y'].x)[e[1]])+"\n"
+                            for kw in news:
+                                test1 += inverse[int(kw)] +" "
+                            test1 += "\n"
+                            test1 = test1+ str(e)+"\n"
+                        with open(str(epoch)+"test_news_del.txt","w") as f:
+                            f.write(test)
+                            f.close()
+                        with open(str(epoch)+"test_nes_rest.txt","w")as f:
+                            f.write(test1)
+                            f.close()
+        
+                        e_d = edge_difference(edge_index_keywords, selected_edge_index_keywords)
+                        test = ""
+                        for e in e_d.T:
+                            # print(e)
+                            # print(edge_index_keywords.shape)
+                            # print(edge_index_news, e)
+                            news = (data['keywords'].x)[e[0]]
+                            # print(data['y'].x.shape)
+                            pind = edge_index_news[1][list(edge_index_news[0]).index(int(e[1]))]
+                            test = test + str((data['y'].x)[pind])+"\n"
+                            for kw in news:
+                                test += inverse[int(kw)] +" "
+                            test += "\n"
+                            test = test+str(e)+"\n"
+                        test1 = ""
+                        for e in selected_edge_index_keywords.T:
+                            # print(e)
+                            # print(edge_index_news, e)
+                            pind = edge_index_news[1][list(edge_index_news[0]).index(int(e[1]))]
+                            test1 = test1 + str((data['y'].x)[pind])+"\n"
+                            news = (data['keywords'].x)[e[0]]
+                            for kw in news:
+                                test1 += inverse[int(kw)] +" "
+                            test1 += "\n"
+                            test1 =test1+str(e)+"\n"
+                        with open(str(epoch)+"test_keywords_del.txt","w") as f:
+                            f.write(test)
+                            f.close()
+                        with open(str(epoch)+"test_keywords_rest.txt","w")as f:
+                            f.write(test1)
+                            f.close()
                     total_rank_all_test += np.array([b.detach().cpu().numpy() for b in total_rank])
                     total_count_all_test += np.array([b.shape[0] for b in ranks])
                     predictions = (torch.sigmoid(output)> 0.5).int()

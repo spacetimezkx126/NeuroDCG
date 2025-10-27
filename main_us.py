@@ -350,8 +350,6 @@ class ProcessedDataset(Dataset):
                 padded_text = [self._tokenize_and_pad_text("None")]
                 padded_text_pad = self._pad_texts_to_equal_length([[]],max_docs = 8,max_seq_len = 40)
 
-
-            
             other_feature_o = self.get_other_features(comp, data_id)
             keywords , sectors, sentiment_score, policy_related,investement_strategy,causal_factor,causal_impact,affected_by_time_series,ts_effect_direction = other_feature_o
             
@@ -793,12 +791,13 @@ if __name__ == '__main__':
     metadata = dataset.metadata
     metadata = (metadata[0],metadata[1]+[('price','rev_to','score'),('price','rev_to','sector'),('price','rev_to','virtual'),('price','rev_to','other'),('price','rev_to','news')])
     for i in range(5):
+        print(i)
         model = NeuroDCG(metadata = metadata)
         optimizer = optim.Adam(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
         device = torch.device("cuda:0")
         model.to(device)
         # pos_weight = torch.tensor([1]
-        loss_fn = nn.BCEWithLogitsLoss(torch.tensor([1])).to(device)
+        loss_fn = nn.BCEWithLogitsLoss(torch.tensor([0.9])).to(device)
     
         for epoch in range(epochs):
             dataset.mode = 'train'
@@ -908,55 +907,56 @@ if __name__ == '__main__':
                 for data in test_loader:
                     # output, _, _, out_cls, _, _, _, _ = model(data.to(device),epoch='e')
                     output, total_rank, ranks, out_cls, path, map_path, simu_all, grad_diff_all, edge_index_news, selected_edge_index_news, edge_index_keywords, selected_edge_index_keywords = model(data.to(device),epoch = 'e')
-                    # e_d = edge_difference(edge_index_news, selected_edge_index_news)
-                    # test = ""
-                    # for e in e_d.T:
-                    #     # print(e)
-                    #     news = (data['news'].x)[e[0]]
-                    #     # print(news)
-                    #     for kw in news:
-                    #         test += inverse[int(kw)] +" "
-                    #     test += "\n"
-                    #     test = test +str(e)+"\n"
-                    # test1 = ""
-                    # for e in selected_edge_index_news.T:
-                    #     # print(e)
-                    #     news = (data['news'].x)[e[0]]
-                    #     for kw in news:
-                    #         test1 += inverse[int(kw)] +" "
-                    #     test1 += "\n"
-                    #     test1 = test1+ str(e)+"\n"
-                    # with open(str(epoch)+"test_news_del.txt","w") as f:
-                    #     f.write(test)
-                    #     f.close()
-                    # with open(str(epoch)+"test_nes_rest.txt","w")as f:
-                    #     f.write(test1)
-                    #     f.close()
-    
-                    # e_d = edge_difference(edge_index_keywords, selected_edge_index_keywords)
-                    # test = ""
-                    # for e in e_d.T:
-                    #     # print(e)
-                    #     news = (data['keywords'].x)[e[0]]
-                    #     # print(news)
-                    #     for kw in news:
-                    #         test += inverse[int(kw)] +" "
-                    #     test += "\n"
-                    #     test = test+str(e)+"\n"
-                    # test1 = ""
-                    # for e in selected_edge_index_news.T:
-                    #     # print(e)
-                    #     news = (data['keywords'].x)[e[0]]
-                    #     for kw in news:
-                    #         test1 += inverse[int(kw)] +" "
-                    #     test1 += "\n"
-                    #     test1 =test1+str(e)+"\n"
-                    # with open(str(epoch)+"test_keywords_del.txt","w") as f:
-                    #     f.write(test)
-                    #     f.close()
-                    # with open(str(epoch)+"test_keywords_rest.txt","w")as f:
-                    #     f.write(test1)
-                    #     f.close()
+                    e_d = edge_difference(edge_index_news, selected_edge_index_news)
+                    test = ""
+                    if i == len(test_loader) - 2:
+                        for e in e_d.T:
+                            news = (data['news'].x)[e[0]]
+                            test = test + str((data['y'].x)[e[1]])+"\n"
+                            for kw in news:
+                                test += inverse[int(kw)] +" "
+                            test += "\n"
+                            test = test +str(e)+"\n"
+                        test1 = ""
+                        for e in selected_edge_index_news.T:
+                            news = (data['news'].x)[e[0]]
+                            test1 = test1 + str((data['y'].x)[e[1]])+"\n"
+                            for kw in news:
+                                test1 += inverse[int(kw)] +" "
+                            test1 += "\n"
+                            test1 = test1+ str(e)+"\n"
+                        with open(str(epoch)+"test_news_del.txt","w") as f:
+                            f.write(test)
+                            f.close()
+                        with open(str(epoch)+"test_nes_rest.txt","w")as f:
+                            f.write(test1)
+                            f.close()
+        
+                        e_d = edge_difference(edge_index_keywords, selected_edge_index_keywords)
+                        test = ""
+                        for e in e_d.T:
+                            news = (data['keywords'].x)[e[0]]
+                            pind = edge_index_news[1][list(edge_index_news[0]).index(int(e[1]))]
+                            test = test + str((data['y'].x)[pind])+"\n"
+                            for kw in news:
+                                test += inverse[int(kw)] +" "
+                            test += "\n"
+                            test = test+str(e)+"\n"
+                        test1 = ""
+                        for e in selected_edge_index_keywords.T:
+                            pind = edge_index_news[1][list(edge_index_news[0]).index(int(e[1]))]
+                            test1 = test1 + str((data['y'].x)[pind])+"\n"
+                            news = (data['keywords'].x)[e[0]]
+                            for kw in news:
+                                test1 += inverse[int(kw)] +" "
+                            test1 += "\n"
+                            test1 =test1+str(e)+"\n"
+                        with open(str(epoch)+"test_keywords_del.txt","w") as f:
+                            f.write(test)
+                            f.close()
+                        with open(str(epoch)+"test_keywords_rest.txt","w")as f:
+                            f.write(test1)
+                            f.close()
                     total_rank_all_test += np.array([b.detach().cpu().numpy() for b in total_rank])
                     total_count_all_test += np.array([b.shape[0] for b in ranks])
                     predictions = (torch.sigmoid(output)> 0.5).int()

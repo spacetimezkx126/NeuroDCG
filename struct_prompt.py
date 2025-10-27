@@ -5,7 +5,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch_geometric.loader import DataLoader
 from torch_geometric.data import Dataset
-from thop import profile, clever_format
+# from thop import profile, clever_format
 import torch.optim as optim
 from torch.nn import functional as F
 from torch_geometric.nn import GCNConv, GATConv, HeteroConv, Linear
