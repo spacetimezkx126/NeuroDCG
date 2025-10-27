@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "SHAREHOLDER ALERT BY FORMER LOUISIANA ATTORNEY GENERAL: KSF REMINDS ELAN, FSCT, R, WFC INVESTORS of Lead Plaintiff Deadline in Class Action Lawsuits",
+            "features": {
+                "keywords": [
+                    "SHAREHOLDER ALERT",
+                    "ELAN",
+                    "FSCT",
+                    "WFC",
+                    "Class Action Lawsuits"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-06-10",
+            "original_text": "Wells Fargo continues work from home policy to September: Bloomberg News",
+            "features": {
+                "keywords": [
+                    "Wells Fargo",
+                    "work from home",
+                    "policy",
+                    "September"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

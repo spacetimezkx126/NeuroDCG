@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "J.P. Morgan Invests €4.3 Million in Skills Development for the Young and Long-Term Unemployed in Paris",
+            "features": {
+                "keywords": [
+                    "J.P. Morgan",
+                    "Invests",
+                    "Skills Development",
+                    "Paris"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "education"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Macron rolls out red carpet to JPMorgan, global CEOs in post-Brexit push",
+            "features": {
+                "keywords": [
+                    "Macron",
+                    "red carpet",
+                    "JPMorgan",
+                    "global CEOs",
+                    "post-Brexit"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "politics",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

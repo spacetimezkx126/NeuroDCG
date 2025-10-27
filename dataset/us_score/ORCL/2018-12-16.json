@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-16",
+            "original_text": "Better Cloud Stock: Veeva Systems vs. Salesforce",
+            "features": {
+                "keywords": [
+                    "cloud stock",
+                    "Veeva Systems",
+                    "Salesforce"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "cloud computing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 10,
+                "Market_Scope": 6,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-16",
+            "original_text": "Oracle, Nike, Fed Interest Rates and More for Investors to Watch This Week",
+            "features": {
+                "keywords": [
+                    "Oracle",
+                    "Nike",
+                    "Fed Interest Rates"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "retail",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 10,
+                "Time_Proximity": 2,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

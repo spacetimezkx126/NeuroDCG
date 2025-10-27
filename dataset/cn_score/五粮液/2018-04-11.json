@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "冲刺完了还要搏命，泸州老窖如何重返江湖一线？",
+            "features": {
+                "keywords": [
+                    "泸州老窖",
+                    "搏命",
+                    "重返",
+                    "一线"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "白酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 4,
+                "Headline_Structure": 9,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "",
+            "original_text": "稳健型投资首选 万盈金融的防守型平台战略",
+            "features": {
+                "keywords": [
+                    "稳健型投资",
+                    "万盈金融",
+                    "防守型",
+                    "平台战略"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 4,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 5,
+                "Time_Proximity": 2,
+                "Headline_Structure": 7,
+                "Source_Recency": 1
+            }
+        }
+    ]
+]

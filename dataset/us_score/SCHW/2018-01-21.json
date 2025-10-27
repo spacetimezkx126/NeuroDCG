@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Here’s a way to get a pension-like benefit in retirement",
+            "features": {
+                "keywords": [
+                    "pension-like",
+                    "benefit",
+                    "retirement"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "financial services",
+                    "retirement planning"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Here’s a way to get a pension-like benefit in retirement",
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 1,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Requiem Of A GE Bull",
+            "features": {
+                "keywords": [
+                    "GE",
+                    "bull",
+                    "requiem"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial",
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "Requiem Of A GE Bull",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【建投分析】温氏、正邦发布5月生猪销售简报，喜忧参半",
+            "features": {
+                "keywords": [
+                    "温氏",
+                    "正邦",
+                    "生猪销售",
+                    "简报",
+                    "喜忧参半"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "养殖业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中公教育、正邦科技被纳入中证500指数",
+            "features": {
+                "keywords": [
+                    "中公教育",
+                    "正邦科技",
+                    "中证500指数"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "教育",
+                    "科技",
+                    "农业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "猪肉股持续低迷，傲农生物等多股跌幅明显",
+            "features": {
+                "keywords": [
+                    "猪肉股",
+                    "低迷",
+                    "傲农生物",
+                    "跌幅"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "养殖业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

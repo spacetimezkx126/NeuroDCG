@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "time": "2020-04-01",
+            "original_text": "事故通报",
+            "features": {
+                "keywords": [
+                    "事故",
+                    "通报"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "保险",
+                    "交通运输"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "事故通报",
+                "Correlation": 1,
+                "Sentiment": 2,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 2,
+                "Entity_Density": 1,
+                "Market_Scope": 1,
+                "Time_Proximity": 5,
+                "Headline_Structure": 4,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

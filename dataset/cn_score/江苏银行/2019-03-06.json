@@ -1,0 +1,103 @@
+[
+    [
+        {
+            "time": "2023-03-06",
+            "original_text": "A股共发生84宗大宗交易成交23.57亿元（3月6日）",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "大宗交易",
+                    "成交额"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-03-06",
+            "original_text": "江苏银行今日大宗交易成交3519.08万股，成交价6.72元折价10.88%",
+            "features": {
+                "keywords": [
+                    "江苏银行",
+                    "大宗交易",
+                    "折价"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-03-06",
+            "original_text": "江苏这家银行上榜福布斯发布世界最佳银行榜",
+            "features": {
+                "keywords": [
+                    "江苏银行",
+                    "福布斯",
+                    "世界最佳银行榜"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,81 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "午市前瞻：港股走势倾向横行 消息利好下可上29000点",
+            "features": {
+                "keywords": [
+                    "港股",
+                    "走势",
+                    "横行",
+                    "消息",
+                    "利好",
+                    "29000点"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "港股"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "6月机械设备行业动态报告:5月挖掘机销量略有下滑,科创板相关公司注册生效提振高端装备制造业景气度 盈利能力下降",
+            "features": {
+                "keywords": [
+                    "机械设备",
+                    "动态报告",
+                    "挖掘机",
+                    "销量",
+                    "下滑",
+                    "科创板",
+                    "高端装备制造业",
+                    "景气度",
+                    "盈利能力",
+                    "下降"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "机械设备",
+                    "高端装备制造业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

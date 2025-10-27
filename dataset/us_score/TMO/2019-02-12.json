@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "IVW, MDT, TMO, NEE: ETF Outflow Alert",
+            "features": {
+                "keywords": [
+                    "ETF",
+                    "Outflow",
+                    "IVW",
+                    "MDT",
+                    "TMO",
+                    "NEE"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "healthcare",
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 2,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Pacific Biosciences (PACB) Incurs Q4 Loss, Revenues Fall Y/Y",
+            "features": {
+                "keywords": [
+                    "Pacific Biosciences",
+                    "PACB",
+                    "Q4 Loss",
+                    "Revenues Fall",
+                    "Y/Y"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "biotechnology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 2,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2019-02-13",
+            "original_text": "Lindsay Corporation (LNN) Ex-Dividend Date Scheduled for February 13, 2019",
+            "features": {
+                "keywords": [
+                    "Lindsay Corporation",
+                    "LNN",
+                    "Ex-Dividend",
+                    "Date Scheduled"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrials"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 2,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

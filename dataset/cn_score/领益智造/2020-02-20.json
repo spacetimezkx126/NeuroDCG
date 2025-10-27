@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-02-20",
+            "original_text": "A股共发生59宗大宗交易成交17.74亿元（2月20日）",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "大宗交易",
+                    "59宗",
+                    "17.74亿元"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "全市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-02-20",
+            "original_text": "领益智造现1笔大宗交易 共成交1,204.20万元",
+            "features": {
+                "keywords": [
+                    "领益智造",
+                    "大宗交易",
+                    "1笔",
+                    "1,204.20万元"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电子制造"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

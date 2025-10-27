@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "通风报信、承揽业务 中国中铁子公司员工受贿近30万 其他违规处罚",
+            "features": {
+                "keywords": [
+                    "中国中铁",
+                    "子公司",
+                    "员工受贿",
+                    "违规处罚"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "建筑",
+                    "基建"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 4,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中国中铁迈上质量强企新征程",
+            "features": {
+                "keywords": [
+                    "中国中铁",
+                    "质量强企",
+                    "新征程"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "建筑",
+                    "基建"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "Six months of #MeToo: Hopes are high for lasting impact",
+            "features": {
+                "keywords": [
+                    "#MeToo",
+                    "high hopes",
+                    "lasting impact"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "social issues",
+                    "corporate governance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 8,
+                "Entity_Density": 1,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-04-20",
+            "original_text": "[$$] Attack of the Killer Cappuccino",
+            "features": {
+                "keywords": [
+                    "cappuccino",
+                    "attack",
+                    "killer"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods",
+                    "retail"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 6,
+                "Entity_Density": 1,
+                "Market_Scope": 7,
+                "Time_Proximity": 4,
+                "Headline_Structure": 10,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "Roche's Kadcyla Halves Death Risk in Breast Cancer Study",
+            "features": {
+                "keywords": [
+                    "Kadcyla",
+                    "halves death risk",
+                    "breast cancer",
+                    "positive trial result"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-03-16",
+            "original_text": "Conatus' Emricasan Misses Primary Endpoint in Mid-Stage Study",
+            "features": {
+                "keywords": [
+                    "Emricasan",
+                    "misses primary endpoint",
+                    "mid-stage study",
+                    "negative trial result"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "biotechnology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

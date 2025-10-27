@@ -1,0 +1,113 @@
+[
+    [
+        {
+            "time": "2019-05",
+            "original_text": "报告 | 2019年5月江西省A股上市公司市值排行榜",
+            "features": {
+                "keywords": [
+                    "江西省",
+                    "A股",
+                    "上市公司",
+                    "市值",
+                    "排行榜"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "综合"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 2,
+                "Headline_Structure": 6,
+                "Source_Recency": 1
+            }
+        },
+        {
+            "time": "2019-05",
+            "original_text": "正邦科技（002157.SZ）：高增长、高弹性的生猪养殖上市公司，给予“买入”评级",
+            "features": {
+                "keywords": [
+                    "正邦科技",
+                    "生猪养殖",
+                    "买入评级",
+                    "高增长",
+                    "高弹性"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "畜牧"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "正邦科技（002157.SZ）：高增长、高弹性的生猪养殖上市公司，给予“买入”评级",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2019-05",
+            "original_text": "农林牧渔行业: 猪价创年内新高, 鸡苗价格遭遇腰斩",
+            "features": {
+                "keywords": [
+                    "农林牧渔",
+                    "猪价",
+                    "鸡苗价格",
+                    "年内新高",
+                    "腰斩"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "畜牧"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "mixed",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

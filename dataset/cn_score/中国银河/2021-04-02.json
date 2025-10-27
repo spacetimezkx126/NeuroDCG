@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中国银河证券重庆万象城营业部四员工替客户交易 ，被出具警示函 金融监管处罚",
+            "features": {
+                "keywords": [
+                    "中国银河证券",
+                    "重庆万象城",
+                    "员工",
+                    "代客交易",
+                    "警示函",
+                    "金融监管",
+                    "处罚"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "中国银河证券重庆万象城营业部四员工替客户交易 ，被出具警示函 金融监管处罚",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "社保QFII持股路径曝光，化工电子板块各有所有爱",
+            "features": {
+                "keywords": [
+                    "社保",
+                    "QFII",
+                    "持股路径",
+                    "化工",
+                    "电子",
+                    "板块"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "化工",
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "社保QFII持股路径曝光，化工电子板块各有所有爱",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

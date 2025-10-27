@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "time": "2018-02-28",
+            "original_text": "晚间重要公告2018年2月28日星期三",
+            "features": {
+                "keywords": [
+                    "晚间",
+                    "重要公告"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "晚间重要公告2018年2月28日星期三",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2018-02-28",
+            "original_text": "恒指2月跌6.2%，创两年来最大月度跌幅",
+            "features": {
+                "keywords": [
+                    "恒指",
+                    "2月",
+                    "跌幅",
+                    "两年来",
+                    "最大"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "指数"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "恒指2月跌6.2%，创两年来最大月度跌幅",
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2018-02-27",
+            "original_text": "【东吴环保袁理团队】每日集锦0227：《甘肃省推进绿色生态产业发展规划》已印发",
+            "features": {
+                "keywords": [
+                    "东吴环保",
+                    "袁理团队",
+                    "甘肃省",
+                    "绿色生态产业",
+                    "发展规划"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "环保",
+                    "绿色生态产业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "【东吴环保袁理团队】每日集锦0227：《甘肃省推进绿色生态产业发展规划》已印发",
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "不到一年涨两倍！这家公司获公募“一哥”顶格重仓",
+            "features": {
+                "keywords": [
+                    "涨两倍",
+                    "公募",
+                    "一哥",
+                    "顶格重仓"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "基金",
+                    "股票"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "下周1533亿市值限售股解禁，环比增加184.99% 解禁",
+            "features": {
+                "keywords": [
+                    "限售股",
+                    "解禁",
+                    "环比增加",
+                    "184.99%"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "股票市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

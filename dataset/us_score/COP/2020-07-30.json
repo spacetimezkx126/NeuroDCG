@@ -1,0 +1,400 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "US Indexes Close Mostly Lower Thursday After GDP Report",
+            "features": {
+                "keywords": [
+                    "Indexes",
+                    "Lower",
+                    "GDP Report"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "economy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-03",
+            "original_text": "Oil Slides Most in a Month on Grim Economic Signals",
+            "features": {
+                "keywords": [
+                    "Oil",
+                    "Slides",
+                    "Economic Signals"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-04",
+            "original_text": "ConocoPhillips (COP) Q2 Earnings Miss on Low Crude Prices",
+            "features": {
+                "keywords": [
+                    "ConocoPhillips",
+                    "Earnings",
+                    "Miss",
+                    "Low Crude Prices"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-05",
+            "original_text": "ConocoPhillips Earnings Lag Expectations on Weak Oil Market",
+            "features": {
+                "keywords": [
+                    "ConocoPhillips",
+                    "Earnings",
+                    "Lag",
+                    "Weak Oil Market"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-06",
+            "original_text": "Total and Apache Stocks: 2 Winners From Otherwise Dismal Oil Earnings",
+            "features": {
+                "keywords": [
+                    "Total",
+                    "Apache",
+                    "Winners",
+                    "Dismal Oil Earnings"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-07",
+            "original_text": "ConocoPhillips' Earnings Tumble Along With Oil Prices",
+            "features": {
+                "keywords": [
+                    "ConocoPhillips",
+                    "Earnings",
+                    "Tumble",
+                    "Oil Prices"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-08",
+            "original_text": "How Does ConocoPhillips's Debt Look Like?",
+            "features": {
+                "keywords": [
+                    "ConocoPhillips",
+                    "Debt"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-09",
+            "original_text": "ConocoPhillips (COP) Reports Q2 Loss, Misses Revenue Estimates",
+            "features": {
+                "keywords": [
+                    "ConocoPhillips",
+                    "Loss",
+                    "Revenue Estimates"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-10",
+            "original_text": "ConcoPhillips posts wider-than-expected adjusted loss as weak oil price, slack demand during pandemic weigh",
+            "features": {
+                "keywords": [
+                    "ConocoPhillips",
+                    "Loss",
+                    "Weak Oil Price",
+                    "Slack Demand",
+                    "Pandemic"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-11",
+            "original_text": "ConocoPhillips to reverse most output cuts by end of third quarter",
+            "features": {
+                "keywords": [
+                    "ConocoPhillips",
+                    "Output Cuts",
+                    "Third Quarter"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-12",
+            "original_text": "ConocoPhillips Reports Second-Quarter 2020 Results",
+            "features": {
+                "keywords": [
+                    "ConocoPhillips",
+                    "Second-Quarter",
+                    "Results"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-13",
+            "original_text": "Stocks - Qualcomm, PayPal Rise Premarket; ConocoPhillips Falls",
+            "features": {
+                "keywords": [
+                    "Qualcomm",
+                    "PayPal",
+                    "Rise",
+                    "ConocoPhillips",
+                    "Falls"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "energy"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

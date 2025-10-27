@@ -1,0 +1,113 @@
+[
+    [
+        {
+            "time": "2023-03-15",
+            "original_text": "JPMorgan Chase, Home Depot share gains lead Dow's nearly 950-point surge",
+            "features": {
+                "keywords": [
+                    "JPMorgan Chase",
+                    "Home Depot",
+                    "share gains",
+                    "Dow",
+                    "950-point surge"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "JPMorgan Chase, Home Depot share gains lead Dow's nearly 950-point surge",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "Coronavirus brings no-contact food delivery to United States",
+            "features": {
+                "keywords": [
+                    "Coronavirus",
+                    "no-contact",
+                    "food delivery",
+                    "United States"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "logistics"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Coronavirus brings no-contact food delivery to United States",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "McDonald's hourly workers in U.S. demand paid sick leave as virus spreads",
+            "features": {
+                "keywords": [
+                    "McDonald's",
+                    "hourly workers",
+                    "paid sick leave",
+                    "virus spreads"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "food service",
+                    "labor"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "McDonald's hourly workers in U.S. demand paid sick leave as virus spreads",
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "ESG投资方兴未艾，银行理财、公募基金纷纷拥抱“新蓝海”",
+            "features": {
+                "keywords": [
+                    "ESG",
+                    "投资",
+                    "银行理财",
+                    "公募基金",
+                    "新蓝海"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "资产管理"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "ESG投资方兴未艾，银行理财、公募基金纷纷拥抱“新蓝海”",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-07",
+            "original_text": "7月银行发债规模降至515亿，其中永续债骤降94%",
+            "features": {
+                "keywords": [
+                    "银行发债",
+                    "永续债",
+                    "规模下降",
+                    "骤降"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "债券市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "7月银行发债规模降至515亿，其中永续债骤降94%",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

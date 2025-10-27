@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-02-28",
+            "original_text": "沪港通十大成交活跃股排名（2月28日）",
+            "features": {
+                "keywords": [
+                    "沪港通",
+                    "十大成交活跃股",
+                    "排名"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "港股相关"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 2,
+                "Entity_Density": 9,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-02-28",
+            "original_text": "ST保千里创A股跌停吉尼斯 平安银行逾期贷款最高",
+            "features": {
+                "keywords": [
+                    "ST保千里",
+                    "A股跌停",
+                    "平安银行",
+                    "逾期贷款"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "个股风险"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

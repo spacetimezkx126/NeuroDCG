@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "time": "2018-07-01",
+            "original_text": "Why Starbucks Stock Popped 13% in July",
+            "features": {
+                "keywords": [
+                    "Starbucks",
+                    "Stock",
+                    "Popped",
+                    "13%",
+                    "July"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 9,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-07-01",
+            "original_text": "Need to know: Washington wine, the Mercer Mega Block and Zillow's big money maker",
+            "features": {
+                "keywords": [
+                    "Washington wine",
+                    "Mercer Mega Block",
+                    "Zillow",
+                    "big money maker"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "real estate",
+                    "agriculture"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-07-01",
+            "original_text": "Is Globalization Over? Cricket Suggests Not",
+            "features": {
+                "keywords": [
+                    "Globalization",
+                    "Cricket"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "international trade"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 4,
+                "Duration": 8,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 4,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

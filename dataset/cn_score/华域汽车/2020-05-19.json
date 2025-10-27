@@ -1,0 +1,56 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "语音早报0519",
+            "features": {
+                "keywords": [
+                    "语音早报"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            }
+        },
+        {
+            "time": "",
+            "original_text": "上汽MAXUS EUNIQ 5、EUNIQ 6正式上市",
+            "features": {
+                "keywords": [
+                    "上汽MAXUS",
+                    "EUNIQ 5",
+                    "EUNIQ 6",
+                    "正式上市"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "上汽MAXUS EUNIQ 5、EUNIQ 6正式上市",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

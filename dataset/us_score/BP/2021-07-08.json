@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Wind and solar power surges in record year",
+            "features": {
+                "keywords": [
+                    "Wind",
+                    "solar",
+                    "power",
+                    "surges",
+                    "record"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "renewable energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Wind and solar power surges in record year",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Oil falls to lowest level in almost three weeks amid supply uncertainty",
+            "features": {
+                "keywords": [
+                    "Oil",
+                    "falls",
+                    "lowest",
+                    "supply",
+                    "uncertainty"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Oil falls to lowest level in almost three weeks amid supply uncertainty",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

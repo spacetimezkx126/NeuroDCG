@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "机械制造：油服已具备较强安全边际 荐10股",
+            "features": {
+                "keywords": [
+                    "机械制造",
+                    "油服",
+                    "安全边际",
+                    "荐股"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "机械制造",
+                    "能源服务"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "一周热点 | 蔚来ES8第一万台下线；通用宣布裁员15%；北汽新能源回应召回多款新能源车 员工变动",
+            "features": {
+                "keywords": [
+                    "蔚来ES8",
+                    "万台下线",
+                    "通用裁员",
+                    "北汽新能源",
+                    "召回",
+                    "员工变动"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车制造",
+                    "新能源汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

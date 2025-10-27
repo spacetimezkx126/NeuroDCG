@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "time": "2022-02-07",
+            "original_text": "A股共发生54宗大宗交易成交14.14亿元(2月7日)",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "大宗交易",
+                    "54宗",
+                    "14.14亿元"
+                ],
+                "transaction_volume_score": 0.78,
+                "market_activity_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "全市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

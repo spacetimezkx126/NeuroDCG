@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【东吴电新】9月海外电动车销量点评：欧洲大超预期，ID.3开始放量",
+            "features": {
+                "keywords": [
+                    "电动车",
+                    "销量",
+                    "欧洲",
+                    "ID.3",
+                    "放量"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源汽车",
+                    "电动车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "电力设备行业深度报告：20万元的特斯拉还有多远？",
+            "features": {
+                "keywords": [
+                    "电力设备",
+                    "特斯拉",
+                    "行业报告",
+                    "价格预测"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "新能源汽车",
+                    "电力设备"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

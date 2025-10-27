@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "独家：三大维度解读14家超市上市企业2017年报",
+            "features": {
+                "keywords": [
+                    "超市",
+                    "上市企业",
+                    "2017年报",
+                    "财务数据",
+                    "业绩分析"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "零售",
+                    "消费"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 2,
+                "Headline_Structure": 7,
+                "Source_Recency": 1
+            }
+        },
+        {
+            "time": "",
+            "original_text": "盒马鲜生“跑马圈地” 巨头扎堆引爆生鲜大战",
+            "features": {
+                "keywords": [
+                    "盒马鲜生",
+                    "跑马圈地",
+                    "生鲜市场",
+                    "竞争加剧"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "生鲜",
+                    "电商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 3,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 4,
+                "Headline_Structure": 9,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

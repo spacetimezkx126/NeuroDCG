@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-05-18",
+            "original_text": "5月18日午间行业关注",
+            "features": {
+                "keywords": [
+                    "午间",
+                    "行业",
+                    "关注"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-05-18",
+            "original_text": "[看好评级]机械行业点评：特斯拉成立中国子公司 外资发力国内市场",
+            "features": {
+                "keywords": [
+                    "看好评级",
+                    "机械行业",
+                    "特斯拉",
+                    "中国子公司",
+                    "外资",
+                    "国内市场"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "机械",
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

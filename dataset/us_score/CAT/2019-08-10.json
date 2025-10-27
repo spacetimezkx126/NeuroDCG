@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-17",
+            "original_text": "Machine Learning Engine Says S&P 500 Is 8 Times More Likely To Drop 5% In A Month Than To Rise 10%",
+            "features": {
+                "keywords": [
+                    "S&P 500",
+                    "Drop",
+                    "Rise",
+                    "Likely"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "market"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-17",
+            "original_text": "Dow Jones Today: We’ve Seen This Movie Before",
+            "features": {
+                "keywords": [
+                    "Dow Jones",
+                    "Movie",
+                    "Before"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "market"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

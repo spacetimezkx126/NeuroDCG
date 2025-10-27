@@ -1,0 +1,146 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "US Indexes Close Flat Friday",
+            "features": {
+                "keywords": [
+                    "Indexes",
+                    "Close",
+                    "Flat",
+                    "Friday"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "general market"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 3,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Exelon unit ComEd to pay $200 million fine in bribery case implicating Illinois House speaker",
+            "features": {
+                "keywords": [
+                    "Exelon",
+                    "ComEd",
+                    "bribery",
+                    "fine",
+                    "Illinois",
+                    "House speaker"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Exelon sub ComEd to pay $200 million to resolve DOJ investigation",
+            "features": {
+                "keywords": [
+                    "Exelon",
+                    "ComEd",
+                    "DOJ",
+                    "investigation",
+                    "resolve"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "ComEd Reaches Agreement to Resolve Justice Department Investigation",
+            "features": {
+                "keywords": [
+                    "ComEd",
+                    "Agreement",
+                    "Justice Department",
+                    "Investigation"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

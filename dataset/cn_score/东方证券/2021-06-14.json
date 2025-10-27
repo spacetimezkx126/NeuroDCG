@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【天风｜财富管理】三大能力与三分天下——大财富管理行业的现状与未来",
+            "features": {
+                "keywords": [
+                    "财富管理",
+                    "三大能力",
+                    "三分天下",
+                    "大财富管理",
+                    "行业现状",
+                    "未来"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "财富管理"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 4,
+                "Duration": 9,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2021-06-14",
+            "original_text": "【东方证券电话会议】如何看待近期的通胀和社融数据 @6月14日（周一）晚8点",
+            "features": {
+                "keywords": [
+                    "通胀",
+                    "社融数据",
+                    "东方证券",
+                    "电话会议"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "宏观经济",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

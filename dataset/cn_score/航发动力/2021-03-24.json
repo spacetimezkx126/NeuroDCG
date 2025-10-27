@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股收盘综述：上证指数下滑1.3%，碳中和、券商、白酒板块冲高回落",
+            "features": {
+                "keywords": [
+                    "上证指数",
+                    "碳中和",
+                    "券商",
+                    "白酒",
+                    "冲高回落"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "碳中和",
+                    "券商",
+                    "白酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 10,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "A股午盘综述：上证指数跌1.22%，碳中和、白酒、券商板块逆势走升",
+            "features": {
+                "keywords": [
+                    "上证指数",
+                    "碳中和",
+                    "白酒",
+                    "券商",
+                    "逆势走升"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "碳中和",
+                    "白酒",
+                    "券商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股午盘综述：上证指数跌1.22%，碳中和、白酒、券商板块逆势走升",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

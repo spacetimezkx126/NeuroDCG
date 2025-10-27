@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "恒指跌幅扩大至3%，地产股、内资金融股、资源股大跌",
+            "features": {
+                "keywords": [
+                    "恒指",
+                    "跌幅",
+                    "地产股",
+                    "内资金融股",
+                    "资源股"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产",
+                    "金融",
+                    "资源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "恒指跌幅扩大至3%，地产股、内资金融股、资源股大跌",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "恒指低开1.12%报24640.43点，中国平安跌超5%领跌蓝筹",
+            "features": {
+                "keywords": [
+                    "恒指",
+                    "低开",
+                    "中国平安",
+                    "蓝筹"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "恒指低开1.12%报24640.43点，中国平安跌超5%领跌蓝筹",
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

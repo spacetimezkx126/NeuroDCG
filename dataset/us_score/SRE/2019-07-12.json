@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2019-07-15",
+            "original_text": "San Diego Gas & Electric Company -- Moody's affirms San Diego Gas & Electric Company's ratings; outlook remains negative",
+            "features": {
+                "keywords": [
+                    "Moody's",
+                    "affirms",
+                    "ratings",
+                    "outlook",
+                    "negative"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy",
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "San Diego Gas & Electric Company -- Moody's affirms San Diego Gas & Electric Company's ratings; outlook remains negative",
+                "Correlation": 10,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2019-07-13",
+            "original_text": "Tropical Storm Barry Puts 70% of Newly Minted U.S. LNG Capacity at Risk",
+            "features": {
+                "keywords": [
+                    "Tropical Storm Barry",
+                    "LNG",
+                    "Capacity",
+                    "Risk"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "natural gas"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Tropical Storm Barry Puts 70% of Newly Minted U.S. LNG Capacity at Risk",
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

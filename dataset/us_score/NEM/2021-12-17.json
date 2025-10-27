@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "Newmont Corporation Announces Pricing of the Tender Offers for its 3.700% Notes due 2023 and Goldcorp’s 3.700% Notes due 2023",
+            "features": {
+                "keywords": [
+                    "Newmont",
+                    "Tender Offers",
+                    "Pricing",
+                    "Notes",
+                    "Goldcorp"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "mining"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "ASYMmetric ETFs Trust Buys Coterra Energy Inc, Baxter International Inc, Newmont Corp, Sells ...",
+            "features": {
+                "keywords": [
+                    "ASYMmetric ETFs Trust",
+                    "Buys",
+                    "Coterra Energy",
+                    "Baxter International",
+                    "Newmont Corp",
+                    "Sells"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy",
+                    "healthcare",
+                    "mining"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "mixed",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

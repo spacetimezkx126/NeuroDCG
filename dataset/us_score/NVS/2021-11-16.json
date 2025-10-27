@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Report says drugmakers impose unjustified U.S. price increases; spending on AbbVie drug rises $1.4 billion",
+            "features": {
+                "keywords": [
+                    "drugmakers",
+                    "unjustified",
+                    "price increases",
+                    "spending",
+                    "AbbVie"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "See Why Molecular Partners Shares Dropped To 52-Week Low During Tuesday Premarket?",
+            "features": {
+                "keywords": [
+                    "Molecular Partners",
+                    "Shares Dropped",
+                    "52-Week Low",
+                    "Premarket"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "biotechnology"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

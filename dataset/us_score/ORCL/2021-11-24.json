@@ -1,0 +1,112 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "New CEO appointments hit highest level in 3 years, led by women",
+            "features": {
+                "keywords": [
+                    "CEO appointments",
+                    "highest level",
+                    "led by women"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "management",
+                    "leadership"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Supply chain environment 'most dynamic I've ever seen,' Pure Storage CEO says",
+            "features": {
+                "keywords": [
+                    "supply chain",
+                    "dynamic",
+                    "Pure Storage"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "logistics"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "The Zacks Analyst Blog Highlights: Johnson & Johnson, Netflix, Oracle, PepsiCo and Verizon Communications",
+            "features": {
+                "keywords": [
+                    "Zacks Analyst Blog",
+                    "Johnson & Johnson",
+                    "Netflix",
+                    "Oracle",
+                    "PepsiCo",
+                    "Verizon Communications"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "entertainment",
+                    "technology",
+                    "consumer goods",
+                    "telecommunications"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

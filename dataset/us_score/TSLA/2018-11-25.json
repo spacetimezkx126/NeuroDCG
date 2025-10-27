@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Porsche Taycan to Drive Farther, Charge Faster",
+            "features": {
+                "keywords": [
+                    "Porsche",
+                    "Taycan",
+                    "Drive Farther",
+                    "Charge Faster"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive",
+                    "electric vehicles"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Porsche Taycan to Drive Farther, Charge Faster",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "[$$] Tesla Is the Hot Spot for Young Job Seekers",
+            "features": {
+                "keywords": [
+                    "Tesla",
+                    "Job Seekers",
+                    "Hot Spot"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "[$$] Tesla Is the Hot Spot for Young Job Seekers",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

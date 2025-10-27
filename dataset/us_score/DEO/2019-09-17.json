@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "UPDATE 2-Diageo averts strike with unions over pay at Scottish distilleries",
+            "features": {
+                "keywords": [
+                    "Diageo",
+                    "averts strike",
+                    "unions",
+                    "pay",
+                    "Scottish distilleries"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "alcohol",
+                    "manufacturing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-04-20",
+            "original_text": "Diageo's Scottish workers to go on strike after pay talks fail again",
+            "features": {
+                "keywords": [
+                    "Diageo",
+                    "Scottish workers",
+                    "strike",
+                    "pay talks fail"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "alcohol",
+                    "manufacturing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 2,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

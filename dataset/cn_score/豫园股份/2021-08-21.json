@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "今天，郭广昌挨了一棒",
+            "features": {
+                "keywords": [
+                    "郭广昌",
+                    "挨棒"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "今天，郭广昌挨了一棒",
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "郭广昌酒局或遇监管风波，曾70亿入股白酒，投资还是投机？",
+            "features": {
+                "keywords": [
+                    "郭广昌",
+                    "酒局",
+                    "监管风波",
+                    "70亿",
+                    "白酒"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "白酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "郭广昌酒局或遇监管风波，曾70亿入股白酒，投资还是投机？",
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

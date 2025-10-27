@@ -1,0 +1,104 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "医药行业中期策略：聚焦服务、优质医药、商业三条主线(附股)",
+            "features": {
+                "keywords": [
+                    "医药行业",
+                    "中期策略",
+                    "服务",
+                    "优质医药",
+                    "商业"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "医药行业投资策略报告：医保支出结构的改变支持创新药爆发",
+            "features": {
+                "keywords": [
+                    "医药行业",
+                    "投资策略",
+                    "医保支出",
+                    "结构改变",
+                    "创新药"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-06-14",
+            "original_text": "6月14日券商晨会研报汇编",
+            "features": {
+                "keywords": [
+                    "券商晨会",
+                    "研报汇编"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

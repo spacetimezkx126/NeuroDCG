@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "成品油价格战打响: 抽茅台、送红包 花式促销不断",
+            "features": {
+                "keywords": [
+                    "成品油",
+                    "价格战",
+                    "促销",
+                    "茅台",
+                    "红包"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "消费品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "抽茅台、送红包，成品油价格战打响！部分地区已进入“4元时代”",
+            "features": {
+                "keywords": [
+                    "成品油",
+                    "价格战",
+                    "4元时代",
+                    "促销"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "抽茅台、送红包，成品油价格战打响！部分地区已进入“4元时代”",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "国际油价腰斩 国内为何不减半？中石化官方如此回应",
+            "features": {
+                "keywords": [
+                    "国际油价",
+                    "腰斩",
+                    "中石化",
+                    "官方回应"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "政策"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

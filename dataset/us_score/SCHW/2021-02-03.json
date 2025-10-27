@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2021-01-01",
+            "original_text": "Biggest Online Brokers in 2021",
+            "features": {
+                "keywords": [
+                    "Biggest",
+                    "Online Brokers",
+                    "2021"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "brokers"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Biggest Online Brokers in 2021",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 3,
+                "Headline_Structure": 6,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "2021-01-01",
+            "original_text": "Ally Invest, other brokerages face disruptions amid 'unprecedented' trading volume",
+            "features": {
+                "keywords": [
+                    "Ally Invest",
+                    "brokerages",
+                    "disruptions",
+                    "unprecedented",
+                    "trading volume"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "brokers"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Ally Invest, other brokerages face disruptions amid 'unprecedented' trading volume",
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "步长制药阿达木单抗类似药进入I期临床",
+            "features": {
+                "keywords": [
+                    "步长制药",
+                    "阿达木单抗",
+                    "类似药",
+                    "I期临床"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "步长制药阿达木单抗类似药进入I期临床",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "医疗保健：国家组织药品集中采购和使用试点方案发布",
+            "features": {
+                "keywords": [
+                    "医疗保健",
+                    "国家组织",
+                    "药品集中采购",
+                    "试点方案"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "医疗保健：国家组织药品集中采购和使用试点方案发布",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 9,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

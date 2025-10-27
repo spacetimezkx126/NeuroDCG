@@ -1,0 +1,139 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Cramer's favorite market indicator is signaling a potential strong start to the week.",
+            "features": {
+                "keywords": [
+                    "Cramer",
+                    "market indicator",
+                    "strong start"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general market"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Cramer's favorite market indicator is signaling a potential strong start to the week.",
+                "Correlation": 3,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 1,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Here Are Two Dow Stocks To Buy For This Week",
+            "features": {
+                "keywords": [
+                    "Dow Stocks",
+                    "buy",
+                    "this week"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial",
+                    "technology"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 10,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "7 Reasons that Make Grainger (GWW) a Solid Investment Choice",
+            "features": {
+                "keywords": [
+                    "Grainger",
+                    "solid investment",
+                    "reasons"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial distribution"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Why Is Caterpillar (CAT) Down 4.1% Since its Last Earnings Report?",
+            "features": {
+                "keywords": [
+                    "Caterpillar",
+                    "down",
+                    "earnings report"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "construction",
+                    "mining"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

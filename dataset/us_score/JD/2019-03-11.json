@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "Was Trump’s Message to Kim Jong Un Aimed at Xi Jinping?",
+            "features": {
+                "keywords": [
+                    "Trump",
+                    "Kim Jong Un",
+                    "Xi Jinping",
+                    "geopolitical tensions"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "politics",
+                    "international relations"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 0,
+                "Sentiment": 0,
+                "Importance": 0,
+                "Impact": 0,
+                "Duration": 0,
+                "Entity_Density": 0,
+                "Market_Scope": 0,
+                "Time_Proximity": 0,
+                "Headline_Structure": 0,
+                "Source_Recency": 0
+            }
+        },
+        {
+            "time": "2018-04-20",
+            "original_text": "Don’t Let the Recent Bump in Alibaba Stock Fool You",
+            "features": {
+                "keywords": [
+                    "Alibaba",
+                    "stock bump",
+                    "market sentiment"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "e-commerce"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Don’t Let the Recent Bump in Alibaba Stock Fool You",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-05-10",
+            "original_text": "US-China Relations: Trust Deficit a Bigger Dampener than Trade",
+            "features": {
+                "keywords": [
+                    "US-China relations",
+                    "trust deficit",
+                    "trade tensions"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "international trade",
+                    "global economy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "US-China Relations: Trust Deficit a Bigger Dampener than Trade",
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

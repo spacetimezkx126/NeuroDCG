@@ -1,0 +1,100 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "年度品牌盛会倒  计  时！重磅议程先睹为快",
+            "features": {
+                "keywords": [
+                    "品牌盛会",
+                    "重磅议程"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 9,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 1,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 10,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "",
+            "original_text": "浙江发布高新技术企业百强榜单",
+            "features": {
+                "keywords": [
+                    "浙江",
+                    "高新技术",
+                    "百强榜单"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "淘宝（中国）软件一年利税超500亿元！",
+            "features": {
+                "keywords": [
+                    "淘宝",
+                    "利税",
+                    "500亿元"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 10,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "企业登记线上化，预约开户不出门 江苏银行助力企业开办“全链通”",
+            "features": {
+                "keywords": [
+                    "企业登记",
+                    "线上化",
+                    "江苏银行",
+                    "全链通"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "",
+            "original_text": "年报低估值高增长龙头股名单来了，最高股息率近7%",
+            "features": {
+                "keywords": [
+                    "年报",
+                    "低估值",
+                    "高增长",
+                    "龙头股",
+                    "股息率"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "股票市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

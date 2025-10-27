@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-15",
+            "original_text": "Honeywell Brings 296 Students from Across World to U.S. Space & Rocket Center for 10th Annual Space Camp",
+            "features": {
+                "keywords": [
+                    "Honeywell",
+                    "students",
+                    "Space Camp",
+                    "education"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "education",
+                    "aerospace"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-15",
+            "original_text": "Was Honeywell International Inc.'s (NYSE:HON) Earnings Decline Part Of A Broader Industry Downturn?",
+            "features": {
+                "keywords": [
+                    "Honeywell International",
+                    "earnings decline",
+                    "industry downturn"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial",
+                    "aerospace"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

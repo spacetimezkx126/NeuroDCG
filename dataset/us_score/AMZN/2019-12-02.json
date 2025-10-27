@@ -1,0 +1,178 @@
+[
+    [
+        {
+            "time": "2019-12-02",
+            "original_text": "['Trump', 'administration', 'threatens', '100%', 'tariffs', 'on', '$2.4', 'billion', 'in', 'French', 'goods']",
+            "features": {
+                "keywords": [
+                    "tariffs",
+                    "French goods",
+                    "Trump administration"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "trade",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Trump administration threatens 100% tariffs on $2.4 billion in French goods",
+                "Correlation": 5,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-12-02",
+            "original_text": "['The', 'Winners', 'and', 'Losers', 'of', 'Cyber', 'Monday']",
+            "features": {
+                "keywords": [
+                    "Cyber Monday",
+                    "winners",
+                    "losers"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail",
+                    "e-commerce"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "The Winners and Losers of Cyber Monday",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 1,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2019-12-02",
+            "original_text": "['Amazon', '(AMZN)', 'Set', 'to', 'Soar', 'Higher', 'This', 'Holiday', 'Season,', 'Says', 'Analyst']",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "holiday season",
+                    "analyst"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Amazon (AMZN) Set to Soar Higher This Holiday Season, Says Analyst",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-12-02",
+            "original_text": "['AWS', 'Announces', 'New', 'Quantum', 'Computing', 'Service', '(Amazon', 'Braket)', 'along', 'with', 'AWS', 'Center', 'for', 'Quantum', 'Computing', 'and', 'AWS', 'Quantum', 'Solutions', 'Lab']",
+            "features": {
+                "keywords": [
+                    "AWS",
+                    "quantum computing",
+                    "Amazon Braket"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "AWS Announces New Quantum Computing Service (Amazon Braket) along with AWS Center for Quantum Computing and AWS Quantum Solutions Lab",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2019-12-02",
+            "original_text": "['Stocks', '-', 'Wall', 'Street', 'Falters', 'After', 'Trump', 'Revives', 'Steel', 'Tariffs']",
+            "features": {
+                "keywords": [
+                    "steel tariffs",
+                    "Trump",
+                    "Wall Street"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "manufacturing",
+                    "trade"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Stocks - Wall Street Falters After Trump Revives Steel Tariffs",
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

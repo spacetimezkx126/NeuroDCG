@@ -1,0 +1,204 @@
+[
+    [
+        {
+            "time": "2018-10-12",
+            "original_text": "U.S. banks profit from higher rates, more loans and lower costs",
+            "features": {
+                "keywords": [
+                    "banks",
+                    "profit",
+                    "higher rates",
+                    "loans",
+                    "lower costs"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-10-12",
+            "original_text": "Stocks rally, ending 6-day losing streak",
+            "features": {
+                "keywords": [
+                    "rally",
+                    "losing streak"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-10-12",
+            "original_text": "Wells Fargo profit rises, cost cuts paying off",
+            "features": {
+                "keywords": [
+                    "Wells Fargo",
+                    "profit",
+                    "cost cuts"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Wells Fargo profit rises, cost cuts paying off",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-10-12",
+            "original_text": "Dow trying to hold on to gains after erasing nearly 400-point gain",
+            "features": {
+                "keywords": [
+                    "Dow",
+                    "gains",
+                    "erasing",
+                    "point gain"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Dow trying to hold on to gains after erasing nearly 400-point gain",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-10-12",
+            "original_text": "Big banks are dodging pressures from the Fed",
+            "features": {
+                "keywords": [
+                    "big banks",
+                    "Fed",
+                    "pressures"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-10-12",
+            "original_text": "Wells Fargo earnings show improvement in third quarter",
+            "features": {
+                "keywords": [
+                    "Wells Fargo",
+                    "earnings",
+                    "improvement",
+                    "third quarter"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Wells Fargo earnings show improvement in third quarter",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

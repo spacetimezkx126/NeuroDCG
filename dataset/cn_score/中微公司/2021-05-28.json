@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "传说中年终奖7000万元的基金经理 居然也在为学区房发愁",
+            "features": {
+                "keywords": [
+                    "年终奖",
+                    "7000万元",
+                    "基金经理",
+                    "学区房"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "传说中年终奖7000万元的基金经理 居然也在为学区房发愁",
+                "Correlation": 3,
+                "Sentiment": 4,
+                "Importance": 2,
+                "Impact": 2,
+                "Duration": 1,
+                "Entity_Density": 1,
+                "Market_Scope": 1,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中银证券 - - 机械设备：Applied Materials 21Q2业绩点评及电话会议纪要 - 处于最大数字化变革浪潮早期，半导体行业及设备行业迎来最强劲和持续增长【行业研究】",
+            "features": {
+                "keywords": [
+                    "中银证券",
+                    "机械设备",
+                    "Applied Materials",
+                    "21Q2业绩",
+                    "数字化变革",
+                    "半导体行业",
+                    "设备行业",
+                    "强劲增长"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "机械设备",
+                    "半导体"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中银证券 - - 机械设备：Applied Materials 21Q2业绩点评及电话会议纪要 - 处于最大数字化变革浪潮早期，半导体行业及设备行业迎来最强劲和持续增长【行业研究】",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

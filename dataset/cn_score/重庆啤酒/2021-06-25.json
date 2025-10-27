@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "酒股大涨，兰州黄河涨停，惠泉啤酒涨超7%，重庆啤酒、青岛啤酒涨超4%。",
+            "features": {
+                "keywords": [
+                    "酒股",
+                    "兰州黄河",
+                    "惠泉啤酒",
+                    "重庆啤酒",
+                    "青岛啤酒"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "食品饮料",
+                    "酿酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "酒股大涨，兰州黄河涨停，惠泉啤酒涨超7%，重庆啤酒、青岛啤酒涨超4%。",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "啤酒股异动，兰州黄河涨超7%。",
+            "features": {
+                "keywords": [
+                    "啤酒股",
+                    "兰州黄河"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "食品饮料",
+                    "酿酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "啤酒股异动，兰州黄河涨超7%。",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "重庆啤酒营收首破百亿元大关 加码高端参与行业前端竞赛。",
+            "features": {
+                "keywords": [
+                    "重庆啤酒",
+                    "营收",
+                    "高端",
+                    "行业前端竞赛"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "食品饮料",
+                    "酿酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "重庆啤酒营收首破百亿元大关 加码高端参与行业前端竞赛。",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 9,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "创,业,板,估,值,高,不,高,？,复,盘,史,上,3,次,大,牛,2,次,大,顶,！",
+            "features": {
+                "keywords": [
+                    "创业板",
+                    "估值",
+                    "复盘",
+                    "大牛",
+                    "大顶"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "成长股"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "创,业,板,估,值,高,不,高,？,复,盘,史,上,3,次,大,牛,2,次,大,顶,！",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "券,商,纷,纷,放,开,新,三,板,权,限,线,上,入,口,，,迎,增,量,业,务",
+            "features": {
+                "keywords": [
+                    "券商",
+                    "新三板",
+                    "权限",
+                    "增量业务"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "券商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "券,商,纷,纷,放,开,新,三,板,权,限,线,上,入,口,，,迎,增,量,业,务",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

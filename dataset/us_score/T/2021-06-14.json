@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2021-06-25",
+            "original_text": "'In the Heights' disappoints in box office debut",
+            "features": {
+                "keywords": [
+                    "In the Heights",
+                    "disappoints",
+                    "box office",
+                    "debut"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "2021-07-01",
+            "original_text": "‘Like Taxing Horseshoes’: Landlines Wane, Sap U.S. Broadband Aid",
+            "features": {
+                "keywords": [
+                    "Taxing",
+                    "Horseshoes",
+                    "Landlines",
+                    "Wane",
+                    "Sap",
+                    "U.S.",
+                    "Broadband",
+                    "Aid"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "telecommunications",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 8,
+                "Entity_Density": 1,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

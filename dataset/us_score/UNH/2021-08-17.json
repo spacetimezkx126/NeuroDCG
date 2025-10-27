@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "Dow Jones Slumps 400 Points; Home Depot Hit On Earnings, But 3 Recent IPOs Soar To New Highs",
+            "features": {
+                "keywords": [
+                    "Dow Jones",
+                    "Slumps",
+                    "Home Depot",
+                    "Earnings",
+                    "IPOs",
+                    "Soar"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "retail",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Dow Jones Slumps 400 Points; Home Depot Hit On Earnings, But 3 Recent IPOs Soar To New Highs",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "Here's Why You Should Retain UnitedHealth Group (UNH) Stock",
+            "features": {
+                "keywords": [
+                    "UnitedHealth",
+                    "Group",
+                    "Retain",
+                    "Stock"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Here's Why You Should Retain UnitedHealth Group (UNH) Stock",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

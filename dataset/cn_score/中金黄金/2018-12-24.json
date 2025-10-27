@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "有色金属行业一周回顾: 黄金股回调正是买入良机, 长期看好合盛硅业",
+            "features": {
+                "keywords": [
+                    "有色金属",
+                    "黄金股",
+                    "回调",
+                    "买入",
+                    "合盛硅业"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "有色金属",
+                    "黄金"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 3,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "有色行业周报: 美国准备取消俄铝制裁",
+            "features": {
+                "keywords": [
+                    "有色金属",
+                    "美国",
+                    "取消",
+                    "俄铝",
+                    "制裁"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "有色金属",
+                    "铝"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-11-14",
+            "original_text": "Dow Jones Today: Stocks Suffered From a Distinct Lack of Excitement",
+            "features": {
+                "keywords": [
+                    "Dow",
+                    "Jones",
+                    "Stocks",
+                    "Suffered",
+                    "Lack",
+                    "Excitement"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "general market"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 2,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 2,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-11-14",
+            "original_text": "The Daily Biotech Pulse: ASH Meeting Wraps, Fast Track Designation For Equillium, Pfizer To Buy $3M In ContraFect Shares",
+            "features": {
+                "keywords": [
+                    "Biotech",
+                    "ASH Meeting",
+                    "Fast Track",
+                    "Equillium",
+                    "Pfizer",
+                    "ContraFect"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "biotechnology",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

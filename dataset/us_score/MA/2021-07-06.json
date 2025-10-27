@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2018-06-28",
+            "original_text": "What to Make of the Bank Stress Test News",
+            "features": {
+                "keywords": [
+                    "Bank Stress Test",
+                    "financial stability",
+                    "regulatory compliance"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "banking"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "What to Make of the Bank Stress Test News",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2019-03-15",
+            "original_text": "Fidelity, BlackRock Lead Fintech Startup’s $600 Million Funding",
+            "features": {
+                "keywords": [
+                    "Fidelity",
+                    "BlackRock",
+                    "funding",
+                    "fintech"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Fidelity, BlackRock Lead Fintech Startup’s $600 Million Funding",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,81 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【机械*陈显帆】深度：行业单季度业绩增速放缓， 工程机械、油服等板块持续高景气 盈利能力下降",
+            "features": {
+                "keywords": [
+                    "机械",
+                    "行业",
+                    "单季度",
+                    "业绩增速",
+                    "放缓",
+                    "工程机械",
+                    "油服",
+                    "高景气",
+                    "盈利能力",
+                    "下降"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "机械",
+                    "工程机械",
+                    "油服"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "5G时代已至 如何在A股半导体板块寻机",
+            "features": {
+                "keywords": [
+                    "5G",
+                    "时代",
+                    "A股",
+                    "半导体",
+                    "寻机"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "半导体"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

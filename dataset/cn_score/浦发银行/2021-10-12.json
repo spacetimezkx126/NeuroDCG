@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "青岛浦发银行的多种不规范经营：贷款转保证金、收费无服务、理财存陷阱",
+            "features": {
+                "keywords": [
+                    "浦发银行",
+                    "不规范经营",
+                    "贷款转保证金",
+                    "收费无服务",
+                    "理财陷阱"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 10,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "网传浦发银行高管涉及某公司上市融资利益输送 当事人回应无事实依据",
+            "features": {
+                "keywords": [
+                    "浦发银行",
+                    "高管",
+                    "利益输送",
+                    "上市公司",
+                    "融资"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

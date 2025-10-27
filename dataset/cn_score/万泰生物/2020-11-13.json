@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2020-11-01",
+            "original_text": "疫苗行业深度报告系列三：乘风破浪 技术升级大周期开启；锐意进取 创新品种驱动成长可期",
+            "features": {
+                "keywords": [
+                    "疫苗",
+                    "技术升级",
+                    "创新品种",
+                    "成长可期"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医药",
+                    "生物科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 2,
+                "Headline_Structure": 8,
+                "Source_Recency": 1
+            }
+        },
+        {
+            "time": "2020-11-01",
+            "original_text": "2020年1-10月疫苗批签发：10月重磅品种增长平淡",
+            "features": {
+                "keywords": [
+                    "疫苗",
+                    "批签发",
+                    "重磅品种",
+                    "增长平淡"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医药",
+                    "生物科技"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

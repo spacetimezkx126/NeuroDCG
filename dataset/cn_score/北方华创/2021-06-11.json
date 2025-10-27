@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "百元股数量达163只，一日增加5只",
+            "features": {
+                "keywords": [
+                    "百元股",
+                    "数量",
+                    "增加"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "市场整体"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "晨会聚焦210611重点关注涂鸦智能的关键问题解析",
+            "features": {
+                "keywords": [
+                    "晨会",
+                    "聚焦",
+                    "涂鸦智能",
+                    "关键问题",
+                    "解析"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "智能设备"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 4,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

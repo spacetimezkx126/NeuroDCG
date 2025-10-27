@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "天齐锂业总裁吴薇任期未满辞职，今日股价收跌近5%，董监高成员变化",
+            "features": {
+                "keywords": [
+                    "天齐锂业",
+                    "总裁",
+                    "吴薇",
+                    "辞职",
+                    "股价下跌",
+                    "董监高"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源",
+                    "锂电池"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "天齐锂业总裁吴薇任期未满辞职，今日股价收跌近5%，董监高成员变化",
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "天齐锂业大跌7.26%，振幅8.34%",
+            "features": {
+                "keywords": [
+                    "天齐锂业",
+                    "大跌",
+                    "振幅"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源",
+                    "锂电池"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "天齐锂业大跌7.26%，振幅8.34%",
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 9,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

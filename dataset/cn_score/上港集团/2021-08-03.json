@@ -1,0 +1,143 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "1, 8, 倍, 芯, 片, 牛, 股, 突, 遭, 减, 持，, 低, 位, 板, 块, 崛, 起，, 北, 上, 资, 金, 潜, 伏, 这, 些, 低, 估, 值, 高, 增, 长, 股！, 中, 一, 签, 或, 赚, 4, 7, 万，, 史, 上, 最, 大, 肉, 签, 开, 启, 申, 购 , 减, 持, 股, 份",
+            "features": {
+                "keywords": [
+                    "芯片",
+                    "减持",
+                    "低位板块",
+                    "北上资金",
+                    "低估值高增长股"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "半导体"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "1, 8, 倍, 芯, 片, 牛, 股, 突, 遭, 减, 持，, 低, 位, 板, 块, 崛, 起，, 北, 上, 资, 金, 潜, 伏, 这, 些, 低, 估, 值, 高, 增, 长, 股！, 中, 一, 签, 或, 赚, 4, 7, 万，, 史, 上, 最, 大, 肉, 签, 开, 启, 申, 购 , 减, 持, 股, 份",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "低, 估, 值, 高, 增, 长, 股, 名, 单, 出, 炉 , 北, 上, 资, 金, 大, 手, 笔, 潜, 伏, 3, 0, 股",
+            "features": {
+                "keywords": [
+                    "低估值高增长股",
+                    "北上资金",
+                    "大手笔潜伏"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "低, 估, 值, 高, 增, 长, 股, 名, 单, 出, 炉 , 北, 上, 资, 金, 大, 手, 笔, 潜, 伏, 3, 0, 股",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "1, 4, 8, 公, 司, 利, 润, 不, 断, 改, 善 , 8, 5, 家, 步, 入, 绩, 优, 股, 行, 列",
+            "features": {
+                "keywords": [
+                    "公司利润改善",
+                    "绩优股"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "1, 4, 8, 公, 司, 利, 润, 不, 断, 改, 善 , 8, 5, 家, 步, 入, 绩, 优, 股, 行, 列",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-08-03",
+            "original_text": "A, 股, 8, 月, 3, 日, 地, 产, 股, 开, 盘：, 中, 国, 宝, 安, 跌, 1, ., 9, 3, %",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "地产股",
+                    "中国宝安",
+                    "下跌"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "A, 股, 8, 月, 3, 日, 地, 产, 股, 开, 盘：, 中, 国, 宝, 安, 跌, 1, ., 9, 3, %",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

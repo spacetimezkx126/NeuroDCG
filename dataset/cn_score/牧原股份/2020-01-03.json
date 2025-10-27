@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "2019-01-01",
+            "original_text": "2019猪企跑马圈地，单头猪利润今年还能再涨50%",
+            "features": {
+                "keywords": [
+                    "猪企",
+                    "利润",
+                    "上涨",
+                    "50%"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "养殖业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "2019猪企跑马圈地，单头猪利润今年还能再涨50%",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 4,
+                "Headline_Structure": 9,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2020-01-01",
+            "original_text": "2020年，我认为的A股投资机会",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "投资机会"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "2020年，我认为的A股投资机会",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

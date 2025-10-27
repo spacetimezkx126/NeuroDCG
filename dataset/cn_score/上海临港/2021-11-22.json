@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "上海临港新片区生产性服务业9个月营收520.8亿，同比增长39.8%",
+            "features": {
+                "keywords": [
+                    "上海临港",
+                    "生产性服务业",
+                    "营收",
+                    "同比增长",
+                    "39.8%"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "生产性服务业",
+                    "区域经济"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "上海临港新片区生产性服务业9个月营收520.8亿，同比增长39.8%",
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "上海临港10亿元小公募项目获上交所受理",
+            "features": {
+                "keywords": [
+                    "上海临港",
+                    "小公募",
+                    "上交所",
+                    "受理"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "房地产",
+                    "资本市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

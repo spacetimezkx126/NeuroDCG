@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中荷人寿净利润骤降超九成 高层动荡频繁、大股东北京银行频频踩雷 盈利能力下降",
+            "features": {
+                "keywords": [
+                    "中荷人寿",
+                    "净利润",
+                    "骤降",
+                    "高层动荡",
+                    "北京银行",
+                    "踩雷",
+                    "盈利能力"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "保险",
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "中荷人寿净利润骤降超九成 高层动荡频繁、大股东北京银行频频踩雷 盈利能力下降",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "北向资金连续3日净卖出逾百亿，万华化学遭大幅抛售8亿元",
+            "features": {
+                "keywords": [
+                    "北向资金",
+                    "净卖出",
+                    "万华化学",
+                    "抛售"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "北向资金连续3日净卖出逾百亿，万华化学遭大幅抛售8亿元",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

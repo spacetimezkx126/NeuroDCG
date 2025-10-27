@@ -1,0 +1,237 @@
+[
+    [
+        {
+            "time": "2023-01-05",
+            "original_text": "Bank of America Corp. stock falls Thursday, underperforms market",
+            "features": {
+                "keywords": [
+                    "Bank of America",
+                    "stock falls",
+                    "underperforms market"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 2,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-01-06",
+            "original_text": "Economist on recession risks: 'Getting a double dip is an exceptionally rare development'",
+            "features": {
+                "keywords": [
+                    "recession risks",
+                    "double dip",
+                    "rare development"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "economy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-01-07",
+            "original_text": "10 Biggest Banks in the World",
+            "features": {
+                "keywords": [
+                    "Biggest Banks",
+                    "World"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 3,
+                "Headline_Structure": 4,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2023-01-08",
+            "original_text": "Bank stocks fall as Fed's dovish message pulls down Treasury yields",
+            "features": {
+                "keywords": [
+                    "Bank stocks",
+                    "fall",
+                    "Fed's dovish message",
+                    "Treasury yields"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-01-09",
+            "original_text": "Stocks - Wall Street Opens Lower After Historic GDP Drop; Dow Down 480 Pts",
+            "features": {
+                "keywords": [
+                    "Wall Street",
+                    "Opens Lower",
+                    "GDP Drop",
+                    "Dow Down"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "economy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-01-10",
+            "original_text": "Disclosure-Shy Warren Buffett Must Really Like Bank of America Stock",
+            "features": {
+                "keywords": [
+                    "Warren Buffett",
+                    "Bank of America",
+                    "Stock"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-01-11",
+            "original_text": "Bitcoin's Hedge Fund Sharks Are Swimming With the Whales",
+            "features": {
+                "keywords": [
+                    "Bitcoin",
+                    "Hedge Fund",
+                    "Sharks",
+                    "Whales"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "cryptocurrency"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 2,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

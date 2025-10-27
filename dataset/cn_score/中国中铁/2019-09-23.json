@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "2023-09-19",
+            "original_text": "中国中铁(00390.HK)9月19日溢价9.05%增发17.27亿股A股",
+            "features": {
+                "keywords": [
+                    "中国中铁",
+                    "增发",
+                    "A股",
+                    "溢价",
+                    "9.05%"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "建筑",
+                    "基建"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-09-19",
+            "original_text": "中国中铁(00390.HK)选举苑宝印为职工代表监事",
+            "features": {
+                "keywords": [
+                    "中国中铁",
+                    "职工代表监事",
+                    "苑宝印"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

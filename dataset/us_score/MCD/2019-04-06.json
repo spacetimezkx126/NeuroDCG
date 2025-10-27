@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2019-01-02",
+            "original_text": "Why Starbucks Stock Could Keep Rewarding Investors in 2019",
+            "features": {
+                "keywords": [
+                    "Starbucks",
+                    "Stock",
+                    "Rewarding",
+                    "Investors"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "consumer goods",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Why Starbucks Stock Could Keep Rewarding Investors in 2019",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2019-01-02",
+            "original_text": "It's not your imagination, there is more bacon on fast-food menus—here's why",
+            "features": {
+                "keywords": [
+                    "bacon",
+                    "fast-food",
+                    "menus"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "food service",
+                    "retail"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "It's not your imagination, there is more bacon on fast-food menus—here's why",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

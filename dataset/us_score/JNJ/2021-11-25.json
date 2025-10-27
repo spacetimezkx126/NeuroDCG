@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2021-03-05",
+            "original_text": "J&J (JNJ) Gets First Full Approval for COVID Jab in Canada",
+            "features": {
+                "keywords": [
+                    "J&J",
+                    "JNJ",
+                    "Full Approval",
+                    "COVID",
+                    "Canada"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-04-15",
+            "original_text": "10 Cheap Dividend Stocks to Buy Now",
+            "features": {
+                "keywords": [
+                    "Cheap",
+                    "Dividend",
+                    "Stocks",
+                    "Buy",
+                    "Now"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "dividends",
+                    "value investing"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

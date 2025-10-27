@@ -1,0 +1,41 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "东, 海, 证, 券, 因, 管, 控, 不, 到, 位, 吃, 监, 管, 函,  , 资, 管, 计, 划, 也, 出, 问, 题",
+            "features": {
+                "keywords": [
+                    "东海证券",
+                    "管控不到位",
+                    "监管函",
+                    "资管计划",
+                    "问题"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "东, 海, 证, 券, 因, 管, 控, 不, 到, 位, 吃, 监, 管, 函, , 资, 管, 计, 划, 也, 出, 问, 题",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

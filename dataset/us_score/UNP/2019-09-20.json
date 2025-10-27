@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2018-09-15",
+            "original_text": "Record Floods In Texas Fading, But Not Gone",
+            "features": {
+                "keywords": [
+                    "floods",
+                    "Texas",
+                    "fading"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "insurance",
+                    "real estate"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 9,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-09-15",
+            "original_text": "3 Dividend-Paying Transports to Brave Trade & Other Woes",
+            "features": {
+                "keywords": [
+                    "dividend-paying",
+                    "transports",
+                    "trade",
+                    "woes"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "transportation",
+                    "logistics"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

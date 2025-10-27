@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "time": "2018-05-24",
+            "original_text": "中国长城:业绩符合预期,与百度合作彰显自主可控实力",
+            "features": {
+                "keywords": [
+                    "中国长城",
+                    "业绩",
+                    "符合预期",
+                    "百度合作",
+                    "自主可控"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "互联网"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-05-24",
+            "original_text": "银河证券晨会纪要-180524",
+            "features": {
+                "keywords": [
+                    "银河证券",
+                    "晨会纪要"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

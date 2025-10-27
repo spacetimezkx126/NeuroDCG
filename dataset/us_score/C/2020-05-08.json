@@ -1,0 +1,107 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Investor: Stocks appear to be pricing in an economic ‘bungee cord snap-back'",
+            "features": {
+                "keywords": [
+                    "economic",
+                    "bungee cord snap-back",
+                    "pricing"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Citi Has 2,000 Employees Working on Small-Business Loan Program",
+            "features": {
+                "keywords": [
+                    "Citi",
+                    "employees",
+                    "small-business",
+                    "loan program"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "small business"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Wall Street banks face $100m of losses on Las Vegas deal",
+            "features": {
+                "keywords": [
+                    "Wall Street",
+                    "banks",
+                    "losses",
+                    "Las Vegas deal"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "real estate"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

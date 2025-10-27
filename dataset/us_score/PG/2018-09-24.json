@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "P&G: Trump tariffs would disrupt manufacturing, cost jobs",
+            "features": {
+                "keywords": [
+                    "P&G",
+                    "Trump",
+                    "tariffs",
+                    "manufacturing",
+                    "jobs"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods",
+                    "manufacturing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "P&G ad campaign for first beard products stars UC alums",
+            "features": {
+                "keywords": [
+                    "P&G",
+                    "ad campaign",
+                    "beard products",
+                    "UC alums"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods",
+                    "marketing"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Sculpt the Scruff: Old Spice, the Manliest Grooming Brand on the Planet, Introduces Beard Stuff Exclusively on Amazon",
+            "features": {
+                "keywords": [
+                    "Old Spice",
+                    "Beard Stuff",
+                    "Amazon",
+                    "grooming"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods",
+                    "e-commerce"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 2,
+                "Entity_Density": 6,
+                "Market_Scope": 2,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

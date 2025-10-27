@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2020-02-24",
+            "original_text": "方正证券：方正产控遭被被动减持0.59%股份 减持股份",
+            "features": {
+                "keywords": [
+                    "方正证券",
+                    "方正产控",
+                    "被动减持",
+                    "股份"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "方正证券：方正产控遭被被动减持0.59%股份 减持股份",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-02-24",
+            "original_text": "债券重大事件",
+            "features": {
+                "keywords": [
+                    "债券",
+                    "重大事件"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "债券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "债券重大事件",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

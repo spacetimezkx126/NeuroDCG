@@ -1,0 +1,407 @@
+[
+    [
+        {
+            "time": "2021-08-09",
+            "original_text": "猪，肉，股，，迎，反弹?",
+            "features": {
+                "keywords": [
+                    "猪肉股",
+                    "反弹"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "食品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "猪，肉，股，，迎，反弹?",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2021-08-09",
+            "original_text": "行业动态|猪股大幅反弹  猪企亏损却在加大  猪价见底了？",
+            "features": {
+                "keywords": [
+                    "猪股",
+                    "反弹",
+                    "亏损",
+                    "猪价见底"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "食品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "行业动态|猪股大幅反弹  猪企亏损却在加大  猪价见底了？",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-08-09",
+            "original_text": "退地、背叛、联盟，房企合作拿地暗战",
+            "features": {
+                "keywords": [
+                    "房企",
+                    "合作拿地",
+                    "暗战"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "退地、背叛、联盟，房企合作拿地暗战",
+                "Correlation": 2,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2021-08-09",
+            "original_text": "解盘：权重白马爆发，食品、水泥、家电、保险领涨",
+            "features": {
+                "keywords": [
+                    "权重白马",
+                    "食品",
+                    "水泥",
+                    "家电",
+                    "保险",
+                    "领涨"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "食品",
+                    "建材",
+                    "家电",
+                    "保险"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "解盘：权重白马爆发，食品、水泥、家电、保险领涨",
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-08-09",
+            "original_text": "新希望地产：一块“注水猪肉”等得到地产的“猪周期”吗？",
+            "features": {
+                "keywords": [
+                    "新希望地产",
+                    "注水猪肉",
+                    "猪周期"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产",
+                    "农业"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "新希望地产：一块“注水猪肉”等得到地产的“猪周期”吗？",
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2021-08-09",
+            "original_text": "猪肉股早盘持续拉升，傲农生物、巨星农牧双双涨停，天邦股份、牧原股份、新希望",
+            "features": {
+                "keywords": [
+                    "猪肉股",
+                    "拉升",
+                    "涨停",
+                    "傲农生物",
+                    "巨星农牧",
+                    "天邦股份",
+                    "牧原股份",
+                    "新希望"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "食品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "猪肉股早盘持续拉升，傲农生物、巨星农牧双双涨停，天邦股份、牧原股份、新希望",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2021-08-09",
+            "original_text": "猪肉股大幅反抽，傲农生物率先涨停",
+            "features": {
+                "keywords": [
+                    "猪肉股",
+                    "反抽",
+                    "傲农生物",
+                    "涨停"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "食品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "猪肉股大幅反抽，傲农生物率先涨停",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-08-09",
+            "original_text": "【行情】生猪概念股早盘走高，傲农生物率先涨停，巨星农牧、牧原股份、新希望、大北农、温氏股份等涨超3%",
+            "features": {
+                "keywords": [
+                    "生猪概念",
+                    "走高",
+                    "傲农生物",
+                    "涨停",
+                    "巨星农牧",
+                    "牧原股份",
+                    "新希望",
+                    "大北农",
+                    "温氏股份"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "食品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "【行情】生猪概念股早盘走高，傲农生物率先涨停，巨星农牧、牧原股份、新希望、大北农、温氏股份等涨超3%",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2021-08-09",
+            "original_text": "政策助力养猪企业健康发展 生猪板块小幅反弹",
+            "features": {
+                "keywords": [
+                    "政策",
+                    "养猪企业",
+                    "健康发展",
+                    "生猪板块",
+                    "反弹"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "食品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "政策助力养猪企业健康发展 生猪板块小幅反弹",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-08-09",
+            "original_text": "六部委发文促进生猪产业发展健康发展 猪肉股的投资机会来了?",
+            "features": {
+                "keywords": [
+                    "六部委",
+                    "生猪产业",
+                    "健康发展",
+                    "猪肉股",
+                    "投资机会"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "食品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "六部委发文促进生猪产业发展健康发展 猪肉股的投资机会来了?",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-08-09",
+            "original_text": "上市公司正面负面新闻2021年8月9日星期一",
+            "features": {
+                "keywords": [
+                    "上市公司",
+                    "正面负面新闻"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "上市公司正面负面新闻2021年8月9日星期一",
+                "Correlation": 1,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 2,
+                "Entity_Density": 1,
+                "Market_Scope": 3,
+                "Time_Proximity": 4,
+                "Headline_Structure": 3,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

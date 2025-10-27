@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "交通不便，土地闲置，人气缺乏，产业未体系",
+            "features": {
+                "keywords": [
+                    "交通不便",
+                    "土地闲置",
+                    "人气缺乏",
+                    "产业未体系"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产",
+                    "基础设施"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "交通不便，土地闲置，人气缺乏，产业未体系",
+                "Correlation": 3,
+                "Sentiment": 2,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 6,
+                "Entity_Density": 1,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 4,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "雄安新区框架初定 三大板块将受热捧",
+            "features": {
+                "keywords": [
+                    "雄安新区",
+                    "框架初定",
+                    "三大板块",
+                    "热捧"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "基建",
+                    "科技",
+                    "环保"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "雄安新区框架初定 三大板块将受热捧",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

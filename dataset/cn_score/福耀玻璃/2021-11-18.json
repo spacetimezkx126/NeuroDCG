@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【行情】港股特斯拉概念股走低，耐世特跌近6%，敏实集团跌近4%，雅迪控股跌超3%，赣锋锂业跌超2%，福耀玻璃跌近2%。",
+            "features": {
+                "keywords": [
+                    "港股",
+                    "特斯拉概念股",
+                    "耐世特",
+                    "敏实集团",
+                    "雅迪控股",
+                    "赣锋锂业",
+                    "福耀玻璃",
+                    "走低"
+                ],
+                "sentiment_score": -0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "【行情】港股特斯拉概念股走低，耐世特跌近6%，敏实集团跌近4%，雅迪控股跌超3%，赣锋锂业跌超2%，福耀玻璃跌近2%。",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "2021-10",
+            "original_text": "“数据会说话”之2021年10月数据解读：10月社零数据符合预期 看好中国消费韧性。",
+            "features": {
+                "keywords": [
+                    "数据解读",
+                    "社零数据",
+                    "消费韧性",
+                    "2021年10月"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "消费"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "“数据会说话”之2021年10月数据解读：10月社零数据符合预期 看好中国消费韧性。",
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

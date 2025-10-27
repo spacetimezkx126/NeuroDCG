@@ -1,0 +1,178 @@
+[
+    [
+        {
+            "time": "2023-09-05",
+            "original_text": "9月5日盘前重要公司新闻",
+            "features": {
+                "keywords": [
+                    "盘前",
+                    "重要",
+                    "公司",
+                    "新闻"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "2023-09-10",
+            "original_text": "汇川技术重组事项将于9月10日上会",
+            "features": {
+                "keywords": [
+                    "汇川技术",
+                    "重组",
+                    "上会"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "汇川技术重组事项将于9月10日上会",
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-09-05",
+            "original_text": "东吴晨报0905【策略】周评【行业】电新【个股】正泰电器",
+            "features": {
+                "keywords": [
+                    "东吴晨报",
+                    "策略",
+                    "周评",
+                    "电新",
+                    "正泰电器"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电力设备",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "东吴晨报0905【策略】周评【行业】电新【个股】正泰电器",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-09-05",
+            "original_text": "电新行业深度：电动车板块整体稳健增长，板块分化明显",
+            "features": {
+                "keywords": [
+                    "电新行业",
+                    "电动车",
+                    "稳健增长",
+                    "板块分化"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "新能源汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "电新行业深度：电动车板块整体稳健增长，板块分化明显",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-09-05",
+            "original_text": "电力设备与新能源行业9月第1周周报:行业中期披露完毕,需求旺季即将来临",
+            "features": {
+                "keywords": [
+                    "电力设备",
+                    "新能源",
+                    "中报披露",
+                    "需求旺季"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电力设备",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "电力设备与新能源行业9月第1周周报:行业中期披露完毕,需求旺季即将来临",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

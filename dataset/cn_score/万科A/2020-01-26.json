@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "紧 急 驰 援 武 汉 ！ 阿 里 、 腾 讯 、 平 安 出 手 了 ！ 恒 大 、 万 科 也 行 动 了",
+            "features": {
+                "keywords": [
+                    "驰援武汉",
+                    "阿里",
+                    "腾讯",
+                    "平安",
+                    "恒大",
+                    "万科"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "房地产",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 10,
+                "Importance": 10,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 10,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "响 应 号 召 ! 长 沙 春 节 期 间 数 十 盘 暂 停 营 业",
+            "features": {
+                "keywords": [
+                    "响应号召",
+                    "长沙",
+                    "春节",
+                    "暂停营业"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

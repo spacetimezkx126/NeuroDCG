@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "多数券商半年报业绩预喜，中原证券净利润最高预增7倍",
+            "features": {
+                "keywords": [
+                    "券商",
+                    "半年报",
+                    "业绩预喜",
+                    "中原证券",
+                    "净利润",
+                    "预增7倍"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "券商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "多数券商半年报业绩预喜，中原证券净利润最高预增7倍",
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "业绩与股价背离 行业市值一哥易主 券商半年报掀起一角",
+            "features": {
+                "keywords": [
+                    "业绩",
+                    "股价背离",
+                    "行业市值",
+                    "一哥易主",
+                    "券商",
+                    "半年报"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "券商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-17",
+            "original_text": "Facebook, Inc., Cl A stock falls Monday, underperforms market",
+            "features": {
+                "keywords": [
+                    "Facebook",
+                    "stock falls",
+                    "underperforms market"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Facebook, Inc., Cl A stock falls Monday, underperforms market",
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-17",
+            "original_text": "The podcast industry is failing the deaf and hard of hearing community",
+            "features": {
+                "keywords": [
+                    "podcast industry",
+                    "failing",
+                    "deaf",
+                    "hard of hearing"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "media"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "The podcast industry is failing the deaf and hard of hearing community",
+                "Correlation": 2,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 2,
+                "Duration": 4,
+                "Entity_Density": 1,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "启迪金科亮相世界中小企业大会 以大数据改变融资模式",
+            "features": {
+                "keywords": [
+                    "启迪金科",
+                    "世界中小企业大会",
+                    "大数据",
+                    "融资模式"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "民生银行跌2.57%，创年度新低，报6.82元",
+            "features": {
+                "keywords": [
+                    "民生银行",
+                    "跌幅",
+                    "年度新低"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 2,
+                "Importance": 5,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

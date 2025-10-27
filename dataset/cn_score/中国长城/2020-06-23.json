@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "计算机应用行业：资本市场制度创新不断得到验证 实体清单影响从硬件扩展到软件层面",
+            "features": {
+                "keywords": [
+                    "计算机应用",
+                    "资本市场",
+                    "制度创新",
+                    "实体清单",
+                    "硬件",
+                    "软件"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "计算机",
+                    "软件",
+                    "硬件"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 10,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中国长城西南地区最大网信产业配套保障项目投产",
+            "features": {
+                "keywords": [
+                    "中国长城",
+                    "西南地区",
+                    "网信产业",
+                    "配套保障",
+                    "投产"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "网信产业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "深市上市公司2020年业绩表现：主板扎实稳健、创业板活力迸发",
+            "features": {
+                "keywords": [
+                    "深市上市公司",
+                    "2020年业绩",
+                    "主板",
+                    "扎实稳健",
+                    "创业板",
+                    "活力迸发"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "主板",
+                    "创业板"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "十大券商策略：智能制造有望成为新主线 机构建议关注这些个股",
+            "features": {
+                "keywords": [
+                    "十大券商",
+                    "策略",
+                    "智能制造",
+                    "新主线",
+                    "机构建议",
+                    "个股"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "智能制造"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

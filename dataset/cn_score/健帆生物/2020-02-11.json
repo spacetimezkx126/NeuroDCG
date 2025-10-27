@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "15只股股价创历史新高",
+            "features": {
+                "keywords": [
+                    "股价",
+                    "历史新高",
+                    "股票"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "全市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "15只股股价创历史新高",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "珠海首个共有产权房三面被工厂环绕气味刺鼻 此前曾因渗水等问题遭维权",
+            "features": {
+                "keywords": [
+                    "共有产权房",
+                    "工厂环绕",
+                    "气味刺鼻",
+                    "渗水",
+                    "维权"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "珠海首个共有产权房三面被工厂环绕气味刺鼻 此前曾因渗水等问题遭维权",
+                "Correlation": 3,
+                "Sentiment": 2,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 1,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

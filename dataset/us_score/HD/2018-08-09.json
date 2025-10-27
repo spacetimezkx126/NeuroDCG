@@ -1,0 +1,113 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Ackman Sees Lowe's Upside Like His 2011 Bet on Canadian Pacific",
+            "features": {
+                "keywords": [
+                    "Ackman",
+                    "Lowe's",
+                    "Upside",
+                    "2011 Bet",
+                    "Canadian Pacific"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail",
+                    "home improvement"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Ackman Sees Lowe's Upside Like His 2011 Bet on Canadian Pacific",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Is Home Depot Stock Bound to Crumble Soon?",
+            "features": {
+                "keywords": [
+                    "Home Depot",
+                    "Stock",
+                    "Crumble",
+                    "Soon"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail",
+                    "home improvement"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Is Home Depot Stock Bound to Crumble Soon?",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 10,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Better Buy: The Home Depot vs. Sherwin-Williams",
+            "features": {
+                "keywords": [
+                    "Better Buy",
+                    "Home Depot",
+                    "Sherwin-Williams"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail",
+                    "home improvement",
+                    "paints and coatings"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Better Buy: The Home Depot vs. Sherwin-Williams",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

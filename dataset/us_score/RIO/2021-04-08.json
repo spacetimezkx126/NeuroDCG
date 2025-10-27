@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Rio Tinto S. African Project in Limbo on Security Fear",
+            "features": {
+                "keywords": [
+                    "Rio Tinto",
+                    "S. African Project",
+                    "Security Fear"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining",
+                    "metals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Rio Tinto Exploration and Calibre Mining Initiate 2021 Exploration Program Including 5,500 Metre Drilling Campaign Prioritizing Prospective Near-Surface Copper and Copper-Gold Mineralization",
+            "features": {
+                "keywords": [
+                    "Rio Tinto",
+                    "Exploration",
+                    "Calibre Mining",
+                    "Drilling Campaign",
+                    "Copper",
+                    "Copper-Gold Mineralization"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining",
+                    "metals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

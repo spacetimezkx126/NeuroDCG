@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "又见券商相互捧场：西部证券75亿定增完成，获中信证券、中信建投等四家同行认购！",
+            "features": {
+                "keywords": [
+                    "西部证券",
+                    "定增",
+                    "中信证券",
+                    "中信建投",
+                    "同行认购"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "券商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "又见券商相互捧场：西部证券75亿定增完成，获中信证券、中信建投等四家同行认购！",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "非银金融行业周报：短期健康险规范出台 新发基金热度持续",
+            "features": {
+                "keywords": [
+                    "非银金融",
+                    "短期健康险",
+                    "规范出台",
+                    "新发基金",
+                    "热度持续"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "保险"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "非银金融行业周报：短期健康险规范出台 新发基金热度持续",
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

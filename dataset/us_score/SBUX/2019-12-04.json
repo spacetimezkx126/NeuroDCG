@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "2023-03-15",
+            "original_text": "A New York coffee startup hired philosopher to change culture",
+            "features": {
+                "keywords": [
+                    "coffee",
+                    "startup",
+                    "philosopher",
+                    "culture"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods",
+                    "retail"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 6,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 1,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "Starbucks Discloses Gender and Racial Pay Gap: There Isn’t One",
+            "features": {
+                "keywords": [
+                    "Starbucks",
+                    "gender",
+                    "racial",
+                    "pay gap"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "food and beverage",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "Automotive Minute: Rolls-Royce to auction bespoke Phantom to benefit HIV/AIDS programs (Photos)",
+            "features": {
+                "keywords": [
+                    "Rolls-Royce",
+                    "auction",
+                    "bespoke",
+                    "Phantom",
+                    "HIV/AIDS",
+                    "programs"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive",
+                    "luxury goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

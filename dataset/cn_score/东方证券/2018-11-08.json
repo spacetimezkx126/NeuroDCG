@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "券商股盘中异动，国信证券领涨3%",
+            "features": {
+                "keywords": [
+                    "券商股",
+                    "盘中异动",
+                    "国信证券",
+                    "领涨"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

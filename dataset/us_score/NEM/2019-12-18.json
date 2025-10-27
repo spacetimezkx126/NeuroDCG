@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2023-11-15",
+            "original_text": "10 stocks to buy as they get hit by year-end tax-loss selling",
+            "features": {
+                "keywords": [
+                    "stocks",
+                    "buy",
+                    "year-end",
+                    "tax-loss",
+                    "selling"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-11-15",
+            "original_text": "Newmont Goldcorp to Divest Stake in KCGM to Northern Star",
+            "features": {
+                "keywords": [
+                    "Newmont",
+                    "Goldcorp",
+                    "Divest",
+                    "Stake",
+                    "KCGM",
+                    "Northern Star"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining",
+                    "gold"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

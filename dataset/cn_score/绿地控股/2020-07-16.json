@@ -1,0 +1,105 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "地產股局部活躍，浙江廣廈午後漲停",
+            "features": {
+                "keywords": [
+                    "地產股",
+                    "浙江廣廈",
+                    "漲停"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地產"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "地產股局部活躍，浙江廣廈午後漲停",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-07-16",
+            "original_text": "A股7月16日房企午盤绿地控股漲6.55%，泰禾集團跌4.07%",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "房地產",
+                    "绿地控股",
+                    "泰禾集團"
+                ],
+                "sentiment_score": -0.1,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地產"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "mixed",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "mixed"
+            },
+            "scores": {
+                "News_content": "A股7月16日房企午盤绿地控股漲6.55%，泰禾集團跌4.07%",
+                "Correlation": 10,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-07-15",
+            "original_text": "A股融資融券日報：兩融餘額增加10.73億元（7月15日）",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "融資融券",
+                    "兩融餘額"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股融資融券日報：兩融餘額增加10.73億元（7月15日）",
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

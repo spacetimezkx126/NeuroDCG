@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "As Amazon.com flexes its muscle, Seattle moves to curb corporate political donations",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "muscle",
+                    "Seattle",
+                    "curb",
+                    "corporate",
+                    "political",
+                    "donations"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2019-12-31",
+            "original_text": "Amazon Had an OK 2019. Former PepsiCo CEO Indra Nooyi Bought More Stock.",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "OK",
+                    "PepsiCo",
+                    "CEO",
+                    "Indra Nooyi",
+                    "Bought",
+                    "Stock"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "昆明收入链顶端的人，都在从事什么工作？",
+            "features": {
+                "keywords": [
+                    "昆明",
+                    "收入",
+                    "顶端",
+                    "工作"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "昆明收入链顶端的人，都在从事什么工作？",
+                "Correlation": 1,
+                "Sentiment": 5,
+                "Importance": 2,
+                "Impact": 1,
+                "Duration": 2,
+                "Entity_Density": 1,
+                "Market_Scope": 3,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "被美元债吓破了胆，是不是该关注被拖累、错杀的地产股？",
+            "features": {
+                "keywords": [
+                    "美元债",
+                    "地产股",
+                    "拖累",
+                    "错杀"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "被美元债吓破了胆，是不是该关注被拖累、错杀的地产股？",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

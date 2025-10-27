@@ -1,0 +1,107 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Southern Company Gas grows leadership team to focus on climate action, innovation and renewable natural gas strategy",
+            "features": {
+                "keywords": [
+                    "Southern Company Gas",
+                    "leadership",
+                    "climate action",
+                    "innovation",
+                    "renewable natural gas"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Georgia Power to offer special payment options for customers during COVID-19 pandemic recovery",
+            "features": {
+                "keywords": [
+                    "Georgia Power",
+                    "special payment options",
+                    "COVID-19",
+                    "pandemic recovery"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "This Could Be the Next Sector to Rally. How to Play It.",
+            "features": {
+                "keywords": [
+                    "Next Sector",
+                    "Rally",
+                    "Play It"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general market"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

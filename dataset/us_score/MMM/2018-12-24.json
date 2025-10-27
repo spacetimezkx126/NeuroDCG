@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2018-12-31",
+            "original_text": "Notable Monday Option Activity: MMM, AGO, WBT",
+            "features": {
+                "keywords": [
+                    "Option Activity",
+                    "MMM",
+                    "AGO",
+                    "WBT"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial",
+                    "financial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 2,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-12-31",
+            "original_text": "Countdown to 2019: The Dow Jones Industrial Average's Terrible, Horrible, No Good, Very Bad Year",
+            "features": {
+                "keywords": [
+                    "Dow Jones",
+                    "Industrial Average",
+                    "Terrible",
+                    "Horrible",
+                    "Bad Year"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

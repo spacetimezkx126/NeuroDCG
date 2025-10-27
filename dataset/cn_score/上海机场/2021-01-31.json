@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "2022-02-01",
+            "original_text": "浙商早知道 | 2月1日",
+            "features": {
+                "keywords": [
+                    "浙商",
+                    "早知道"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "浙商早知道 | 2月1日",
+                "Correlation": 3,
+                "Sentiment": 4,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 1,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2022-02-01",
+            "original_text": "【华创交运*周报】多公司披露2020年业绩预告，民航板块受疫情影响多数预亏 预亏",
+            "features": {
+                "keywords": [
+                    "华创交运",
+                    "业绩预告",
+                    "民航板块",
+                    "疫情",
+                    "预亏"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "民航"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "【华创交运*周报】多公司披露2020年业绩预告，民航板块受疫情影响多数预亏 预亏",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

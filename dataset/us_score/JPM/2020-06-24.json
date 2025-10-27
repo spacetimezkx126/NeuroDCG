@@ -1,0 +1,145 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "'Fast food with store fronts are going to be challenged,' McDonald's closes its Times Square flagship restaurant",
+            "features": {
+                "keywords": [
+                    "fast food",
+                    "challenged",
+                    "McDonald's",
+                    "Times Square",
+                    "flagship",
+                    "restaurant"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Hedge Funds Never Been Less Bullish On GameStop Corp. (GME)",
+            "features": {
+                "keywords": [
+                    "hedge funds",
+                    "bullish",
+                    "GameStop",
+                    "GME"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "JPMorgan’s Michele Shuns Treasuries Turned ‘Zombies’ in QE Era",
+            "features": {
+                "keywords": [
+                    "JPMorgan",
+                    "Michele",
+                    "Treasuries",
+                    "Zombies",
+                    "QE"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "government bonds"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "JPMorgan Stock Falls 3%",
+            "features": {
+                "keywords": [
+                    "JPMorgan",
+                    "Stock",
+                    "Falls"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

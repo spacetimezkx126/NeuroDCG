@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-17",
+            "original_text": "Markets Now: Blame Boeing---and Caterpillar and 3M---for the Dow's 287-Point Drop",
+            "features": {
+                "keywords": [
+                    "Boeing",
+                    "Caterpillar",
+                    "3M",
+                    "Dow's Drop"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial",
+                    "aerospace"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-17",
+            "original_text": "TPC Twin Cities has its PGA event, but the work has just begun",
+            "features": {
+                "keywords": [
+                    "TPC Twin Cities",
+                    "PGA event"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "sports",
+                    "real estate"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

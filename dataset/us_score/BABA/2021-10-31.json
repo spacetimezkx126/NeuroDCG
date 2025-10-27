@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Were These Hedge Funds Too Early Snapping Up Alibaba (BABA)?",
+            "features": {
+                "keywords": [
+                    "Hedge Funds",
+                    "Alibaba",
+                    "BABA",
+                    "early investment"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "e-commerce"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "A Huge Pension Sold Netflix, Bank of America, and Intel Stock. Here’s What It Bought.",
+            "features": {
+                "keywords": [
+                    "Pension",
+                    "Netflix",
+                    "Bank of America",
+                    "Intel",
+                    "sold",
+                    "bought"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "finance",
+                    "entertainment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

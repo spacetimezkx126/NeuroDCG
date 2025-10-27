@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Albany-area Bank of America exec starts new role in Washington, D.C.",
+            "features": {
+                "keywords": [
+                    "Bank of America",
+                    "executive change",
+                    "Washington D.C."
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Two Dozen Banks Sidestep Texas Law Punishing Gun, Oil Policies",
+            "features": {
+                "keywords": [
+                    "banks",
+                    "Texas law",
+                    "gun policy",
+                    "oil policy"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

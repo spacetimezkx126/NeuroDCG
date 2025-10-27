@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股平均股价12.01元75股股价不足2元",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "平均股价",
+                    "低价股"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "整体市场"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "A股平均股价12.01元75股股价不足2元",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "直接跳涨10%！这个钢铁、电解铝都必需的稀缺矿石进入新一轮涨价周期",
+            "features": {
+                "keywords": [
+                    "钢铁",
+                    "电解铝",
+                    "稀缺矿石",
+                    "涨价周期"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "钢铁",
+                    "有色金属"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "直接跳涨10%！这个钢铁、电解铝都必需的稀缺矿石进入新一轮涨价周期",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 10,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

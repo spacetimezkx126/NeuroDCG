@@ -1,0 +1,41 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "油, 盐, 酱, 醋, 都, 要, 涨, ，, 为, 啥, 股, 价, 就, 不, 涨, ？",
+            "features": {
+                "keywords": [
+                    "油",
+                    "盐",
+                    "酱",
+                    "醋",
+                    "涨价"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费品",
+                    "食品饮料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "油, 盐, 酱, 醋, 都, 要, 涨, ，, 为, 啥, 股, 价, 就, 不, 涨, ？",
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

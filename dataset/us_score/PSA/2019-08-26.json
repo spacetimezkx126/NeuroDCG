@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Safe Havens From the Trade War",
+            "features": {
+                "keywords": [
+                    "Safe Havens",
+                    "Trade War"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "global trade",
+                    "economy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Safe Havens From the Trade War",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 1,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Public Storage (PSA) is a Great Momentum Stock: Should You Buy?",
+            "features": {
+                "keywords": [
+                    "Public Storage",
+                    "Momentum Stock",
+                    "Buy"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "real estate"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Public Storage (PSA) is a Great Momentum Stock: Should You Buy?",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

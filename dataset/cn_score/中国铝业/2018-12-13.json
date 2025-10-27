@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "关于核准中国铝业股份有限公司向华融瑞通股权投资管理有限公司等发行股份购买资产的批复",
+            "features": {
+                "keywords": [
+                    "中国铝业",
+                    "发行股份",
+                    "购买资产",
+                    "华融瑞通"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "有色金属",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "关于核准中国铝业股份有限公司向华融瑞通股权投资管理有限公司等发行股份购买资产的批复",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "券商评级: 三大股指全线扬七股迎腾飞契机",
+            "features": {
+                "keywords": [
+                    "券商评级",
+                    "三大股指",
+                    "全线扬",
+                    "腾飞契机"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "券商评级: 三大股指全线扬七股迎腾飞契机",
+                "Correlation": 5,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Sinopec to Increase LNG Capacity and Domestic Shale Output",
+            "features": {
+                "keywords": [
+                    "Sinopec",
+                    "LNG Capacity",
+                    "Domestic Shale Output"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Energy Stocks Head Market Resurgence: 5 Value Picks",
+            "features": {
+                "keywords": [
+                    "Energy Stocks",
+                    "Market Resurgence",
+                    "Value Picks"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

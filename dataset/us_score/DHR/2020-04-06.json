@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "GE Might Have to Sell More Stock. Then Again, Maybe Not.",
+            "features": {
+                "keywords": [
+                    "GE",
+                    "Sell",
+                    "Stock",
+                    "Uncertainty"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "Danaher (DHR) Prices Senior Notes Offering Worth Euro 750M",
+            "features": {
+                "keywords": [
+                    "Danaher",
+                    "Senior Notes",
+                    "Offering",
+                    "Euro 750M"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

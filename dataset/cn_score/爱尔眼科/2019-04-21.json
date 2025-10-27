@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "北上资金动向：上周净流出8.2亿元，净买入12股，大举抛售五粮液",
+            "features": {
+                "keywords": [
+                    "北上资金",
+                    "净流出",
+                    "净买入",
+                    "抛售",
+                    "五粮液"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "消费",
+                    "白酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

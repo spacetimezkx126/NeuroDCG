@@ -1,0 +1,479 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "金融：由高速向高质量发展 荐7股",
+            "features": {
+                "keywords": [
+                    "金融",
+                    "高质量发展"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "金融：由高速向高质量发展 荐7股",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-03",
+            "original_text": "监管暖风释重大利好 资金正积极涌入?",
+            "features": {
+                "keywords": [
+                    "监管",
+                    "利好",
+                    "资金涌入"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "监管暖风释重大利好 资金正积极涌入?",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-04",
+            "original_text": "百度高级副总裁朱光当选中国互联网金融协会副会长",
+            "features": {
+                "keywords": [
+                    "百度",
+                    "朱光",
+                    "互联网金融协会"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "互联网金融"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "百度高级副总裁朱光当选中国互联网金融协会副会长",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-05",
+            "original_text": "中华联合财险被罚29.5万元：虚列费用及车险违规",
+            "features": {
+                "keywords": [
+                    "中华联合财险",
+                    "罚款",
+                    "违规"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "保险"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "中华联合财险被罚29.5万元：虚列费用及车险违规",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-06",
+            "original_text": "五大行2017减员2.9万人：建行减员9592人，中行不降反增2233人",
+            "features": {
+                "keywords": [
+                    "五大行",
+                    "减员",
+                    "建设银行",
+                    "中国银行"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "五大行2017减员2.9万人：建行减员9592人，中行不降反增2233人",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-07",
+            "original_text": "消费金融周报 | 蚂蚁金服一季度消费贷环比跌74%；苏宁消费金融2017净利润2.17亿",
+            "features": {
+                "keywords": [
+                    "消费金融",
+                    "蚂蚁金服",
+                    "苏宁",
+                    "净利润"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "消费金融周报 | 蚂蚁金服一季度消费贷环比跌74%；苏宁消费金融2017净利润2.17亿",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-08",
+            "original_text": "A股银行日赚近33亿元 银行金融科技转型战打响",
+            "features": {
+                "keywords": [
+                    "A股银行",
+                    "金融科技",
+                    "转型"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股银行日赚近33亿元 银行金融科技转型战打响",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-09",
+            "original_text": "上市银行：资产质量企稳向好 区域分化明显",
+            "features": {
+                "keywords": [
+                    "上市银行",
+                    "资产质量",
+                    "区域分化"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "上市银行：资产质量企稳向好 区域分化明显",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-10",
+            "original_text": "盈利增速集体重返4时代 银行业交出稳中向好成绩单",
+            "features": {
+                "keywords": [
+                    "银行业",
+                    "盈利增速",
+                    "成绩单"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "盈利增速集体重返4时代 银行业交出稳中向好成绩单",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-11",
+            "original_text": "五大行财报数据大PK：谁赚得最多？谁质量最差？",
+            "features": {
+                "keywords": [
+                    "五大行",
+                    "财报",
+                    "质量"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "银行"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "五大行财报数据大PK：谁赚得最多？谁质量最差？",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-12",
+            "original_text": "农行日赚5亿超八成营收依赖利息拨备覆盖率208.37%仍存资本补充压力",
+            "features": {
+                "keywords": [
+                    "农业银行",
+                    "利息收入",
+                    "拨备覆盖率",
+                    "资本补充"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "农行日赚5亿超八成营收依赖利息拨备覆盖率208.37%仍存资本补充压力",
+                "Correlation": 10,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-13",
+            "original_text": "15家上市银行日赚33亿 银行金融科技转型打响白刃战",
+            "features": {
+                "keywords": [
+                    "上市银行",
+                    "金融科技",
+                    "转型"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "15家上市银行日赚33亿 银行金融科技转型打响白刃战",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-14",
+            "original_text": "银行“不良”动向：两区域风险继续暴露 批发零售向好",
+            "features": {
+                "keywords": [
+                    "银行",
+                    "不良",
+                    "风险",
+                    "批发零售"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "银行“不良”动向：两区域风险继续暴露 批发零售向好",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-15",
+            "original_text": "上市银行再融资超4000亿 资本补血给养拼规模大赛",
+            "features": {
+                "keywords": [
+                    "上市银行",
+                    "再融资",
+                    "资本补血"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "上市银行再融资超4000亿 资本补血给养拼规模大赛",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 9,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

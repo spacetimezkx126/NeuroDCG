@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【上周回顾】中兴重组管理层；中移动或率先实现3G退网；美政府拒绝中移动进入美市场",
+            "features": {
+                "keywords": [
+                    "中兴",
+                    "重组管理层",
+                    "中移动",
+                    "3G退网",
+                    "美政府",
+                    "拒绝",
+                    "进入美市场"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "通信"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "【上周回顾】中兴重组管理层；中移动或率先实现3G退网；美政府拒绝中移动进入美市场",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "通信行业: 中兴获得临时许可证, 关注中报业绩高增长个股",
+            "features": {
+                "keywords": [
+                    "通信行业",
+                    "中兴",
+                    "临时许可证",
+                    "中报业绩",
+                    "高增长"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "通信"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

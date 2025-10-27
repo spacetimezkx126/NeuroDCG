@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Mixed Messages Ahead of Starbucks Report",
+            "features": {
+                "keywords": [
+                    "Mixed",
+                    "Messages",
+                    "Starbucks",
+                    "Report"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Rule Breaker Investing: 5 Stocks Rolled Up at Random",
+            "features": {
+                "keywords": [
+                    "Rule Breaker",
+                    "Investing",
+                    "Stocks",
+                    "Rolled Up",
+                    "Random"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general market"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

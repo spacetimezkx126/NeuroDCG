@@ -1,0 +1,623 @@
+[
+    [
+        {
+            "time": "2022-11-01",
+            "original_text": "BMO's investment chief just predicted a 17% stock market gain for 2022 — ignore the bears and make room for these 3 'outperform' stocks",
+            "features": {
+                "keywords": [
+                    "17% gain",
+                    "investment chief",
+                    "outperform stocks"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "BMO's investment chief just predicted a 17% stock market gain for 2022 — ignore the bears and make room for these 3 'outperform' stocks",
+                "Correlation": 5,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2021-12-10",
+            "original_text": "Square will change its name to Block as business expands",
+            "features": {
+                "keywords": [
+                    "name change",
+                    "Block",
+                    "business expands"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Square will change its name to Block as business expands",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-11-15",
+            "original_text": "Facebook’s Meta Ticker Trades in Canada, Ignores U.S. Delay",
+            "features": {
+                "keywords": [
+                    "Meta",
+                    "ticker",
+                    "Canada",
+                    "U.S. delay"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Facebook’s Meta Ticker Trades in Canada, Ignores U.S. Delay",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2022-08-15",
+            "original_text": "Billionaire David Harding is Buying These 10 Stocks",
+            "features": {
+                "keywords": [
+                    "David Harding",
+                    "buying",
+                    "stocks"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "Billionaire David Harding is Buying These 10 Stocks",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2022-09-20",
+            "original_text": "MIT-born Commonwealth Fusion Systems raises $1.8B to commercialize fusion energy",
+            "features": {
+                "keywords": [
+                    "fusion energy",
+                    "Commonwealth Fusion Systems",
+                    "$1.8B"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "MIT-born Commonwealth Fusion Systems raises $1.8B to commercialize fusion energy",
+                "Correlation": 5,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2022-07-10",
+            "original_text": "Google Temp, Fired for Being ‘Ungoogley,’ Files Complaint",
+            "features": {
+                "keywords": [
+                    "Google",
+                    "fired",
+                    "complaint"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Google Temp, Fired for Being ‘Ungoogley,’ Files Complaint",
+                "Correlation": 4,
+                "Sentiment": 3,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2022-10-05",
+            "original_text": "It’s not too late to exert human control over artificial intelligence, this book argues",
+            "features": {
+                "keywords": [
+                    "artificial intelligence",
+                    "human control",
+                    "book"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "It’s not too late to exert human control over artificial intelligence, this book argues",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2022-11-20",
+            "original_text": "Companies That Will Benefit From Climate Change: 10 Stocks to Watch",
+            "features": {
+                "keywords": [
+                    "climate change",
+                    "benefit",
+                    "stocks"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "environment",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "Companies That Will Benefit From Climate Change: 10 Stocks to Watch",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2022-11-15",
+            "original_text": "4 Stocks I'm Watching This Week as Potential Buys",
+            "features": {
+                "keywords": [
+                    "stocks",
+                    "watching",
+                    "potential buys"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "News_content": "4 Stocks I'm Watching This Week as Potential Buys",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 4,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2022-10-30",
+            "original_text": "Is Alpha and Omega Semiconductor (AOSL) Stock Outpacing Its Computer and Technology Peers This Year?",
+            "features": {
+                "keywords": [
+                    "AOSL",
+                    "semiconductor",
+                    "computer",
+                    "technology"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Is Alpha and Omega Semiconductor (AOSL) Stock Outpacing Its Computer and Technology Peers This Year?",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2022-11-25",
+            "original_text": "Meta Platforms Is Growing in This Important Gaming Market",
+            "features": {
+                "keywords": [
+                    "Meta Platforms",
+                    "gaming market",
+                    "growth"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "entertainment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Meta Platforms Is Growing in This Important Gaming Market",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2022-11-10",
+            "original_text": "New Salesforce Co-CEO Bret Taylor Has Growth on the Mind",
+            "features": {
+                "keywords": [
+                    "Salesforce",
+                    "Co-CEO",
+                    "Bret Taylor",
+                    "growth"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "New Salesforce Co-CEO Bret Taylor Has Growth on the Mind",
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2022-09-05",
+            "original_text": "Corporate Leaders Push Congress to Speed Semiconductor Aid",
+            "features": {
+                "keywords": [
+                    "corporate leaders",
+                    "congress",
+                    "semiconductor aid"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "government"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Corporate Leaders Push Congress to Speed Semiconductor Aid",
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2022-11-01",
+            "original_text": "NetApp (NTAP) Q2 Earnings & Revenues Top Estimates, Shares Up",
+            "features": {
+                "keywords": [
+                    "NetApp",
+                    "Q2 earnings",
+                    "revenues",
+                    "shares up"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "NetApp (NTAP) Q2 Earnings & Revenues Top Estimates, Shares Up",
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2022-11-15",
+            "original_text": "Nuro, 7-Eleven launch California autonomous delivery service with safety drivers",
+            "features": {
+                "keywords": [
+                    "Nuro",
+                    "7-Eleven",
+                    "autonomous delivery",
+                    "California"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "logistics"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Nuro, 7-Eleven launch California autonomous delivery service with safety drivers",
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2022-11-20",
+            "original_text": "Salesforce (CRM) Beats Q3 Earnings Estimates, Stock Falls 6.1%",
+            "features": {
+                "keywords": [
+                    "Salesforce",
+                    "Q3 earnings",
+                    "stock falls"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Salesforce (CRM) Beats Q3 Earnings Estimates, Stock Falls 6.1%",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2022-11-10",
+            "original_text": "Google to ban political advertising ahead of Philippine election",
+            "features": {
+                "keywords": [
+                    "Google",
+                    "political advertising",
+                    "Philippine election"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "politics"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Google to ban political advertising ahead of Philippine election",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2022-11-25",
+            "original_text": "UPDATE 1-Australia raises possibility of more legislation on tech giants with new inquiry",
+            "features": {
+                "keywords": [
+                    "Australia",
+                    "legislation",
+                    "tech giants",
+                    "inquiry"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "government"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "UPDATE 1-Australia raises possibility of more legislation on tech giants with new inquiry",
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

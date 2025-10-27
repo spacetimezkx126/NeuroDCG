@@ -1,0 +1,169 @@
+[
+    [
+        {
+            "time": "2020-03-15",
+            "original_text": "IBM Reports Falling Revenue, Pulls Forecast on Virus Woes",
+            "features": {
+                "keywords": [
+                    "IBM",
+                    "Falling Revenue",
+                    "Virus Woes"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-04-01",
+            "original_text": "ETFs to Gain on Amazon's Rally Amid Coronavirus Crisis",
+            "features": {
+                "keywords": [
+                    "ETFs",
+                    "Amazon",
+                    "Rally",
+                    "Coronavirus"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "e-commerce"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2020-03-20",
+            "original_text": "US STOCKS-Wall Street drops as U.S. producers can not give crude away",
+            "features": {
+                "keywords": [
+                    "US Stocks",
+                    "Wall Street",
+                    "Crude"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-03-25",
+            "original_text": "Alibaba Doubles Down on Maintaining Its Chinese Cloud Lead",
+            "features": {
+                "keywords": [
+                    "Alibaba",
+                    "Cloud",
+                    "Chinese"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "cloud computing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2020-03-18",
+            "original_text": "Coronavirus Stock Market Rally: Dow Jones Cuts 500-Point Loss Amid Plunging Oil Prices; Amazon, Netflix Jump",
+            "features": {
+                "keywords": [
+                    "Coronavirus",
+                    "Stock Market",
+                    "Dow Jones",
+                    "Oil Prices",
+                    "Amazon",
+                    "Netflix"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "e-commerce",
+                    "streaming"
+                ],
+                "causal_factor": "false",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "直击康达尔董事会换届：祝九胜辞任董事 董事会监事会报告未获通过",
+            "features": {
+                "keywords": [
+                    "康达尔",
+                    "董事会",
+                    "换届",
+                    "祝九胜",
+                    "辞任",
+                    "监事会",
+                    "报告未通过"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产",
+                    "企业治理"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "2018上半年恒大碧桂园融创万科新增货值居前四",
+            "features": {
+                "keywords": [
+                    "2018上半年",
+                    "恒大",
+                    "碧桂园",
+                    "融创",
+                    "万科",
+                    "新增货值",
+                    "前四"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产",
+                    "市场表现"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

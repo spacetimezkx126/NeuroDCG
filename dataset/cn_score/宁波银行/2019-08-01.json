@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2019-07",
+            "original_text": "报告 | 2019年7月浙江省A股上市公司市值TOP50",
+            "features": {
+                "keywords": [
+                    "2019年7月",
+                    "浙江省",
+                    "A股",
+                    "上市公司",
+                    "市值",
+                    "TOP50"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "报告 | 2019年7月浙江省A股上市公司市值TOP50",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 3,
+                "Headline_Structure": 5,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2019-07",
+            "original_text": "“核电一哥”中国广核来了",
+            "features": {
+                "keywords": [
+                    "核电",
+                    "中国广核"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "“核电一哥”中国广核来了",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,145 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "深市创业板活跃股公开信息(4/24)",
+            "features": {
+                "keywords": [
+                    "深市",
+                    "创业板",
+                    "活跃股",
+                    "公开信息"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "创业板"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 3,
+                "Importance": 4,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "正邦科技：连续大涨股价异动，无应披露而未披露事项",
+            "features": {
+                "keywords": [
+                    "正邦科技",
+                    "连续大涨",
+                    "股价异动",
+                    "无应披露事项"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "正邦科技今日强势涨停再创新高，深股通游资集体买入",
+            "features": {
+                "keywords": [
+                    "正邦科技",
+                    "涨停",
+                    "新高",
+                    "深股通",
+                    "游资买入"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 9,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "14:55",
+            "original_text": "[快讯]14:55正邦科技、国新新能源封涨停",
+            "features": {
+                "keywords": [
+                    "正邦科技",
+                    "国新新能源",
+                    "涨停",
+                    "快讯"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "[快讯]14:55正邦科技、国新新能源封涨停",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

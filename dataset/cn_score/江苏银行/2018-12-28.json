@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "多家银行股被减持 上市公司减持股份扮靓业绩或受限",
+            "features": {
+                "keywords": [
+                    "银行股",
+                    "减持",
+                    "上市公司",
+                    "扮靓业绩",
+                    "受限"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 2,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "模塑科技业绩下滑又陷债务“危机” 6次出售江苏银行股份解困 盈利能力下降",
+            "features": {
+                "keywords": [
+                    "模塑科技",
+                    "业绩下滑",
+                    "债务危机",
+                    "出售",
+                    "江苏银行股份",
+                    "解困",
+                    "盈利能力下降"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "制造业",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "20XX-12-28",
+            "original_text": "【天风研究·固收】转债日报（12月28日）",
+            "features": {
+                "keywords": [
+                    "天风研究",
+                    "固收",
+                    "转债日报"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "债券市场"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

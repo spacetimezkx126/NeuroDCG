@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Georgia Power Expects to Adjust Key Milestones at Plant Vogtle",
+            "features": {
+                "keywords": [
+                    "Georgia Power",
+                    "Adjust",
+                    "Key Milestones",
+                    "Plant Vogtle"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Southern Company Becomes the First Large Cap Utility in the U.S. to Publish a Sustainable Financing Framework",
+            "features": {
+                "keywords": [
+                    "Southern Company",
+                    "First Large Cap Utility",
+                    "Sustainable Financing Framework"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

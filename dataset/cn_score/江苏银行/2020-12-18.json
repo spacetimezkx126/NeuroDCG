@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "苏州银保监局：对江苏银行苏州分行作出行政处罚，罚款30万元 金融监管处罚",
+            "features": {
+                "keywords": [
+                    "苏州银保监局",
+                    "江苏银行",
+                    "苏州分行",
+                    "行政处罚",
+                    "罚款",
+                    "金融监管"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "江苏银行荣获“年度最佳普惠金融创新中小银行”奖项",
+            "features": {
+                "keywords": [
+                    "江苏银行",
+                    "普惠金融",
+                    "创新",
+                    "奖项"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

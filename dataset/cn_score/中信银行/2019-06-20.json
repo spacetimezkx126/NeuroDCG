@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "信用卡业务全盘点：2018年14家上市银行信用卡交易总额近32万",
+            "features": {
+                "keywords": [
+                    "信用卡",
+                    "交易总额",
+                    "上市银行"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "银行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 4,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 3,
+                "Headline_Structure": 4,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中信银行河北雄安分行正式成立 与“雄安腾讯”等战略合作",
+            "features": {
+                "keywords": [
+                    "中信银行",
+                    "雄安分行",
+                    "雄安腾讯",
+                    "战略合作"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "科技",
+                    "区域经济"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

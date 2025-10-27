@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "老牌券商股被剔除出上证50， 短期有影响长期靠业绩 剔除指数",
+            "features": {
+                "keywords": [
+                    "老牌券商",
+                    "剔除",
+                    "上证50",
+                    "短期影响",
+                    "长期业绩"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "券商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

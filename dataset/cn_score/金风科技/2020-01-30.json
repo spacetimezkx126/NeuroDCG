@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "2023-10-10",
+            "original_text": "金风科技(02208)股东非公开发行可交换公司债券获得深交所无异议函",
+            "features": {
+                "keywords": [
+                    "金风科技",
+                    "非公开发行",
+                    "可交换公司债券",
+                    "深交所",
+                    "无异议函"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "新能源",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-10",
+            "original_text": "恒指收跌2.62%报26449.13点 电子零件板块领跌",
+            "features": {
+                "keywords": [
+                    "恒指",
+                    "收跌",
+                    "电子零件",
+                    "板块领跌"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电子零件",
+                    "指数"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-10",
+            "original_text": "腾讯上扬1%领涨蓝筹 王者荣耀上周五单日收入创新高",
+            "features": {
+                "keywords": [
+                    "腾讯",
+                    "上扬",
+                    "蓝筹",
+                    "王者荣耀",
+                    "单日收入创新高"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "游戏"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

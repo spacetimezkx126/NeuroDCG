@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股收盘综述：上证指数下滑1.21%守住3500，资金流入碳中和概念股",
+            "features": {
+                "keywords": [
+                    "上证指数",
+                    "下滑",
+                    "碳中和",
+                    "概念"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "碳中和"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 10,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "快讯：军工股尾盘拉升 航发动力涨逾5%",
+            "features": {
+                "keywords": [
+                    "军工股",
+                    "尾盘",
+                    "拉升",
+                    "航发动力"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "军工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【行情】国防军工板块尾盘拉升，景嘉微涨超7%，航发动力、中航重机、中航西飞、航发控制等跟涨",
+            "features": {
+                "keywords": [
+                    "国防军工",
+                    "尾盘",
+                    "拉升",
+                    "景嘉微",
+                    "航发动力",
+                    "中航重机",
+                    "中航西飞",
+                    "航发控制"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "军工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

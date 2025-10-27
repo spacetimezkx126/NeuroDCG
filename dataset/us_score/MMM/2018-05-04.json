@@ -1,0 +1,141 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "MARKETS: Apple, McDonald's, Disney lead market rally; Oil prices jump; Fed's Dudley bullish on the economy",
+            "features": {
+                "keywords": [
+                    "Apple",
+                    "McDonald's",
+                    "Disney",
+                    "market rally",
+                    "Oil prices",
+                    "Fed",
+                    "Dudley",
+                    "bullish",
+                    "economy"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "consumer goods",
+                    "energy",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 10,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Is Lowered Guidance from Some Industrial Stocks Affecting Sector?",
+            "features": {
+                "keywords": [
+                    "Lowered Guidance",
+                    "Industrial Stocks",
+                    "Sector"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "A Snapshot of KLX’s Aerospace Solutions Segment",
+            "features": {
+                "keywords": [
+                    "KLX",
+                    "Aerospace Solutions"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aerospace"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "5 Top Stock Trades for Friday Morning",
+            "features": {
+                "keywords": [
+                    "Top Stock Trades",
+                    "Friday Morning"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

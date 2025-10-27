@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "国家大基金一期浮盈500亿，“捕获”汇顶科技、兆易创新和国科微等牛股，二期呢？",
+            "features": {
+                "keywords": [
+                    "国家大基金",
+                    "一期",
+                    "浮盈",
+                    "500亿",
+                    "汇顶科技",
+                    "兆易创新",
+                    "国科微",
+                    "二期"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "半导体",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "国家大基金一期浮盈500亿，“捕获”汇顶科技、兆易创新和国科微等牛股，二期呢？",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "北上本周连续四天净流入，552家公司半年报提前看",
+            "features": {
+                "keywords": [
+                    "北上资金",
+                    "本周",
+                    "连续四天",
+                    "净流入",
+                    "552家公司",
+                    "半年报"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "北上本周连续四天净流入，552家公司半年报提前看",
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

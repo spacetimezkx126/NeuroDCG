@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "互金晚报：微贷网高管出现变动 玖富递交赴美上市申请 董监高成员变化",
+            "features": {
+                "keywords": [
+                    "微贷网",
+                    "高管变动",
+                    "玖富",
+                    "赴美上市",
+                    "董监高成员变化"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "有色金属行业投资策略报告：黄金大放异彩，铜铝环比增长，维持 “推荐”评级",
+            "features": {
+                "keywords": [
+                    "有色金属",
+                    "黄金",
+                    "铜铝",
+                    "环比增长",
+                    "推荐评级"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "有色金属"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

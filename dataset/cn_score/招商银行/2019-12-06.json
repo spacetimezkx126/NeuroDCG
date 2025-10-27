@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "威创股份业绩创新低 出售可儿教育股权换赛道？ 资产异常",
+            "features": {
+                "keywords": [
+                    "威创股份",
+                    "业绩创新低",
+                    "出售",
+                    "可儿教育股权",
+                    "换赛道",
+                    "资产异常"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "教育",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "大家人寿获招商银行6.66亿欧元内保外贷额度",
+            "features": {
+                "keywords": [
+                    "大家人寿",
+                    "招商银行",
+                    "内保外贷",
+                    "6.66亿欧元"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "保险",
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

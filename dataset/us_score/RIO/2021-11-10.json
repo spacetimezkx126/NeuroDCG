@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Suze Orman says this is the only asset class that has a track record of beating inflation — don't give up on it just yet",
+            "features": {
+                "keywords": [
+                    "asset class",
+                    "track record",
+                    "beating inflation"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "economy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Was The Smart Money Right About Anheuser-Busch InBev SA/NV (BUD)?",
+            "features": {
+                "keywords": [
+                    "Smart Money",
+                    "Anheuser-Busch InBev",
+                    "BUD"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "consumer goods",
+                    "beverages"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Miners Have a Pesky Pollution Problem: Their Customers",
+            "features": {
+                "keywords": [
+                    "miners",
+                    "pollution problem",
+                    "customers"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining",
+                    "environmental"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "百信银行与浦发银行签署全面战略合作协议",
+            "features": {
+                "keywords": [
+                    "百信银行",
+                    "浦发银行",
+                    "战略合作"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "四大行净利润均达千亿级别 交行三季度再被招行反超",
+            "features": {
+                "keywords": [
+                    "四大行",
+                    "净利润",
+                    "千亿级别",
+                    "交行",
+                    "招行",
+                    "反超"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Stranger Things Is Coming to a Theme Park Near You",
+            "features": {
+                "keywords": [
+                    "Stranger Things",
+                    "Theme Park"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment",
+                    "tourism"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Stranger Things Is Coming to a Theme Park Near You",
+                "Correlation": 1,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 1,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "3 Top Stocks With High Dividend Yields",
+            "features": {
+                "keywords": [
+                    "Top Stocks",
+                    "High Dividend Yields"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "investing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "3 Top Stocks With High Dividend Yields",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

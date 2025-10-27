@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "泡沫上的新造车：卖车5万辆，市值4千亿",
+            "features": {
+                "keywords": [
+                    "新造车",
+                    "卖车",
+                    "市值",
+                    "泡沫"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 9,
+                "Time_Proximity": 4,
+                "Headline_Structure": 10,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "",
+            "original_text": "威马谋上市，造车新势力角逐下半场",
+            "features": {
+                "keywords": [
+                    "威马",
+                    "上市",
+                    "造车新势力",
+                    "角逐",
+                    "下半场"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-15",
+            "original_text": "These Stocks Would Have Doubled Your Money Last Year",
+            "features": {
+                "keywords": [
+                    "Stocks",
+                    "Doubled",
+                    "Money",
+                    "Last Year"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 2,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 3,
+                "Headline_Structure": 9,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "2023-10-15",
+            "original_text": "2 Stocks Robinhood Investors Can't Get Enough Of",
+            "features": {
+                "keywords": [
+                    "Robinhood",
+                    "Investors",
+                    "Stocks",
+                    "Can't Get Enough Of"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

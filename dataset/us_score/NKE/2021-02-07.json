@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "Could Nike Be a Millionaire-Maker Stock?",
+            "features": {
+                "keywords": [
+                    "Nike",
+                    "Millionaire-Maker",
+                    "Stock"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "Dow Jones Futures: Coronavirus Vaccinations Hit Milestone; Market Rally Warning Signs",
+            "features": {
+                "keywords": [
+                    "Dow Jones",
+                    "Futures",
+                    "Coronavirus",
+                    "Vaccinations",
+                    "Milestone",
+                    "Market Rally",
+                    "Warning Signs"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "financial markets"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

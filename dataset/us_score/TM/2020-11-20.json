@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Cars that hold their value the best - and the worst",
+            "features": {
+                "keywords": [
+                    "Cars",
+                    "value",
+                    "best",
+                    "worst"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Cars that hold their value the best - and the worst",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "3 Reasons to Avoid Nikola Stock as Hype Catches up to the EV Maker",
+            "features": {
+                "keywords": [
+                    "Nikola",
+                    "Stock",
+                    "Avoid",
+                    "Hype",
+                    "EV",
+                    "Maker"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy",
+                    "automotive"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "3 Reasons to Avoid Nikola Stock as Hype Catches up to the EV Maker",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

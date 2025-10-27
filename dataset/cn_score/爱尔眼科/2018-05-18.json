@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "权 重 股 表 现 出 色 沪 指 收 盘 大 涨 1 . 2 4 %",
+            "features": {
+                "keywords": [
+                    "权重股",
+                    "表现出色",
+                    "沪指",
+                    "收盘大涨"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "大盘蓝筹"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

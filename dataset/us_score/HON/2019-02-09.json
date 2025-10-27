@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2019-01-02",
+            "original_text": "Is Honeywell a Good Value Stock for 2019?",
+            "features": {
+                "keywords": [
+                    "Honeywell",
+                    "Good Value",
+                    "Stock",
+                    "2019"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2019-01-02",
+            "original_text": "New Black Boxes Offer Ability to Send Real-Time Data From Plane Crashes",
+            "features": {
+                "keywords": [
+                    "Black Boxes",
+                    "Real-Time Data",
+                    "Plane Crashes"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aerospace",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "New Black Boxes Offer Ability to Send Real-Time Data From Plane Crashes",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

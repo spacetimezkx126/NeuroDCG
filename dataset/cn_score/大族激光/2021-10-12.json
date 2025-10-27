@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "自立自强 积极拥抱全球化，大族激光彰显中国制造",
+            "features": {
+                "keywords": [
+                    "大族激光",
+                    "中国制造",
+                    "全球化",
+                    "自立自强"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "制造业",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "148家公司获机构调研（附名单）",
+            "features": {
+                "keywords": [
+                    "机构调研",
+                    "公司名单",
+                    "148家"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 2,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

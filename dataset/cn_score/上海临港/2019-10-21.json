@@ -1,0 +1,41 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股走牛，险资大举出动！岂止万达信息，这些个股也被盯上了！已砸近80亿举牌",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "走牛",
+                    "险资",
+                    "大举出动",
+                    "万达信息",
+                    "举牌"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "保险",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 10,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

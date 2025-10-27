@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "黄金股逆势走强，园城黄金大涨5%",
+            "features": {
+                "keywords": [
+                    "黄金股",
+                    "逆势",
+                    "走强",
+                    "园城黄金",
+                    "大涨"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "黄金"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "电子行业日报:制造业减税降费有利于电子板块盈利能力改善",
+            "features": {
+                "keywords": [
+                    "电子行业",
+                    "制造业",
+                    "减税降费",
+                    "盈利能力",
+                    "改善"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

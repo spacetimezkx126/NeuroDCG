@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-10-25",
+            "original_text": "Gilead's (GILD) Earnings Miss Estimates in Q3, Sales Beat",
+            "features": {
+                "keywords": [
+                    "Gilead",
+                    "Earnings Miss",
+                    "Sales Beat",
+                    "Q3"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-25",
+            "original_text": "Pharma Stock Roundup: LLY, NVS, AZN's Q3 Earnings, Updates From FDA",
+            "features": {
+                "keywords": [
+                    "Pharma Stock",
+                    "LLY",
+                    "NVS",
+                    "AZN",
+                    "Q3 Earnings",
+                    "FDA Updates"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

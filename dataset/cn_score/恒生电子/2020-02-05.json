@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "突发重大好消息，明天迎接百股涨停！",
+            "features": {
+                "keywords": [
+                    "重大好消息",
+                    "百股涨停"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "全市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "突发重大好消息，明天迎接百股涨停！",
+                "Correlation": 3,
+                "Sentiment": 9,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 1,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 10,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "优刻得：云计算（附深度）",
+            "features": {
+                "keywords": [
+                    "优刻得",
+                    "云计算"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "云计算"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "优刻得：云计算（附深度）",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "银政企合力“战疫”浙江样本：发放抗疫贷款，保障防疫物资",
+            "features": {
+                "keywords": [
+                    "银政企合作",
+                    "抗疫贷款",
+                    "防疫物资"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "医疗"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "银政企合力“战疫”浙江样本：发放抗疫贷款，保障防疫物资",
+                "Correlation": 4,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

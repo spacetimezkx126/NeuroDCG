@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "发挥金融专长 激发县域经济“造血”功能 长江证券多措并举助力乡村振兴",
+            "features": {
+                "keywords": [
+                    "金融专长",
+                    "县域经济",
+                    "造血功能",
+                    "长江证券",
+                    "乡村振兴"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "农业",
+                    "区域经济"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2021-10-12",
+            "original_text": "长江尊利债券型证券投资基金2021年10月12日获予以注册",
+            "features": {
+                "keywords": [
+                    "长江尊利债券型",
+                    "证券投资基金",
+                    "注册"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "债券市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "长江尊利债券型证券投资基金2021年10月12日获予以注册",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 3,
+                "Time_Proximity": 2,
+                "Headline_Structure": 4,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

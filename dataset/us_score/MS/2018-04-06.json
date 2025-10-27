@@ -1,0 +1,120 @@
+[
+    [
+        {
+            "time": "2017-12-31",
+            "original_text": "Morgan Stanley CEO James Gorman pay up 20 percent in 2017",
+            "features": {
+                "keywords": [
+                    "Morgan Stanley",
+                    "CEO",
+                    "James Gorman",
+                    "pay",
+                    "up",
+                    "20 percent",
+                    "2017"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Morgan Stanley CEO James Gorman pay up 20 percent in 2017",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "2018-01-01",
+            "original_text": "Noteworthy ETF Inflows: VTV, USB, LLY, MS",
+            "features": {
+                "keywords": [
+                    "ETF",
+                    "Inflows",
+                    "VTV",
+                    "USB",
+                    "LLY",
+                    "MS"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "technology",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Noteworthy ETF Inflows: VTV, USB, LLY, MS",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-04-09",
+            "original_text": "Waddell & Reed Financial, Inc. (WDR) Ex-Dividend Date Scheduled for April 09, 2018",
+            "features": {
+                "keywords": [
+                    "Waddell & Reed Financial",
+                    "Inc.",
+                    "WDR",
+                    "Ex-Dividend",
+                    "Date",
+                    "Scheduled",
+                    "April 09",
+                    "2018"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Waddell & Reed Financial, Inc. (WDR) Ex-Dividend Date Scheduled for April 09, 2018",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

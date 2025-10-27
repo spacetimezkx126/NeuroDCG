@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Macy's might never see daylight: analyst",
+            "features": {
+                "keywords": [
+                    "Macy's",
+                    "analyst",
+                    "might never",
+                    "see daylight"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "3 Great Stocks You Can Buy and Hold Forever",
+            "features": {
+                "keywords": [
+                    "Great Stocks",
+                    "Buy",
+                    "Hold",
+                    "Forever"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 8,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 7,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Tennis-Osaka's personal apparel collection underscores star power",
+            "features": {
+                "keywords": [
+                    "Tennis",
+                    "Osaka",
+                    "apparel",
+                    "collection",
+                    "star power"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "fashion",
+                    "sports"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 7,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

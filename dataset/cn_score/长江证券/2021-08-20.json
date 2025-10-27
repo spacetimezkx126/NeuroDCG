@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "爱美客跌9.55% 中信证券长江证券高点唱多",
+            "features": {
+                "keywords": [
+                    "爱美客",
+                    "中信证券",
+                    "长江证券",
+                    "唱多",
+                    "跌9.55%"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医疗美容"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

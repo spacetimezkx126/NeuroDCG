@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "2023-03-15",
+            "original_text": "Nike, Chipotle and Snapchat — how teens are spending their time and money",
+            "features": {
+                "keywords": [
+                    "Nike",
+                    "Chipotle",
+                    "Snapchat",
+                    "teens",
+                    "spending",
+                    "money"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail",
+                    "food service",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "Ukrainian airline ditches skirts and heels for loose suits and sneakers",
+            "features": {
+                "keywords": [
+                    "Ukrainian",
+                    "airline",
+                    "skirts",
+                    "heels",
+                    "loose suits",
+                    "sneakers"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aviation",
+                    "fashion"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 7,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

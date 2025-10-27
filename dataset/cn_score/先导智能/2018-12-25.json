@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "time": "2018-12-25",
+            "original_text": "中银国际*每日速递20181225：策略周报、经济工作会议点评；梦百合、伊利股份；首席周观点等",
+            "features": {
+                "keywords": [
+                    "策略周报",
+                    "经济工作会议",
+                    "梦百合",
+                    "伊利股份"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "消费"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-12-24",
+            "original_text": "【晨会聚焦】第三代“婴儿潮”的消退",
+            "features": {
+                "keywords": [
+                    "婴儿潮",
+                    "人口趋势"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医疗",
+                    "消费品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-12-24",
+            "original_text": "【电新】邹玲玲、花秀宁（研究助理）：11月风电装机同增50%，电动车持续景气-20181224",
+            "features": {
+                "keywords": [
+                    "风电装机",
+                    "电动车",
+                    "景气度"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "新能源",
+                    "电动车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

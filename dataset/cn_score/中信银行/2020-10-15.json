@@ -1,0 +1,107 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中国证监会行政处罚决定书（尤夫股份） 金融监管处罚",
+            "features": {
+                "keywords": [
+                    "证监会",
+                    "行政处罚",
+                    "尤夫股份",
+                    "金融监管"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "OKB跌破5.8美元关口 日内跌幅为4.29%",
+            "features": {
+                "keywords": [
+                    "OKB",
+                    "跌破",
+                    "5.8美元",
+                    "日内跌幅"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "加密货币"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 2,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "信用卡不良ABS年发行量料创新高",
+            "features": {
+                "keywords": [
+                    "信用卡",
+                    "不良ABS",
+                    "年发行量",
+                    "创新高"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "信贷"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 4,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

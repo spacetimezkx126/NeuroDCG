@@ -1,0 +1,105 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "消费市场开始复苏 酒店旅游与食品饮料终迎“春天”",
+            "features": {
+                "keywords": [
+                    "消费市场",
+                    "复苏",
+                    "酒店旅游",
+                    "食品饮料"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "酒店旅游",
+                    "食品饮料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "325亿主力资金近三日撤出融资融券概念股",
+            "features": {
+                "keywords": [
+                    "主力资金",
+                    "撤出",
+                    "融资融券",
+                    "概念股"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "融资融券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "当奢侈品成为奢侈，免税店迷途何方？",
+            "features": {
+                "keywords": [
+                    "奢侈品",
+                    "免税店"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "免税店"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 6,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

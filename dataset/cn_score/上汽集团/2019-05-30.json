@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "上海国资改革大动作将至，69只国资股一图尽览",
+            "features": {
+                "keywords": [
+                    "上海",
+                    "国资改革",
+                    "69只国资股"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "国有企业",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 3,
+                "Headline_Structure": 8,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "",
+            "original_text": "阿里豪掷36亿布局 车联网 上市公司再迎资本风口",
+            "features": {
+                "keywords": [
+                    "阿里",
+                    "36亿",
+                    "车联网",
+                    "资本风口"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

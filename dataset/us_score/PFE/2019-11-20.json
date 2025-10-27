@@ -1,0 +1,112 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Dow falls 100 points on losses for shares of Home Depot, 3M",
+            "features": {
+                "keywords": [
+                    "Dow",
+                    "falls",
+                    "Home Depot",
+                    "3M",
+                    "losses"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail",
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-06",
+            "original_text": "Dow's 175-point drop led by losses for shares of Home Depot, Apple Inc.",
+            "features": {
+                "keywords": [
+                    "Dow",
+                    "drop",
+                    "Home Depot",
+                    "Apple Inc.",
+                    "losses"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-07",
+            "original_text": "Dow falls 75 points on losses for 3M, Pfizer shares",
+            "features": {
+                "keywords": [
+                    "Dow",
+                    "falls",
+                    "3M",
+                    "Pfizer",
+                    "losses"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial",
+                    "pharmaceutical"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,140 @@
+[
+    [
+        {
+            "time": "2022-01-01",
+            "original_text": "上汽奥迪开始筹划渠道组建，2022年将正式销售国产奥迪",
+            "features": {
+                "keywords": [
+                    "上汽奥迪",
+                    "渠道组建",
+                    "国产奥迪"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车制造",
+                    "销售渠道"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2022-01-02",
+            "original_text": "上汽大众进入艰难时刻 | 上汽的拐点",
+            "features": {
+                "keywords": [
+                    "上汽大众",
+                    "艰难时刻",
+                    "拐点"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车制造"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2022-01-03",
+            "original_text": "上汽总裁王晓秋：车市寒流已到，自主品牌更需硬核实力站稳脚",
+            "features": {
+                "keywords": [
+                    "王晓秋",
+                    "车市寒流",
+                    "自主品牌",
+                    "硬核实力"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车行业",
+                    "自主品牌"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2022-01-04",
+            "original_text": "上汽集团总裁王晓秋履新首秀 拓展海外市场成销量突破关键",
+            "features": {
+                "keywords": [
+                    "王晓秋",
+                    "海外市场",
+                    "销量突破"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车出口",
+                    "国际市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

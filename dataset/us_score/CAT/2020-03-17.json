@@ -1,0 +1,147 @@
+[
+    [
+        {
+            "time": "2020-03-16",
+            "original_text": "Dow Jones Today, Stocks Slip On Coronavirus News; Coronavirus News In Focus: Moderna, Regeneron, Co-Diagnostics Spike",
+            "features": {
+                "keywords": [
+                    "Dow Jones",
+                    "Stocks Slip",
+                    "Coronavirus News",
+                    "Moderna",
+                    "Regeneron",
+                    "Co-Diagnostics"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-03-17",
+            "original_text": "Dow Jones Today, Stocks Bounce; Coronavirus News In Focus: Moderna, Regeneron, Co-Diagnostics Spike",
+            "features": {
+                "keywords": [
+                    "Dow Jones",
+                    "Stocks Bounce",
+                    "Coronavirus News",
+                    "Moderna",
+                    "Regeneron",
+                    "Co-Diagnostics"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-03-18",
+            "original_text": "Dow Jones Today, Futures Bounce; Coronavirus News In Focus: Moderna, Regeneron, Co-Diagnostics Spike",
+            "features": {
+                "keywords": [
+                    "Dow Jones",
+                    "Futures Bounce",
+                    "Coronavirus News",
+                    "Moderna",
+                    "Regeneron",
+                    "Co-Diagnostics"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-03-19",
+            "original_text": "Caterpillar Stock Rises 5%",
+            "features": {
+                "keywords": [
+                    "Caterpillar",
+                    "Stock Rises"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

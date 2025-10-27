@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "Were Hedge Funds Right About Novartis AG (NVS)?",
+            "features": {
+                "keywords": [
+                    "Hedge Funds",
+                    "Novartis",
+                    "AG"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-04-20",
+            "original_text": "Health Care Digest: Genentech's tumor-agnostic cancer drug, Novartis' East Bay option and more",
+            "features": {
+                "keywords": [
+                    "Health Care",
+                    "Genentech",
+                    "tumor-agnostic",
+                    "cancer drug",
+                    "Novartis",
+                    "East Bay"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-05-10",
+            "original_text": "Alcon Inc. -- Moody's assigns Baa2 issuer rating to Alcon; stable outlook",
+            "features": {
+                "keywords": [
+                    "Alcon Inc.",
+                    "Moody's",
+                    "Baa2",
+                    "issuer rating",
+                    "stable outlook"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

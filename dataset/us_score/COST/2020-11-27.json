@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-11-24",
+            "original_text": "Black Friday starts with a whimper",
+            "features": {
+                "keywords": [
+                    "Black Friday",
+                    "whimper",
+                    "start"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail",
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Black Friday starts with a whimper",
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-11-24",
+            "original_text": "Depression-Era Secrets of Retail Survival",
+            "features": {
+                "keywords": [
+                    "Depression-Era",
+                    "Retail",
+                    "Survival"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail",
+                    "economy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Depression-Era Secrets of Retail Survival",
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

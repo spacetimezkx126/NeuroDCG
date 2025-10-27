@@ -1,0 +1,113 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "SpaceX Crew Dragon Capsule Successfully Docks With Space Station",
+            "features": {
+                "keywords": [
+                    "SpaceX",
+                    "Crew Dragon",
+                    "Capsule",
+                    "Successfully",
+                    "Docks",
+                    "Space Station"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aerospace",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 10,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 10,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Look Out, Kratos -- Boeing Just Unveiled Its Own Wingman Drone",
+            "features": {
+                "keywords": [
+                    "Kratos",
+                    "Boeing",
+                    "Wingman",
+                    "Drone"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "defense",
+                    "aerospace"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Malaysia ready to back firms in finding missing flight MH370",
+            "features": {
+                "keywords": [
+                    "Malaysia",
+                    "firms",
+                    "finding",
+                    "missing",
+                    "flight",
+                    "MH370"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aviation",
+                    "government"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 4,
+                "Market_Scope": 2,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

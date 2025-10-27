@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "Emerson, Aspen Shares Are Rising on Software-Merger Report",
+            "features": {
+                "keywords": [
+                    "Emerson",
+                    "Aspen",
+                    "Shares",
+                    "Rising",
+                    "Software-Merger"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "Honeywell (HON) Introduces Searchline Excel for Harsh Weather",
+            "features": {
+                "keywords": [
+                    "Honeywell",
+                    "HON",
+                    "Introduces",
+                    "Searchline",
+                    "Excel",
+                    "Harsh",
+                    "Weather"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "C,X,O,股,价,调,整,后,是,否,再,次,上,车,机,会,？,持,续,重,点,推,荐,药,明,康,德,、,凯,莱,英,等",
+            "features": {
+                "keywords": [
+                    "股价调整",
+                    "再次上车机会",
+                    "药明康德",
+                    "凯莱英"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "C,X,O,股,价,调,整,后,是,否,再,次,上,车,机,会,？,持,续,重,点,推,荐,药,明,康,德,、,凯,莱,英,等",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "医,疗,器,械,周,榜,：,体,外,诊,断,股,走,强,，,“,器,械,茅,”,迈,瑞,医,疗,市,值,缩,水,近,8,8,亿,元, ,连,续,下,跌",
+            "features": {
+                "keywords": [
+                    "医疗器械",
+                    "体外诊断",
+                    "迈瑞医疗",
+                    "市值缩水",
+                    "连续下跌"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医疗器械"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "医,疗,器,械,周,榜,：,体,外,诊,断,股,走,强,，,“,器,械,茅,”,迈,瑞,医,疗,市,值,缩,水,近,8,8,亿,元, ,连,续,下,跌",
+                "Correlation": 10,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

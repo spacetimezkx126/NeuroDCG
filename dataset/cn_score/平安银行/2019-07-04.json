@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "又有银行公开选聘高管！1名总行行长、4名副行长，规模前所未有",
+            "features": {
+                "keywords": [
+                    "银行",
+                    "高管",
+                    "总行行长",
+                    "副行长",
+                    "规模"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "又有银行公开选聘高管！1名总行行长、4名副行长，规模前所未有",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "分析：一个月前 平安银行就对新城“出手”了",
+            "features": {
+                "keywords": [
+                    "平安银行",
+                    "新城",
+                    "出手"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "分析：一个月前 平安银行就对新城“出手”了",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "17股获券商买入评级 游族网络目标涨幅达35.14%",
+            "features": {
+                "keywords": [
+                    "券商",
+                    "买入评级",
+                    "游族网络",
+                    "目标涨幅"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "传媒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "17股获券商买入评级 游族网络目标涨幅达35.14%",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

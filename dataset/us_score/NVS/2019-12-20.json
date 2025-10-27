@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "2020-01-03",
+            "original_text": "Pharma Stock Roundup: Lilly's Upbeat 2020 Outlook, FDA Nod for PFE & MRK's Drugs",
+            "features": {
+                "keywords": [
+                    "Lilly",
+                    "Upbeat",
+                    "2020 Outlook",
+                    "FDA",
+                    "Nod",
+                    "PFE",
+                    "MRK",
+                    "Drugs"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-01-03",
+            "original_text": "Novartis wins Medicaid approval for new sickle cell drug in key U.S. states",
+            "features": {
+                "keywords": [
+                    "Novartis",
+                    "Medicaid",
+                    "approval",
+                    "sickle cell",
+                    "drug",
+                    "U.S.",
+                    "states"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

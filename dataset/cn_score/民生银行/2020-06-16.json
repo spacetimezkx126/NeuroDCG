@@ -1,0 +1,103 @@
+[
+    [
+        {
+            "time": "2021-05-01",
+            "original_text": "中国房地产企业动态监测：5月销售业绩表现较好 万科月销612.8亿",
+            "features": {
+                "keywords": [
+                    "房地产",
+                    "销售业绩",
+                    "万科"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-06-15",
+            "original_text": "A股融资融券日报：两融余额增加44.22亿元（6月15日）",
+            "features": {
+                "keywords": [
+                    "融资融券",
+                    "两融余额",
+                    "A股"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股融资融券日报：两融余额增加44.22亿元（6月15日）",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-06-16",
+            "original_text": "国内债市盘前2020年6月16日星期二",
+            "features": {
+                "keywords": [
+                    "国内债市",
+                    "盘前"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "债券"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

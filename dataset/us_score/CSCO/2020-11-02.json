@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "Is Now the Time to Buy These 3 Beaten Down Stocks of the Dow Jones Industrial Average?",
+            "features": {
+                "keywords": [
+                    "Beaten Down Stocks",
+                    "Dow Jones Industrial Average",
+                    "Buy"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general market"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2020-11-01",
+            "original_text": "Cisco Announces November 2020 Events with the Financial Community",
+            "features": {
+                "keywords": [
+                    "Cisco",
+                    "November 2020 Events",
+                    "Financial Community"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

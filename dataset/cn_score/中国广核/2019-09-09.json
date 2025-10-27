@@ -1,0 +1,105 @@
+[
+    [
+        {
+            "time": "2019-09-09",
+            "original_text": "A股早报2019年9月9日星期一",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "早报"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "A股早报2019年9月9日星期一",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2019-09-09",
+            "original_text": "9月9日盘前汇 | 今年前8个月我国外贸进出口增长3.6%",
+            "features": {
+                "keywords": [
+                    "外贸",
+                    "进出口",
+                    "增长"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "贸易"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "9月9日盘前汇 | 今年前8个月我国外贸进出口增长3.6%",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2019-09-09",
+            "original_text": "中国广核：台山2号机组即将具备商业运营条件 未来有“现金牛”资产属性",
+            "features": {
+                "keywords": [
+                    "中国广核",
+                    "台山2号机组",
+                    "商业运营",
+                    "现金牛"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "能源",
+                    "核电"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中国广核：台山2号机组即将具备商业运营条件 未来有“现金牛”资产属性",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,138 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Tech Stocks Last Week: Analysts Get Bullish on Microsoft, Square, and Amazon",
+            "features": {
+                "keywords": [
+                    "Tech Stocks",
+                    "Analysts",
+                    "Bullish",
+                    "Microsoft",
+                    "Square",
+                    "Amazon"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "If I Could Buy Only 1 Stock, This Would Be It",
+            "features": {
+                "keywords": [
+                    "Buy",
+                    "Stock"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 9,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 2,
+                "Entity_Density": 3,
+                "Market_Scope": 4,
+                "Time_Proximity": 4,
+                "Headline_Structure": 9,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Better Buy: Apple vs. Microsoft",
+            "features": {
+                "keywords": [
+                    "Better Buy",
+                    "Apple",
+                    "Microsoft"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Companies open doors to talent with autism",
+            "features": {
+                "keywords": [
+                    "Companies",
+                    "open doors",
+                    "talent",
+                    "autism"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "human resources",
+                    "diversity"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 5,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

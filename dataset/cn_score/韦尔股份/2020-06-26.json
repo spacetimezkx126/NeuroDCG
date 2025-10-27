@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "M,L,C,C,代理,商,商,络,电子,创业,板,上,市,申,请,获,受,理",
+            "features": {
+                "keywords": [
+                    "代理商",
+                    "创业板",
+                    "上市申请",
+                    "受理"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "M,L,C,C,代理,商,商,络,电子,创业,板,上,市,申,请,获,受,理",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 3,
+                "Time_Proximity": 5,
+                "Headline_Structure": 4,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "信用债日报：地产债延续弱势，中国恒大2.6亿美元担保无法履约",
+            "features": {
+                "keywords": [
+                    "信用债",
+                    "地产债",
+                    "弱势",
+                    "中国恒大",
+                    "担保",
+                    "无法履约"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "东方金诚：将正邦科技主体信用等级由AA+下调至AA，评级展望为稳定 主体评级下调",
+            "features": {
+                "keywords": [
+                    "东方金诚",
+                    "正邦科技",
+                    "主体信用等级",
+                    "下调",
+                    "AA+",
+                    "AA",
+                    "评级展望",
+                    "稳定"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "China’s Tech Growth Is Getting More Expensive",
+            "features": {
+                "keywords": [
+                    "China",
+                    "Tech",
+                    "Growth",
+                    "Expensive"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-05-04",
+            "original_text": "Alibaba misses earnings estimates, even in preferred renminbi terms",
+            "features": {
+                "keywords": [
+                    "Alibaba",
+                    "misses",
+                    "earnings",
+                    "estimates",
+                    "renminbi"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "e-commerce"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

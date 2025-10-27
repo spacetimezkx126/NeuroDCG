@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2018-03-22",
+            "original_text": "Trump's Trade Tweets Hammer China's Stocks and Currency",
+            "features": {
+                "keywords": [
+                    "Trump",
+                    "Trade Tweets",
+                    "China",
+                    "Stocks",
+                    "Currency"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "international trade",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "n/a"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-03-23",
+            "original_text": "China State Funds Sought to Cushion Blow as Stocks Tumble",
+            "features": {
+                "keywords": [
+                    "China",
+                    "State Funds",
+                    "Cushion Blow",
+                    "Stocks Tumble"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "government intervention",
+                    "finance"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "n/a",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

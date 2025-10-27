@@ -1,0 +1,103 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "北上资金加仓助贵州茅台重返700元",
+            "features": {
+                "keywords": [
+                    "北上资金",
+                    "加仓",
+                    "贵州茅台",
+                    "700元"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "白酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-09-21",
+            "original_text": "广州证券债市日评-20180921",
+            "features": {
+                "keywords": [
+                    "广州证券",
+                    "债市日评"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "债券市场"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 2,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "最新公告披露重大利好 四只股今日或冲涨停",
+            "features": {
+                "keywords": [
+                    "公告",
+                    "重大利好",
+                    "四只股",
+                    "涨停"
+                ],
+                "sentiment_score": 0.95,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "最新公告披露重大利好 四只股今日或冲涨停",
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

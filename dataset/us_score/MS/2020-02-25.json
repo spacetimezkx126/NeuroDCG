@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Treasury 10-Year Yield Tumbles to Record Low on Haven Demand",
+            "features": {
+                "keywords": [
+                    "Treasury",
+                    "10-Year",
+                    "Yield",
+                    "Tumbles",
+                    "Record Low",
+                    "Haven Demand"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "government bonds",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Treasury 10-Year Yield Tumbles to Record Low on Haven Demand",
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 9,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "IPOs are being put on ice as coronavirus fears rock markets",
+            "features": {
+                "keywords": [
+                    "IPOs",
+                    "put on ice",
+                    "coronavirus fears",
+                    "rock markets"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "stocks",
+                    "market sentiment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "IPOs are being put on ice as coronavirus fears rock markets",
+                "Correlation": 5,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

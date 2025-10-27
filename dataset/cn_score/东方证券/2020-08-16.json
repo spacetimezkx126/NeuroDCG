@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股首家未盈利IPO公司半年报来了！股东数少了近三成",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "未盈利IPO",
+                    "半年报",
+                    "股东数减少"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "生物医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

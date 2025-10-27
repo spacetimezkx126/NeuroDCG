@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "银 行 网 点 “ 无 人 化 ” 蓄 势",
+            "features": {
+                "keywords": [
+                    "银行网点",
+                    "无人化",
+                    "蓄势"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "银行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 4,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 6,
+                "Time_Proximity": 4,
+                "Headline_Structure": 5,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "",
+            "original_text": "夯 实 数 字 生 态 银 行 经 营 ， 浦 发 银 行 大 力 打 造 “ 权 益 生 态 ”",
+            "features": {
+                "keywords": [
+                    "数字生态银行",
+                    "浦发银行",
+                    "权益生态"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "银行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

@@ -1,0 +1,104 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "上海医药成立药品新公司，经营范围含新材料科技等",
+            "features": {
+                "keywords": [
+                    "上海医药",
+                    "新公司",
+                    "新材料科技"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医药",
+                    "新材料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "上海医药成立药品新公司，经营范围含新材料科技等",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2020-12-31",
+            "original_text": "A股早报2020年12月31日星期四",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "早报"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "A股早报2020年12月31日星期四",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 7,
+                "Time_Proximity": 2,
+                "Headline_Structure": 5,
+                "Source_Recency": 1
+            }
+        },
+        {
+            "time": "",
+            "original_text": "永达汽车售后服务收入有望增长10%",
+            "features": {
+                "keywords": [
+                    "永达汽车",
+                    "售后服务",
+                    "收入增长"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "永达汽车售后服务收入有望增长10%",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,37 @@
+[
+    [
+        {
+            "time": "2020-08-26",
+            "original_text": "生, 亿, 社, 热, 点, 商, 品, 发, 现",
+            "features": {
+                "keywords": [
+                    "热点商品",
+                    "发现"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费品"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "生",
+                "Correlation": 1,
+                "Sentiment": 1,
+                "Importance": 1,
+                "Impact": 1,
+                "Duration": 1,
+                "Entity_Density": 1,
+                "Market_Scope": 1,
+                "Time_Proximity": 1,
+                "Headline_Structure": 1,
+                "Source_Recency": 1
+            }
+        }
+    ]
+]

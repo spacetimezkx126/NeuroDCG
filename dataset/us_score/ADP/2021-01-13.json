@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "ADP Declares Regular Quarterly Dividend",
+            "features": {
+                "keywords": [
+                    "ADP",
+                    "Regular Quarterly Dividend",
+                    "Dividend Declaration"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "ADP Declares Regular Quarterly Dividend",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "What Does Automatic Data Processing's Debt Look Like?",
+            "features": {
+                "keywords": [
+                    "Automatic Data Processing",
+                    "Debt",
+                    "Financial Health"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "What Does Automatic Data Processing's Debt Look Like?",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

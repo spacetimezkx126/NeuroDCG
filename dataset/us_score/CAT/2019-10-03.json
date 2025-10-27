@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "Dow's nearly 100-point fall led by losses in 3M, Caterpillar shares",
+            "features": {
+                "keywords": [
+                    "Dow",
+                    "100-point fall",
+                    "losses",
+                    "3M",
+                    "Caterpillar"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial",
+                    "manufacturing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 10,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "3M, Caterpillar share losses contribute to Dow's 216-point drop",
+            "features": {
+                "keywords": [
+                    "3M",
+                    "Caterpillar",
+                    "share losses",
+                    "Dow",
+                    "216-point drop"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial",
+                    "manufacturing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 8,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

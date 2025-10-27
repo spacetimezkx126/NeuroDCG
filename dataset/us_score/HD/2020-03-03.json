@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "2020-03-10",
+            "original_text": "United Technologies, Nike share gains contribute to Dow's 67-point jump",
+            "features": {
+                "keywords": [
+                    "United Technologies",
+                    "Nike",
+                    "share gains",
+                    "Dow",
+                    "jump"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "United Technologies, Nike share gains contribute to Dow's 67-point jump",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-03-10",
+            "original_text": "High-fives, hugs, kisses discouraged as U.S. companies respond to growing coronavirus threat",
+            "features": {
+                "keywords": [
+                    "high-fives",
+                    "hugs",
+                    "kisses",
+                    "discouraged",
+                    "U.S. companies",
+                    "coronavirus",
+                    "threat"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "High-fives, hugs, kisses discouraged as U.S. companies respond to growing coronavirus threat",
+                "Correlation": 4,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "周日仔：地产“基建人”",
+            "features": {
+                "keywords": [
+                    "地产",
+                    "基建"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产",
+                    "基础设施建设"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "周日仔：地产“基建人”",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 2,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中交集团主要领导会见青岛市市长赵豪志",
+            "features": {
+                "keywords": [
+                    "中交集团",
+                    "青岛市",
+                    "赵豪志",
+                    "会见"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "建筑",
+                    "交通"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中交集团主要领导会见青岛市市长赵豪志",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "特变电工、电建、能建等企业签约8个国际项目",
+            "features": {
+                "keywords": [
+                    "特变电工",
+                    "电建",
+                    "能建",
+                    "国际项目",
+                    "签约"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电力",
+                    "能源建设"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "特变电工、电建、能建等企业签约8个国际项目",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

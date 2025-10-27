@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "蚂,蚁,金,服,指,数,收,涨,4,.,1,8,%,，,张,江,高,科,、,复,星,医,药,、,凤,凰,传,媒,主,力,资,金,净,流,入,居,前",
+            "features": {
+                "keywords": [
+                    "蚂蚁金服指数",
+                    "张江高科",
+                    "复星医药",
+                    "凤凰传媒",
+                    "主力资金净流入"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融科技",
+                    "医药",
+                    "传媒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "蚂蚁金服指数收涨4.18%，张江高科、复星医药、凤凰传媒主力资金净流入居前",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "保,利,发,展,上,半,年,总,营,收,7,3,7,亿, ,新,湖,中,宝,拟,设,1,0,.,5,亿,C,M,B,S",
+            "features": {
+                "keywords": [
+                    "保利发展",
+                    "上半年总营收",
+                    "新湖中宝",
+                    "CMBS"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "房地产",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "保利发展上半年总营收737亿 新湖中宝拟设10.5亿CMBS",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

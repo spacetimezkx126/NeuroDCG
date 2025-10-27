@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Cousins Properties Rewards Investors With 8.3% Dividend Hike",
+            "features": {
+                "keywords": [
+                    "Cousins Properties",
+                    "Dividend Hike",
+                    "Investors",
+                    "Rewards"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "real estate"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "VNQ, EQIX, PLD, PSA: Large Outflows Detected at ETF",
+            "features": {
+                "keywords": [
+                    "VNQ",
+                    "EQIX",
+                    "PLD",
+                    "PSA",
+                    "Large Outflows",
+                    "ETF"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "real estate",
+                    "technology",
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

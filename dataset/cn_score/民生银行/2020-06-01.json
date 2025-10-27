@@ -1,0 +1,107 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股突破2900，港股狂拉800点！近百股涨停、牛市旗手狂涨",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "港股",
+                    "涨停",
+                    "牛市"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "股市"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 10,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "银行副行长骗取43亿 金额超所在银行去年净利润5倍 欺诈造假",
+            "features": {
+                "keywords": [
+                    "银行",
+                    "副行长",
+                    "欺诈",
+                    "造假"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-05-29",
+            "original_text": "A股融资融券日报：两融余额减少24.85亿元（5月29日）",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "融资融券",
+                    "两融余额"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "股市"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

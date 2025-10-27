@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-08-02",
+            "original_text": "江苏银行(600919.SH)2448.04万股限售股于8月2日上市流通 解禁",
+            "features": {
+                "keywords": [
+                    "江苏银行",
+                    "限售股",
+                    "上市流通",
+                    "解禁"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-07-20",
+            "original_text": "银行业周观点：7月LPR报价维持不变",
+            "features": {
+                "keywords": [
+                    "银行业",
+                    "LPR",
+                    "报价",
+                    "维持不变"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "银行业周观点：7月LPR报价维持不变",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

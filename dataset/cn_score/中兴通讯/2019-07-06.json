@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中兴通讯会成为第二个华为吗？投100亿搞研发，正研发5nm芯片",
+            "features": {
+                "keywords": [
+                    "中兴通讯",
+                    "华为",
+                    "研发",
+                    "5nm芯片"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "半导体"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 3,
+                "Headline_Structure": 9,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "北上资金本周净买入20.37亿元 17股最受青睐",
+            "features": {
+                "keywords": [
+                    "北上资金",
+                    "净买入",
+                    "17股"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

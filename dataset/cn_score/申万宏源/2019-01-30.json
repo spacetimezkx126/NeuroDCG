@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "美联储不加息预期升温 黄金类资产或再添亮色",
+            "features": {
+                "keywords": [
+                    "美联储",
+                    "不加息",
+                    "预期升温",
+                    "黄金类资产"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "贵金属",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "马太效应加剧 两券商获逾百只基金增持",
+            "features": {
+                "keywords": [
+                    "马太效应",
+                    "券商",
+                    "基金增持"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "证券",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "OPEC+ agreement is a 'remarkable deal': Former Oil Exec",
+            "features": {
+                "keywords": [
+                    "OPEC+",
+                    "agreement",
+                    "remarkable deal"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "OPEC+ agreement is a 'remarkable deal': Former Oil Exec",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "BP tests offshore oil and gas workers for coronavirus",
+            "features": {
+                "keywords": [
+                    "BP",
+                    "offshore",
+                    "oil",
+                    "gas",
+                    "workers",
+                    "coronavirus"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "BP tests offshore oil and gas workers for coronavirus",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

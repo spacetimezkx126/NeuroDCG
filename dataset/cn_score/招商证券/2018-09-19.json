@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "又是股票质押惹得祸！股价腰斩两次违约，招商证券把长城集团告了，追讨近8000万",
+            "features": {
+                "keywords": [
+                    "股票质押",
+                    "股价腰斩",
+                    "违约",
+                    "招商证券",
+                    "长城集团"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "又是股票质押惹得祸！股价腰斩两次违约，招商证券把长城集团告了，追讨近8000万",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "A股迎来首批洋股民",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "洋股民"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "股市整体"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股迎来首批洋股民",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

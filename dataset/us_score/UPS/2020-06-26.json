@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-11-07",
+            "original_text": "Amazon Buys Driverless Startup Zoox, Cites Ride-Hailing Goal",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "Driverless",
+                    "Zoox",
+                    "Ride-Hailing"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "transportation"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 10,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-11-07",
+            "original_text": "ATTENTION UPS EMPLOYEES WITH RAMPART ACCOUNTS AT MERRILL LYNCH: KlaymanToskes Continues to Investigate Claims for UPS Employees with Losses from Unsuitable Covered Call Writing Strategies",
+            "features": {
+                "keywords": [
+                    "UPS",
+                    "Merrill Lynch",
+                    "Covered Call",
+                    "Investigation",
+                    "Losses"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "logistics",
+                    "finance"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

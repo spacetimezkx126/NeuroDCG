@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Samsung Profit Slides 38% With Stubborn Memory-Chip Slump",
+            "features": {
+                "keywords": [
+                    "Samsung",
+                    "Profit",
+                    "Slides",
+                    "Memory-Chip",
+                    "Slump"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "semiconductors"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Samsung Fails to Deliver the Expected Sunshine",
+            "features": {
+                "keywords": [
+                    "Samsung",
+                    "Fails",
+                    "Deliver",
+                    "Expected",
+                    "Sunshine"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,438 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "Has the Stock Market Topped Already?",
+            "features": {
+                "keywords": [
+                    "Stock Market",
+                    "Topped"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 10,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-03",
+            "original_text": "Can Intel Corp. Beat NVIDIA Corp. at Its Own Game?",
+            "features": {
+                "keywords": [
+                    "Intel",
+                    "NVIDIA",
+                    "Beat"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-04",
+            "original_text": "What Does This Breakout Stock Have In Common With Netflix, Nvidia, Grubhub?",
+            "features": {
+                "keywords": [
+                    "Breakout",
+                    "Netflix",
+                    "Nvidia",
+                    "Grubhub"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "entertainment",
+                    "food delivery"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-05",
+            "original_text": "Advanced Micro Devices, Inc. Looks Too Cheap Here",
+            "features": {
+                "keywords": [
+                    "Advanced Micro Devices",
+                    "Cheap"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-08",
+            "original_text": "3 Growth Opportunities for Taiwan Semiconductor Manufacturing Co., Ltd.",
+            "features": {
+                "keywords": [
+                    "Growth Opportunities",
+                    "Taiwan Semiconductor"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "semiconductors"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "3 Growth Opportunities for Taiwan Semiconductor Manufacturing Co., Ltd.",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-01-09",
+            "original_text": "Why Are Investors Interested in AMD Stock?",
+            "features": {
+                "keywords": [
+                    "Investors",
+                    "AMD",
+                    "Interested"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-10",
+            "original_text": "Bear of the Day: Barrick Gold (ABX)",
+            "features": {
+                "keywords": [
+                    "Bear",
+                    "Barrick Gold"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 2,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-11",
+            "original_text": "Should Investors Worry about AMD’s Long-Term Flexibility?",
+            "features": {
+                "keywords": [
+                    "Investors",
+                    "AMD",
+                    "Worry",
+                    "Long-Term Flexibility"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-12",
+            "original_text": "[$$] Facebook to hire chip designers as focus shifts to AI",
+            "features": {
+                "keywords": [
+                    "Facebook",
+                    "chip designers",
+                    "AI"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "AI"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-15",
+            "original_text": "[$$] Facebook hires chip designers as focus shifts to AI",
+            "features": {
+                "keywords": [
+                    "Facebook",
+                    "hires",
+                    "chip designers",
+                    "AI"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "AI"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-16",
+            "original_text": "How Is AMD Balancing Its Cash and Debt Positions?",
+            "features": {
+                "keywords": [
+                    "AMD",
+                    "Cash",
+                    "Debt",
+                    "Balancing"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-17",
+            "original_text": "4 Companies Betting on Cloud Gaming",
+            "features": {
+                "keywords": [
+                    "Companies",
+                    "Cloud Gaming"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "gaming"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-18",
+            "original_text": "Bull of the Day: Micron (MU)",
+            "features": {
+                "keywords": [
+                    "Bull",
+                    "Micron"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "semiconductors"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 9,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

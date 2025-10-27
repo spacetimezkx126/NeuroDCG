@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【市场观察】预期不佳，杀跌不止",
+            "features": {
+                "keywords": [
+                    "预期不佳",
+                    "杀跌不止"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "【市场观察】预期不佳，杀跌不止",
+                "Correlation": 5,
+                "Sentiment": 2,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 1,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【东吴晨报0103】【月策略】十大金股【年度策略】医药、轻工【行业】电子【个股】亚夏汽车、用友网络",
+            "features": {
+                "keywords": [
+                    "十大金股",
+                    "医药",
+                    "轻工",
+                    "电子",
+                    "亚夏汽车",
+                    "用友网络"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医药",
+                    "轻工",
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "【东吴晨报0103】【月策略】十大金股【年度策略】医药、轻工【行业】电子【个股】亚夏汽车、用友网络",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

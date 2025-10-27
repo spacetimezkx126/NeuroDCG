@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "影,院,跑,马,圈,地,的,时,代,结,束,了",
+            "features": {
+                "keywords": [
+                    "影院",
+                    "跑马圈地",
+                    "时代结束"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "影视"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "影院跑马圈地的时代结束了",
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "影,视,传,媒,行,业,周,报,:,国,办,发,布,体,育,新,政,,体,育,产,业,再,获,政,策,利,好",
+            "features": {
+                "keywords": [
+                    "影视传媒",
+                    "行业周报",
+                    "国办发布",
+                    "体育新政",
+                    "政策利好"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "体育",
+                    "影视传媒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "影视传媒行业周报:国办发布体育新政,体育产业再获政策利好",
+                "Correlation": 5,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

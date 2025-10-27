@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "time": "2022-12-23",
+            "original_text": "A股头条之上市公司公告精选（12.23）",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "上市公司",
+                    "公告"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2022-12-23",
+            "original_text": "江山股份拟清仓江苏银行 累计套现金金额可达8000万元",
+            "features": {
+                "keywords": [
+                    "江山股份",
+                    "清仓",
+                    "江苏银行",
+                    "套现"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "江山股份拟清仓江苏银行 累计套现金金额可达8000万元",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2022-12-23",
+            "original_text": "干货！晚间重要公告速读",
+            "features": {
+                "keywords": [
+                    "干货",
+                    "晚间",
+                    "公告"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "干货！晚间重要公告速读",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

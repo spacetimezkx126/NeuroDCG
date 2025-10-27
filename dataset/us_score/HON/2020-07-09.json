@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-10-15",
+            "original_text": "Lifshitz Law Firm, P.C. Announces Investigation of Acer Therapeutics, Inc. (ACER), Advanced Disposal Services, Inc. (ADSW), Apyx Medical Corporation (APYX), Honeywell International Inc. (HON), Immunomedics, Inc. (IMMU), National General Holdings Corp. (NGHC) and Zuora, Inc. (ZUO)",
+            "features": {
+                "keywords": [
+                    "Investigation",
+                    "Acer Therapeutics",
+                    "Advanced Disposal Services",
+                    "Apyx Medical Corporation",
+                    "Honeywell International",
+                    "Immunomedics",
+                    "National General Holdings",
+                    "Zuora"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "industrial",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 10,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-15",
+            "original_text": "Policy and Investment Failures Doomed the Biofuel Revolution",
+            "features": {
+                "keywords": [
+                    "Policy",
+                    "Investment Failures",
+                    "Biofuel Revolution"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

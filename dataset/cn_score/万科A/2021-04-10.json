@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "河 南 代 省 长 王 凯 与 万 科 集 团 董 事 会 主 席 郁 亮 会 谈",
+            "features": {
+                "keywords": [
+                    "河南",
+                    "代省长",
+                    "王凯",
+                    "万科集团",
+                    "董事会主席",
+                    "郁亮",
+                    "会谈"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 2,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "金 融 街 2 0 2 0 年 扣 非 净 利 下 滑 近 九 成   处 置 资 产 回 笼 百 亿 资 金   盈 利 能 力 下 降",
+            "features": {
+                "keywords": [
+                    "金融街",
+                    "2020年",
+                    "扣非净利",
+                    "下滑",
+                    "近九成",
+                    "处置资产",
+                    "回笼百亿资金",
+                    "盈利能力下降"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 1,
+                "Importance": 4,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

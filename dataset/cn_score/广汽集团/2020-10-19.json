@@ -1,0 +1,112 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "独,家,｜,除,广,汽,外,，,一,汽,或,也,将,获,得,丰,田,混,动,技,术,转,让",
+            "features": {
+                "keywords": [
+                    "一汽",
+                    "丰田",
+                    "混动技术",
+                    "技术转让"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "独家｜除广汽外，一汽或也将获得丰田混动技术转让",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "净,利,大,跌,5,2,%,，,股,价,多,年,低,迷,！,广,汽,\",,败,\" ,于,蔚,来,？, ,盈,利,能,力,下,降",
+            "features": {
+                "keywords": [
+                    "广汽",
+                    "净利润下降",
+                    "股价低迷",
+                    "蔚来",
+                    "盈利能力下降"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "净利大跌52%，股价多年低迷！广汽\"败\"于蔚来？盈利能力下降",
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 10,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "广,汽,集,团,9,月,销,量,超,1,8,万,辆, ,同,比,下,滑,7,.,'5,%, ,盈,利,能,力,下,降",
+            "features": {
+                "keywords": [
+                    "广汽集团",
+                    "销量下滑",
+                    "9月",
+                    "同比下滑",
+                    "盈利能力下降"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "广汽集团9月销量超18万辆 同比下滑7.5% 盈利能力下降",
+                "Correlation": 10,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

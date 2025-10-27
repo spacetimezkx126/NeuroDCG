@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "time": "2023-10-15",
+            "original_text": "General Electric (GE) Q1 Earnings Beat Estimates, Down Y/Y",
+            "features": {
+                "keywords": [
+                    "General Electric",
+                    "Q1 Earnings",
+                    "Beat Estimates",
+                    "Down Y/Y"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-15",
+            "original_text": "See what the IHS Markit Score report has to say about Danaher Corp.",
+            "features": {
+                "keywords": [
+                    "IHS Markit Score",
+                    "Danaher Corp."
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 4,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

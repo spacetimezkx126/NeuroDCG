@@ -1,0 +1,107 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "财 富 管 理 市 场 风 起 云 涌  中 信 综 合 金 融 舰 队 联 合 出 海",
+            "features": {
+                "keywords": [
+                    "财富管理",
+                    "中信",
+                    "综合金融",
+                    "联合出海"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 3,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "专 访 中 信 集 团 总 经 理 奚 国 华 ： 国 企 航 母 的 新 航 向",
+            "features": {
+                "keywords": [
+                    "中信集团",
+                    "总经理",
+                    "奚国华",
+                    "国企航母",
+                    "新航向"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "国有企业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "*ST 商 城 (600306.SH)：1.57 亿 元 借 款 的 转 期 手 续 尚 在 办 理 之 中",
+            "features": {
+                "keywords": [
+                    "*ST商城",
+                    "借款",
+                    "转期手续",
+                    "办理中"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "零售业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

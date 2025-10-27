@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "涨，停，板，复，盘，：，三，大，股，指，集，体，跳，水， ，钢，铁，股，逆，势，大，涨",
+            "features": {
+                "keywords": [
+                    "三大股指",
+                    "集体跳水",
+                    "钢铁股",
+                    "逆势大涨"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "钢铁"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "涨，停，板，复，盘，：，三，大，股，指，集，体，跳，水， ，钢，铁，股，逆，势，大，涨",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "航，空，股，上，涨，多，因，素，成，推，手，(，股，)",
+            "features": {
+                "keywords": [
+                    "航空股",
+                    "上涨",
+                    "多因素",
+                    "推手"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "航空"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "航，空，股，上，涨，多，因，素，成，推，手，(，股，)",
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

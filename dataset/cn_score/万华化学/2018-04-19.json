@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "刚发现在：这几只今年涨了100%的股票，基金、社保跟牛散都在疯狂买入！",
+            "features": {
+                "keywords": [
+                    "股票",
+                    "基金",
+                    "社保",
+                    "牛散",
+                    "买入"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "投资"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "刚发现在：这几只今年涨了100%的股票，基金、社保跟牛散都在疯狂买入！",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "环氧丙烷价格快速攀涨 行业将进入集中检修期(受益股)",
+            "features": {
+                "keywords": [
+                    "环氧丙烷",
+                    "价格",
+                    "攀涨",
+                    "检修期",
+                    "受益股"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "环氧丙烷价格快速攀涨 行业将进入集中检修期(受益股)",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

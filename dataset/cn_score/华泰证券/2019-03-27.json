@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "公司资金链紧张，千万股权被平仓，雪莱特与大股东同陷危机",
+            "features": {
+                "keywords": [
+                    "资金链",
+                    "股权平仓",
+                    "雪莱特",
+                    "大股东",
+                    "危机"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "企业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "公司资金链紧张，千万股权被平仓，雪莱特与大股东同陷危机",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "华泰证券：将深高速评级调低为\"增持\" 投资评级恶化",
+            "features": {
+                "keywords": [
+                    "华泰证券",
+                    "深高速",
+                    "评级调低",
+                    "投资评级恶化"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "交通基建"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "华泰证券：将深高速评级调低为\"增持\" 投资评级恶化",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

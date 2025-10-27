@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "招 商 证 券 ( 6 0 0 9 9 9 . S H ) ： 高 宏 任 职 公 司 非 执 行 董 事",
+            "features": {
+                "keywords": [
+                    "招商证券",
+                    "非执行董事",
+                    "高宏"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "招 商 证 券 ( 6 0 0 9 9 9 . S H ) ： 高 宏 任 职 公 司 非 执 行 董 事",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "主 承 销 商 ： “ 1 5 新 华 联 控 M T N 0 0 1 ” 未 能 按 期 足 额 偿 付 本 息 未 按 时 兑 付 本 息",
+            "features": {
+                "keywords": [
+                    "新华联控",
+                    "MTN",
+                    "未能偿付",
+                    "本息"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "债券",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "主 承 销 商 ： “ 1 5 新 华 联 控 M T N 0 0 1 ” 未 能 按 期 足 额 偿 付 本 息 未 按 时 兑 付 本 息",
+                "Correlation": 7,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "券 业 今 年 或 少 缴 1 0 亿 投 保 基 金 ， 券 商 真 龙 头 具 有 四 大 特 征",
+            "features": {
+                "keywords": [
+                    "券商",
+                    "投保基金",
+                    "少缴",
+                    "龙头特征"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "券 业 今 年 或 少 缴 1 0 亿 投 保 基 金 ， 券 商 真 龙 头 具 有 四 大 特 征",
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

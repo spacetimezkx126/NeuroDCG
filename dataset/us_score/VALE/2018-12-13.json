@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2023-03-15",
+            "original_text": "Vale Bolsters Case for Takeover of BHP JV With Acquisition",
+            "features": {
+                "keywords": [
+                    "Vale",
+                    "Takeover",
+                    "BHP JV",
+                    "Acquisition"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining",
+                    "metals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Vale Bolsters Case for Takeover of BHP JV With Acquisition",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "Will Chinese Steel Mills’ Pains Intensify with the Trade War?",
+            "features": {
+                "keywords": [
+                    "Chinese Steel Mills",
+                    "Trade War",
+                    "Pains",
+                    "Intensify"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "steel",
+                    "trade"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Will Chinese Steel Mills’ Pains Intensify with the Trade War?",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

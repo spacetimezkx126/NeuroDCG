@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-17",
+            "original_text": "Notable Tuesday Option Activity: UPS, MLM, ERI",
+            "features": {
+                "keywords": [
+                    "Option Activity",
+                    "UPS",
+                    "MLM",
+                    "ERI"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "transportation",
+                    "marketing",
+                    "renewable energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-17",
+            "original_text": "\"Last Chance To Evacuate\" Jacksonville",
+            "features": {
+                "keywords": [
+                    "Evacuate",
+                    "Jacksonville"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "real estate",
+                    "insurance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 2,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

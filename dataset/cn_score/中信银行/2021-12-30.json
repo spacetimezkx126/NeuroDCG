@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2021-01-01",
+            "original_text": "基金十强内部剧变 部分新能源主题产品掉队“散打选手”上位",
+            "features": {
+                "keywords": [
+                    "基金",
+                    "新能源",
+                    "主题产品",
+                    "掉队",
+                    "散打选手"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "基金十强内部剧变 部分新能源主题产品掉队“散打选手”上位",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2021-01-01",
+            "original_text": "国厚资产1折拿下资产包 个贷不良转让渐趋理性",
+            "features": {
+                "keywords": [
+                    "国厚资产",
+                    "资产包",
+                    "个贷不良",
+                    "转让",
+                    "理性"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "资产管理"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 6,
+                "Time_Proximity": 2,
+                "Headline_Structure": 7,
+                "Source_Recency": 1
+            }
+        }
+    ]
+]

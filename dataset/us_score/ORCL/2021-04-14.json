@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Moody's assigns Aa2 issuer rating to Belmont-Redwood Shores School District, CA; confirms Aa1 GOULT ratings on district and Belmont Elementary and Redwood Shores SFIDs",
+            "features": {
+                "keywords": [
+                    "Moody's",
+                    "Aa2",
+                    "issuer rating",
+                    "Belmont-Redwood Shores School District"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "education",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Moody's assigns Aa2 issuer rating to Belmont-Redwood Shores School District, CA; confirms Aa1 GOULT ratings on district and Belmont Elementary and Redwood Shores SFIDs",
+                "Correlation": 2,
+                "Sentiment": 6,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 1,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Oracle plans $1.2 billion campus in Nashville, creating 8,500 jobs",
+            "features": {
+                "keywords": [
+                    "Oracle",
+                    "Nashville",
+                    "campus",
+                    "jobs"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "real estate"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Oracle Cloud Infrastructure Announces ServiceNow Integration to Improve Multi-Cloud Management",
+            "features": {
+                "keywords": [
+                    "Oracle Cloud Infrastructure",
+                    "ServiceNow",
+                    "Multi-Cloud Management"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "cloud computing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

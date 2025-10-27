@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2018-08-17",
+            "original_text": "Pan American Silver Corp. (PAAS) Ex-Dividend Date Scheduled for August 17, 2018",
+            "features": {
+                "keywords": [
+                    "Pan American Silver",
+                    "Ex-Dividend",
+                    "Date",
+                    "Scheduled"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining",
+                    "silver"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2018-08-17",
+            "original_text": "Copper Prices Lowest in a Year: Will Red Metal Stocks Suffer?",
+            "features": {
+                "keywords": [
+                    "Copper",
+                    "Prices",
+                    "Lowest",
+                    "Year",
+                    "Red Metal",
+                    "Stocks",
+                    "Suffer"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining",
+                    "copper"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

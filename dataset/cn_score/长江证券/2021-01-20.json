@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "半导体基金王者归来霸屏收益榜，白酒、新能源说拜拜？",
+            "features": {
+                "keywords": [
+                    "半导体基金",
+                    "王者归来",
+                    "收益榜",
+                    "白酒",
+                    "新能源"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "半导体",
+                    "白酒",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 4,
+                "Headline_Structure": 9,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "",
+            "original_text": "解码四大央行的2020，欧美日扩张出“两个美联储”",
+            "features": {
+                "keywords": [
+                    "四大央行",
+                    "2020",
+                    "欧美日",
+                    "扩张",
+                    "美联储"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 10,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

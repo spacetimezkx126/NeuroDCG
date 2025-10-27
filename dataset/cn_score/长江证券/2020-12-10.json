@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "韦尔股份发生31笔大宗交易合计成交3.18亿元",
+            "features": {
+                "keywords": [
+                    "韦尔股份",
+                    "大宗交易",
+                    "31笔",
+                    "3.18亿元"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "半导体",
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "深度*行业*证券行业券商板块11月数据点评：市场回暖股承增长 转板上市办法出台",
+            "features": {
+                "keywords": [
+                    "证券行业",
+                    "券商板块",
+                    "11月数据",
+                    "市场回暖",
+                    "转板上市办法"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "多股大跌！大连圣亚连续5跌停，游资撬板“被埋”",
+            "features": {
+                "keywords": [
+                    "多股大跌",
+                    "大连圣亚",
+                    "5跌停",
+                    "游资撬板"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "旅游",
+                    "消费"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

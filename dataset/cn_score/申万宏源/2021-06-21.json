@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "首批公募REITs表现如何？蛇口产园15%领涨，首批REITs半日成交额破13亿，11家券商提供做市服务",
+            "features": {
+                "keywords": [
+                    "公募REITs",
+                    "蛇口产园",
+                    "领涨",
+                    "成交额",
+                    "做市服务"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "房地产",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-06-18",
+            "original_text": "A股融资融券日报：两融余额增加35.34亿元（6月18日）",
+            "features": {
+                "keywords": [
+                    "两融余额",
+                    "增加",
+                    "A股"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "全市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

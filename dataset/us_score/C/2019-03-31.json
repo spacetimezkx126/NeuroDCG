@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "Citigroup Will Soon Give Us a Read on the Health of the Banking Sector",
+            "features": {
+                "keywords": [
+                    "Citigroup",
+                    "health",
+                    "banking sector"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Citigroup’s consumer division on course to miss 2020 targets",
+            "features": {
+                "keywords": [
+                    "Citigroup",
+                    "consumer division",
+                    "miss",
+                    "targets"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

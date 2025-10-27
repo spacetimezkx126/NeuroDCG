@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "券商债券执业能力评级出炉！24家获A类，有的连升两级，有的连降两级",
+            "features": {
+                "keywords": [
+                    "券商",
+                    "债券",
+                    "执业能力",
+                    "评级",
+                    "连升两级",
+                    "连降两级"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "债券市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 9,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "明星分析师都去哪了？券商研究所5年离职数据大解剖",
+            "features": {
+                "keywords": [
+                    "明星分析师",
+                    "券商",
+                    "研究所",
+                    "离职数据"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "研究行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

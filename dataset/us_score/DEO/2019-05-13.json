@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "2018-01-01",
+            "original_text": "The Top 5 Beer Stocks of 2018",
+            "features": {
+                "keywords": [
+                    "Top 5",
+                    "Beer Stocks",
+                    "2018"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "beverage",
+                    "consumer goods"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 7,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 1,
+                "Headline_Structure": 8,
+                "Source_Recency": 1
+            }
+        },
+        {
+            "time": "2018-01-01",
+            "original_text": "10 ‘Buy-and-Hold’ Stocks to Own Forever",
+            "features": {
+                "keywords": [
+                    "Buy-and-Hold",
+                    "Stocks",
+                    "Own Forever"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general market"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 9,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 2,
+                "Headline_Structure": 10,
+                "Source_Recency": 1
+            }
+        }
+    ]
+]

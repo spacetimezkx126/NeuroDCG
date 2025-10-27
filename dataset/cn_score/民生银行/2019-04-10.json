@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "信用卡拐点已至？2018年分期收入占比首超利息",
+            "features": {
+                "keywords": [
+                    "信用卡",
+                    "拐点",
+                    "2018年",
+                    "分期收入",
+                    "利息"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "年报密集披露 七家银行营收、净利连增三年",
+            "features": {
+                "keywords": [
+                    "年报",
+                    "披露",
+                    "银行",
+                    "营收",
+                    "净利",
+                    "连增",
+                    "三年"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

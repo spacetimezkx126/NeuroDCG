@@ -1,0 +1,114 @@
+[
+    [
+        {
+            "time": "2023-03-15",
+            "original_text": "Update: Fire at Houston-area oil and gas facility still burning, could last 2 days",
+            "features": {
+                "keywords": [
+                    "fire",
+                    "Houston-area",
+                    "oil",
+                    "gas",
+                    "facility",
+                    "burning"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "Two Houston-area oil and gas facilities catch fire over the weekend",
+            "features": {
+                "keywords": [
+                    "Houston-area",
+                    "oil",
+                    "gas",
+                    "facilities",
+                    "catch fire",
+                    "weekend"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "Exxon reduces gasoline output at Baytown Texas refinery after fire - sources",
+            "features": {
+                "keywords": [
+                    "Exxon",
+                    "reduces",
+                    "gasoline",
+                    "output",
+                    "Baytown",
+                    "Texas",
+                    "refinery",
+                    "fire"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

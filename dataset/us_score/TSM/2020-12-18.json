@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2021-01-04",
+            "original_text": "Troubles rise for China's biggest chipmaker SMIC",
+            "features": {
+                "keywords": [
+                    "Troubles",
+                    "rise",
+                    "China",
+                    "chipmaker",
+                    "SMIC"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-01-04",
+            "original_text": "With the Pandemic Fading, the Stars Align for Emerging Market Growth Stocks in 2021",
+            "features": {
+                "keywords": [
+                    "Pandemic",
+                    "Fading",
+                    "Stars",
+                    "Align",
+                    "Emerging",
+                    "Market",
+                    "Growth",
+                    "Stocks",
+                    "2021"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "global markets"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

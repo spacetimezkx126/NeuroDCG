@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "大族激光：“大族转债”第三季度转股403股",
+            "features": {
+                "keywords": [
+                    "大族激光",
+                    "大族转债",
+                    "第三季度",
+                    "转股"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电子",
+                    "制造业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "电子行业北上资金月报",
+            "features": {
+                "keywords": [
+                    "电子行业",
+                    "北上资金",
+                    "月报"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

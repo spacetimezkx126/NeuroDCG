@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "time": "2018-10-18",
+            "original_text": "U.S. Postal Service to raise prices on commercial packages, starting Oct. 18",
+            "features": {
+                "keywords": [
+                    "Postal Service",
+                    "raise prices",
+                    "commercial packages"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "logistics",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-08-14",
+            "original_text": "Top Ranked Income Stocks to Buy for August 14th",
+            "features": {
+                "keywords": [
+                    "Ranked Income Stocks",
+                    "Buy",
+                    "August 14th"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 2,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-09-30",
+            "original_text": "ATTENTION UPS EMPLOYEES WITH MERRILL LYNCH ACCOUNTS: KlaymanToskes Continues to Investigate Claims for UPS Employees with Losses from Unsuitable Covered Call Writing Strategies",
+            "features": {
+                "keywords": [
+                    "UPS Employees",
+                    "Merrill Lynch",
+                    "Losses",
+                    "Covered Call Writing"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "logistics"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 2,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

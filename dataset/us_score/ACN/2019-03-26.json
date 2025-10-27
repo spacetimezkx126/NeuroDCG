@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-03-15",
+            "original_text": "XLK, PYPL, AVGO, ACN: Large Outflows Detected at ETF",
+            "features": {
+                "keywords": [
+                    "XLK",
+                    "PYPL",
+                    "AVGO",
+                    "ACN",
+                    "Large Outflows",
+                    "ETF"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "financial services"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 2,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "What To Expect From Accenture’s Q2?",
+            "features": {
+                "keywords": [
+                    "Accenture",
+                    "Q2",
+                    "Expect"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "consulting",
+                    "technology"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

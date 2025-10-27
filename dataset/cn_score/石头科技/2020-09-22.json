@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "IPO募资连续三月超500亿，有新股破发逾20%",
+            "features": {
+                "keywords": [
+                    "IPO",
+                    "募资",
+                    "新股破发"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "资本市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "加速去小米化石头科技毛利率上升 技术难独立自有产品质量成隐忧",
+            "features": {
+                "keywords": [
+                    "去小米化",
+                    "石头科技",
+                    "毛利率",
+                    "技术独立",
+                    "产品质量"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "消费电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "mixed"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

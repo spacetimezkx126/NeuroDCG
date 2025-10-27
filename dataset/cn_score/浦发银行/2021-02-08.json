@@ -1,0 +1,107 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "18家A股上市银行2020年答卷：厦门银行成增速\"黑马\"，仅上海银行不良率上升",
+            "features": {
+                "keywords": [
+                    "A股上市银行",
+                    "厦门银行",
+                    "增速黑马",
+                    "上海银行",
+                    "不良率上升"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "银行业：宏观经济持续修复 看好业绩改善+低估值下的银行板块投资机会",
+            "features": {
+                "keywords": [
+                    "银行业",
+                    "宏观经济",
+                    "业绩改善",
+                    "低估值",
+                    "投资机会"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-02-08",
+            "original_text": "国内财经媒体头版2021年2月8日星期一",
+            "features": {
+                "keywords": [
+                    "国内财经媒体",
+                    "头版",
+                    "2021年2月8日"
+                ],
+                "sentiment_score": 0,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 5,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

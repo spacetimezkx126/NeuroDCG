@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Sell Exxon Stock Ahead of Earnings, Buy Chevron ConocoPhillips, Says Goldman",
+            "features": {
+                "keywords": [
+                    "Sell",
+                    "Exxon",
+                    "Earnings",
+                    "Buy",
+                    "Chevron",
+                    "ConocoPhillips",
+                    "Goldman"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "ConocoPhillips to Revive Output, Expects Q2 Profit to Fall Y/Y",
+            "features": {
+                "keywords": [
+                    "ConocoPhillips",
+                    "Revive",
+                    "Output",
+                    "Q2",
+                    "Profit",
+                    "Fall",
+                    "Y/Y"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

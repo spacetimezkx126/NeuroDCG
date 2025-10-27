@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-17",
+            "original_text": "This Renewable Energy Juggernaut Wants to Supercharge America's Battery Storage Capacity",
+            "features": {
+                "keywords": [
+                    "Renewable Energy",
+                    "Supercharge",
+                    "Battery Storage",
+                    "America"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "renewable energy",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 4,
+                "Market_Scope": 6,
+                "Time_Proximity": 3,
+                "Headline_Structure": 9,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2023-10-17",
+            "original_text": "3 Top Dividend Stocks to Buy Right Now",
+            "features": {
+                "keywords": [
+                    "Dividend Stocks",
+                    "Buy",
+                    "Right Now"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "investing"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

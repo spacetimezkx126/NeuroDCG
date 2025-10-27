@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "立讯精密业绩高光 神秘资金乘势出清",
+            "features": {
+                "keywords": [
+                    "立讯精密",
+                    "业绩高光",
+                    "神秘资金",
+                    "乘势出清"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电子",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "“重叠区”出现 A股走在“美股化”的路上",
+            "features": {
+                "keywords": [
+                    "重叠区",
+                    "A股",
+                    "美股化"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

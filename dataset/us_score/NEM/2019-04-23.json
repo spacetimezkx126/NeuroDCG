@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Newmont Goldcorp Corporation -- Moody's rates Newmont's new notes Baa2; outlook stable",
+            "features": {
+                "keywords": [
+                    "Newmont",
+                    "Goldcorp",
+                    "Moody's",
+                    "rates",
+                    "Baa2",
+                    "outlook",
+                    "stable"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "mining"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Agnico bets on high grade gold as it digs in Canada's remote north",
+            "features": {
+                "keywords": [
+                    "Agnico",
+                    "high grade",
+                    "gold",
+                    "Canada",
+                    "remote north"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

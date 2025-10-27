@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "西安市委书记王浩：欢迎中国中铁把更多产业项目布局在西安",
+            "features": {
+                "keywords": [
+                    "西安市",
+                    "中国中铁",
+                    "产业项目",
+                    "布局"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "基建",
+                    "交通"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "逾60家公司拟“A拆A”，母公司盈利能力或是成败关键",
+            "features": {
+                "keywords": [
+                    "A拆A",
+                    "母公司",
+                    "盈利能力"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "资本市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "电气科技公司科汇股份闯关IPO，服务国家电网、中国中铁、中国铁建等国企",
+            "features": {
+                "keywords": [
+                    "科汇股份",
+                    "IPO",
+                    "国家电网",
+                    "中国中铁",
+                    "中国铁建"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电气设备",
+                    "基建"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

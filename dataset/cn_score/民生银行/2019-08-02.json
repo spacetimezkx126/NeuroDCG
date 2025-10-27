@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "又一电商巨头陨落 连银行联名卡都惨遭下架",
+            "features": {
+                "keywords": [
+                    "电商",
+                    "巨头",
+                    "陨落",
+                    "银行",
+                    "联名卡",
+                    "下架"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电商",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 10,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "担当与责任 解密民生银行中小企业融资的北京样本",
+            "features": {
+                "keywords": [
+                    "民生银行",
+                    "中小企业",
+                    "融资",
+                    "北京样本"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "中小企业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

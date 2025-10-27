@@ -1,0 +1,267 @@
+[
+    [
+        {
+            "time": "2019-03-14",
+            "original_text": "S&P, Nasdaq, Snap, Win, Streaks, in, Down, Day, for, Stocks",
+            "features": {
+                "keywords": [
+                    "S&P",
+                    "Nasdaq",
+                    "Snap",
+                    "Win",
+                    "Streaks",
+                    "Down",
+                    "Day",
+                    "Stocks"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "S&P, Nasdaq, Snap, Win, Streaks, in, Down, Day, for, Stocks",
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2019-03-14",
+            "original_text": "After Hours Most Active for Mar 14, 2019: GCP, LLY, HPQ, F, PFE, ACB",
+            "features": {
+                "keywords": [
+                    "After Hours",
+                    "Most Active",
+                    "GCP",
+                    "LLY",
+                    "HPQ",
+                    "F",
+                    "PFE",
+                    "ACB"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial",
+                    "healthcare",
+                    "technology",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-03-14",
+            "original_text": "Market Close Report: NASDAQ Composite index closes at 7,630.91 down -12.50 points",
+            "features": {
+                "keywords": [
+                    "Market Close",
+                    "NASDAQ Composite",
+                    "closes",
+                    "down",
+                    "points"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2019-03-14",
+            "original_text": "Markets Right Now: Stocks end a wobbly day mostly lower",
+            "features": {
+                "keywords": [
+                    "Markets",
+                    "Right Now",
+                    "Stocks",
+                    "end",
+                    "wobbly",
+                    "day",
+                    "mostly",
+                    "lower"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-03-14",
+            "original_text": "What's the play on Wynn? Plus the trades on Citigroup & Pfizer in #AskHalftime",
+            "features": {
+                "keywords": [
+                    "Wynn",
+                    "Citigroup",
+                    "Pfizer",
+                    "#AskHalftime"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "gaming",
+                    "financial services",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2019-03-14",
+            "original_text": "Health Care Sector Update for 03/14/2019: AXGT, JNJ, BDX, PFE, ABT, MRK, AMGN",
+            "features": {
+                "keywords": [
+                    "Health Care",
+                    "Sector Update",
+                    "AXGT",
+                    "JNJ",
+                    "BDX",
+                    "PFE",
+                    "ABT",
+                    "MRK",
+                    "AMGN"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-03-14",
+            "original_text": "Blue Chip Drug Stocks Face 'Reckoning' on Future Downgrades",
+            "features": {
+                "keywords": [
+                    "Blue Chip",
+                    "Drug Stocks",
+                    "Reckoning",
+                    "Future",
+                    "Downgrades"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

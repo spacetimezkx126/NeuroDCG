@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2019-11-19",
+            "original_text": "ORACLE'S ANNUAL MEETING OF STOCKHOLDERS TO BE HELD NOVEMBER 19, 2019",
+            "features": {
+                "keywords": [
+                    "Oracle",
+                    "Annual Meeting",
+                    "Stockholders"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2019-11-19",
+            "original_text": "The Juilliard School and Rutgers Tap Oracle Cloud to Manage Educational Back-office System",
+            "features": {
+                "keywords": [
+                    "Juilliard School",
+                    "Rutgers",
+                    "Oracle Cloud",
+                    "Back-office System"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "education",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 9,
+                "Market_Scope": 1,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

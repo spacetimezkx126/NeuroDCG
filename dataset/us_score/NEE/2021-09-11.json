@@ -1,0 +1,104 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "You'd Want to Buy Stocks on Every Dip",
+            "features": {
+                "keywords": [
+                    "buy",
+                    "dip"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "You'dWant to Buy Stocks on Every Dip",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 4,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "5 of the Safest Dividend Stocks Retirees Can Buy Right Now",
+            "features": {
+                "keywords": [
+                    "safest",
+                    "dividend",
+                    "retirees",
+                    "buy"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "dividends"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 9,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 2,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Why U.S. Shale Companies Are So Undervalued",
+            "features": {
+                "keywords": [
+                    "U.S.",
+                    "shale",
+                    "undervalued"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

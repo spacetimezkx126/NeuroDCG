@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "年后股价创历史新高，这些医药公司涨幅超过10％",
+            "features": {
+                "keywords": [
+                    "股价",
+                    "历史新高",
+                    "医药公司",
+                    "涨幅"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "年后股价创历史新高，这些医药公司涨幅超过10％",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "药明康德微升0.6% 创上市新高",
+            "features": {
+                "keywords": [
+                    "药明康德",
+                    "微升",
+                    "上市新高"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "药明康德微升0.6% 创上市新高",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "新冠病毒疫情的优先研究方向 | WHO全球研究大会的共识",
+            "features": {
+                "keywords": [
+                    "新冠病毒",
+                    "疫情",
+                    "优先研究方向",
+                    "WHO",
+                    "全球研究大会",
+                    "共识"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医药",
+                    "生物科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "新冠病毒疫情的优先研究方向 | WHO全球研究大会的共识",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

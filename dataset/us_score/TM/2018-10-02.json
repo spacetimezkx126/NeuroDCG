@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2018-09-01",
+            "original_text": "Toyota Motor September U.S. Sales Down 6.8%",
+            "features": {
+                "keywords": [
+                    "Toyota",
+                    "Motor",
+                    "September",
+                    "U.S.",
+                    "Sales",
+                    "Down"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automobile"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Toyota Motor September U.S. Sales Down 6.8%",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-09-01",
+            "original_text": "Asian Shares Mostly Lower Amid US-China Trade Worries",
+            "features": {
+                "keywords": [
+                    "Asian",
+                    "Shares",
+                    "Lower",
+                    "US-China",
+                    "Trade",
+                    "Worries"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "general market"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Asian Shares Mostly Lower Amid US-China Trade Worries",
+                "Correlation": 5,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

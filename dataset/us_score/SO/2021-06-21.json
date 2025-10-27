@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "UPDATE 1-U.S. NRC launches investigation at Southern Georgia Vogtle 3 nuclear unit",
+            "features": {
+                "keywords": [
+                    "NRC",
+                    "investigation",
+                    "Southern Georgia",
+                    "Vogtle 3",
+                    "nuclear unit"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "nuclear"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Georgia Power offers energy efficiency programs, tips to help customers as summer officially begins",
+            "features": {
+                "keywords": [
+                    "Georgia Power",
+                    "energy efficiency",
+                    "programs",
+                    "tips",
+                    "summer"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "utilities"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 4,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2020-10-23",
+            "original_text": "【银华基金】交易日报",
+            "features": {
+                "keywords": [
+                    "银华基金",
+                    "交易日报"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "基金"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "【银华基金】交易日报",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 4,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-10-23",
+            "original_text": "天风证券128亿元定增背后：融资忙不停 分红募资比低",
+            "features": {
+                "keywords": [
+                    "天风证券",
+                    "定增",
+                    "融资",
+                    "分红",
+                    "募资比低"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "天风证券128亿元定增背后：融资忙不停 分红募资比低",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

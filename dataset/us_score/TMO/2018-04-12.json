@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "2018-04-13",
+            "original_text": "Alamo Group, Inc. (ALG) Ex-Dividend Date Scheduled for April 13, 2018",
+            "features": {
+                "keywords": [
+                    "Ex-Dividend",
+                    "Scheduled",
+                    "ALG"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Lawsuit claims Thermo Fisher discriminated against ex-Marine with PTSD",
+            "features": {
+                "keywords": [
+                    "Lawsuit",
+                    "Thermo Fisher",
+                    "discriminated",
+                    "PTSD"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

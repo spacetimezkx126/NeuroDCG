@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "RPT-BHP faces first step in $6.3 billion UK claim over Brazil dam failure",
+            "features": {
+                "keywords": [
+                    "BHP",
+                    "UK claim",
+                    "Brazil dam failure"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining",
+                    "infrastructure"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "RPT-BHP faces first step in $6.3 billion UK claim over Brazil dam failure",
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-04-20",
+            "original_text": "Board of Canada's Cornerstone rejects BHP-backed SolGold's offer for 2nd time",
+            "features": {
+                "keywords": [
+                    "Cornerstone",
+                    "BHP-backed",
+                    "SolGold",
+                    "offer rejection"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining",
+                    "investments"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Board of Canada's Cornerstone rejects BHP-backed SolGold's offer for 2nd time",
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

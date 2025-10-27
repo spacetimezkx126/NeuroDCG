@@ -1,0 +1,220 @@
+[
+    [
+        {
+            "time": "2021-12-31",
+            "original_text": "中国建设银行最新公告：12月31日下午16：30起自营实物贵金属业务停止交易，2022年1月2日恢复正常。",
+            "features": {
+                "keywords": [
+                    "建设银行",
+                    "贵金属",
+                    "停止交易",
+                    "恢复"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "贵金属"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "中国建设银行最新公告：12月31日下午16：30起自营实物贵金属业务停止交易，2022年1月2日恢复正常。",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2022-01-02",
+            "original_text": "建行发布实物贵金属业务2022年元旦节假日期间交易安排公告。",
+            "features": {
+                "keywords": [
+                    "建行",
+                    "贵金属",
+                    "交易安排",
+                    "元旦"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "贵金属"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "建行发布实物贵金属业务2022年元旦节假日期间交易安排公告。",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-12-31",
+            "original_text": "建设银行：2021年12月31日（周五）下午16:30起，自营实物贵金属业务（含“易存金”）停止交易。",
+            "features": {
+                "keywords": [
+                    "建设银行",
+                    "贵金属",
+                    "停止交易",
+                    "易存金"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "贵金属"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "建设银行：2021年12月31日（周五）下午16:30起，自营实物贵金属业务（含“易存金”）停止交易。",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2021-12-01",
+            "original_text": "第二轮合肥消费券明日发放：资金 1200 万元。",
+            "features": {
+                "keywords": [
+                    "合肥",
+                    "消费券",
+                    "发放",
+                    "资金"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费",
+                    "经济"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "第二轮合肥消费券明日发放：资金 1200 万元。",
+                "Correlation": 2,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 1,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2021-12-01",
+            "original_text": "大行点评｜摩根大通下调建行目标价8元 | 头条金融网 机构下调估值。",
+            "features": {
+                "keywords": [
+                    "摩根大通",
+                    "建行",
+                    "目标价",
+                    "下调"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "大行点评｜摩根大通下调建行目标价8元 | 头条金融网 机构下调估值。",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-12-01",
+            "original_text": "62万亿资管巨头出手！又一只公募基金获批，投向确定。",
+            "features": {
+                "keywords": [
+                    "资管",
+                    "公募基金",
+                    "获批",
+                    "投向"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "基金"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "62万亿资管巨头出手！又一只公募基金获批，投向确定。",
+                "Correlation": 4,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "刘永好寻找新希望：高层大换血80后纷纷上位出栏目标3年7倍，A股新“猪茅”？ 董监高成员变化",
+            "features": {
+                "keywords": [
+                    "刘永好",
+                    "新希望",
+                    "高层换血",
+                    "80后",
+                    "出栏目标",
+                    "3年7倍",
+                    "A股",
+                    "猪茅",
+                    "董监高变化"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "养殖业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 4,
+                "Headline_Structure": 9,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "生猪期货摸着石头过河 多家猪企谨慎入场",
+            "features": {
+                "keywords": [
+                    "生猪期货",
+                    "摸着石头过河",
+                    "猪企",
+                    "谨慎入场"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "养殖业",
+                    "期货市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

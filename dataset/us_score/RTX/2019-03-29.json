@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2019-01-02",
+            "original_text": "These Are The 5 Top Dow Stocks Of 2019",
+            "features": {
+                "keywords": [
+                    "Top Dow Stocks",
+                    "2019"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general market"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "These Are The 5 Top Dow Stocks Of 2019",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 3,
+                "Headline_Structure": 9,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "2019-01-02",
+            "original_text": "Carlisle (CSL) to Gain From Multi-Market Presence, Buyouts",
+            "features": {
+                "keywords": [
+                    "Carlisle",
+                    "CSL",
+                    "Multi-Market Presence",
+                    "Buyouts"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Carlisle (CSL) to Gain From Multi-Market Presence, Buyouts",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

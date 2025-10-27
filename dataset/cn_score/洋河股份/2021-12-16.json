@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "泸、州、老、窖、又、涨、价、，、今、年、已、多、次、提、价、停、货",
+            "features": {
+                "keywords": [
+                    "泸州老窖",
+                    "涨价",
+                    "多次提价",
+                    "停货"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "白酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "泸、州、老、窖、又、涨、价、，、今、年、已、多、次、提、价、停、货",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 3,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "外、资、连、续、1、1、天、加、仓、，、4、0、0、0、亿、龙、头、被、买、爆、！、两、大、领、域、成、扫、货、专、区",
+            "features": {
+                "keywords": [
+                    "外资",
+                    "连续加仓",
+                    "4000亿龙头",
+                    "两大领域",
+                    "扫货专区"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "蓝筹股",
+                    "行业龙头"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "外、资、连、续、1、1、天、加、仓、，、4、0、0、0、亿、龙、头、被、买、爆、！、两、大、领、域、成、扫、货、专、区",
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

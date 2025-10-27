@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2020-11-16",
+            "original_text": "Crown Castle to Present at the Bank of America Merrill Lynch 2020 Media, Communications & Entertainment Conference",
+            "features": {
+                "keywords": [
+                    "Crown Castle",
+                    "Bank of America Merrill Lynch",
+                    "Media",
+                    "Communications",
+                    "Entertainment",
+                    "Conference"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "communications",
+                    "entertainment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-11-16",
+            "original_text": "Crown Castle (CCI) Down 4% Since Last Earnings Report: Can It Rebound?",
+            "features": {
+                "keywords": [
+                    "Crown Castle",
+                    "CCI",
+                    "Down",
+                    "Earnings Report",
+                    "Rebound"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "communications"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

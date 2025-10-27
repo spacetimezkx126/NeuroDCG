@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "2023-01-05",
+            "original_text": "Winter Storm to Dump Snow on New York and Icy Rain on Texas",
+            "features": {
+                "keywords": [
+                    "Winter Storm",
+                    "Snow",
+                    "New York",
+                    "Icy Rain",
+                    "Texas"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities",
+                    "transportation"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 2,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 7,
+                "Entity_Density": 2,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-01-05",
+            "original_text": "Duke Energy projects nearly 1 million power outages in Carolinas due to approaching winter storm; company ready to respond",
+            "features": {
+                "keywords": [
+                    "Duke Energy",
+                    "power outages",
+                    "Carolinas",
+                    "winter storm",
+                    "respond"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 9,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-01-05",
+            "original_text": "North Carolina Capital Facilities Fin. Agy. -- Moody's reviews Duke Energy, Duke Carolinas and Duke Progress for downgrade",
+            "features": {
+                "keywords": [
+                    "Moody's",
+                    "downgrade",
+                    "Duke Energy",
+                    "Duke Carolinas",
+                    "Duke Progress"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,180 @@
+[
+    [
+        {
+            "time": "2020-02-27",
+            "original_text": "['Thanks', 'To', 'Captain', 'Morgan,', \"'Morgans'\", 'Can', 'Score', 'Free', 'Tickets', 'To', 'Nashville', \"SC's\", 'Match', 'This', 'Weekend']",
+            "features": {
+                "keywords": [
+                    "Captain Morgan",
+                    "free tickets",
+                    "Nashville SC"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment",
+                    "sports"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Thanks To Captain Morgan, 'Morgans' Can Score Free Tickets To Nashville SC's Match This Weekend",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2020-02-27",
+            "original_text": "['The', 'Women', 'Who', 'Make', 'Johnnie', 'Walker', 'And', 'Bulleit', 'Frontier', 'Whiskey,', 'Two', 'Of', 'The', \"World's\", 'Most', 'Beloved', 'Spirits,', 'Celebrated', 'In', 'New', 'Craftswomen', 'Program']",
+            "features": {
+                "keywords": [
+                    "Johnnie Walker",
+                    "Bulleit Frontier Whiskey",
+                    "Craftswomen Program"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "alcohol",
+                    "branding"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "The Women Who Make Johnnie Walker And Bulleit Frontier Whiskey, Two Of The World's Most Beloved Spirits, Celebrated In New Craftswomen Program",
+                "Correlation": 5,
+                "Sentiment": 8,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2020-02-27",
+            "original_text": "[\"Diageo's\", 'FY20', 'Profits', 'to', 'be', 'Hurt', 'by', 'Coronavirus', 'Outbreak']",
+            "features": {
+                "keywords": [
+                    "Diageo",
+                    "FY20 profits",
+                    "coronavirus outbreak"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "alcohol",
+                    "global health"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Diageo's FY20 Profits to be Hurt by Coronavirus Outbreak",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-02-27",
+            "original_text": "['PRESS', 'DIGEST-British', 'Business', '-', 'Feb', '27']",
+            "features": {
+                "keywords": [
+                    "British Business",
+                    "Press Digest"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "business",
+                    "press"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "PRESS DIGEST-British Business - Feb 27",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 5,
+                "Time_Proximity": 4,
+                "Headline_Structure": 5,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2020-02-27",
+            "original_text": "['Coronavirus', 'update:', '81,312', 'cases,', '2,770', 'deaths;', 'Trump', 'says', 'U.S.', '‘very', 'ready’']",
+            "features": {
+                "keywords": [
+                    "Coronavirus",
+                    "cases",
+                    "deaths",
+                    "Trump",
+                    "U.S."
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "global health",
+                    "politics"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Coronavirus update: 81,312 cases, 2,770 deaths; Trump says U.S. ‘very ready’",
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

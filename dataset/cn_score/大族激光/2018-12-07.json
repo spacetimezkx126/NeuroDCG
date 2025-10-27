@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "陆股通北上资金本周净流入超百亿",
+            "features": {
+                "keywords": [
+                    "陆股通",
+                    "北上资金",
+                    "净流入",
+                    "百亿"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "全市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "盘前参考:美股大长腿 华为事件对大盘冲击有多大？",
+            "features": {
+                "keywords": [
+                    "盘前参考",
+                    "美股",
+                    "大长腿",
+                    "华为事件",
+                    "大盘",
+                    "冲击"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "大盘"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

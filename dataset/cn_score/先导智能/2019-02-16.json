@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "茅 台 今 年 涨 两 成  这 轮 反 弹 走 多 远",
+            "features": {
+                "keywords": [
+                    "茅台",
+                    "今年",
+                    "涨两成",
+                    "反弹"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "白酒",
+                    "消费"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

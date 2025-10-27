@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "白马上周集体走强但最后时刻医药股跌了行情结束？",
+            "features": {
+                "keywords": [
+                    "白马股",
+                    "集体走强",
+                    "医药股",
+                    "下跌",
+                    "行情结束"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "白马股",
+                    "医药股"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "白马上周集体走强但最后时刻医药股跌了行情结束？",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "机构上调29股评级 通鼎互联名家汇被看好",
+            "features": {
+                "keywords": [
+                    "机构",
+                    "上调评级",
+                    "通鼎互联",
+                    "名家汇",
+                    "看好"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "通信",
+                    "建筑装饰"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "机构上调29股评级 通鼎互联名家汇被看好",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

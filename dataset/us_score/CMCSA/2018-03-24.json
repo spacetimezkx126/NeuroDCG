@@ -1,0 +1,103 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "This Is Why Marvel Super Hero Land Isn't Coming to Disney World",
+            "features": {
+                "keywords": [
+                    "Marvel",
+                    "Super Hero Land",
+                    "Disney World"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 2,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 10,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-03-30",
+            "original_text": "Box Office: 'Tomb Raider' Tumbles 68%, 'I Can Only Imagine' Holds Strong",
+            "features": {
+                "keywords": [
+                    "Tomb Raider",
+                    "I Can Only Imagine",
+                    "Box Office"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-04-05",
+            "original_text": "Box Office: 'Pacific Rim' Nabs Meh $10M Friday, 'Isle Of Dogs' Scores Huge",
+            "features": {
+                "keywords": [
+                    "Pacific Rim",
+                    "Isle Of Dogs",
+                    "Box Office"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 4,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

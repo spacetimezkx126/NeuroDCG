@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Older Crowd Embraces Online Banking, Rewards Firms’ Digital Push",
+            "features": {
+                "keywords": [
+                    "Online Banking",
+                    "Digital Push"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Dubai faces 5.5% recession this year as $10 bln debt repayments loom, BofA says",
+            "features": {
+                "keywords": [
+                    "recession",
+                    "debt repayments",
+                    "Dubai"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "economy",
+                    "government"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Big Hedge Fund Sold Intel and Microsoft Stock. Here Are the 2 Bank Stocks It Bought.",
+            "features": {
+                "keywords": [
+                    "Hedge Fund",
+                    "Intel",
+                    "Microsoft",
+                    "Bank Stocks"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

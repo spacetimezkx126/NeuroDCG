@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "家用电器行业：6月家电社零回暖 空调内销边际改善",
+            "features": {
+                "keywords": [
+                    "家用电器",
+                    "6月",
+                    "家电社零",
+                    "回暖",
+                    "空调",
+                    "内销",
+                    "边际改善"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "家用电器"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "科创板将迎开市两周年 “试验田”收获多少硕果？",
+            "features": {
+                "keywords": [
+                    "科创板",
+                    "开市",
+                    "两周年",
+                    "试验田",
+                    "硕果"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "创新"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 10,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

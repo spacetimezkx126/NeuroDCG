@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "2023-03-07",
+            "original_text": "3月7日上市公司晚间公告速递",
+            "features": {
+                "keywords": [
+                    "上市公司",
+                    "公告",
+                    "速递"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "3月7日上市公司晚间公告速递",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-03-07",
+            "original_text": "歌尔股份、电连技术：传音控股为公司重要客户",
+            "features": {
+                "keywords": [
+                    "歌尔股份",
+                    "电连技术",
+                    "传音控股",
+                    "重要客户"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电子",
+                    "消费电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "歌尔股份、电连技术：传音控股为公司重要客户",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-03-07",
+            "original_text": "“非洲之王”传音控股拟借壳A股上市",
+            "features": {
+                "keywords": [
+                    "非洲之王",
+                    "传音控股",
+                    "借壳",
+                    "A股",
+                    "上市"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "消费电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "“非洲之王”传音控股拟借壳A股上市",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,68 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "巨丰收评：量能制约市场反弹 2800点得而复失",
+            "features": {
+                "keywords": [
+                    "量能",
+                    "市场反弹",
+                    "2800点"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【陆股通交易追踪】陆股通流出12.51亿元 中国平安获青睐",
+            "features": {
+                "keywords": [
+                    "陆股通",
+                    "流出",
+                    "中国平安"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "基民懵了！这只票到底有多受欢迎？多只新基金都买成了头号重仓股，券商更是高喊还能涨100元！",
+            "features": {
+                "keywords": [
+                    "基金",
+                    "重仓股",
+                    "券商",
+                    "涨100元"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "股票"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "电气设备行业周报：欧洲4月新能源车销量高增 光伏硅料供给增加",
+            "features": {
+                "keywords": [
+                    "电气设备",
+                    "新能源车",
+                    "销量高增",
+                    "光伏硅料",
+                    "供给增加"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源",
+                    "汽车",
+                    "光伏"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

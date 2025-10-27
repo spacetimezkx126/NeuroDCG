@@ -1,0 +1,101 @@
+[
+    [
+        {
+            "time": "2020-06-15",
+            "original_text": "啤酒市场加速回暖 多家酒企连续两月销量增长",
+            "features": {
+                "keywords": [
+                    "啤酒市场",
+                    "加速回暖",
+                    "销量增长"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "食品饮料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-06-15",
+            "original_text": "你方“降”罢我登场，“去商品化”几时休？",
+            "features": {
+                "keywords": [
+                    "去商品化",
+                    "市场变化"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2020-06-15",
+            "original_text": "【华创·周知道】北京疫情近况全梳理及影响初估——战“疫”系列十七&每周经济观察第24期 （20200615）",
+            "features": {
+                "keywords": [
+                    "北京疫情",
+                    "疫情影响",
+                    "经济观察"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医疗健康",
+                    "消费服务"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

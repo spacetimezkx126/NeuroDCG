@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "华侨城Ａ：截至2020年底公司旗下共有24家景区、24家酒店、4家开放式旅游区，均属于华侨城A旗下资产",
+            "features": {
+                "keywords": [
+                    "华侨城A",
+                    "景区",
+                    "酒店",
+                    "开放式旅游区",
+                    "资产"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "旅游",
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "华侨城Ａ：截至2020年底公司旗下共有24家景区、24家酒店、4家开放式旅游区，均属于华侨城A旗下资产",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 4,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "房地产行业周报：地产销售投资热度回落 公募REITs上市在即",
+            "features": {
+                "keywords": [
+                    "房地产",
+                    "销售",
+                    "投资",
+                    "热度回落",
+                    "公募REITs",
+                    "上市"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "房地产行业周报：地产销售投资热度回落 公募REITs上市在即",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "400亿拿下格力电器后，高瓴资本再出手扫货A股，158亿买隆基股权",
+            "features": {
+                "keywords": [
+                    "高瓴资本",
+                    "格力电器",
+                    "隆基",
+                    "收购",
+                    "股权"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "家电",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "TCL科技拟收购茂佳国际100%的股权 凯文教育拟收购海南创业联盟75%股权 兖州煤业收购兖矿集团相关资产",
+            "features": {
+                "keywords": [
+                    "TCL科技",
+                    "茂佳国际",
+                    "凯文教育",
+                    "海南创业联盟",
+                    "兖州煤业",
+                    "兖矿集团",
+                    "收购",
+                    "股权"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "教育",
+                    "煤炭"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

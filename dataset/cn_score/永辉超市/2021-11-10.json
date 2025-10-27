@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "吸引零售巨头布局，双十一前夕“折扣仓”成新“淘宝”地",
+            "features": {
+                "keywords": [
+                    "零售",
+                    "巨头",
+                    "布局",
+                    "双十一",
+                    "折扣仓",
+                    "淘宝"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "零售",
+                    "电商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "开什么样的超市，永辉超市很迷茫",
+            "features": {
+                "keywords": [
+                    "永辉超市",
+                    "迷茫"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "零售",
+                    "超市"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 2,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

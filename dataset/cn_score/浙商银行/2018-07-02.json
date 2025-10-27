@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "浙商银行A股IPO排队进度升级至“预披露更新”",
+            "features": {
+                "keywords": [
+                    "浙商银行",
+                    "A股",
+                    "IPO",
+                    "预披露更新"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "浙商银行更新招股书，一级资本充足率连降，拟发44.9亿股A股",
+            "features": {
+                "keywords": [
+                    "浙商银行",
+                    "招股书",
+                    "一级资本充足率",
+                    "连降",
+                    "拟发A股"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "浙商银行更新招股书，一级资本充足率连降，拟发44.9亿股A股",
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,69 @@
+[
+    [
+        {
+            "time": "2019-11-20",
+            "original_text": "中国混凝土展隆重开展",
+            "features": {
+                "keywords": [
+                    "中国混凝土展",
+                    "隆重开展"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "建筑材料",
+                    "工业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "中国混凝土展隆重开展",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2019-11-20",
+            "original_text": "多空角力下市场何去何从？",
+            "features": {
+                "keywords": [
+                    "多空角力",
+                    "市场走向"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "多空角力下市场何去何从？",
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

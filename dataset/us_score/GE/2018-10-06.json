@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "Ken Langone blames Jeff Immelt for GE’s financial woes",
+            "features": {
+                "keywords": [
+                    "Ken Langone",
+                    "Jeff Immelt",
+                    "GE",
+                    "financial woes"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Ken Langone blames Jeff Immelt for GE’s financial woes",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-06-20",
+            "original_text": "The Surprising Reason Why GE's Aviation Segment Could Outperform Expectations",
+            "features": {
+                "keywords": [
+                    "GE",
+                    "Aviation",
+                    "outperform",
+                    "expectations"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "aerospace"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "The Surprising Reason Why GE's Aviation Segment Could Outperform Expectations",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-04-10",
+            "original_text": "5G Rollout Could Lift Verizon Stock",
+            "features": {
+                "keywords": [
+                    "5G",
+                    "rollout",
+                    "Verizon",
+                    "lift",
+                    "stock"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "telecommunications"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "5G Rollout Could Lift Verizon Stock",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

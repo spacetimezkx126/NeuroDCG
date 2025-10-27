@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "Graduate Hotels® Launches Graduate Cares® Program",
+            "features": {
+                "keywords": [
+                    "Graduate Hotels",
+                    "Launches",
+                    "Graduate Cares",
+                    "Program"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "hospitality",
+                    "real estate"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Avoid Billionaire Nelson Peltz’s Top 5 Stock Picks",
+            "features": {
+                "keywords": [
+                    "Avoid",
+                    "Billionaire",
+                    "Nelson Peltz",
+                    "Top 5 Stock Picks"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "investing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

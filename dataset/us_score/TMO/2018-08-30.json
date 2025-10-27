@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "time": "2018-08-31",
+            "original_text": "CompX International Inc. (CIX) Ex-Dividend Date Scheduled for August 31, 2018",
+            "features": {
+                "keywords": [
+                    "CompX International",
+                    "Ex-Dividend Date",
+                    "Scheduled"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 4,
+                "Headline_Structure": 5,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2018-08-31",
+            "original_text": "Is Thermo Fisher Scientific Inc (NYSE:TMO) Expensive For A Reason? A Look At The Intrinsic Value",
+            "features": {
+                "keywords": [
+                    "Thermo Fisher Scientific",
+                    "Expensive",
+                    "Intrinsic Value"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 1,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

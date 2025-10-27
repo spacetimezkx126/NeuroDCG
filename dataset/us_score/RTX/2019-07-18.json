@@ -1,0 +1,113 @@
+[
+    [
+        {
+            "time": "2023-10-10",
+            "original_text": "Aviation is the rope in the tug of war over GE stock",
+            "features": {
+                "keywords": [
+                    "Aviation",
+                    "GE stock",
+                    "tug of war"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aviation",
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Aviation is the rope in the tug of war over GE stock",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-10",
+            "original_text": "Danaher (DHR) Beats on Q2 Earnings and Sales, Ups Guidance",
+            "features": {
+                "keywords": [
+                    "Danaher",
+                    "DHR",
+                    "Q2 Earnings",
+                    "Beats",
+                    "Ups Guidance"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Danaher (DHR) Beats on Q2 Earnings and Sales, Ups Guidance",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-10",
+            "original_text": "Honeywell (HON) Q2 Earnings Beat Estimates, Revenues Miss",
+            "features": {
+                "keywords": [
+                    "Honeywell",
+                    "HON",
+                    "Q2 Earnings",
+                    "Beat",
+                    "Revenues Miss"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "aerospace",
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "mixed",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Honeywell (HON) Q2 Earnings Beat Estimates, Revenues Miss",
+                "Correlation": 10,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

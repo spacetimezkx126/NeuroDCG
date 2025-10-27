@@ -1,0 +1,147 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "Georgia Power prepared to respond to winter weather",
+            "features": {
+                "keywords": [
+                    "Georgia Power",
+                    "winter weather",
+                    "prepared"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-03",
+            "original_text": "ACWV, ED, MSI, SO: ETF Outflow Alert",
+            "features": {
+                "keywords": [
+                    "ETF",
+                    "Outflow",
+                    "ACWV",
+                    "ED",
+                    "MSI",
+                    "SO"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-04",
+            "original_text": "Southern Co. (SO) Down 0.1% Since Last Earnings Report: Can It Rebound?",
+            "features": {
+                "keywords": [
+                    "Southern Co.",
+                    "earnings",
+                    "rebound",
+                    "down"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-01-05",
+            "original_text": "Detailed Research: Economic Perspectives on PayPal, Alphabet, Southern, Interpace Diagnostics Group, Edwards Lifesciences, and Laboratory Corporation of America — What Drives Growth in Today's Competitive Landscape",
+            "features": {
+                "keywords": [
+                    "PayPal",
+                    "Alphabet",
+                    "Southern",
+                    "Interpace Diagnostics",
+                    "Edwards Lifesciences",
+                    "Laboratory Corporation of America",
+                    "growth",
+                    "competitive landscape"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "healthcare",
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "American Water Supports Community by Donating Laptops to Those in Need",
+            "features": {
+                "keywords": [
+                    "American Water",
+                    "Community",
+                    "Donating",
+                    "Laptops"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities",
+                    "community_service"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 9,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "4 Dividend Hikers to Bet On Amid Prolonged Uncertainty",
+            "features": {
+                "keywords": [
+                    "Dividend",
+                    "Hikers",
+                    "Bet",
+                    "Uncertainty"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "investing"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

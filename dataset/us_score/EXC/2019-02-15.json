@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2019-02-19",
+            "original_text": "Ex-Dividend Reminder: Equinor, Target and Exelon",
+            "features": {
+                "keywords": [
+                    "Ex-Dividend",
+                    "Equinor",
+                    "Target",
+                    "Exelon"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy",
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2019-02-19",
+            "original_text": "Exelon Corporation (EXC) Ex-Dividend Date Scheduled for February 19, 2019",
+            "features": {
+                "keywords": [
+                    "Exelon",
+                    "Corporation",
+                    "Ex-Dividend",
+                    "Date",
+                    "Scheduled"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

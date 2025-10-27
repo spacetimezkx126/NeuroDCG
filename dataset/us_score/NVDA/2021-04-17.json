@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2021-01-01",
+            "original_text": "Investing in 2021? These 3 Stocks Are Riding Unstoppable Trends",
+            "features": {
+                "keywords": [
+                    "investing",
+                    "unstoppable trends",
+                    "stocks"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "general market"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 3,
+                "Headline_Structure": 9,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "2021-01-01",
+            "original_text": "ARK Is Investing in Space Exploration: These 2 Tech Stocks Could Blast Off",
+            "features": {
+                "keywords": [
+                    "ARK",
+                    "space exploration",
+                    "tech stocks",
+                    "blast off"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "aerospace"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 3,
+                "Headline_Structure": 9,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

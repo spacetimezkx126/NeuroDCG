@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "time": "2023-10-10",
+            "original_text": "10 Years Later: Warren Buffett and the Financial Crisis",
+            "features": {
+                "keywords": [
+                    "Warren Buffett",
+                    "Financial Crisis",
+                    "long-term investment"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 2,
+                "Headline_Structure": 9,
+                "Source_Recency": 1
+            }
+        },
+        {
+            "time": "2023-10-10",
+            "original_text": "These 5 Giants Are Buying Back Stock Hand Over Fist",
+            "features": {
+                "keywords": [
+                    "stock buyback",
+                    "corporate giants",
+                    "market confidence"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "various"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 6,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "港股投资日历：中国人保、招商银行等重磅财报今日公布",
+            "features": {
+                "keywords": [
+                    "港股",
+                    "投资日历",
+                    "中国人保",
+                    "招商银行",
+                    "财报"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "石油化工行业专题报告: 大变局, 行业专家解读大炼化产业链新动向",
+            "features": {
+                "keywords": [
+                    "石油化工",
+                    "专题报告",
+                    "大变局",
+                    "专家解读",
+                    "大炼化",
+                    "产业链"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "石油化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

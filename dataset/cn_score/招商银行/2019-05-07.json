@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "这个行业强势捞金，企业一年净赚2977亿",
+            "features": {
+                "keywords": [
+                    "行业",
+                    "强势",
+                    "捞金",
+                    "企业",
+                    "净赚",
+                    "2977亿"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "未明确行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 10,
+                "Importance": 8,
+                "Impact": 9,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "融资客青睐7股，史丹利买入占比高达59.41%",
+            "features": {
+                "keywords": [
+                    "融资客",
+                    "青睐",
+                    "7股",
+                    "史丹利",
+                    "买入占比",
+                    "59.41%"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "个股"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

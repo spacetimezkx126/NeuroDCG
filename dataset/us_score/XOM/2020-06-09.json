@@ -1,0 +1,169 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "Is This The World’s Next Oil Hotspot?",
+            "features": {
+                "keywords": [
+                    "oil",
+                    "hotspot"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 9,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-04-10",
+            "original_text": "U.S. Investigating Hacker Ring Paid to Target Corporate Critics",
+            "features": {
+                "keywords": [
+                    "hacker",
+                    "corporate critics"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 4,
+                "Duration": 7,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-05-20",
+            "original_text": "All 30 Dow stocks fall premarket, led by Exxon Mobil",
+            "features": {
+                "keywords": [
+                    "Dow",
+                    "Exxon Mobil",
+                    "fall",
+                    "premarket"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2018-06-12",
+            "original_text": "3 High-Yield Stocks at Rock-Bottom Prices",
+            "features": {
+                "keywords": [
+                    "high-yield",
+                    "rock-bottom prices"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "dividend",
+                    "value investing"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-07-05",
+            "original_text": "Exxon Mobil Stock Falls 3%",
+            "features": {
+                "keywords": [
+                    "Exxon Mobil",
+                    "falls"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 2,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

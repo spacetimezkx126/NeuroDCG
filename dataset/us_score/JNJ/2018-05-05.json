@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2018-03-01",
+            "original_text": "Warren Buffett: 'We want products where people like kissing you rather than slapping you'",
+            "features": {
+                "keywords": [
+                    "Warren Buffett",
+                    "products",
+                    "kissing",
+                    "slapping"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2019-02-12",
+            "original_text": "New Phase 3 Data Show Esketamine Nasal Spray Demonstrated Rapid Improvements in Depressive Symptoms in Patients with Treatment-Resistant Depression",
+            "features": {
+                "keywords": [
+                    "Phase 3",
+                    "Esketamine",
+                    "Nasal Spray",
+                    "Depressive Symptoms",
+                    "Treatment-Resistant Depression"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "pharmaceuticals",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

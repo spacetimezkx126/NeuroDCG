@@ -1,0 +1,115 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【A股收盘综述】“炒小不炒大”，创业板综指跌1.6%成交金额3548亿元创新高",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "收盘综述",
+                    "炒小不炒大",
+                    "创业板综指",
+                    "成交金额",
+                    "创新高"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "创业板"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "【A股收盘综述】“炒小不炒大”，创业板综指跌1.6%成交金额3548亿元创新高",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【行情】创业板指午盘跌幅超2%，贝达药业、宁德时代等股领跌",
+            "features": {
+                "keywords": [
+                    "行情",
+                    "创业板指",
+                    "午盘",
+                    "跌幅",
+                    "贝达药业",
+                    "宁德时代"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "创业板",
+                    "医药",
+                    "新能源"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "【行情】创业板指午盘跌幅超2%，贝达药业、宁德时代等股领跌",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "创业板已无股价低于4元的公司，17只4元股半日最小涨幅为6.29%",
+            "features": {
+                "keywords": [
+                    "创业板",
+                    "股价",
+                    "4元",
+                    "涨幅"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "创业板"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "创业板已无股价低于4元的公司，17只4元股半日最小涨幅为6.29%",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

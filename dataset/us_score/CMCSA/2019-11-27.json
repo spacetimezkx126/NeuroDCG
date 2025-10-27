@@ -1,0 +1,142 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "Channel 7 comfortably beating Channel 5 in late local news ratings derby",
+            "features": {
+                "keywords": [
+                    "ratings derby",
+                    "beating",
+                    "local news"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "media"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Channel 7 comfortably beating Channel 5 in late local news ratings derby",
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 1,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-04-10",
+            "original_text": "Manchester City Owner Sells $500 Million Stake to Private Equity",
+            "features": {
+                "keywords": [
+                    "Manchester City",
+                    "Owner Sells",
+                    "Private Equity"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "sports"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Manchester City Owner Sells $500 Million Stake to Private Equity",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-05-20",
+            "original_text": "More work ahead at future Epic Universe site",
+            "features": {
+                "keywords": [
+                    "Epic Universe",
+                    "work ahead",
+                    "future site"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment",
+                    "real estate"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "More work ahead at future Epic Universe site",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-06-05",
+            "original_text": "Kathie Lee Gifford was ‘dying of loneliness,’ and here’s what she did to fix it — it could be worth a shot for you, too",
+            "features": {
+                "keywords": [
+                    "Kathie Lee Gifford",
+                    "dying of loneliness",
+                    "fix it"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "personal development"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Kathie Lee Gifford was ‘dying of loneliness,’ and here’s what she did to fix it — it could be worth a shot for you, too",
+                "Correlation": 1,
+                "Sentiment": 5,
+                "Importance": 2,
+                "Impact": 1,
+                "Duration": 2,
+                "Entity_Density": 1,
+                "Market_Scope": 1,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

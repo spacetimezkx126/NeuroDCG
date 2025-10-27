@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "Myriad Genetics' (MYGN) Q4 Loss Narrower Than Estimated",
+            "features": {
+                "keywords": [
+                    "Myriad",
+                    "Genetics",
+                    "Q4",
+                    "Loss",
+                    "Narrower",
+                    "Estimated"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Accuray (ARAY) Reports Loss in Q4, Revenues Miss Estimates",
+            "features": {
+                "keywords": [
+                    "Accuray",
+                    "ARAY",
+                    "Reports",
+                    "Loss",
+                    "Q4",
+                    "Revenues",
+                    "Miss",
+                    "Estimates"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【东吴晨报0403】【个股】赢合科技、海能达、美亚柏科、中联重科、双箭股份、中国海防、通威股份",
+            "features": {
+                "keywords": [
+                    "赢合科技",
+                    "海能达",
+                    "美亚柏科",
+                    "中联重科",
+                    "双箭股份",
+                    "中国海防",
+                    "通威股份"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "制造业",
+                    "新能源"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "【东吴晨报0403】【个股】赢合科技、海能达、美亚柏科、中联重科、双箭股份、中国海防、通威股份",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "通威股份 一季度或增收六成",
+            "features": {
+                "keywords": [
+                    "通威股份",
+                    "一季度",
+                    "增收",
+                    "六成"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源",
+                    "光伏"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "通威股份 一季度或增收六成",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

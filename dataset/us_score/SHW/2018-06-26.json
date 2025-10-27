@@ -1,0 +1,107 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "U.S. charges S&P analyst, 2 others with insider trading in paint merger",
+            "features": {
+                "keywords": [
+                    "charges",
+                    "S&P analyst",
+                    "insider trading",
+                    "paint merger"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "industrial goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "U.S. charges S&P analyst, 2 others with insider trading in paint merger",
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-04-20",
+            "original_text": "See what the IHS Markit Score report has to say about Sherwin-Williams Co.",
+            "features": {
+                "keywords": [
+                    "IHS Markit Score",
+                    "Sherwin-Williams Co."
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial goods"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "See what the IHS Markit Score report has to say about Sherwin-Williams Co.",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-05-10",
+            "original_text": "[$$] S&P analyst charged with insider trading",
+            "features": {
+                "keywords": [
+                    "S&P analyst",
+                    "charged",
+                    "insider trading"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "[$$] S&P analyst charged with insider trading",
+                "Correlation": 5,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

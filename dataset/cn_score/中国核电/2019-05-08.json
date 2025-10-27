@@ -1,0 +1,81 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "公用行业18年整体盈利表现较好，19年环保预计仍处调整期",
+            "features": {
+                "keywords": [
+                    "公用行业",
+                    "18年",
+                    "盈利表现",
+                    "19年",
+                    "环保",
+                    "调整期"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "公用行业",
+                    "环保"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "公用行业18年整体盈利表现较好，19年环保预计仍处调整期",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "东北证券【新股】有友食品、核能转债、永鼎转债上市",
+            "features": {
+                "keywords": [
+                    "东北证券",
+                    "新股",
+                    "有友食品",
+                    "核能转债",
+                    "永鼎转债",
+                    "上市"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "食品",
+                    "能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "东北证券【新股】有友食品、核能转债、永鼎转债上市",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

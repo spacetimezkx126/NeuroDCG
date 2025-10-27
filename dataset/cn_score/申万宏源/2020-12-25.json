@@ -1,0 +1,141 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "南 京 江 山 汇 项 目 17.8 亿 转 让 部 分 存 货 申 万 宏 源 、 中 投 保 等 接 手",
+            "features": {
+                "keywords": [
+                    "南京江山汇",
+                    "项目转让",
+                    "存货",
+                    "申万宏源",
+                    "中投保"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "A 股 现 6000 亿 医 药 巨 头 ！ 累 计 大 涨 420 多 倍",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "医药巨头",
+                    "累计大涨"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "券 商 资 管 子 公 司 再 揭 扩 容 潮 差 异 化 发 展 待 考",
+            "features": {
+                "keywords": [
+                    "券商资管",
+                    "子公司",
+                    "扩容潮",
+                    "差异化发展"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "券 商 资 管 子 公 司 再 揭 扩 容 潮 差 异 化 发 展 待 考",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-12-24",
+            "original_text": "A 股 融 资 融 券 日 报 ： 两 融 余 额 增 加 15.42 亿 元 （ 12 月 24 日 ）",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "融资融券",
+                    "两融余额",
+                    "增加"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

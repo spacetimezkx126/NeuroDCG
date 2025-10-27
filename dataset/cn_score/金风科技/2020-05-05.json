@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【国君策略】Q1全A盈利降四成，哪些细分行业存在机会？ 盈利能力下降",
+            "features": {
+                "keywords": [
+                    "Q1",
+                    "全A",
+                    "盈利下降",
+                    "细分行业",
+                    "机会"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "全A"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【华泰电新黄斌团队】周观点：特斯拉一季报表现亮眼，光伏电池片价格止跌反弹",
+            "features": {
+                "keywords": [
+                    "特斯拉",
+                    "一季报",
+                    "表现亮眼",
+                    "光伏电池片",
+                    "价格止跌反弹"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "新能源",
+                    "光伏"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

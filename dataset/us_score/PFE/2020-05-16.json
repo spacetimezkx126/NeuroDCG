@@ -1,0 +1,107 @@
+[
+    [
+        {
+            "time": "2020-03-15",
+            "original_text": "Economic expert with perfect record calling recessions is betting this one will be over by the end of 2020",
+            "features": {
+                "keywords": [
+                    "economic expert",
+                    "recessions",
+                    "betting",
+                    "end of 2020"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "economy",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 1,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2020-04-13",
+            "original_text": "Oxford University coronavirus vaccine shows positive signs in monkeys — here’s everything you need to know as human trials progress",
+            "features": {
+                "keywords": [
+                    "Oxford University",
+                    "coronavirus vaccine",
+                    "positive signs",
+                    "human trials"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 10,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 2,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2020-05-05",
+            "original_text": "Can Pfizer's Stock Keep Climbing?",
+            "features": {
+                "keywords": [
+                    "Pfizer",
+                    "stock",
+                    "climbing"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 4,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-15",
+            "original_text": "Is It Too Late to Buy BioNTech Stock?",
+            "features": {
+                "keywords": [
+                    "BioNTech",
+                    "Stock",
+                    "Buy"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-15",
+            "original_text": "This Recent FDA Approval Is for a Pfizer Vaccine That You'll Probably Never Need",
+            "features": {
+                "keywords": [
+                    "FDA",
+                    "Approval",
+                    "Pfizer",
+                    "Vaccine"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

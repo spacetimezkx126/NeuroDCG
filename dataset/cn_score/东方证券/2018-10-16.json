@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "贾跃民遭到被动减持乐视1830.82万股，以偿还东方证券债务",
+            "features": {
+                "keywords": [
+                    "贾跃民",
+                    "被动减持",
+                    "乐视",
+                    "东方证券",
+                    "债务"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "传媒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "贾跃民遭到被动减持乐视1830.82万股，以偿还东方证券债务",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "券商股集体发力，锦龙股份大涨7%",
+            "features": {
+                "keywords": [
+                    "券商股",
+                    "集体发力",
+                    "锦龙股份",
+                    "大涨"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

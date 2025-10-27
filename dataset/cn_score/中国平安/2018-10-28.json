@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中国平安董秘：公司有明确意向会择机推动股份回购",
+            "features": {
+                "keywords": [
+                    "中国平安",
+                    "董秘",
+                    "股份回购",
+                    "明确意向"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "揭秘高管年薪：双汇老板去年工资20亿 刘强东贾跃亭年薪1美元",
+            "features": {
+                "keywords": [
+                    "高管年薪",
+                    "双汇",
+                    "刘强东",
+                    "贾跃亭",
+                    "1美元"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费品",
+                    "科技"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 4,
+                "Importance": 3,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

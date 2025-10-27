@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【国盛电子郑震湘团队】预告超预期，电子超景气度进一步确定",
+            "features": {
+                "keywords": [
+                    "国盛电子",
+                    "郑震湘",
+                    "预告超预期",
+                    "电子",
+                    "景气度"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 10,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 4,
+                "Headline_Structure": 9,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "",
+            "original_text": "2019中国软件业务收入百强榜：华为、海尔、阿里云、浪潮、海信等进入前十",
+            "features": {
+                "keywords": [
+                    "2019",
+                    "软件业务收入",
+                    "百强榜",
+                    "华为",
+                    "海尔",
+                    "阿里云",
+                    "浪潮",
+                    "海信"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "软件",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 2,
+                "Headline_Structure": 7,
+                "Source_Recency": 1
+            }
+        }
+    ]
+]

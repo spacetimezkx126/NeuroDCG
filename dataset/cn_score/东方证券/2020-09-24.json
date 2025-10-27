@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "罚到倾家荡产，还要坐牢！这些人玩弄股市，栽了",
+            "features": {
+                "keywords": [
+                    "罚",
+                    "倾家荡产",
+                    "坐牢",
+                    "玩弄股市",
+                    "栽了"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

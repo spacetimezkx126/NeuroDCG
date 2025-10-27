@@ -1,0 +1,58 @@
+[
+    [
+        {
+            "time": "2023-08-18",
+            "original_text": "北向资金连续7日净买入，8月累计加仓270亿，中国平安逆势遭抛售超20亿",
+            "features": {
+                "keywords": [
+                    "北向资金",
+                    "净买入",
+                    "加仓",
+                    "中国平安",
+                    "抛售"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative",
+                "factors_detail": {
+                    "causal_factors": [
+                        {
+                            "factor": "北向资金连续净买入",
+                            "impact": "positive"
+                        },
+                        {
+                            "factor": "8月累计加仓270亿",
+                            "impact": "positive"
+                        }
+                    ],
+                    "affected_factors": [
+                        {
+                            "factor": "中国平安遭抛售超20亿",
+                            "impact": "negative"
+                        }
+                    ]
+                }
+            },
+            "scores": {
+                "News_content": "北向资金连续7日净买入，8月累计加仓270亿，中国平安逆势遭抛售超20亿",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "机械制造：关注装备企业业绩修复预期 荐5股",
+            "features": {
+                "keywords": [
+                    "机械制造",
+                    "装备企业",
+                    "业绩修复",
+                    "预期"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "机械制造"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "",
+            "original_text": "大族激光：下游资本开支不及预期 主营业务增速放缓",
+            "features": {
+                "keywords": [
+                    "大族激光",
+                    "下游资本",
+                    "开支不及预期",
+                    "主营业务",
+                    "增速放缓"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "激光设备"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

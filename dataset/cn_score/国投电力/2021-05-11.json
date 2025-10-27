@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "热门中概股多数下跌，荔枝跌11%",
+            "features": {
+                "keywords": [
+                    "中概股",
+                    "下跌",
+                    "荔枝"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "传媒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "热门中概股多数下跌，荔枝跌11%",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "我国可再生能源装机规模稳步扩大，后市如何捕捉投资主线",
+            "features": {
+                "keywords": [
+                    "可再生能源",
+                    "装机规模",
+                    "稳步扩大",
+                    "投资主线"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "新能源",
+                    "环保"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "我国可再生能源装机规模稳步扩大，后市如何捕捉投资主线",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

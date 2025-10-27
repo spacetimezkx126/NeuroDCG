@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股情报局：一轮新的大反弹一触即发",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "情报局",
+                    "大反弹",
+                    "一触即发"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "全市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "A股情报局：一轮新的大反弹一触即发",
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "美盈森:收入延续稳增长,高毛利产品提高盈利能力",
+            "features": {
+                "keywords": [
+                    "美盈森",
+                    "收入",
+                    "稳增长",
+                    "高毛利",
+                    "盈利能力"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "制造业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "美盈森:收入延续稳增长,高毛利产品提高盈利能力",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

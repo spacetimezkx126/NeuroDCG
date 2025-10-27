@@ -1,0 +1,81 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "USDA Food Safety and Inspection Service Chooses 3M for E. coli, Salmonella and Listeria Testing",
+            "features": {
+                "keywords": [
+                    "USDA",
+                    "Food Safety",
+                    "Inspection Service",
+                    "3M",
+                    "E. coli",
+                    "Salmonella",
+                    "Listeria",
+                    "Testing"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "food processing"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-04-20",
+            "original_text": "New 3M Tegaderm Antimicrobial I.V. Advanced Securement Dressing Helps Make Peripheral Lines a Central Part of Infection Risk Reduction Programs",
+            "features": {
+                "keywords": [
+                    "3M",
+                    "Tegaderm",
+                    "Antimicrobial",
+                    "I.V.",
+                    "Securement Dressing",
+                    "Peripheral Lines",
+                    "Infection Risk Reduction"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "medical devices"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 5,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

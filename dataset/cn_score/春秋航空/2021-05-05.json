@@ -1,0 +1,112 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "春,秋,航,空,|,财,报,点,评,：,顶,住,疫,情,压,力,，,低,成,本,韧,性,凸,显,【,国,信,交,运,中,小,盘,】",
+            "features": {
+                "keywords": [
+                    "春秋航空",
+                    "财报点评",
+                    "疫情压力",
+                    "低成本",
+                    "韧性"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "航空"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "春,秋,航,空,|,财,报,点,评,：,顶,住,疫,情,压,力,，,低,成,本,韧,性,凸,显,【,国,信,交,运,中,小,盘,】",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "策,略,月,报,：,航,运,运,价,上,行,，,民,航,持,续,复,苏,【,国,信,交,运,中,小,盘,】",
+            "features": {
+                "keywords": [
+                    "策略月报",
+                    "航运运价",
+                    "上行",
+                    "民航复苏"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "航运",
+                    "民航"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "策,略,月,报,：,航,运,运,价,上,行,，,民,航,持,续,复,苏,【,国,信,交,运,中,小,盘,】",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "两,连,亏,的,春,秋,航,空,，,二,季,度,能,实,现,盈,利,吗,？, , 亏,损",
+            "features": {
+                "keywords": [
+                    "春秋航空",
+                    "连续亏损",
+                    "二季度",
+                    "盈利",
+                    "亏损"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "航空"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "两,连,亏,的,春,秋,航,空,，,二,季,度,能,实,现,盈,利,吗,？, , 亏,损",
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

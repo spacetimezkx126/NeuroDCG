@@ -1,0 +1,112 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "云,南,白,药,：,三,七,从,农,产,品,里,“,长,出,来,”,的,数,字,化,工,业,品",
+            "features": {
+                "keywords": [
+                    "云南白药",
+                    "三七",
+                    "数字化",
+                    "工业品"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医药",
+                    "农业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "云,南,白,药,：,三,七,从,农,产,品,里,“,长,出,来,”,的,数,字,化,工,业,品",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "政,策,推,动,中,药,行,业,发,展, , 估,值,性,价,比,凸,显",
+            "features": {
+                "keywords": [
+                    "政策",
+                    "中药",
+                    "行业发展",
+                    "估值性价比"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "中药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "政,策,推,动,中,药,行,业,发,展, , 估,值,性,价,比,凸,显",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "重,点,看,好,中,药,配,方,颗,粒,量,价,齐,升,，,新,基,建,和,国,产,替,代,推,动,高,端,医,疗,设,备,加,速,成,长",
+            "features": {
+                "keywords": [
+                    "中药配方颗粒",
+                    "量价齐升",
+                    "新基建",
+                    "国产替代",
+                    "高端医疗设备"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "中药",
+                    "医疗设备"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "重,点,看,好,中,药,配,方,颗,粒,量,价,齐,升,，,新,基,建,和,国,产,替,代,推,动,高,端,医,疗,设,备,加,速,成,长",
+                "Correlation": 6,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

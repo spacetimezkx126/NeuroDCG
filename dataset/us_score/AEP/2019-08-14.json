@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "How Does American Electric Power Company, Inc. (NYSE:AEP) Fare As A Dividend Stock?",
+            "features": {
+                "keywords": [
+                    "American Electric Power",
+                    "dividend stock",
+                    "NYSE:AEP"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy",
+                    "utilities"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "How Does American Electric Power Company, Inc. (NYSE:AEP) Fare As A Dividend Stock?",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Texas power prices briefly soar to $9,000/MWh as heat wave bakes state",
+            "features": {
+                "keywords": [
+                    "Texas power prices",
+                    "soar",
+                    "heat wave"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Texas power prices briefly soar to $9,000/MWh as heat wave bakes state",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

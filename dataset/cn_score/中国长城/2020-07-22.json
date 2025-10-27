@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2020-07-22",
+            "original_text": "中播控股(00471)拟向中国长城采购两颗卫星 运营车联网娱乐和信息服务",
+            "features": {
+                "keywords": [
+                    "中播控股",
+                    "中国长城",
+                    "卫星",
+                    "车联网",
+                    "信息服务"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "通信"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2020-07-22",
+            "original_text": "中播控股(00471.HK)向中国长城采购两颗卫星框架协议，由长征运载火箭发射成一带一路新基建",
+            "features": {
+                "keywords": [
+                    "中播控股",
+                    "中国长城",
+                    "卫星",
+                    "框架协议",
+                    "一带一路",
+                    "新基建"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "基建"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中播控股(00471.HK)向中国长城采购两颗卫星框架协议，由长征运载火箭发射成一带一路新基建",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

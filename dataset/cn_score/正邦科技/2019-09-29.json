@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "规模猪企产能加速扩张，后续业绩逐步好转！【天风农业】",
+            "features": {
+                "keywords": [
+                    "规模猪企",
+                    "产能扩张",
+                    "业绩好转",
+                    "天风农业"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "猪肉"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "多空围绕芯片板块博弈 短线资金撤离猪肉板块",
+            "features": {
+                "keywords": [
+                    "多空博弈",
+                    "芯片板块",
+                    "短线资金",
+                    "撤离",
+                    "猪肉板块"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "芯片",
+                    "猪肉"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

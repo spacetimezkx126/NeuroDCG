@@ -1,0 +1,41 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "港股开盘(2.8)︱恒指低开1.01%报27708点 中石化(00386)盘前跌2.9%",
+            "features": {
+                "keywords": [
+                    "港股",
+                    "开盘",
+                    "恒指",
+                    "低开",
+                    "中石化",
+                    "盘前跌"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "石油"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

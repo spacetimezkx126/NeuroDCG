@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2020-11-04",
+            "original_text": "Novo Nordisk (NVO) Catches Eye: Stock Jumps 7.2%",
+            "features": {
+                "keywords": [
+                    "Novo Nordisk",
+                    "Stock Jumps",
+                    "7.2%"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Novo Nordisk (NVO) Catches Eye: Stock Jumps 7.2%",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-11-04",
+            "original_text": "Trading in Novo Nordisk shares by board members, executives and associated persons on 4 November 2020",
+            "features": {
+                "keywords": [
+                    "Novo Nordisk",
+                    "Trading",
+                    "board members",
+                    "executives"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Trading in Novo Nordisk shares by board members, executives and associated persons on 4 November 2020",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 10,
+                "Market_Scope": 3,
+                "Time_Proximity": 3,
+                "Headline_Structure": 5,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

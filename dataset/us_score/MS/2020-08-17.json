@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "There’s a Better Way to Identify When Recessions Start",
+            "features": {
+                "keywords": [
+                    "recessions",
+                    "identify",
+                    "better way"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "economy",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "There’s a Better Way to Identify When Recessions Start",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 4,
+                "Duration": 8,
+                "Entity_Density": 1,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-04-10",
+            "original_text": "Robinhood Now Valued at $11.2 Billion After Latest Funding Round",
+            "features": {
+                "keywords": [
+                    "Robinhood",
+                    "valued",
+                    "funding round"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Robinhood Now Valued at $11.2 Billion After Latest Funding Round",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,113 @@
+[
+    [
+        {
+            "time": "2023-04-05",
+            "original_text": "The housing market is a ‘great space to be in’: Strategist",
+            "features": {
+                "keywords": [
+                    "housing market",
+                    "great space",
+                    "strategist"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "real estate"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "The housing market is a ‘great space to be in’: Strategist",
+                "Correlation": 3,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-04-05",
+            "original_text": "ADP: U.S. firms added 517K jobs in March vs. 550K estimated",
+            "features": {
+                "keywords": [
+                    "ADP",
+                    "U.S. firms",
+                    "jobs",
+                    "March",
+                    "517K",
+                    "550K estimated"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "employment",
+                    "economy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "ADP: U.S. firms added 517K jobs in March vs. 550K estimated",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-04-05",
+            "original_text": "ADP National Employment Report: Private Sector Employment Increased by 517,000 Jobs in March",
+            "features": {
+                "keywords": [
+                    "ADP National Employment Report",
+                    "Private Sector Employment",
+                    "Increased",
+                    "517,000 Jobs",
+                    "March"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "employment",
+                    "private sector"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "ADP National Employment Report: Private Sector Employment Increased by 517,000 Jobs in March",
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

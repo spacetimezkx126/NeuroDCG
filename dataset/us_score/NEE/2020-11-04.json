@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "2023-10-17",
+            "original_text": "Stocks I Bought Last Week",
+            "features": {
+                "keywords": [
+                    "Stocks",
+                    "Bought",
+                    "Last Week"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Stocks I Bought Last Week",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-17",
+            "original_text": "This High-Yielding Renewable Energy Stock Significantly Enhances Its Dividend Growth Plan",
+            "features": {
+                "keywords": [
+                    "High-Yielding",
+                    "Renewable Energy",
+                    "Dividend Growth"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "renewable energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 4,
+                "Headline_Structure": 10,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

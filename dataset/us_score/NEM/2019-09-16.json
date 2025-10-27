@@ -1,0 +1,113 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "China Gold Is Hunting for Deals Worth as Much as $2 Billion",
+            "features": {
+                "keywords": [
+                    "China",
+                    "Gold",
+                    "Deals",
+                    "Hunting",
+                    "$2 Billion"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2019-04-10",
+            "original_text": "Newmont Goldcorp Closes Senior Notes Offering of $700 Million at 2.800%",
+            "features": {
+                "keywords": [
+                    "Newmont",
+                    "Goldcorp",
+                    "Senior Notes",
+                    "Offering",
+                    "$700 Million",
+                    "2.800%"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2019-09-20",
+            "original_text": "Newmont Goldcorp Ranked as Top Gold Miner on DJSI for ESG Performance",
+            "features": {
+                "keywords": [
+                    "Newmont",
+                    "Goldcorp",
+                    "Top Gold Miner",
+                    "DJSI",
+                    "ESG Performance"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining",
+                    "sustainability"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

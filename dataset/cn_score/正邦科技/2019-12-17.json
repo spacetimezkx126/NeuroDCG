@@ -1,0 +1,66 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "5股获重要股东大手笔增持（附股）",
+            "features": {
+                "keywords": [
+                    "重要股东",
+                    "大手笔增持"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2022-12-16",
+            "original_text": "12月16日有66家公司获重要股东增减持 延安必康已被连续减持146次 减持股份",
+            "features": {
+                "keywords": [
+                    "重要股东",
+                    "增减持",
+                    "延安必康",
+                    "连续减持"
+                ],
+                "sentiment_score": -0.65,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

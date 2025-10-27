@@ -1,0 +1,84 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "财务问题缠身实际控制人被限制消费 深交所追问谁主莲花健康 关联方问题",
+            "features": {
+                "keywords": [
+                    "财务问题",
+                    "实际控制人",
+                    "限制消费",
+                    "深交所",
+                    "追问",
+                    "莲花健康",
+                    "关联方"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "食品饮料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "财务问题缠身实际控制人被限制消费 深交所追问谁主莲花健康 关联方问题",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-09-03",
+            "original_text": "中银国际*每日速递20180903：银行业半年报综述；国光股份、迪安诊断、精测电子、民生银行、上汽集团、华夏幸福等",
+            "features": {
+                "keywords": [
+                    "银行业",
+                    "半年报",
+                    "国光股份",
+                    "迪安诊断",
+                    "精测电子",
+                    "民生银行",
+                    "上汽集团",
+                    "华夏幸福"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "银行",
+                    "医药生物",
+                    "机械设备",
+                    "汽车",
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 4,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

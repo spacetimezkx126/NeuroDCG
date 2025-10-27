@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2018-12-27",
+            "original_text": "风，雨，洗礼下的A股，元旦后初见彩虹（1227晨报）",
+            "features": {
+                "keywords": [
+                    "风雨洗礼",
+                    "A股",
+                    "元旦",
+                    "彩虹"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "风，雨，洗礼下的A股，元旦后初见彩虹（1227晨报）",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "田渭东：道指大涨1000点创历史 投资者应尽早建仓",
+            "features": {
+                "keywords": [
+                    "田渭东",
+                    "道指",
+                    "大涨",
+                    "1000点",
+                    "历史",
+                    "投资者",
+                    "建仓"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "全球市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

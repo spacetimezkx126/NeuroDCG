@@ -1,0 +1,81 @@
+[
+    [
+        {
+            "time": "2023-10-17",
+            "original_text": "Dow Jones Falls 100 Points Amid Earnings From Home Depot, Walmart; S&P 500 Hits Record High, While Amazon, Tesla Jump",
+            "features": {
+                "keywords": [
+                    "Dow Jones",
+                    "Falls",
+                    "Earnings",
+                    "Home Depot",
+                    "Walmart",
+                    "S&P 500",
+                    "Record High",
+                    "Amazon",
+                    "Tesla"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Dow Jones Falls 100 Points Amid Earnings From Home Depot, Walmart; S&P 500 Hits Record High, While Amazon, Tesla Jump",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-17",
+            "original_text": "SoftBank Bets $3.9 Billion on U.S. Giants From Amazon to Tesla",
+            "features": {
+                "keywords": [
+                    "SoftBank",
+                    "Bets",
+                    "Amazon",
+                    "Tesla",
+                    "U.S. Giants"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "SoftBank Bets $3.9 Billion on U.S. Giants From Amazon to Tesla",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

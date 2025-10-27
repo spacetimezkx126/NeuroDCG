@@ -1,0 +1,103 @@
+[
+    [
+        {
+            "time": "2023-10-15",
+            "original_text": "Georgia Power restores power to nearly 90,000 customers following Hurricane Sally; announces estimated restoration times for those remaining",
+            "features": {
+                "keywords": [
+                    "Hurricane Sally",
+                    "restoration times",
+                    "power outages"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-15",
+            "original_text": "Georgia Power responds to outages after Hurricane Sally crosses the state",
+            "features": {
+                "keywords": [
+                    "Hurricane Sally",
+                    "outages",
+                    "state recovery"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-15",
+            "original_text": "Georgia Power crews scheduled to assist with Hurricane Sally recovery",
+            "features": {
+                "keywords": [
+                    "Hurricane Sally",
+                    "crew assistance",
+                    "recovery efforts"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 2,
+                "Time_Proximity": 9,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

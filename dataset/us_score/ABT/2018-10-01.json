@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2018-12-31",
+            "original_text": "EW Stock Returned More than the S&P 500’s Gain in 2018",
+            "features": {
+                "keywords": [
+                    "EW Stock",
+                    "S&P 500",
+                    "Gain",
+                    "2018"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "stocks",
+                    "market indices"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "EW Stock Returned More than the S&P 500’s Gain in 2018",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Abbott′s FreeStyle® Libre 2, with Optional Real-Time Alarms, Secures CE Mark for Use in Europe",
+            "features": {
+                "keywords": [
+                    "Abbott",
+                    "FreeStyle Libre 2",
+                    "Real-Time Alarms",
+                    "CE Mark",
+                    "Europe"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "medical devices"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Abbott′s FreeStyle® Libre 2, with Optional Real-Time Alarms, Secures CE Mark for Use in Europe",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

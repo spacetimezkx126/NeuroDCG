@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "北向资金抛售白酒股，已有机构下调茅台目标价，机构下调估值",
+            "features": {
+                "keywords": [
+                    "北向资金",
+                    "抛售",
+                    "白酒股",
+                    "茅台",
+                    "目标价",
+                    "下调",
+                    "估值"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "白酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "北向资金抛售白酒股，已有机构下调茅台目标价，机构下调估值",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "食品饮料行业周观点:贵州茅台中报稳健，板块巩固蓄势",
+            "features": {
+                "keywords": [
+                    "食品饮料",
+                    "贵州茅台",
+                    "中报",
+                    "稳健",
+                    "板块",
+                    "巩固",
+                    "蓄势"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "食品饮料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "食品饮料行业周观点:贵州茅台中报稳健，板块巩固蓄势",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

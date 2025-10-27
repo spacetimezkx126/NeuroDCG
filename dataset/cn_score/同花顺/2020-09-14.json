@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "同花顺现1笔大宗交易 ，共成交1,501.80万元",
+            "features": {
+                "keywords": [
+                    "同花顺",
+                    "大宗交易",
+                    "成交金额"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "同花顺现1笔大宗交易 ，共成交1,501.80万元",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "时代景点及旅游周报 | 加长版黄金周旅游促销大战打响，有望迎今年首个旅游高峰",
+            "features": {
+                "keywords": [
+                    "旅游",
+                    "黄金周",
+                    "促销",
+                    "旅游高峰"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "旅游",
+                    "消费"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 4,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-10-10",
+            "original_text": "FILING DEADLINE--Kuznicki Law PLLC Announces Class Actions on Behalf of Shareholders of VNTR, MMM and STG",
+            "features": {
+                "keywords": [
+                    "FILING DEADLINE",
+                    "Class Actions",
+                    "Shareholders",
+                    "VNTR",
+                    "MMM",
+                    "STG"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "legal",
+                    "corporate governance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 4,
+                "Duration": 9,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-10",
+            "original_text": "52-Week Company Lows",
+            "features": {
+                "keywords": [
+                    "52-Week",
+                    "Lows",
+                    "Company"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general market"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 4,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

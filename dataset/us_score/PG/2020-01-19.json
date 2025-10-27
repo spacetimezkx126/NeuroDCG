@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-16",
+            "original_text": "Netflix, Comcast, Intel, and Other Stocks for Investors to Watch This Week",
+            "features": {
+                "keywords": [
+                    "Netflix",
+                    "Comcast",
+                    "Intel",
+                    "investors",
+                    "watch"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "media",
+                    "telecommunications"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-16",
+            "original_text": "Earnings, Davos — What to know in the week ahead",
+            "features": {
+                "keywords": [
+                    "earnings",
+                    "Davos",
+                    "week ahead"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

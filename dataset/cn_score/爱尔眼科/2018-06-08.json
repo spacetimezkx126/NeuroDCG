@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "创、业、板、中、小、板、一、周、活、跃、个、股、排、行、榜",
+            "features": {
+                "keywords": [
+                    "创业板",
+                    "中小板",
+                    "活跃个股",
+                    "排行"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "创业板",
+                    "中小板"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "创、业、板、中、小、板、一、周、活、跃、个、股、排、行、榜",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 1,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "董、秘、解、码、：、爱、尔、眼、科、回、应、高、管、减、持、 ，、“、我、们、不、一、样、”、！",
+            "features": {
+                "keywords": [
+                    "爱尔眼科",
+                    "高管减持",
+                    "回应"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医疗"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "董、秘、解、码、：、爱、尔、眼、科、回、应、高、管、减、持、 ，、“、我、们、不、一、样、”、！",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-06-07",
+            "original_text": "爱、尔、眼、科、：、6、月、7、日、融、资、余、额、为、5、.、0、9、亿、元、，、较、前、一、日、骤、增、5、.、2、0、%、",
+            "features": {
+                "keywords": [
+                    "爱尔眼科",
+                    "融资余额",
+                    "骤增"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医疗"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "爱、尔、眼、科、：、6、月、7、日、融、资、余、额、为、5、.、0、9、亿、元、，、较、前、一、日、骤、增、5、.、2、0、%",
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

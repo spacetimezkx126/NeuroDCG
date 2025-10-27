@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2018-03-24",
+            "original_text": "Goldman Sachs, Caterpillar share losses lead Dow's 67-point drop",
+            "features": {
+                "keywords": [
+                    "Goldman Sachs",
+                    "Caterpillar",
+                    "share losses",
+                    "Dow's drop"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-03-24",
+            "original_text": "Caterpillar (CAT) to Gain From Cost Cuts Amid Weak Demand",
+            "features": {
+                "keywords": [
+                    "Caterpillar",
+                    "Cost Cuts",
+                    "Weak Demand",
+                    "Gain"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 6,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "小微无还本续贷覆盖率达82% 民生银行凭啥做到深圳第一？",
+            "features": {
+                "keywords": [
+                    "小微",
+                    "无还本续贷",
+                    "覆盖率",
+                    "民生银行",
+                    "深圳"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "小微企业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "财报数据透底：谁是小微企业成长最强推手？",
+            "features": {
+                "keywords": [
+                    "财报",
+                    "数据",
+                    "小微企业",
+                    "成长",
+                    "推手"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "小微企业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 4,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

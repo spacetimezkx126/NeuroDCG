@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2018-01-03",
+            "original_text": "Bitcoin or Stocks? Here’s the One to Buy in 2018",
+            "features": {
+                "keywords": [
+                    "Bitcoin",
+                    "Stocks",
+                    "Buy",
+                    "2018"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "cryptocurrency",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Bitcoin or Stocks? Here’s the One to Buy in 2018",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 5,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2018-01-03",
+            "original_text": "WhatsApp messaging service returns after global outage",
+            "features": {
+                "keywords": [
+                    "WhatsApp",
+                    "messaging",
+                    "service",
+                    "returns",
+                    "global",
+                    "outage"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "communications"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "WhatsApp messaging service returns after global outage",
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 3,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

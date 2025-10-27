@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "六只股价滞涨的业绩增长股",
+            "features": {
+                "keywords": [
+                    "股价滞涨",
+                    "业绩增长",
+                    "股票"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

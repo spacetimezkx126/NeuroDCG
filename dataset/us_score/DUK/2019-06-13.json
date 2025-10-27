@@ -1,0 +1,103 @@
+[
+    [
+        {
+            "time": "2023-10-15",
+            "original_text": "Be prepared for hurricane season with safety tips from Piedmont Natural Gas",
+            "features": {
+                "keywords": [
+                    "hurricane season",
+                    "safety tips",
+                    "Piedmont Natural Gas"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 8,
+                "Importance": 5,
+                "Impact": 2,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "2023-10-15",
+            "original_text": "How rebates are working out for rooftop solar projects in Charlotte area",
+            "features": {
+                "keywords": [
+                    "rebates",
+                    "rooftop solar",
+                    "Charlotte area"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "renewable energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2023-10-15",
+            "original_text": "Why the market for rooftop solar in North Carolina is heating up",
+            "features": {
+                "keywords": [
+                    "market",
+                    "rooftop solar",
+                    "North Carolina"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "renewable energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 9,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

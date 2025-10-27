@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2019-06-21",
+            "original_text": "Energy Sector Update for 06/21/2019: EQT, SNP, XOM, CVX, COP, SLB, OXY",
+            "features": {
+                "keywords": [
+                    "Energy",
+                    "Sector",
+                    "EQT",
+                    "SNP",
+                    "XOM",
+                    "CVX",
+                    "COP",
+                    "SLB",
+                    "OXY"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 10,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "How The Pieces Add Up: ADRA Targets $37",
+            "features": {
+                "keywords": [
+                    "ADRA",
+                    "Targets",
+                    "$37"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

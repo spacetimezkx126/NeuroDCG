@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "PreMarket Prep Recap: Qiagen Pulls The Rug Out From Investors Banking On A Deal, Bad Data Equals Bad Price Action For Spectrum Pharmaceuticals",
+            "features": {
+                "keywords": [
+                    "Qiagen",
+                    "Pulls",
+                    "Rug",
+                    "Investors",
+                    "Banking",
+                    "Deal",
+                    "Bad Data",
+                    "Bad Price Action",
+                    "Spectrum Pharmaceuticals"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Qiagen Plunges After Saying It Won't Pursue a Sale",
+            "features": {
+                "keywords": [
+                    "Qiagen",
+                    "Plunges",
+                    "Sale"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

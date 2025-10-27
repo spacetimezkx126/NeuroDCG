@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "利润下滑又遭遇注射剂集采 ，输液龙头科伦药业遭遇“戴维斯双杀” 盈利能力下降",
+            "features": {
+                "keywords": [
+                    "利润下滑",
+                    "注射剂集采",
+                    "输液龙头",
+                    "科伦药业",
+                    "戴维斯双杀",
+                    "盈利能力下降"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医药",
+                    "生物科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "利润下滑又遭遇注射剂集采 ，输液龙头科伦药业遭遇“戴维斯双杀” 盈利能力下降",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "集采后的骨科企业，化危机为生机！",
+            "features": {
+                "keywords": [
+                    "集采",
+                    "骨科企业",
+                    "化危机为生机"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医疗器械",
+                    "骨科"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "集采后的骨科企业，化危机为生机！",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

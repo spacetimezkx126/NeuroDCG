@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2020-09-03",
+            "original_text": "BP’s Stock Price Crashes To The Lowest Level In 25 Years",
+            "features": {
+                "keywords": [
+                    "BP",
+                    "stock price",
+                    "crashes",
+                    "lowest level",
+                    "25 years"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "BP’s Stock Price Crashes To The Lowest Level In 25 Years",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-09-10",
+            "original_text": "BP Hits 25-Year Low a Week After Unveiling Climate Strategy",
+            "features": {
+                "keywords": [
+                    "BP",
+                    "25-year low",
+                    "climate strategy"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy",
+                    "environment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "BP Hits 25-Year Low a Week After Unveiling Climate Strategy",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

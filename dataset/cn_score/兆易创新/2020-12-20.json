@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "招 商 策 略 ： 重 心 转 变 ， 重 视 科 技",
+            "features": {
+                "keywords": [
+                    "招商策略",
+                    "重心转变",
+                    "重视科技"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "招 商 策 略 ： 重 心 转 变 ， 重 视 科 技",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "业 内 人 士 ： 中 芯 国 际 被 美 国 商 务 部 纳 入 “ 实 体 名 单 ” 兆 易 创 新 受 影 响 较 大",
+            "features": {
+                "keywords": [
+                    "中芯国际",
+                    "实体名单",
+                    "兆易创新",
+                    "美国商务部"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "半导体",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "业 内 人 士 ： 中 芯 国 际 被 美 国 商 务 部 纳 入 “ 实 体 名 单 ” 兆 易 创 新 受 影 响 较 大",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "业 内 人 士 ： 预 计 兆 易 创 新 受 “ 中 芯 国 际 ” 影 响 较 大",
+            "features": {
+                "keywords": [
+                    "兆易创新",
+                    "中芯国际",
+                    "影响较大"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "半导体",
+                    "科技"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "业 内 人 士 ： 预 计 兆 易 创 新 受 “ 中 芯 国 际 ” 影 响 较 大",
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

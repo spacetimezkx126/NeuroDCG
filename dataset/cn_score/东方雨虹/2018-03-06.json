@@ -1,0 +1,42 @@
+[
+    [
+        {
+            "time": "2018-03-06",
+            "original_text": "晨会聚焦180306：重点关注汽车行业、环保行业、港股、安车检测、宇通客车、上汽集团",
+            "features": {
+                "keywords": [
+                    "汽车行业",
+                    "环保行业",
+                    "港股",
+                    "安车检测",
+                    "宇通客车",
+                    "上汽集团"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车",
+                    "环保",
+                    "港股"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

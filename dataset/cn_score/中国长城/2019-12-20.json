@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中国长城：飞腾发布五年规划，收入剑指百亿",
+            "features": {
+                "keywords": [
+                    "中国长城",
+                    "飞腾",
+                    "五年规划",
+                    "收入",
+                    "百亿"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "半导体"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "这个笔记本酷毙了！中国长城UF7精彩亮相",
+            "features": {
+                "keywords": [
+                    "笔记本",
+                    "酷毙了",
+                    "中国长城",
+                    "UF7",
+                    "精彩亮相"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费电子"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 7,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

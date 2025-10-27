@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "2019-12-31",
+            "original_text": "董事长短线交易获利近1200万被公开谴责 鱼跃医疗并购式发展或难续 其他违规处罚",
+            "features": {
+                "keywords": [
+                    "董事长",
+                    "短线交易",
+                    "获利",
+                    "公开谴责",
+                    "鱼跃医疗",
+                    "并购",
+                    "违规处罚"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "董事长短线交易获利近1200万被公开谴责 鱼跃医疗并购式发展或难续 其他违规处罚",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2019-01-01",
+            "original_text": "2019年医药行业投资策略: 分化、兑现、升级、恢复",
+            "features": {
+                "keywords": [
+                    "医药行业",
+                    "投资策略",
+                    "分化",
+                    "兑现",
+                    "升级",
+                    "恢复"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "2019年医药行业投资策略: 分化、兑现、升级、恢复",
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

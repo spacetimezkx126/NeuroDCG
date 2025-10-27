@@ -1,0 +1,83 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "油企老板行贿中石油、中石化原高管蔡希有725万：100万供其炒股，600万为两情人买房买车",
+            "features": {
+                "keywords": [
+                    "油企",
+                    "行贿",
+                    "中石油",
+                    "中石化",
+                    "蔡希有",
+                    "炒股",
+                    "情人",
+                    "买房买车"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "能源",
+                    "石油"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "油企老板行贿中石油、中石化原高管蔡希有725万：100万供其炒股，600万为两情人买房买车",
+                "Correlation": 9,
+                "Sentiment": 1,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中俄天然气管线提前通气 国内管道建设需加速",
+            "features": {
+                "keywords": [
+                    "中俄",
+                    "天然气",
+                    "管线",
+                    "通气",
+                    "国内",
+                    "管道建设",
+                    "加速"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "天然气"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中俄天然气管线提前通气 国内管道建设需加速",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

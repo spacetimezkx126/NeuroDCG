@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "宁波银行今日大宗交易成交12万股，成交价16.85元折价0.0%.",
+            "features": {
+                "keywords": [
+                    "宁波银行",
+                    "大宗交易",
+                    "成交",
+                    "12万股",
+                    "16.85元",
+                    "折价"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "宁波银行今日大宗交易成交12万股，成交价16.85元折价0.0%.",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 5,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "金融：信贷维持高增 荐7股",
+            "features": {
+                "keywords": [
+                    "金融",
+                    "信贷",
+                    "高增",
+                    "荐7股"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "金融：信贷维持高增 荐7股",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

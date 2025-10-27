@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "调研记录|海大集团（002311.SZ）：目前在广东、广西、山东等地布局了不同品种的水产养殖基地",
+            "features": {
+                "keywords": [
+                    "海大集团",
+                    "水产养殖",
+                    "广东",
+                    "广西",
+                    "山东"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "农业",
+                    "水产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "调研记录|海大集团（002311.SZ）：目前在广东、广西、山东等地布局了不同品种的水产养殖基地",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【牛人重仓】海大集团: 前复权价创120日新低，北向资金持股5612.85万股，融资余额23111.47万元；前3个交易日，北向资金增持65.42万股，融资额增加2635.51万元，主力资金净流入17837.53万元",
+            "features": {
+                "keywords": [
+                    "海大集团",
+                    "北向资金",
+                    "融资余额",
+                    "主力资金",
+                    "增持"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "股票市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "【牛人重仓】海大集团: 前复权价创120日新低，北向资金持股5612.85万股，融资余额23111.47万元；前3个交易日，北向资金增持65.42万股，融资额增加2635.51万元，主力资金净流入17837.53万元",
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "市场探底回升 主力分歧加大",
+            "features": {
+                "keywords": [
+                    "市场探底",
+                    "主力分歧"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "股票市场"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "mixed"
+            },
+            "scores": {
+                "News_content": "市场探底回升 主力分歧加大",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

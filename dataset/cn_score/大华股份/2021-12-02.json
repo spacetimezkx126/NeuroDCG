@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "大华股份独立董事杨华勇辞职",
+            "features": {
+                "keywords": [
+                    "大华股份",
+                    "独立董事",
+                    "杨华勇",
+                    "辞职"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "制造业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "大华股份独立董事杨华勇辞职",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "大华股份(002236.SZ)提名曹衍龙为独立董事候选人",
+            "features": {
+                "keywords": [
+                    "大华股份",
+                    "独立董事",
+                    "曹衍龙",
+                    "提名"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "制造业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

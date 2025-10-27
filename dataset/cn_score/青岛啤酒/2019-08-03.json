@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "参股多家上市公司 曾38亿元拿上海世博会地块后退地",
+            "features": {
+                "keywords": [
+                    "参股",
+                    "上市公司",
+                    "38亿元",
+                    "上海世博会地块",
+                    "退地"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "房地产",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

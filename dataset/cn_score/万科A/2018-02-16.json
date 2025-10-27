@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "宋清辉：监管层并没有要求一刀切清盘资管产品",
+            "features": {
+                "keywords": [
+                    "宋清辉",
+                    "监管层",
+                    "资管产品",
+                    "清盘",
+                    "一刀切"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 4,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "",
+            "original_text": "TOP10房企挥金千亿买地 长三角城市群最被青睐",
+            "features": {
+                "keywords": [
+                    "TOP10房企",
+                    "买地",
+                    "长三角城市群",
+                    "千亿"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "TOP10房企挥金千亿买地 长三角城市群最被青睐",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

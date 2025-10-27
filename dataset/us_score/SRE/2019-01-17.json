@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Notable ETF Outflow Detected - IWS, FIS, WMB, SRE",
+            "features": {
+                "keywords": [
+                    "ETF",
+                    "Outflow",
+                    "IWS",
+                    "FIS",
+                    "WMB",
+                    "SRE"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Notable ETF Outflow Detected - IWS, FIS, WMB, SRE",
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Can US Threaten Russia's Dominance in Europe's Gas Market?",
+            "features": {
+                "keywords": [
+                    "US",
+                    "Russia",
+                    "Dominance",
+                    "Europe",
+                    "Gas",
+                    "Market"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "geopolitics"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Can US Threaten Russia's Dominance in Europe's Gas Market?",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

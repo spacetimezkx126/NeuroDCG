@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "长城建材-中铁装配（300374）点评报告：与中铁财务公司签署金融服务框架协议，有望强化公司融资能力",
+            "features": {
+                "keywords": [
+                    "中铁装配",
+                    "金融服务框架协议",
+                    "融资能力"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "建筑材料",
+                    "金融服务"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "长城建材-中铁装配（300374）中报点评报告：上半年扣非净利润高增28%，业绩复苏显著",
+            "features": {
+                "keywords": [
+                    "中铁装配",
+                    "扣非净利润",
+                    "业绩复苏"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "建筑材料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

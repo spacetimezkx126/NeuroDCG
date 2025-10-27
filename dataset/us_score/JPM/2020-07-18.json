@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2021-03-15",
+            "original_text": "Biden Slams Response; Trump Says No Mask Mandate: Virus Update",
+            "features": {
+                "keywords": [
+                    "Biden",
+                    "Slams",
+                    "Response",
+                    "Trump",
+                    "No Mask Mandate",
+                    "Virus Update"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "government"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2020-07-22",
+            "original_text": "Banks’ Loan-Loss Reserves Send Sharp Warning on Economy",
+            "features": {
+                "keywords": [
+                    "Banks",
+                    "Loan-Loss Reserves",
+                    "Sharp Warning",
+                    "Economy"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "economy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

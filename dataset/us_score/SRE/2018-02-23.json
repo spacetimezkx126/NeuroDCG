@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "Daily Dividend Report: PLD, SRE, ALB, XEC, AET",
+            "features": {
+                "keywords": [
+                    "Dividend",
+                    "PLD",
+                    "SRE",
+                    "ALB",
+                    "XEC",
+                    "AET"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "real estate",
+                    "energy",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "Sempra Energy Declares Dividends and Raises Annualized Common Stock Dividend by 9 Percent",
+            "features": {
+                "keywords": [
+                    "Sempra Energy",
+                    "Dividends",
+                    "Raises",
+                    "Annualized",
+                    "Common Stock",
+                    "9 Percent"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

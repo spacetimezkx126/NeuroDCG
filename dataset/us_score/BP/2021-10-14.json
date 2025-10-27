@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2022-10-15",
+            "original_text": "The future of energy? Giant solar power project in Colorado comes online",
+            "features": {
+                "keywords": [
+                    "solar power",
+                    "project",
+                    "Colorado",
+                    "online"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "renewable energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "The future of energy? Giant solar power project in Colorado comes online",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2022-10-15",
+            "original_text": "Gas crisis: 250,000 customers hit as two more suppliers collapse",
+            "features": {
+                "keywords": [
+                    "gas crisis",
+                    "customers",
+                    "suppliers",
+                    "collapse"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Gas crisis: 250,000 customers hit as two more suppliers collapse",
+                "Correlation": 5,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

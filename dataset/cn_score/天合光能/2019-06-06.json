@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2019-06-03",
+            "original_text": "汉能私有化完成，回A能否重生？",
+            "features": {
+                "keywords": [
+                    "汉能",
+                    "私有化",
+                    "回A",
+                    "重生"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "新能源",
+                    "光伏"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2019-04-01",
+            "original_text": "2019SNEC光伏巨头纷发高效产品：一季度装机量黯淡 各家加速开拓海外市场",
+            "features": {
+                "keywords": [
+                    "SNEC",
+                    "光伏",
+                    "高效产品",
+                    "装机量",
+                    "海外市场"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源",
+                    "光伏"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 10,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

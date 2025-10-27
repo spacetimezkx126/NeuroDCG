@@ -1,0 +1,342 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "The Bay Area's highest paid women CEOs make much less than the highest-paid men CEOs",
+            "features": {
+                "keywords": [
+                    "gender gap",
+                    "CEO salaries"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "general business"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-01-03",
+            "original_text": "Bay Area CEO salaries show a glaring gender gap",
+            "features": {
+                "keywords": [
+                    "gender gap",
+                    "CEO salaries"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "general business"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 2,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-01-04",
+            "original_text": "Another company is protesting the $10B JEDI cloud procurement",
+            "features": {
+                "keywords": [
+                    "JEDI",
+                    "cloud procurement",
+                    "protesting"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology",
+                    "government contracts"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-05",
+            "original_text": "Microsoft Ramps Up Azure Government Portfolio Ahead of JEDI",
+            "features": {
+                "keywords": [
+                    "Microsoft",
+                    "Azure",
+                    "JEDI"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "cloud services"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-01-06",
+            "original_text": "MongoDB (MDB) to Buy Cloud Database Service Provider mLab",
+            "features": {
+                "keywords": [
+                    "MongoDB",
+                    "mLab",
+                    "acquisition"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "database services"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 9,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-07",
+            "original_text": "How Blockchain Technology Helps Amazon, Microsoft, and Oracle",
+            "features": {
+                "keywords": [
+                    "blockchain",
+                    "Amazon",
+                    "Microsoft",
+                    "Oracle"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "blockchain"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-08",
+            "original_text": "See what the IHS Markit Score report has to say about Oracle Corp.",
+            "features": {
+                "keywords": [
+                    "IHS Markit Score",
+                    "Oracle"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "enterprise software"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-01-09",
+            "original_text": "Survey Highlights 5G Adoption as Catalyst for Advanced Digital Service Ecosystems",
+            "features": {
+                "keywords": [
+                    "5G",
+                    "adoption",
+                    "digital service ecosystems"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "telecommunications",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-10",
+            "original_text": "Oracle and LinkedIn Collaborate to Improve Candidate and Employee Experience",
+            "features": {
+                "keywords": [
+                    "Oracle",
+                    "LinkedIn",
+                    "collaboration"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "human resources"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-11",
+            "original_text": "Oracle and NVIDIA Bring the Power of the Cloud to the Next Generation of Analytics, Machine Learning and AI",
+            "features": {
+                "keywords": [
+                    "Oracle",
+                    "NVIDIA",
+                    "cloud",
+                    "AI",
+                    "machine learning"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "artificial intelligence"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

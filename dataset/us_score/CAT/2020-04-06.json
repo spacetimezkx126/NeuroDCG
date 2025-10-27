@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "2021-03-15",
+            "original_text": "This chart shows why BlackRock, other major asset managers are upbeat on U.S. credit despite the pandemic",
+            "features": {
+                "keywords": [
+                    "BlackRock",
+                    "major asset managers",
+                    "upbeat",
+                    "U.S. credit",
+                    "pandemic"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "credit"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-04-20",
+            "original_text": "Caterpillar Financial Services GmbH & Co KG -- Moody's affirms Caterpillar A3 long-term and P-2 short-term ratings; outlook stable",
+            "features": {
+                "keywords": [
+                    "Caterpillar",
+                    "Moody's",
+                    "affirms",
+                    "A3",
+                    "long-term",
+                    "P-2",
+                    "short-term",
+                    "ratings",
+                    "outlook stable"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

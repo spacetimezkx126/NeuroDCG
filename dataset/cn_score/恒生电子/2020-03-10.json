@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "大利好助攻，明天继续涨！",
+            "features": {
+                "keywords": [
+                    "大利好",
+                    "助攻",
+                    "继续涨"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "大利好助攻，明天继续涨！",
+                "Correlation": 5,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【东吴计算机周报】：鲲鹏展翅，华为生态伙伴迎来机遇",
+            "features": {
+                "keywords": [
+                    "东吴计算机周报",
+                    "鲲鹏",
+                    "华为生态",
+                    "伙伴",
+                    "机遇"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "计算机",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "【东吴计算机周报】：鲲鹏展翅，华为生态伙伴迎来机遇",
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

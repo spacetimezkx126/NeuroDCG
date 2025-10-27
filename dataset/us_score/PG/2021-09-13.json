@@ -1,0 +1,102 @@
+[
+    [
+        {
+            "time": "2021-07-21",
+            "original_text": "Shares Of The Procter & Gamble Company Have Risen Above Previous 52-Week High",
+            "features": {
+                "keywords": [
+                    "Procter & Gamble",
+                    "shares risen",
+                    "52-week high"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2021-07-21",
+            "original_text": "11 Best FMCG Stocks To Buy Now",
+            "features": {
+                "keywords": [
+                    "FMCG stocks",
+                    "buy now"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "consumer goods"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2021-07-21",
+            "original_text": "P&G's 2021 Annual Report",
+            "features": {
+                "keywords": [
+                    "P&G",
+                    "annual report",
+                    "2021"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 4,
+                "Headline_Structure": 5,
+                "Source_Recency": 3
+            }
+        }
+    ]
+]

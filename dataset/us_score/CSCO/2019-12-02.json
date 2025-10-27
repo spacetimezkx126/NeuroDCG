@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2018-12-03",
+            "original_text": "Cloud-software stocks weather harsh start to December amid tech-spending concerns",
+            "features": {
+                "keywords": [
+                    "Cloud-software",
+                    "stocks",
+                    "harsh start",
+                    "tech-spending concerns"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-12-03",
+            "original_text": "Dow down 81 points on losses for Visa, Microsoft shares",
+            "features": {
+                "keywords": [
+                    "Dow",
+                    "down",
+                    "Visa",
+                    "Microsoft",
+                    "losses"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "technology"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 10,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

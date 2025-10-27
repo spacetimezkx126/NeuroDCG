@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "银河证券每日晨报",
+            "features": {
+                "keywords": [
+                    "银河证券",
+                    "每日晨报"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "银河证券每日晨报",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 4,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "轻工与纺织服装行业周报：大众健身热潮持续 运动服饰及设施板块长期利好",
+            "features": {
+                "keywords": [
+                    "轻工",
+                    "纺织服装",
+                    "大众健身",
+                    "运动服饰",
+                    "设施板块",
+                    "长期利好"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "轻工",
+                    "纺织服装"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "轻工与纺织服装行业周报：大众健身热潮持续 运动服饰及设施板块长期利好",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

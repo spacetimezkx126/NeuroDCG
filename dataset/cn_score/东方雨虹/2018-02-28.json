@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "市场大幅波动怎么办？你可能需要优化自己的资产配置",
+            "features": {
+                "keywords": [
+                    "市场",
+                    "大幅波动",
+                    "资产配置"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 1,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 3
+            }
+        },
+        {
+            "time": "",
+            "original_text": "[增持评级]东方雨虹(002271)业绩快报点评：市占率加速提速 18年开启征程",
+            "features": {
+                "keywords": [
+                    "增持评级",
+                    "东方雨虹",
+                    "市占率",
+                    "加速提速",
+                    "18年"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "建筑材料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

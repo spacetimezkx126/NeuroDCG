@@ -1,0 +1,69 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "同业存单周报：同业存单发行利率普遍上行",
+            "features": {
+                "keywords": [
+                    "同业存单",
+                    "发行利率",
+                    "上行"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "银行"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "同业存单周报：同业存单发行利率普遍上行",
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-09-24",
+            "original_text": "晚间公告｜9月24日这些公告有看头",
+            "features": {
+                "keywords": [
+                    "晚间公告",
+                    "9月24日"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "晚间公告｜9月24日这些公告有看头",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 4,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

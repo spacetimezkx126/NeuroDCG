@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Sectors Holding Up Well Despite Market Selloffs",
+            "features": {
+                "keywords": [
+                    "Sectors",
+                    "Holding",
+                    "Well",
+                    "Market",
+                    "Selloffs"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Sectors Holding Up Well Despite Market Selloffs",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Watchdog told to review evidence against Pfizer and Flynn",
+            "features": {
+                "keywords": [
+                    "Watchdog",
+                    "review",
+                    "evidence",
+                    "Pfizer",
+                    "Flynn"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "pharmaceuticals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

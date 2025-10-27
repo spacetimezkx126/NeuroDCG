@@ -1,0 +1,105 @@
+[
+    [
+        {
+            "time": "2020-08-31",
+            "original_text": "Why Apple Did a 4-for-1 Stock Split",
+            "features": {
+                "keywords": [
+                    "Apple",
+                    "stock split",
+                    "4-for-1"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2020-09-01",
+            "original_text": "Starbucks Pumpkin Spice products are on grocery store shelves",
+            "features": {
+                "keywords": [
+                    "Starbucks",
+                    "Pumpkin Spice",
+                    "grocery store"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "consumer goods",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 2,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2020-08-25",
+            "original_text": "Don’t Let the Postal Service Derail the Presidential Election",
+            "features": {
+                "keywords": [
+                    "Postal Service",
+                    "Presidential Election",
+                    "Derail"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "government",
+                    "logistics"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 2,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

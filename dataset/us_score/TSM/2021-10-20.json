@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "Ken Fisher Stock Portfolio: 10 Biggest Tech Stocks",
+            "features": {
+                "keywords": [
+                    "Ken Fisher",
+                    "Tech Stocks",
+                    "Portfolio"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "UPDATE 1-Micron to build $7 bln plant in Japan to expand DRAM production - report",
+            "features": {
+                "keywords": [
+                    "Micron",
+                    "plant",
+                    "DRAM",
+                    "Japan",
+                    "expansion"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "semiconductors"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 9,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

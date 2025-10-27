@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-04-15",
+            "original_text": "大华股份(002236.SZ)于4月15日实际将有2943.15万股限制性股票上市流通",
+            "features": {
+                "keywords": [
+                    "大华股份",
+                    "限制性股票",
+                    "上市流通"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "安防"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 10,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-11-07",
+            "original_text": "东吴证券--通信行业本周专题：三大运营商乘“云”而上，华为或将重点发力云计算【行业研究】",
+            "features": {
+                "keywords": [
+                    "东吴证券",
+                    "通信行业",
+                    "云计算",
+                    "华为",
+                    "三大运营商"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "通信",
+                    "云计算"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

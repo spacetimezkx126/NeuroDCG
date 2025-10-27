@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "领益智造：广东证监局对公司出具的警示函 其他违规处罚",
+            "features": {
+                "keywords": [
+                    "领益智造",
+                    "广东证监局",
+                    "警示函",
+                    "违规处罚"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电子制造"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "快讯：OLED板块异动 领益智造大涨6%",
+            "features": {
+                "keywords": [
+                    "OLED",
+                    "板块异动",
+                    "领益智造",
+                    "大涨6%"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "OLED",
+                    "电子制造"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "OLED概念股走强，强力新材涨近7%，领益智造、京东方A涨近5%，国风塑业等大幅跟涨",
+            "features": {
+                "keywords": [
+                    "OLED",
+                    "概念股",
+                    "走强",
+                    "强力新材",
+                    "领益智造",
+                    "京东方A",
+                    "国风塑业"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "OLED",
+                    "电子制造"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

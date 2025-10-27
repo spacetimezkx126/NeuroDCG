@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "汽车：乘用车批量继续走低 荐7股",
+            "features": {
+                "keywords": [
+                    "汽车",
+                    "乘用车",
+                    "批量",
+                    "走低"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "汽车：5月新能源车销量受国五清库影响较大 荐2股",
+            "features": {
+                "keywords": [
+                    "汽车",
+                    "新能源车",
+                    "销量",
+                    "国五清库",
+                    "影响"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "汽车",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

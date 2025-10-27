@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "The World Is Conspiring to Make Gas Cheaper",
+            "features": {
+                "keywords": [
+                    "gas",
+                    "cheaper",
+                    "conspiring"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "The World Is Conspiring to Make Gas Cheaper",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 1,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Insurance comparison firm SelectQuote taps banks for IPO -sources",
+            "features": {
+                "keywords": [
+                    "SelectQuote",
+                    "IPO",
+                    "banks",
+                    "insurance"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance",
+                    "insurance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Insurance comparison firm SelectQuote taps banks for IPO -sources",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "2021-04-06",
+            "original_text": "A股资金流向（4月6日）：碳中和明星股获回流，白马股遭抛售",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "资金流向",
+                    "碳中和",
+                    "明星股",
+                    "回流",
+                    "白马股",
+                    "抛售"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "环保",
+                    "能源",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "A股资金流向（4月6日）：碳中和明星股获回流，白马股遭抛售",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "半导体持续缺货，谁最受益",
+            "features": {
+                "keywords": [
+                    "半导体",
+                    "缺货",
+                    "受益"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "科技",
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "半导体持续缺货，谁最受益",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 9,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

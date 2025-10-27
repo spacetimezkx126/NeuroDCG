@@ -1,0 +1,81 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "券商股尾盘苏醒反击，华创阳安领涨5%。",
+            "features": {
+                "keywords": [
+                    "券商股",
+                    "尾盘",
+                    "苏醒",
+                    "反击",
+                    "华创阳安",
+                    "领涨"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "券商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "券商股尾盘苏醒反击，华创阳安领涨5%。",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "投行金领愁问路在何方!六成券商年内IPO颗粒无收!",
+            "features": {
+                "keywords": [
+                    "投行",
+                    "金领",
+                    "愁问",
+                    "路在何方",
+                    "券商",
+                    "IPO",
+                    "颗粒无收"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "券商"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "投行金领愁问路在何方!六成券商年内IPO颗粒无收!",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

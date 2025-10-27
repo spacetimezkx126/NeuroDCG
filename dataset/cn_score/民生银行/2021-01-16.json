@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "民生银行擅自更改房贷还款方式：还款7年 本金一分钱没还",
+            "features": {
+                "keywords": [
+                    "民生银行",
+                    "房贷",
+                    "还款方式",
+                    "擅自更改"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "股价迭创新高，招行市值赶超建行",
+            "features": {
+                "keywords": [
+                    "股价",
+                    "新高",
+                    "招行",
+                    "市值",
+                    "赶超",
+                    "建行"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 9,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

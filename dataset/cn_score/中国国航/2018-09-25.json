@@ -1,0 +1,244 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "涨，停，板，复，盘，:，两，市，指，数，缩，量，调，整， ，地，产，板，块，全，线，杀，跌",
+            "features": {
+                "keywords": [
+                    "涨停",
+                    "指数",
+                    "缩量调整",
+                    "地产板块",
+                    "杀跌"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "涨，停，板，复，盘，:，两，市，指，数，缩，量，调，整， ，地，产，板，块，全，线，杀，跌",
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "交，运，行，业，：，促，消，费，稳，基，建， ，航，空，铁，路，迎，阶，段，反，弹",
+            "features": {
+                "keywords": [
+                    "交通运输",
+                    "促消费",
+                    "稳基建",
+                    "航空铁路",
+                    "反弹"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "交通运输",
+                    "航空铁路"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "交，运，行，业，：，促，消，费，稳，基，建， ，航，空，铁，路，迎，阶，段，反，弹",
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "交，运，周，报，：，中，通，、，韵，达，宣，布，涨，价，或，引，发，快，递，板，块，旺，季，行，情",
+            "features": {
+                "keywords": [
+                    "交通运输",
+                    "中通",
+                    "韵达",
+                    "涨价",
+                    "快递板块",
+                    "旺季行情"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "交通运输",
+                    "快递"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "交，运，周，报，：，中，通，、，韵，达，宣，布，涨，价，或，引，发，快，递，板，块，旺，季，行，情",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "焦，点，股，今，日，竞，价，表，现",
+            "features": {
+                "keywords": [
+                    "焦点股",
+                    "竞价表现"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "焦，点，股，今，日，竞，价，表，现",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "权，重，股，的，暴，涨，是，反，弹，，不，是，反，转",
+            "features": {
+                "keywords": [
+                    "权重股",
+                    "暴涨",
+                    "反弹",
+                    "不是反转"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "权，重，股，的，暴，涨，是，反，弹，，不，是，反，转",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-09-25",
+            "original_text": "2，0，1，8，年，9，月，2，5，日，A，股，涨，停，股，票，预，测，：，今，日，哪，些，热，门，股，有，望，涨，停，？",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "涨停预测",
+                    "热门股"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "2，0，1，8，年，9，月，2，5，日，A，股，涨，停，股，票，预，测，：，今，日，哪，些，热，门，股，有，望，涨，停，？",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中，国，国，航，强，势，涨，停",
+            "features": {
+                "keywords": [
+                    "中国国航",
+                    "强势涨停"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "航空"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中，国，国，航，强，势，涨，停",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

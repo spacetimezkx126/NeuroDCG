@@ -1,0 +1,42 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中航沈飞：股价波动一般会受国家政策、行业发展、市场情绪等多重因素影响",
+            "features": {
+                "keywords": [
+                    "国家政策",
+                    "行业发展",
+                    "市场情绪"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "航空制造"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral",
+                "additional_factors": {
+                    "policy_influence": "positive",
+                    "industry_growth": "positive",
+                    "market_sentiment": "negative"
+                }
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 3,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

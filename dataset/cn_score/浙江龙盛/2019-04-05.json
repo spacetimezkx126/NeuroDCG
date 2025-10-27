@@ -1,0 +1,105 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "短 短 十 多 天 暴 涨 1 0 0 % ！ 全 球 第 一 的 巨 头 ！ 估 值 直 线 飙 升 ， 啥 情 况 ？",
+            "features": {
+                "keywords": [
+                    "暴涨",
+                    "全球第一",
+                    "估值飙升"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "巨头企业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "短 短 十 多 天 暴 涨 1 0 0 % ！ 全 球 第 一 的 巨 头 ！ 估 值 直 线 飙 升 ， 啥 情 况 ？",
+                "Correlation": 8,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 9,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 10,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "最 新 反 弹 王 诞 生 ！ 这 些 昔 日 大 熊 股 一 朝 翻 身   最 意 外 的 竟 是 它",
+            "features": {
+                "keywords": [
+                    "反弹王",
+                    "昔日大熊股",
+                    "翻身"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "反弹股票"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "最 新 反 弹 王 诞 生 ！ 这 些 昔 日 大 熊 股 一 朝 翻 身   最 意 外 的 竟 是 它",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "从 短 期 强 轧 空 到 趋 势 强 轧 空",
+            "features": {
+                "keywords": [
+                    "短期强轧空",
+                    "趋势强轧空"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "市场策略"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "从 短 期 强 轧 空 到 趋 势 强 轧 空",
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

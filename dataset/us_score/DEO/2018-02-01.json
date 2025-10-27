@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2018-03-05",
+            "original_text": "As Bacardi buys Patrón, here’s a stock to bet on the liquor industry’s high-end trend",
+            "features": {
+                "keywords": [
+                    "Bacardi",
+                    "Patrón",
+                    "liquor industry",
+                    "high-end trend"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "alcohol",
+                    "beverages"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-04-10",
+            "original_text": "Diageo Toasts Increase in Women Whiskey Drinkers",
+            "features": {
+                "keywords": [
+                    "Diageo",
+                    "women whiskey drinkers",
+                    "increase"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "alcohol",
+                    "beverages"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

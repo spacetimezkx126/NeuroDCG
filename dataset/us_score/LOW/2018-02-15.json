@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-03-15",
+            "original_text": "Home Depot (HD) Begins Spring Preparations, Ramps Up Hiring",
+            "features": {
+                "keywords": [
+                    "Home Depot",
+                    "Spring Preparations",
+                    "Ramps Up",
+                    "Hiring"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail",
+                    "home improvement"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Home Depot (HD) Begins Spring Preparations, Ramps Up Hiring",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "See what the IHS Markit Score report has to say about Lowe's Companies Inc.",
+            "features": {
+                "keywords": [
+                    "IHS Markit Score",
+                    "Lowe's Companies Inc.",
+                    "report"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail",
+                    "home improvement"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "See what the IHS Markit Score report has to say about Lowe's Companies Inc.",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

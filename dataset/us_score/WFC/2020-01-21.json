@@ -1,0 +1,112 @@
+[
+    [
+        {
+            "time": "2018-03-15",
+            "original_text": "Former FDIC Chair: Warren is 'best candidate' on bank regulation",
+            "features": {
+                "keywords": [
+                    "FDIC",
+                    "Warren",
+                    "bank regulation"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "regulation"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-02-22",
+            "original_text": "Comerica (CMA) Q4 Earnings Beat Estimates, Revenues Down Y/Y",
+            "features": {
+                "keywords": [
+                    "Comerica",
+                    "Q4",
+                    "Earnings",
+                    "Beat",
+                    "Revenues",
+                    "Down",
+                    "Y/Y"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-04-10",
+            "original_text": "Wells Fargo grant will fund $28 million in loans for Atlanta small businesses",
+            "features": {
+                "keywords": [
+                    "Wells Fargo",
+                    "grant",
+                    "$28 million",
+                    "loans",
+                    "Atlanta",
+                    "small businesses"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance",
+                    "business"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

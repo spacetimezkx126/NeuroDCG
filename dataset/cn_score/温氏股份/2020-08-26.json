@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "猪，肉，股，普遍，回调，，温，氏，股，份，跌，超，3，%",
+            "features": {
+                "keywords": [
+                    "猪肉",
+                    "温氏股份",
+                    "回调"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "食品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "猪，肉，股，普遍，回调，，温，氏，股，份，跌，超，3，%",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "北，向，资，金，动，向，盘，点，：，反，手，加，仓，茅，台，，但，“，食，药，”，持，仓，占，比，已，达，31，., 3，%",
+            "features": {
+                "keywords": [
+                    "北向资金",
+                    "贵州茅台",
+                    "食药",
+                    "加仓"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "消费",
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "北，向，资，金，动，向，盘，点，：，反，手，加，仓，茅，台，，但，“，食，药，”，持，仓，占，比，已，达，31，., 3，%",
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

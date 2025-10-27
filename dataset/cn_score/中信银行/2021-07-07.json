@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中信银行广州分行多措并举助力广东经济高质量发展",
+            "features": {
+                "keywords": [
+                    "中信银行",
+                    "广州分行",
+                    "多措并举",
+                    "广东经济",
+                    "高质量发展"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "关于部分银行银期转账系统暂停使用的公告",
+            "features": {
+                "keywords": [
+                    "银行",
+                    "银期转账",
+                    "系统暂停",
+                    "公告"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 3,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 4,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

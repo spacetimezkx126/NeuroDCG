@@ -1,0 +1,314 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "The Russell 2000's strength indicates the US economy's health...",
+            "features": {
+                "keywords": [
+                    "Russell 2000",
+                    "strength",
+                    "US economy"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "The Russell 2000's strength indicates the US economy's health...",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 6,
+                "Entity_Density": 1,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-03-15",
+            "original_text": "Home Depot Says a Delayed Spring Season Won't Hurt the Business in 2018",
+            "features": {
+                "keywords": [
+                    "Home Depot",
+                    "Delayed Spring",
+                    "Business"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Home Depot Says a Delayed Spring Season Won't Hurt the Business in 2018",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-04-10",
+            "original_text": "As oil rises, warnings emerge from U.S. retailers",
+            "features": {
+                "keywords": [
+                    "oil",
+                    "warnings",
+                    "U.S. retailers"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "As oil rises, warnings emerge from U.S. retailers",
+                "Correlation": 4,
+                "Sentiment": 3,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-02-20",
+            "original_text": "The Home Depot Declares First Quarter Dividend Of $1.03",
+            "features": {
+                "keywords": [
+                    "Home Depot",
+                    "Dividend",
+                    "$1.03"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "The Home Depot Declares First Quarter Dividend Of $1.03",
+                "Correlation": 10,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-05-10",
+            "original_text": "Shareholder proposal on diversity report receives surprising support, catches Home Depot's attention",
+            "features": {
+                "keywords": [
+                    "Shareholder",
+                    "diversity report",
+                    "support",
+                    "Home Depot"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Shareholder proposal on diversity report receives surprising support, catches Home Depot's attention",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-06-05",
+            "original_text": "Could Home Depot’s sales miss hint at a cooling housing market?",
+            "features": {
+                "keywords": [
+                    "Home Depot",
+                    "sales miss",
+                    "cooling housing market"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "real estate",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Could Home Depot’s sales miss hint at a cooling housing market?",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-07-15",
+            "original_text": "What Drove Home Depot’s Net Margins in Q1 2018?",
+            "features": {
+                "keywords": [
+                    "Home Depot",
+                    "Net Margins",
+                    "Q1 2018"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "What Drove Home Depot’s Net Margins in Q1 2018?",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2018-08-20",
+            "original_text": "Home Depot customers had extra cash, but chose to spend it elsewhere",
+            "features": {
+                "keywords": [
+                    "Home Depot",
+                    "customers",
+                    "extra cash",
+                    "spend elsewhere"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Home Depot customers had extra cash, but chose to spend it elsewhere",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-09-10",
+            "original_text": "Companies will hike spending, former Home Depot CEO Nardelli says",
+            "features": {
+                "keywords": [
+                    "Companies",
+                    "hike spending",
+                    "Nardelli"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "general business"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Companies will hike spending, former Home Depot CEO Nardelli says",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

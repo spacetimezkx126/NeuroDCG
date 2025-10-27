@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "time": "2018-03-05",
+            "original_text": "See what the IHS Markit Score report has to say about United Parcel Service Inc.",
+            "features": {
+                "keywords": [
+                    "IHS Markit Score",
+                    "United Parcel Service Inc."
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "logistics",
+                    "transportation"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-04-10",
+            "original_text": "Why Higher Crude Oil Prices Are a Concern for US Trucking",
+            "features": {
+                "keywords": [
+                    "Higher Crude Oil Prices",
+                    "US Trucking"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "transportation"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

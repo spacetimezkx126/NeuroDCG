@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2019-04-03",
+            "original_text": "Simpson Manufacturing Company, Inc. (SSD) Ex-Dividend Date Scheduled for April 03, 2019",
+            "features": {
+                "keywords": [
+                    "Simpson Manufacturing",
+                    "Ex-Dividend",
+                    "Scheduled"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2019-04-03",
+            "original_text": "IHI, ABT, MDT, TMO: ETF Inflow Alert",
+            "features": {
+                "keywords": [
+                    "IHI",
+                    "ABT",
+                    "MDT",
+                    "TMO",
+                    "ETF Inflow"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 2,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

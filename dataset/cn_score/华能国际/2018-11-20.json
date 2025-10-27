@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "能,源,交,运,：,发,电,增,速,维,持,低,位,采,暖,季,天,然,气,涨,价,启,动",
+            "features": {
+                "keywords": [
+                    "能源",
+                    "发电增速",
+                    "低位",
+                    "采暖季",
+                    "天然气",
+                    "涨价"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "交通运输"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "能,源,交,运,：,发,电,增,速,维,持,低,位,采,暖,季,天,然,气,涨,价,启,动",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "电,力,行,业,:,华,能,国,际,,,浙,能,电,力",
+            "features": {
+                "keywords": [
+                    "电力行业",
+                    "华能国际",
+                    "浙能电力"
+                ],
+                "sentiment_score": 0.0,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电力"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "电,力,行,业,:,华,能,国,际,,,浙,能,电,力",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

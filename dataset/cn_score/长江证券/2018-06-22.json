@@ -1,0 +1,41 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "又一家券商系公募基金获批，还有华林证券正在申请公募牌照",
+            "features": {
+                "keywords": [
+                    "券商系",
+                    "公募基金",
+                    "获批",
+                    "华林证券",
+                    "申请",
+                    "公募牌照"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "证券"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2018-04-17",
+            "original_text": "AT&T failed on one megadeal and overpaid on the second. Time Warner could be its third strike.",
+            "features": {
+                "keywords": [
+                    "AT&T",
+                    "failed",
+                    "megadeal",
+                    "overpaid",
+                    "Time Warner"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "telecommunications",
+                    "media"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "AT&T failed on one megadeal and overpaid on the second. Time Warner could be its third strike.",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-04-17",
+            "original_text": "Randall Stephenson's legacy at AT&T depends on winning Time Warner trial",
+            "features": {
+                "keywords": [
+                    "Randall Stephenson",
+                    "legacy",
+                    "AT&T",
+                    "Time Warner",
+                    "trial"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "telecommunications",
+                    "media"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Randall Stephenson's legacy at AT&T depends on winning Time Warner trial",
+                "Correlation": 10,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

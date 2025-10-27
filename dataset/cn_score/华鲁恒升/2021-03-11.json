@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-03-11",
+            "original_text": "生社：3月11日山东华鲁恒升液氨价格持稳",
+            "features": {
+                "keywords": [
+                    "液氨",
+                    "价格",
+                    "持稳",
+                    "山东华鲁恒升"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "生社：3月11日山东华鲁恒升液氨价格持稳",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-03-11",
+            "original_text": "中金再次重申全面看好A/H银行1-4个季度有39/45%的上涨空间，北向加仓白酒+银行",
+            "features": {
+                "keywords": [
+                    "中金",
+                    "A/H银行",
+                    "上涨空间",
+                    "北向资金",
+                    "白酒",
+                    "加仓"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "银行",
+                    "白酒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "中金再次重申全面看好A/H银行1-4个季度有39/45%的上涨空间，北向加仓白酒+银行",
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 8,
+                "Entity_Density": 8,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

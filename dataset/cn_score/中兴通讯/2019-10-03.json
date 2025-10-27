@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "香 港 恒 生 指 数 午 盘 跌 0 . 48 % 报 25918 . 51 点 ， 地 产 股 跌 幅 居 前",
+            "features": {
+                "keywords": [
+                    "恒生指数",
+                    "午盘",
+                    "跌幅",
+                    "地产股"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "ChargePoint Rises Premarket; Chewy, Five Below and Hormel Fall",
+            "features": {
+                "keywords": [
+                    "ChargePoint",
+                    "Rises",
+                    "Premarket",
+                    "Chewy",
+                    "Five Below",
+                    "Hormel",
+                    "Fall"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive",
+                    "retail",
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "Krafton Rival Hit by Barrage of Rating Cuts as New Game Flops",
+            "features": {
+                "keywords": [
+                    "Krafton",
+                    "Rival",
+                    "Rating Cuts",
+                    "New Game",
+                    "Flops"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "gaming",
+                    "entertainment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

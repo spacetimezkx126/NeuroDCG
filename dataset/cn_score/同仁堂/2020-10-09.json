@@ -1,0 +1,109 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "咖啡堂食风向变了，连咖啡等掀关店潮，喜茶、奈雪疫后复苏快",
+            "features": {
+                "keywords": [
+                    "咖啡",
+                    "关店潮",
+                    "喜茶",
+                    "奈雪",
+                    "疫后复苏"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "餐饮",
+                    "零售"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "咖啡堂食风向变了，连咖啡等掀关店潮，喜茶、奈雪疫后复苏快",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "最新榜单公布，579个中药被点名（附名单）",
+            "features": {
+                "keywords": [
+                    "中药",
+                    "榜单",
+                    "点名"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "最新榜单公布，579个中药被点名（附名单）",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "千匠网络四周岁：春秋四载 感恩同行",
+            "features": {
+                "keywords": [
+                    "千匠网络",
+                    "周年"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "互联网"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "千匠网络四周岁：春秋四载 感恩同行",
+                "Correlation": 3,
+                "Sentiment": 6,
+                "Importance": 2,
+                "Impact": 2,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

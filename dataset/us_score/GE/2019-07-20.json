@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "The sneakers inspired by Apollo 11 and the Moon landing",
+            "features": {
+                "keywords": [
+                    "sneakers",
+                    "Apollo 11",
+                    "Moon landing"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail",
+                    "fashion"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "The sneakers inspired by Apollo 11 and the Moon landing",
+                "Correlation": 3,
+                "Sentiment": 7,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Where Will GE Be in 5 Years?",
+            "features": {
+                "keywords": [
+                    "GE",
+                    "future outlook",
+                    "long-term growth"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "industrial",
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Where Will GE Be in 5 Years?",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

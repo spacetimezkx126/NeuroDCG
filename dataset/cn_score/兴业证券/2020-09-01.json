@@ -1,0 +1,86 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股收盘综述：9月开门红创业板综指收涨1.22%，注册制第二批新股获热炒",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "收盘",
+                    "9月",
+                    "开门红",
+                    "创业板",
+                    "综指",
+                    "收涨",
+                    "注册制",
+                    "第二批",
+                    "新股",
+                    "热炒"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融",
+                    "创业板"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股收盘综述：9月开门红创业板综指收涨1.22%，注册制第二批新股获热炒",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "券商研究排名出炉！前五格局稳，中小券商现黑马",
+            "features": {
+                "keywords": [
+                    "券商",
+                    "研究",
+                    "排名",
+                    "前五",
+                    "格局",
+                    "中小券商",
+                    "黑马"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "券商"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "券商研究排名出炉！前五格局稳，中小券商现黑马",
+                "Correlation": 7,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

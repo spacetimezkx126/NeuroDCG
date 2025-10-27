@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-04-05",
+            "original_text": "上调评级至买入策略选股（4月5日）",
+            "features": {
+                "keywords": [
+                    "上调",
+                    "评级",
+                    "买入",
+                    "策略",
+                    "选股"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "综合"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【东兴食品饮料】啤酒行业深度报告：结构升级，啤酒三岔路口的最佳指引",
+            "features": {
+                "keywords": [
+                    "东兴食品饮料",
+                    "啤酒",
+                    "行业",
+                    "深度报告",
+                    "结构升级"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "食品饮料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

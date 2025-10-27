@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "电气设备2019三季报总结：风光景气业绩兑现，锂电全球化助成长，维持“增持”评级",
+            "features": {
+                "keywords": [
+                    "电气设备",
+                    "三季报",
+                    "风光景气",
+                    "业绩兑现",
+                    "锂电",
+                    "全球化",
+                    "增持"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "电气设备",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【东兴电新】补贴退坡中，新能源各板块财报表现不一",
+            "features": {
+                "keywords": [
+                    "东兴电新",
+                    "补贴退坡",
+                    "新能源",
+                    "财报表现"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "The Zacks Analyst Blog Highlights: Adobe, ConocoPhillips, Exelon, Anadarko and Home Depot",
+            "features": {
+                "keywords": [
+                    "Zacks Analyst Blog",
+                    "Adobe",
+                    "ConocoPhillips",
+                    "Exelon",
+                    "Anadarko",
+                    "Home Depot"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology",
+                    "energy",
+                    "utilities",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2019-05-17",
+            "original_text": "Genie Energy Ltd. (GNE) Ex-Dividend Date Scheduled for May 17, 2019",
+            "features": {
+                "keywords": [
+                    "Genie Energy",
+                    "Ex-Dividend Date",
+                    "Scheduled"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2019-12-06",
+            "original_text": "December '19 Jobs 145K, Unemployment 3.5%",
+            "features": {
+                "keywords": [
+                    "Jobs",
+                    "145K",
+                    "Unemployment",
+                    "3.5%"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "economy",
+                    "labor"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "December '19 Jobs 145K, Unemployment 3.5%",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 1,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-12-06",
+            "original_text": "Economic Data Deluge",
+            "features": {
+                "keywords": [
+                    "Economic",
+                    "Data",
+                    "Deluge"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "economy",
+                    "macro"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Economic Data Deluge",
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

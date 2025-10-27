@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "战，略，入，股，、，举，牌，…，…，千，亿，资，金，纾，困，民，企，，，有，人，欢，喜，有，人，忧",
+            "features": {
+                "keywords": [
+                    "战略入股",
+                    "举牌",
+                    "千亿资金",
+                    "纾困民企"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "民营企业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "战，略，入，股，、，举，牌，…，…，千，亿，资，金，纾，困，民，企，，，有，人，欢，喜，有，人，忧",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 9,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "电，力，设，备，:,，氢，能，白，皮，书，发，布，,,，风，光，再，迎，利，好",
+            "features": {
+                "keywords": [
+                    "电力设备",
+                    "氢能白皮书",
+                    "风光利好"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源",
+                    "电力设备"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "电，力，设，备，:,，氢，能，白，皮，书，发，布，,,，风，光，再，迎，利，好",
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

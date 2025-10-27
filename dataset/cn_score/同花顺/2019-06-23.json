@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "主力资金净流出近百亿 北向资金净流入超70亿",
+            "features": {
+                "keywords": [
+                    "主力资金",
+                    "净流出",
+                    "北向资金",
+                    "净流入"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 10,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "机构异常冒险买入同花顺 游资活跃看好稀土永磁",
+            "features": {
+                "keywords": [
+                    "机构",
+                    "冒险买入",
+                    "同花顺",
+                    "游资",
+                    "稀土永磁"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "稀土永磁"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "机构异常冒险买入同花顺 游资活跃看好稀土永磁",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2020-05-15",
+            "original_text": "Incyte's (INCY) Capmatinib NDA Gets Priority Review From FDA",
+            "features": {
+                "keywords": [
+                    "Incyte",
+                    "Capmatinib",
+                    "NDA",
+                    "Priority Review",
+                    "FDA"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 10,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-05-15",
+            "original_text": "The Daily Biotech Pulse: LogicBio Slapped With Clinical Hold, Agile Inks Debt Deal Ahead of Twirla Approval, Gilead Builds Stake In Sierra Oncology",
+            "features": {
+                "keywords": [
+                    "LogicBio",
+                    "Clinical Hold",
+                    "Agile",
+                    "Debt Deal",
+                    "Twirla Approval",
+                    "Gilead",
+                    "Sierra Oncology"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "biotech"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

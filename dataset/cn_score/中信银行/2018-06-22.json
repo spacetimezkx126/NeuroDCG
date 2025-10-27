@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中信银行宁波贷款用途违法不真实 贷款未按约定使用",
+            "features": {
+                "keywords": [
+                    "中信银行",
+                    "宁波",
+                    "贷款",
+                    "用途违法",
+                    "不真实",
+                    "未按约定使用"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 4,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中信银行宁波代销基金业务违法未进行双录 遭银监处罚",
+            "features": {
+                "keywords": [
+                    "中信银行",
+                    "宁波",
+                    "代销基金",
+                    "业务违法",
+                    "未进行双录",
+                    "银监处罚"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

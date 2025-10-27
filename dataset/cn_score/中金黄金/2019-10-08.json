@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "[快讯]中金黄金:收到中国证监会行政许可项目审查一次反馈意见通知书",
+            "features": {
+                "keywords": [
+                    "中金黄金",
+                    "中国证监会",
+                    "行政许可",
+                    "反馈意见"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "黄金",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 10,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

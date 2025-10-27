@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-10-05",
+            "original_text": "London stocks bounce, but set for biggest weekly loss since the financial crisis",
+            "features": {
+                "keywords": [
+                    "London stocks",
+                    "bounce",
+                    "biggest weekly loss",
+                    "financial crisis"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "stocks"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "London stocks bounce, but set for biggest weekly loss since the financial crisis",
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-05",
+            "original_text": "Hedge Funds Have Never Been This Bullish On BHP Billiton plc (BBL)",
+            "features": {
+                "keywords": [
+                    "Hedge Funds",
+                    "Bullish",
+                    "BHP Billiton",
+                    "BBL"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining",
+                    "commodities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Hedge Funds Have Never Been This Bullish On BHP Billiton plc (BBL)",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

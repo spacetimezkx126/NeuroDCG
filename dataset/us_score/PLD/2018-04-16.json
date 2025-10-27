@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2018-04-17",
+            "original_text": "Pre-Market Earnings Report for April 17, 2018: JNJ, UNH, GS, PGR, PLD, NTRS, CMA, OMC, MLNX, MBWM",
+            "features": {
+                "keywords": [
+                    "Earnings",
+                    "Pre-Market",
+                    "JNJ",
+                    "UNH",
+                    "GS"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "finance",
+                    "industrial"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 7,
+                "Duration": 3,
+                "Entity_Density": 10,
+                "Market_Scope": 6,
+                "Time_Proximity": 10,
+                "Headline_Structure": 4,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-04-17",
+            "original_text": "Shrug Off Rate Hike Fears, Industrial REITs Are Set to Grow",
+            "features": {
+                "keywords": [
+                    "Rate Hike",
+                    "Industrial REITs",
+                    "Grow"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "real estate"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 3,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

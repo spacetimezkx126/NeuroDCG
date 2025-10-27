@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-15",
+            "original_text": "Cross-Sector: Market Data Highlights",
+            "features": {
+                "keywords": [
+                    "Market",
+                    "Data",
+                    "Highlights"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "cross-sector"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 3,
+                "Duration": 10,
+                "Entity_Density": 3,
+                "Market_Scope": 10,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-15",
+            "original_text": "ExxonMobil, National Math and Science Initiative Expand Education Programs to Permian-Area Schools",
+            "features": {
+                "keywords": [
+                    "ExxonMobil",
+                    "National Math and Science Initiative",
+                    "Education Programs",
+                    "Permian-Area Schools"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "education"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 4,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

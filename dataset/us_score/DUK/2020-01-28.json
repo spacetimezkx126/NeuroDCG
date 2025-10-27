@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-10-15",
+            "original_text": "Updated: JEA CEO Aaron Zahn fired for cause",
+            "features": {
+                "keywords": [
+                    "JEA",
+                    "CEO",
+                    "fired",
+                    "cause"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 10,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-16",
+            "original_text": "Duke Energy to Build 2 New Solar Power Facilities in Florida",
+            "features": {
+                "keywords": [
+                    "Duke Energy",
+                    "Solar",
+                    "Power",
+                    "Facilities",
+                    "Florida"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "renewables"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

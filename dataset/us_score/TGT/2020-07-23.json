@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "2023-03-15",
+            "original_text": "Bed Bath & Beyond Inc. -- Moody's downgrades Bed Bath's CFR to Ba3; outlook remains negative",
+            "features": {
+                "keywords": [
+                    "Moody's",
+                    "downgrades",
+                    "CFR",
+                    "Ba3",
+                    "outlook",
+                    "negative"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Bed Bath & Beyond Inc. -- Moody's downgrades Bed Bath's CFR to Ba3; outlook remains negative",
+                "Correlation": 10,
+                "Sentiment": 2,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "Here’s why the toy industry will shake off the global pandemic",
+            "features": {
+                "keywords": [
+                    "toy industry",
+                    "global pandemic",
+                    "shake off"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "toys",
+                    "consumer goods"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Here’s why the toy industry will shake off the global pandemic",
+                "Correlation": 3,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

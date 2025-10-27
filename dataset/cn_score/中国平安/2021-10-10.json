@@ -1,0 +1,70 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中国平安紧急应对山西暴雨灾情 已接线上报案超2000起 最快12分钟结案",
+            "features": {
+                "keywords": [
+                    "中国平安",
+                    "山西暴雨",
+                    "灾情",
+                    "线上报案",
+                    "快速结案"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "保险"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "论卖出的艺术：会买的是徒弟，会卖的才是师父",
+            "features": {
+                "keywords": [
+                    "卖出",
+                    "投资艺术",
+                    "买卖策略"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 3,
+                "Importance": 4,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "2020-01-01",
+            "orginal_text": "中国新产业峰会在内蒙古包头市开幕",
+            "features": {
+                "keywords": [
+                    "新产业峰会",
+                    "内蒙古",
+                    "包头市"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新兴产业",
+                    "区域经济"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "original_text": "中国新产业峰会在内蒙古包头市开幕",
+            "scores": {
+                "News_content": "中国新产业峰会在内蒙古包头市开幕",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 1,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2020-01-02",
+            "orginal_text": "解密主力资金出逃股连续5日净流出635股",
+            "features": {
+                "keywords": [
+                    "主力资金",
+                    "出逃",
+                    "净流出"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "全市场"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "original_text": "解密主力资金出逃股连续5日净流出635股",
+            "scores": {
+                "News_content": "解密主力资金出逃股连续5日净流出635股",
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2020-01-03",
+            "orginal_text": "上周重点监测房企共拿地45宗 拿地金额较前一周有所下降",
+            "features": {
+                "keywords": [
+                    "房企",
+                    "拿地",
+                    "下降"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "房地产"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "original_text": "上周重点监测房企共拿地45宗 拿地金额较前一周有所下降",
+            "scores": {
+                "News_content": "上周重点监测房企共拿地45宗 拿地金额较前一周有所下降",
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

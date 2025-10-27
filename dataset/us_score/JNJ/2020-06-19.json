@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-10",
+            "original_text": "Morning Market Stats in 5 Minutes",
+            "features": {
+                "keywords": [
+                    "Morning",
+                    "Market",
+                    "Stats"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "general market"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 2,
+                "Duration": 1,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-10-10",
+            "original_text": "Johnson & Johnson drops skin-whitening creams",
+            "features": {
+                "keywords": [
+                    "Johnson & Johnson",
+                    "drops",
+                    "skin-whitening",
+                    "creams"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare",
+                    "consumer goods"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

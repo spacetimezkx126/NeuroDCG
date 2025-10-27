@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【每日金属资讯】博威合金一季度净利润增长38.47%、盛达资源因疫情影响一季度亏损、北方稀土2019年收入创历史新高",
+            "features": {
+                "keywords": [
+                    "博威合金",
+                    "净利润增长",
+                    "盛达资源",
+                    "疫情",
+                    "亏损",
+                    "北方稀土",
+                    "收入创新高"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金属",
+                    "稀土"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "【每日金属资讯】博威合金一季度净利润增长38.47%、盛达资源因疫情影响一季度亏损、北方稀土2019年收入创历史新高",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2020-04-24",
+            "original_text": "A股融资融券日报：两融余额减少69.89亿元（4月24日）",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "融资融券",
+                    "两融余额减少"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "A股融资融券日报：两融余额减少69.89亿元（4月24日）",
+                "Correlation": 7,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

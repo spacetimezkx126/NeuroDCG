@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "How The Dow Jones Industrial Average Changed Over The Past Decade",
+            "features": {
+                "keywords": [
+                    "Dow Jones",
+                    "Industrial Average",
+                    "Changed",
+                    "Past Decade"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "industrial",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "How The Dow Jones Industrial Average Changed Over The Past Decade",
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 7,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Stock Picking Is Hard. Deciding What Kind of Investor You Are Is the First Step.",
+            "features": {
+                "keywords": [
+                    "Stock Picking",
+                    "Hard",
+                    "Investor",
+                    "First Step"
+                ],
+                "sentiment_score": -0.2,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Stock Picking Is Hard. Deciding What Kind of Investor You Are Is the First Step.",
+                "Correlation": 2,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 5,
+                "Entity_Density": 1,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

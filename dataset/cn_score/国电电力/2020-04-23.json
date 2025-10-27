@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "截 至 一 季 度  国 电 电 力 控 股 风 电 装 机  6 1 5 . 6 1 万 千 瓦",
+            "features": {
+                "keywords": [
+                    "国电电力",
+                    "风电装机",
+                    "一季度"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "风电"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "截 至 一 季 度 国 电 电 力 控 股 风 电 装 机 6 1 5 . 6 1 万 千 瓦",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "国 电 电 力 ： 一 季 度 火 电 发 电 减 少 1 3 . 9 9 %  水 电 发 电 减 少 4 . 6 3 %",
+            "features": {
+                "keywords": [
+                    "国电电力",
+                    "火电发电",
+                    "水电发电",
+                    "一季度",
+                    "减少"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "火电",
+                    "水电"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "国 电 电 力 ： 一 季 度 火 电 发 电 减 少 1 3 . 9 9 % 水 电 发 电 减 少 4 . 6 3 %",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

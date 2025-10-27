@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2019-01-22",
+            "original_text": "中银国际*每日速递20190122：策略周报；油服；航天信息深度、洲明科技、上海银行、千禾味业、帝欧家居；首席周观点等",
+            "features": {
+                "keywords": [
+                    "策略周报",
+                    "油服",
+                    "航天信息",
+                    "洲明科技",
+                    "上海银行",
+                    "千禾味业",
+                    "帝欧家居",
+                    "首席周观点"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "科技",
+                    "消费"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2019-01-22",
+            "original_text": "新能源汽车行业动态跟踪第166期:深圳设立动力电池回收补贴",
+            "features": {
+                "keywords": [
+                    "新能源汽车",
+                    "动力电池",
+                    "回收补贴"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 4,
+                "Importance": 5,
+                "Impact": 7,
+                "Duration": 9,
+                "Entity_Density": 3,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

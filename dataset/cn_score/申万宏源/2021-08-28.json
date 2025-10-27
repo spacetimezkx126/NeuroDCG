@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "申万宏源净利润45亿元，自营、经纪业务贡献了八成收入，买入宁德时代获利7个亿，跨境业务规模增长3倍",
+            "features": {
+                "keywords": [
+                    "申万宏源",
+                    "净利润",
+                    "自营",
+                    "经纪业务",
+                    "宁德时代",
+                    "跨境业务"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "新能源"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "申万宏源净利润45亿元，自营、经纪业务贡献了八成收入，买入宁德时代获利7个亿，跨境业务规模增长3倍",
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "申万宏源：上半年机构服务及交易业务收入同比增超30%",
+            "features": {
+                "keywords": [
+                    "申万宏源",
+                    "机构服务",
+                    "交易业务",
+                    "收入增长"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

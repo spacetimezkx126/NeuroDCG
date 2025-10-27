@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2021-09-13",
+            "original_text": "A股早报2021年9月13日星期一",
+            "features": {
+                "keywords": [
+                    "A股",
+                    "早报",
+                    "9月13日"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "A股早报2021年9月13日星期一",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2021-09-13",
+            "original_text": "传媒互联网中报回顾暨9月投资策略：板块业绩触底向上 关注超跌且具备主题催化的游戏板块",
+            "features": {
+                "keywords": [
+                    "传媒",
+                    "互联网",
+                    "中报",
+                    "投资策略",
+                    "板块业绩",
+                    "触底向上",
+                    "超跌",
+                    "主题催化",
+                    "游戏板块"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "传媒",
+                    "互联网",
+                    "游戏"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "传媒互联网中报回顾暨9月投资策略：板块业绩触底向上 关注超跌且具备主题催化的游戏板块",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

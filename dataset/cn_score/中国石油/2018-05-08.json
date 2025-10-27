@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中国石油首登三沙",
+            "features": {
+                "keywords": [
+                    "中国石油",
+                    "三沙"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "能源",
+                    "石油"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "中国石油首登三沙",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 10,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "[增持评级]大炼化聚酯产业链周报：下游坯布景气维持 产业链持续受益",
+            "features": {
+                "keywords": [
+                    "大炼化",
+                    "聚酯产业链",
+                    "下游坯布",
+                    "景气维持",
+                    "产业链受益"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "化工",
+                    "纺织"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "[增持评级]大炼化聚酯产业链周报：下游坯布景气维持 产业链持续受益",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "化工行业:化工景气指数转负,甲烷氯化物、DMC上涨",
+            "features": {
+                "keywords": [
+                    "化工行业",
+                    "景气指数",
+                    "甲烷氯化物",
+                    "DMC",
+                    "上涨"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "化工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "化工行业:化工景气指数转负,甲烷氯化物、DMC上涨",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

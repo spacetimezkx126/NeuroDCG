@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中国化学三公司与英科医疗签订战略合作协议",
+            "features": {
+                "keywords": [
+                    "中国化学",
+                    "英科医疗",
+                    "战略合作协议"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "化工",
+                    "医疗"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "中国化学三公司与英科医疗签订战略合作协议",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "口罩板块延续低迷，英科医疗跌超9%",
+            "features": {
+                "keywords": [
+                    "口罩板块",
+                    "英科医疗",
+                    "低迷",
+                    "跌超9%"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医疗"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "口罩板块延续低迷，英科医疗跌超9%",
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 9,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

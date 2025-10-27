@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【安信有色】2019Q2基金公司有色持仓分析: 有色整体持仓提升，黄金板块显著增仓，锂电材料继续降仓",
+            "features": {
+                "keywords": [
+                    "安信有色",
+                    "2019Q2",
+                    "基金公司",
+                    "有色",
+                    "黄金板块",
+                    "锂电材料"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "有色金属",
+                    "黄金",
+                    "锂电材料"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 8,
+                "Time_Proximity": 4,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "机构无悔做多中信出版  游资追涨东晶电子",
+            "features": {
+                "keywords": [
+                    "机构",
+                    "做多",
+                    "中信出版",
+                    "游资",
+                    "追涨",
+                    "东晶电子"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "出版",
+                    "电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 7,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

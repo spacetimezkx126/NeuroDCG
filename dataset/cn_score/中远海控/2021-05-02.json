@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "行业巨头惊曝业绩变脸，预盈1亿变巨亏超33亿，盈利能力下降",
+            "features": {
+                "keywords": [
+                    "行业巨头",
+                    "业绩变脸",
+                    "预盈1亿",
+                    "巨亏超33亿",
+                    "盈利能力下降"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "行业巨头",
+                    "盈利能力"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "行业巨头惊曝业绩变脸，预盈1亿变巨亏超33亿，盈利能力下降",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 10,
+                "Impact": 9,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "",
+            "original_text": "外资重金押注锂电池龙头，业绩持续爆发股仅31只",
+            "features": {
+                "keywords": [
+                    "外资",
+                    "锂电池龙头",
+                    "业绩持续爆发",
+                    "31只"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "锂电池",
+                    "龙头股"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "外资重金押注锂电池龙头，业绩持续爆发股仅31只",
+                "Correlation": 8,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

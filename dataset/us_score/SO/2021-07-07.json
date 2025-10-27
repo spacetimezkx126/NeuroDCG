@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "2021-07-08",
+            "original_text": "Georgia Power mobilizes crews to assist in restoration efforts as Tropical Storm Elsa starts to move across the state",
+            "features": {
+                "keywords": [
+                    "Georgia Power",
+                    "Tropical Storm Elsa",
+                    "restoration efforts"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "utilities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 3,
+                "Duration": 7,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 9,
+                "Headline_Structure": 5,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2021-07-08",
+            "original_text": "Coal Shows Its Staying Power as Economies Bounce Back",
+            "features": {
+                "keywords": [
+                    "Coal",
+                    "staying power",
+                    "economies bounce back"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy",
+                    "commodities"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 9,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "一年有2个月零成交 广州农商行“回A”心切",
+            "features": {
+                "keywords": [
+                    "广州农商行",
+                    "回A",
+                    "零成交"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 10,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 3,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "",
+            "original_text": "银行纷纷西进掘金，又多一家股份行入驻贵州，9家上市股份行入黔各有打法",
+            "features": {
+                "keywords": [
+                    "银行",
+                    "西进",
+                    "掘金",
+                    "贵州",
+                    "上市股份行"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

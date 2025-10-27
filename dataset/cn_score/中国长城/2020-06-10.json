@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "中国长城（天津）自主创新基地项目落户滨海高新区",
+            "features": {
+                "keywords": [
+                    "中国长城",
+                    "天津",
+                    "自主创新",
+                    "基地",
+                    "滨海高新区"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "硬件制造"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "计算机行业周报：精选层转板细则推出 金融IT加速发展",
+            "features": {
+                "keywords": [
+                    "计算机行业",
+                    "精选层",
+                    "转板细则",
+                    "金融IT",
+                    "加速发展"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "信息技术",
+                    "金融服务"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 2,
+                "Market_Scope": 10,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

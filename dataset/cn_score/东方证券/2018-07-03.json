@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "东方证券今日大宗交易成交104.83万股，成交价8.04元折价10.27%",
+            "features": {
+                "keywords": [
+                    "东方证券",
+                    "大宗交易",
+                    "成交",
+                    "折价"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 8,
+                "Market_Scope": 2,
+                "Time_Proximity": 10,
+                "Headline_Structure": 5,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

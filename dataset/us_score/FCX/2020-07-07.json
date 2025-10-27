@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Were Hedge Funds Right About Dumping Freeport-McMoRan Inc. (FCX)?",
+            "features": {
+                "keywords": [
+                    "Hedge Funds",
+                    "Dumping",
+                    "Freeport-McMoRan",
+                    "FCX"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 9,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Here's Why Freeport-McMoRan (FCX) is a Great Momentum Stock to Buy",
+            "features": {
+                "keywords": [
+                    "Freeport-McMoRan",
+                    "FCX",
+                    "Momentum",
+                    "Stock",
+                    "Buy"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "mining",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 9,
+                "Importance": 7,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Freeport (FCX) Issues Q2 Operational and Financial Update",
+            "features": {
+                "keywords": [
+                    "Freeport",
+                    "FCX",
+                    "Q2",
+                    "Operational",
+                    "Financial",
+                    "Update"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 9,
+                "Duration": 7,
+                "Entity_Density": 10,
+                "Market_Scope": 5,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

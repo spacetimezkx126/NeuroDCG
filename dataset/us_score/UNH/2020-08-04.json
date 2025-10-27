@@ -1,0 +1,111 @@
+[
+    [
+        {
+            "time": "2018-01-02",
+            "original_text": "UnitedHealth Group Inc. stock rises Tuesday, still underperforms market",
+            "features": {
+                "keywords": [
+                    "UnitedHealth",
+                    "stock rises",
+                    "underperforms market"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "UnitedHealth Group Inc. stock rises Tuesday, still underperforms market",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 6,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Top Analyst Reports for UnitedHealth, Comcast & Exxon Mobil",
+            "features": {
+                "keywords": [
+                    "Analyst Reports",
+                    "UnitedHealth",
+                    "Comcast",
+                    "Exxon Mobil"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "healthcare",
+                    "telecommunications",
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Top Analyst Reports for UnitedHealth, Comcast & Exxon Mobil",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-01-02",
+            "original_text": "Optum Commits $1 Million in Pro Bono Services to Address Local Health and Wellness Needs in Partnership with John Muir Health",
+            "features": {
+                "keywords": [
+                    "Optum",
+                    "Pro Bono Services",
+                    "Local Health",
+                    "Wellness Needs",
+                    "John Muir Health"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "healthcare"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Optum Commits $1 Million in Pro Bono Services to Address Local Health and Wellness Needs in Partnership with John Muir Health",
+                "Correlation": 7,
+                "Sentiment": 8,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

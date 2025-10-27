@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "2023-03-15",
+            "original_text": "Is the Expectation of a Special Dividend Driving Costco Stock?",
+            "features": {
+                "keywords": [
+                    "special dividend",
+                    "Costco",
+                    "stock"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Is the Expectation of a Special Dividend Driving Costco Stock?",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2023-03-15",
+            "original_text": "UPDATE 3-U.S. House passes bill to raise federal minimum wage to $15 an hour",
+            "features": {
+                "keywords": [
+                    "U.S. House",
+                    "federal minimum wage",
+                    "$15",
+                    "hour"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "labor",
+                    "economy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "UPDATE 3-U.S. House passes bill to raise federal minimum wage to $15 an hour",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 9
+            }
+        }
+    ]
+]

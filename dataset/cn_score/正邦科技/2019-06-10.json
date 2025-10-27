@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "猪，肉，股，持续，回调，，券商：生猪，价格，上涨，节点，渐行渐近",
+            "features": {
+                "keywords": [
+                    "猪肉股",
+                    "持续回调",
+                    "生猪价格",
+                    "上涨节点"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "农业",
+                    "食品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "猪，肉，股，持续，回调，，券商：生猪，价格，上涨，节点，渐行近",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

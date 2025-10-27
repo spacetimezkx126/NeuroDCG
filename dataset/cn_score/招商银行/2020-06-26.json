@@ -1,0 +1,114 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "这家最年轻股份行上市在即 除天津国资 股东还有渣打、宝武、泛海",
+            "features": {
+                "keywords": [
+                    "最年轻股份行",
+                    "上市",
+                    "天津国资",
+                    "渣打",
+                    "宝武",
+                    "泛海"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "",
+            "original_text": "惊天诈骗案！民生招广发被骗5.6亿 客户经理被判 欺诈造假",
+            "features": {
+                "keywords": [
+                    "诈骗案",
+                    "民生银行",
+                    "招商银行",
+                    "广发银行",
+                    "5.6亿",
+                    "客户经理",
+                    "欺诈造假"
+                ],
+                "sentiment_score": -0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "惊天诈骗案！民生招广发被骗5.6亿 客户经理被判 欺诈造假",
+                "Correlation": 9,
+                "Sentiment": 2,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "多个违法私募被注销，投资前须看清伪私募套路！ 其他违规处罚",
+            "features": {
+                "keywords": [
+                    "违法私募",
+                    "注销",
+                    "伪私募",
+                    "套路",
+                    "违规处罚"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "投资"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 4,
+                "Headline_Structure": 8,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

@@ -1,0 +1,426 @@
+[
+    [
+        {
+            "time": "2018-11-19",
+            "original_text": "['10', 'Blue-Chip', 'Stocks', 'to', 'Buy', 'Ahead', 'of', 'Black', 'Friday']",
+            "features": {
+                "keywords": [
+                    "Blue-Chip",
+                    "Stocks",
+                    "Buy",
+                    "Black Friday"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "10 Blue-Chip Stocks to Buy Ahead of Black Friday",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-11-19",
+            "original_text": "['Amazon', 'Offers', 'Free', 'Shipping', 'for', 'Everyone', '—', 'Is', 'It', 'Enough?']",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "Free Shipping",
+                    "Holiday"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "e-commerce"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Amazon Offers Free Shipping for Everyone — Is It Enough?",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-11-19",
+            "original_text": "['Amazon', 'drops', 'free-shipping', 'minimum', 'in', 'race', 'for', 'holiday', 'sales']",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "Free Shipping",
+                    "Holiday Sales"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "e-commerce"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Amazon drops free-shipping minimum in race for holiday sales",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-11-19",
+            "original_text": "['Midterm', 'election', 'aftermath:', '3', 'things', 'investors', 'should', 'expect', 'if', 'Democrats', 'take', 'the', 'House']",
+            "features": {
+                "keywords": [
+                    "Midterm Election",
+                    "Investors",
+                    "Democrats",
+                    "House"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "politics",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Midterm election aftermath: 3 things investors should expect if Democrats take the House",
+                "Correlation": 5,
+                "Sentiment": 5,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 8,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-11-19",
+            "original_text": "['Target', '(TGT)', 'is', 'a', 'Top', 'Dividend', 'Stock', 'Right', 'Now:', 'Should', 'You', 'Buy?']",
+            "features": {
+                "keywords": [
+                    "Target",
+                    "Dividend Stock",
+                    "Buy"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail",
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Target (TGT) is a Top Dividend Stock Right Now: Should You Buy?",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-11-19",
+            "original_text": "['TGT', 'vs.', 'ROST:', 'Which', 'Stock', 'Is', 'the', 'Better', 'Value', 'Option?']",
+            "features": {
+                "keywords": [
+                    "TGT",
+                    "ROST",
+                    "Stock",
+                    "Value"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "retail",
+                    "finance"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "TGT vs. ROST: Which Stock Is the Better Value Option?",
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-11-19",
+            "original_text": "['Amazon', 'reportedly', 'eyeing', 'Virginia', 'for', 'HQ2']",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "HQ2",
+                    "Virginia"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "e-commerce",
+                    "real estate"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Amazon reportedly eyeing Virginia for HQ2",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-11-19",
+            "original_text": "['Celebrity', 'hairstylist', 'Kristin', 'Ess', 'expands', 'Target', 'line']",
+            "features": {
+                "keywords": [
+                    "Celebrity",
+                    "Hairstylist",
+                    "Target",
+                    "Line"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail",
+                    "consumer goods"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Celebrity hairstylist Kristin Ess expands Target line",
+                "Correlation": 6,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 4,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-11-19",
+            "original_text": "['[$$]', 'Amazon', 'Offering', 'Free', 'Shipping', 'on', 'Holiday', 'Orders']",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "Free Shipping",
+                    "Holiday Orders"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "e-commerce"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "$$ Amazon Offering Free Shipping on Holiday Orders",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-11-19",
+            "original_text": "['Amazon,', 'like', 'Target,', 'offering', 'free', 'shipping', 'to', 'all', 'U.S.', 'customers', 'with', 'no', 'minimum', 'purchase']",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "Target",
+                    "Free Shipping",
+                    "No Minimum Purchase"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "e-commerce",
+                    "retail"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Amazon, like Target, offering free shipping to all U.S. customers with no minimum purchase",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-11-19",
+            "original_text": "['Target', 'launching', '‘Skip-the-Line’', 'checkout', 'technology,', 'will', 'open', 'at', '5', 'p.m.', 'on', 'Thanksgiving']",
+            "features": {
+                "keywords": [
+                    "Target",
+                    "Skip-the-Line",
+                    "Checkout Technology",
+                    "Thanksgiving"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "retail",
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "News_content": "Target launching ‘Skip-the-Line’ checkout technology, will open at 5 p.m. on Thanksgiving",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-11-19",
+            "original_text": "['Amazon', 'Offers', 'Free', 'Shipping', 'With', 'No', 'Minimum', 'Purchase']",
+            "features": {
+                "keywords": [
+                    "Amazon",
+                    "Free Shipping",
+                    "No Minimum Purchase"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "e-commerce"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "Amazon Offers Free Shipping With No Minimum Purchase",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

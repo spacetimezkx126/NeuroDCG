@@ -1,0 +1,80 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "[买 入 评 级] 有 色 金 属 行 业 周 报 ： 避 险 推 升 黄 金  政 策 提 振 稀 土",
+            "features": {
+                "keywords": [
+                    "有色金属",
+                    "避险",
+                    "黄金",
+                    "政策",
+                    "稀土"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "有色金属",
+                    "黄金",
+                    "稀土"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "[买 入 评 级] 有 色 金 属 行 业 周 报 ： 避 险 推 升 黄 金  政 策 提 振 稀 土",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 5,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "[强 于 大 市 评 级] 小 金 属 行 业 周 报 ： 9 月 新 能 源 车 产 销 旺 盛  钒 价 继 续 大 涨",
+            "features": {
+                "keywords": [
+                    "小金属",
+                    "新能源车",
+                    "产销旺盛",
+                    "钒价",
+                    "继续大涨"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "小金属",
+                    "新能源车",
+                    "钒"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "[强 于 大 市 评 级] 小 金 属 行 业 周 报 ： 9 月 新 能 源 车 产 销 旺 盛  钒 价 继 续 大 涨",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 6,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

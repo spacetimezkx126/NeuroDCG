@@ -1,0 +1,112 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "市场消息：印度批准了16项与生产相关的激励措施，三星、富士康、鸿海的提案在印度获批",
+            "features": {
+                "keywords": [
+                    "印度",
+                    "生产相关",
+                    "激励措施",
+                    "三星",
+                    "富士康",
+                    "鸿海"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "制造业",
+                    "电子产品"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "市场消息：印度批准了16项与生产相关的激励措施，三星、富士康、鸿海的提案在印度获批",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 6,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 6,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "苹果代工另有其人！富士康惨遭冷遇，郭台铭后悔了？",
+            "features": {
+                "keywords": [
+                    "苹果",
+                    "富士康",
+                    "郭台铭"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "消费电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "苹果代工另有其人！富士康惨遭冷遇，郭台铭后悔了？",
+                "Correlation": 9,
+                "Sentiment": 4,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "芯片制造商 Hailo 推新一代 AI 加速模组，已与富士康合作、应用",
+            "features": {
+                "keywords": [
+                    "Hailo",
+                    "AI加速模组",
+                    "富士康",
+                    "芯片制造"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "半导体",
+                    "人工智能"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "芯片制造商 Hailo 推新一代 AI 加速模组，已与富士康合作、应用",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

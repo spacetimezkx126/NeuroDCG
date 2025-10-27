@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "工业综合：国防军工周报",
+            "features": {
+                "keywords": [
+                    "工业综合",
+                    "国防军工"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "国防军工"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 2,
+                "Market_Scope": 8,
+                "Time_Proximity": 1,
+                "Headline_Structure": 5,
+                "Source_Recency": 1
+            }
+        },
+        {
+            "time": "",
+            "original_text": "[买入评级]电子行业周报：三大存储项目积极利好国内半导体设备行业;建议布局确定性高的消费电子标的",
+            "features": {
+                "keywords": [
+                    "买入评级",
+                    "电子行业",
+                    "存储项目",
+                    "半导体设备",
+                    "消费电子"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "半导体",
+                    "消费电子"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 10,
+                "Time_Proximity": 3,
+                "Headline_Structure": 7,
+                "Source_Recency": 1
+            }
+        }
+    ]
+]

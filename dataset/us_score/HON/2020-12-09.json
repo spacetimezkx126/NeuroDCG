@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Prince George's County Ed. & Comm. Partners -- Moody's assigns A2 rating to Prince George's County Education & Community Partners, LLC's $476 million senior secured notes; outlook stable",
+            "features": {
+                "keywords": [
+                    "Moody's",
+                    "A2 rating",
+                    "senior secured notes",
+                    "outlook stable",
+                    "Prince George's County"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "education",
+                    "community development"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 5,
+                "Duration": 9,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 10,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "14 Largest Engineering Companies In The World",
+            "features": {
+                "keywords": [
+                    "largest engineering companies",
+                    "world"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "engineering"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 3,
+                "Duration": 7,
+                "Entity_Density": 2,
+                "Market_Scope": 9,
+                "Time_Proximity": 8,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

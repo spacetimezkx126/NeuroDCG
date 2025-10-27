@@ -1,0 +1,110 @@
+[
+    [
+        {
+            "time": "2023-10-18",
+            "original_text": "INSIGHT-To go electric, America needs more mines. Can it build them?",
+            "features": {
+                "keywords": [
+                    "electric",
+                    "mines",
+                    "America"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy",
+                    "mining"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 9,
+                "Entity_Density": 3,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 5
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "UPDATE 3-U.S. Forest Service blocks land swap for Rio Tinto's Arizona copper mine",
+            "features": {
+                "keywords": [
+                    "Forest Service",
+                    "blocks",
+                    "Rio Tinto",
+                    "copper mine"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "mining",
+                    "metals"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 4
+            }
+        },
+        {
+            "time": "2023-10-18",
+            "original_text": "IBD Screen Of The Day: Stocks To Buy And Watch Include Celsius, InMode, Rio Tinto",
+            "features": {
+                "keywords": [
+                    "Stocks",
+                    "Buy",
+                    "Celsius",
+                    "InMode",
+                    "Rio Tinto"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "stocks",
+                    "healthcare",
+                    "mining"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

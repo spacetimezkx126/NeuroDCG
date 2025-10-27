@@ -1,0 +1,408 @@
+[
+    [
+        {
+            "time": "2018-09-15",
+            "original_text": "['‘’Catastrophic', 'Flooding’’, 'Threatens', 'Heart', 'Of', 'Texas', 'Oil', 'Industry']",
+            "features": {
+                "keywords": [
+                    "Catastrophic",
+                    "Flooding",
+                    "Texas",
+                    "Oil"
+                ],
+                "sentiment_score": -0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "'Catastrophic', 'Flooding’, 'Threatens', 'Heart', 'Of', 'Texas', 'Oil', 'Industry'",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-09-16",
+            "original_text": "['Crude', 'Prices', 'Drop', 'Amid', 'Surprise', 'Growth', 'in', 'U.S.', 'Stockpiles']",
+            "features": {
+                "keywords": [
+                    "Crude",
+                    "Prices",
+                    "Drop",
+                    "Stockpiles"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "'Crude', 'Prices', 'Drop', 'Amid', 'Surprise', 'Growth', 'in', 'U.S.', 'Stockpiles'",
+                "Correlation": 10,
+                "Sentiment": 4,
+                "Importance": 9,
+                "Impact": 9,
+                "Duration": 6,
+                "Entity_Density": 6,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2018-09-17",
+            "original_text": "['ExxonMobil', 'and', 'Chevron:', 'Upstream', 'Portfolio', 'Positioning']",
+            "features": {
+                "keywords": [
+                    "ExxonMobil",
+                    "Chevron",
+                    "Upstream",
+                    "Portfolio"
+                ],
+                "sentiment_score": 0.4,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "'ExxonMobil', 'and', 'Chevron:', 'Upstream', 'Portfolio', 'Positioning'",
+                "Correlation": 8,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-09-18",
+            "original_text": "['Gasoline', 'futures', 'rally', 'as', 'tropical', 'storm', 'floods', 'Texas;', 'U.S.', 'oil', 'prices', 'nearly', 'erase', 'the', 'day’s', 'gain']",
+            "features": {
+                "keywords": [
+                    "Gasoline",
+                    "futures",
+                    "rally",
+                    "tropical",
+                    "storm",
+                    "Texas",
+                    "oil",
+                    "prices"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "'Gasoline', 'futures', 'rally', 'as', 'tropical', 'storm', 'floods', 'Texas;', 'U.S.', 'oil', 'prices', 'nearly', 'erase', 'the', 'day’s', 'gain'",
+                "Correlation": 9,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 8,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-09-19",
+            "original_text": "['Oil', 'outlook', 'as', 'Saudia', 'Arabia', 'faces', 'supply', 'chain', 'scrutiny']",
+            "features": {
+                "keywords": [
+                    "Oil",
+                    "outlook",
+                    "Saudia",
+                    "Arabia",
+                    "supply",
+                    "chain",
+                    "scrutiny"
+                ],
+                "sentiment_score": -0.5,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "'Oil', 'outlook', 'as', 'Saudia', 'Arabia', 'faces', 'supply', 'chain', 'scrutiny'",
+                "Correlation": 8,
+                "Sentiment": 4,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 7,
+                "Entity_Density": 5,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-09-20",
+            "original_text": "['Stock', 'Investors:', 'Do', 'You', 'Need', 'a', 'Late', 'Cycle', 'Plan?']",
+            "features": {
+                "keywords": [
+                    "Stock",
+                    "Investors",
+                    "Late",
+                    "Cycle",
+                    "Plan"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "'Stock', 'Investors:', 'Do', 'You', 'Need', 'a', 'Late', 'Cycle', 'Plan?'",
+                "Correlation": 5,
+                "Sentiment": 6,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 3,
+                "Market_Scope": 4,
+                "Time_Proximity": 6,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-09-21",
+            "original_text": "['3', 'Energy', 'Stocks', 'to', 'Trade', 'After', 'the', 'Saudi', 'Arabia', 'Strikes']",
+            "features": {
+                "keywords": [
+                    "Energy",
+                    "Stocks",
+                    "Saudi",
+                    "Arabia",
+                    "Strikes"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "'3', 'Energy', 'Stocks', 'to', 'Trade', 'After', 'the', 'Saudi', 'Arabia', 'Strikes'",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-09-22",
+            "original_text": "[\"ExxonMobil's\", 'Australia', 'Bass', 'Strait', 'Assets', 'Up', 'for', 'Sale', 'Again']",
+            "features": {
+                "keywords": [
+                    "ExxonMobil",
+                    "Australia",
+                    "Bass",
+                    "Strait",
+                    "Assets",
+                    "Sale"
+                ],
+                "sentiment_score": 0.3,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "ExxonMobil's Australia Bass Strait Assets Up for Sale Again",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-09-23",
+            "original_text": "['Outlook', 'for', 'Oil', '&', 'Gas', 'Integrated', 'International', 'Industry', 'Bleak']",
+            "features": {
+                "keywords": [
+                    "Outlook",
+                    "Oil",
+                    "Gas",
+                    "Integrated",
+                    "International",
+                    "Industry",
+                    "Bleak"
+                ],
+                "sentiment_score": -0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "'Outlook', 'for', 'Oil', '&', 'Gas', 'Integrated', 'International', 'Industry', 'Bleak'",
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2018-09-24",
+            "original_text": "[\"India's\", 'Modi', 'to', 'meet', 'BP,', 'Exxon', 'executives', 'to', 'discuss', 'investment', 'opportunities']",
+            "features": {
+                "keywords": [
+                    "India",
+                    "Modi",
+                    "BP",
+                    "Exxon",
+                    "executives",
+                    "investment",
+                    "opportunities"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "India's Modi to meet BP, Exxon executives to discuss investment opportunities",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "2018-09-25",
+            "original_text": "['BP', 'and', 'Exxon', 'Make', 'Green', 'Canyon', 'Deals', 'with', 'Talos']",
+            "features": {
+                "keywords": [
+                    "BP",
+                    "Exxon",
+                    "Green",
+                    "Canyon",
+                    "Deals",
+                    "Talos"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "false",
+                "causal_impact": "none",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "'BP', 'and', 'Exxon', 'Make', 'Green', 'Canyon', 'Deals', 'with', 'Talos'",
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

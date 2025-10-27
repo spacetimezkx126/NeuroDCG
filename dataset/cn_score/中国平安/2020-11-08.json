@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "2023-11-05",
+            "original_text": "利率上行、健康险需求持续释放，助推保险估值恢复",
+            "features": {
+                "keywords": [
+                    "利率上行",
+                    "健康险",
+                    "需求释放",
+                    "保险估值"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "保险",
+                    "金融"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2023-11-05",
+            "original_text": "【兴业金融】非银周报（11.02-11.08）: 新重疾定义落地，退市机制改革将推出",
+            "features": {
+                "keywords": [
+                    "新重疾定义",
+                    "退市机制",
+                    "改革",
+                    "非银"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "保险"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "【兴业金融】非银周报（11.02-11.08）: 新重疾定义落地，退市机制改革将推出",
+                "Correlation": 7,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

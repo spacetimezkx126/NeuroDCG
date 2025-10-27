@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "【东吴电新曾朵红团队】汇川技术：业绩快报略超预期，通用自动化强阿尔法，期待乘用车发力",
+            "features": {
+                "keywords": [
+                    "汇川技术",
+                    "业绩快报",
+                    "略超预期",
+                    "通用自动化",
+                    "强阿尔法",
+                    "乘用车"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "工业自动化",
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 4,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "",
+            "original_text": "汇川技术：2018年净利润同比增9.97%（快报）",
+            "features": {
+                "keywords": [
+                    "汇川技术",
+                    "2018年",
+                    "净利润",
+                    "同比增9.97%"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "工业自动化"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 7,
+                "Market_Scope": 3,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

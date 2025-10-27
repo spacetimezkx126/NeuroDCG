@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "A股午盘综述：上证指数半日缩量升0.45%，光伏、风电、汽车股领涨",
+            "features": {
+                "keywords": [
+                    "上证指数",
+                    "缩量升",
+                    "光伏",
+                    "风电",
+                    "汽车股"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "光伏",
+                    "风电",
+                    "汽车"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "A股午盘综述：上证指数半日缩量升0.45%，光伏、风电、汽车股领涨",
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 5,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 10
+            }
+        },
+        {
+            "time": "",
+            "original_text": "新冠肺炎检测板块走升，三诺生物涨超11%",
+            "features": {
+                "keywords": [
+                    "新冠肺炎检测",
+                    "三诺生物",
+                    "涨超11%"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医疗",
+                    "生物科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "新冠肺炎检测板块走升，三诺生物涨超11%",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 7,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 8,
+                "Source_Recency": 10
+            }
+        }
+    ]
+]

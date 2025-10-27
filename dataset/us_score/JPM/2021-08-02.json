@@ -1,0 +1,103 @@
+[
+    [
+        {
+            "time": "2021-07-01",
+            "original_text": "ATTENTION NORTHSTAR FINANCIAL SERVICES (BERMUDA) INVESTORS: The Securities Arbitration Law Firm of KlaymanToskes Commences Investigation of Potential Claims on Behalf of J.P. MORGAN SECURITIES CUSTOMERS",
+            "features": {
+                "keywords": [
+                    "Investigation",
+                    "Potential Claims",
+                    "J.P. Morgan Securities"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 2,
+                "Entity_Density": 10,
+                "Market_Scope": 3,
+                "Time_Proximity": 8,
+                "Headline_Structure": 8,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-08-05",
+            "original_text": "JPMorgan Chase Files Form 10-Q for the Quarter Ended June 30, 2021",
+            "features": {
+                "keywords": [
+                    "Form 10-Q",
+                    "Quarterly Report",
+                    "JPMorgan Chase"
+                ],
+                "sentiment_score": 0.2,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "finance"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 4,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 2,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2021-07-02",
+            "original_text": "Education sector will boost July jobs gain to 900,000: JPMorgan",
+            "features": {
+                "keywords": [
+                    "Education sector",
+                    "Jobs gain",
+                    "JPMorgan"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "education"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 6,
+                "Headline_Structure": 4,
+                "Source_Recency": 5
+            }
+        }
+    ]
+]

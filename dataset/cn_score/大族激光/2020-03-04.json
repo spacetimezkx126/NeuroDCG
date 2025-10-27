@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "大族激光(002008.SZ)：控股股东质押1010万股",
+            "features": {
+                "keywords": [
+                    "大族激光",
+                    "控股股东",
+                    "质押",
+                    "1010万股"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "制造业",
+                    "激光设备"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 3,
+                "Importance": 7,
+                "Impact": 6,
+                "Duration": 3,
+                "Entity_Density": 9,
+                "Market_Scope": 4,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "",
+            "original_text": "【兴业策略|行业比较】“核心资产50/100”组合标的的调整（王德伦、张兆）",
+            "features": {
+                "keywords": [
+                    "兴业策略",
+                    "核心资产",
+                    "组合标的",
+                    "调整"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "多行业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "【兴业策略|行业比较】“核心资产50/100”组合标的的调整（王德伦、张兆）",
+                "Correlation": 7,
+                "Sentiment": 5,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 9,
+                "Time_Proximity": 6,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

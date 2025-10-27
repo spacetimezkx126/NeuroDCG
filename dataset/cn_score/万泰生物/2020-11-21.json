@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "深夜突发！上海新增2例本土确诊病例 全球疫情反弹凶猛 美国多家医院超负荷 疫苗接种有望12月获批！",
+            "features": {
+                "keywords": [
+                    "上海",
+                    "本土确诊病例",
+                    "全球疫情",
+                    "美国医院超负荷",
+                    "疫苗接种",
+                    "12月获批"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "医疗",
+                    "生物科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 3,
+                "Importance": 9,
+                "Impact": 7,
+                "Duration": 10,
+                "Entity_Density": 3,
+                "Market_Scope": 8,
+                "Time_Proximity": 9,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "万泰生物变更1.5亿募集资金用途 首发近四分之三资金投向HPV疫苗",
+            "features": {
+                "keywords": [
+                    "万泰生物",
+                    "募集资金",
+                    "HPV疫苗"
+                ],
+                "sentiment_score": 0.7,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "生物科技",
+                    "医药"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 7,
+                "Impact": 5,
+                "Duration": 8,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 7,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

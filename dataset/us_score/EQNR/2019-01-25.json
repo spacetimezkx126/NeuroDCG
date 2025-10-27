@@ -1,0 +1,77 @@
+[
+    [
+        {
+            "time": "2023-10-01",
+            "original_text": "Energy Majors Queuing for Stakes in Qatar's LNG Expansion",
+            "features": {
+                "keywords": [
+                    "Energy",
+                    "Majors",
+                    "Qatar",
+                    "LNG",
+                    "Expansion"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "none"
+            },
+            "scores": {
+                "News_content": "Energy Majors Queuing for Stakes in Qatar's LNG Expansion",
+                "Correlation": 9,
+                "Sentiment": 8,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 8,
+                "Entity_Density": 7,
+                "Market_Scope": 8,
+                "Time_Proximity": 7,
+                "Headline_Structure": 8,
+                "Source_Recency": 9
+            }
+        },
+        {
+            "time": "2023-10-01",
+            "original_text": "Norway Labor Lawmaker Says He’s Open to Debate on Oil Policy",
+            "features": {
+                "keywords": [
+                    "Norway",
+                    "Labor",
+                    "Lawmaker",
+                    "Debate",
+                    "Oil",
+                    "Policy"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "energy"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "Norway Labor Lawmaker Says He’s Open to Debate on Oil Policy",
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

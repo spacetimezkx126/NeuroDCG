@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "光谷生物城：7年蜕变，后来居上",
+            "features": {
+                "keywords": [
+                    "光谷生物城",
+                    "7年",
+                    "蜕变",
+                    "后来居上"
+                ],
+                "sentiment_score": 0.75,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "生物科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 5,
+                "Impact": 4,
+                "Duration": 9,
+                "Entity_Density": 6,
+                "Market_Scope": 7,
+                "Time_Proximity": 3,
+                "Headline_Structure": 8,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "",
+            "original_text": "中银旗下部分基金率先发布二季报",
+            "features": {
+                "keywords": [
+                    "中银基金",
+                    "二季报",
+                    "率先发布"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "金融",
+                    "基金"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "neutral",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 6,
+                "Entity_Density": 5,
+                "Market_Scope": 5,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 4
+            }
+        }
+    ]
+]

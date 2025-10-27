@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "time": "",
+            "original_text": "腾讯硬核二号，薪酬是马化腾8倍，身家143亿超3575家上市公司利润",
+            "features": {
+                "keywords": [
+                    "腾讯",
+                    "马化腾",
+                    "薪酬",
+                    "身家",
+                    "上市公司利润"
+                ],
+                "sentiment_score": 0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "科技",
+                    "互联网"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": ""
+            },
+            "scores": {
+                "News_content": "腾讯硬核二号，薪酬是马化腾8倍，身家143亿超3575家上市公司利润",
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 5,
+                "Entity_Density": 8,
+                "Market_Scope": 3,
+                "Time_Proximity": 7,
+                "Headline_Structure": 9,
+                "Source_Recency": 8
+            }
+        },
+        {
+            "time": "",
+            "original_text": "交通运输：联邦误递事件被立案调查 中国各地自贸区发展加速 其他违规处罚",
+            "features": {
+                "keywords": [
+                    "交通运输",
+                    "联邦误递",
+                    "立案调查",
+                    "自贸区",
+                    "发展加速",
+                    "违规处罚"
+                ],
+                "sentiment_score": -0.4,
+                "policy_related": "true",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "交通运输",
+                    "物流"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "交通运输：联邦误递事件被立案调查 中国各地自贸区发展加速 其他违规处罚",
+                "Correlation": 5,
+                "Sentiment": 4,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 6,
+                "Entity_Density": 4,
+                "Market_Scope": 7,
+                "Time_Proximity": 6,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]

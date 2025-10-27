@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "time": "2019-01-01",
+            "original_text": "许家印认输！贾跃亭又笑到了最后！",
+            "features": {
+                "keywords": [
+                    "许家印",
+                    "认输",
+                    "贾跃亭"
+                ],
+                "sentiment_score": -0.6,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "汽车",
+                    "科技"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "News_content": "许家印认输！贾跃亭又笑到了最后！",
+                "Correlation": 6,
+                "Sentiment": 7,
+                "Importance": 6,
+                "Impact": 5,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 3,
+                "Time_Proximity": 3,
+                "Headline_Structure": 9,
+                "Source_Recency": 2
+            }
+        },
+        {
+            "time": "2019-01-01",
+            "original_text": "2019年炒股的第一课，从今天开始",
+            "features": {
+                "keywords": [
+                    "2019年",
+                    "炒股",
+                    "第一课"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "false",
+                "investment_strategy": "true",
+                "sector_focus": [],
+                "causal_factor": "false",
+                "causal_impact": "",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "News_content": "2019年炒股的第一课，从今天开始",
+                "Correlation": 4,
+                "Sentiment": 5,
+                "Importance": 5,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 2,
+                "Market_Scope": 6,
+                "Time_Proximity": 5,
+                "Headline_Structure": 6,
+                "Source_Recency": 2
+            }
+        }
+    ]
+]

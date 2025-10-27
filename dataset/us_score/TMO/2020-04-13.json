@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "time": "2020-04-01",
+            "original_text": "Ford Teams Up With 3M and Thermo Fisher to Make Health Equipment",
+            "features": {
+                "keywords": [
+                    "Ford",
+                    "3M",
+                    "Thermo Fisher",
+                    "health equipment",
+                    "partnership"
+                ],
+                "sentiment_score": 0.9,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "false",
+                "ts_effect_direction": "neutral"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2020-04-01",
+            "original_text": "Ford partners with Thermo Fisher on COVID-19 collection kits, expands production to face masks, gowns",
+            "features": {
+                "keywords": [
+                    "Ford",
+                    "Thermo Fisher",
+                    "COVID-19",
+                    "collection kits",
+                    "face masks",
+                    "gowns",
+                    "expands production"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "automotive",
+                    "healthcare"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 8,
+                "Sentiment": 7,
+                "Importance": 8,
+                "Impact": 6,
+                "Duration": 7,
+                "Entity_Density": 9,
+                "Market_Scope": 5,
+                "Time_Proximity": 8,
+                "Headline_Structure": 7,
+                "Source_Recency": 6
+            }
+        }
+    ]
+]

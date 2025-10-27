@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2018-01-01",
+            "original_text": "Box Office: 'Greatest Showman' Holds As 'Proud Mary' Plummets",
+            "features": {
+                "keywords": [
+                    "Greatest Showman",
+                    "Proud Mary",
+                    "Holds",
+                    "Plummets"
+                ],
+                "sentiment_score": -0.3,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "entertainment"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "negative",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "negative"
+            },
+            "scores": {
+                "Correlation": 3,
+                "Sentiment": 4,
+                "Importance": 2,
+                "Impact": 3,
+                "Duration": 2,
+                "Entity_Density": 4,
+                "Market_Scope": 1,
+                "Time_Proximity": 7,
+                "Headline_Structure": 5,
+                "Source_Recency": 6
+            }
+        },
+        {
+            "time": "2018-01-01",
+            "original_text": "[$$] Big Techs Struggle to Spend Tax Cut Windfalls",
+            "features": {
+                "keywords": [
+                    "Big Techs",
+                    "Tax Cut",
+                    "Windfalls",
+                    "Struggle"
+                ],
+                "sentiment_score": 0.5,
+                "policy_related": "true",
+                "investment_strategy": "true",
+                "sector_focus": [
+                    "technology"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 9,
+                "Sentiment": 6,
+                "Importance": 9,
+                "Impact": 8,
+                "Duration": 6,
+                "Entity_Density": 7,
+                "Market_Scope": 9,
+                "Time_Proximity": 9,
+                "Headline_Structure": 7,
+                "Source_Recency": 8
+            }
+        }
+    ]
+]

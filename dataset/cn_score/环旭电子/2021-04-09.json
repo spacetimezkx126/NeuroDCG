@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "time": "2021-04-09",
+            "original_text": "晚间重要公告2021年4月9日星期五",
+            "features": {
+                "keywords": [
+                    "公告",
+                    "宏洲",
+                    "合并营收",
+                    "年增70.95%"
+                ],
+                "sentiment_score": 0.8,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "制造业"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 6,
+                "Sentiment": 5,
+                "Importance": 4,
+                "Impact": 3,
+                "Duration": 4,
+                "Entity_Density": 5,
+                "Market_Scope": 6,
+                "Time_Proximity": 9,
+                "Headline_Structure": 6,
+                "Source_Recency": 7
+            }
+        },
+        {
+            "time": "2021-04-09",
+            "original_text": "环旭电子(601231.SH)3月合并营收38.98亿元同比升9.2%及环比升21.42%",
+            "features": {
+                "keywords": [
+                    "环旭电子",
+                    "合并营收",
+                    "同比升9.2%",
+                    "环比升21.42%"
+                ],
+                "sentiment_score": 0.85,
+                "policy_related": "false",
+                "investment_strategy": "false",
+                "sector_focus": [
+                    "电子制造"
+                ],
+                "causal_factor": "true",
+                "causal_impact": "positive",
+                "affected_by_time_series": "true",
+                "ts_effect_direction": "positive"
+            },
+            "scores": {
+                "Correlation": 10,
+                "Sentiment": 9,
+                "Importance": 8,
+                "Impact": 7,
+                "Duration": 6,
+                "Entity_Density": 10,
+                "Market_Scope": 2,
+                "Time_Proximity": 8,
+                "Headline_Structure": 9,
+                "Source_Recency": 7
+            }
+        }
+    ]
+]
